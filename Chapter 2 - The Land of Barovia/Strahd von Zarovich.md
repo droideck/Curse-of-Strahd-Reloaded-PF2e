@@ -366,7 +366,7 @@ As such, this section provides a structured, methodical approach to developing S
 
 ***Strahd's Allies.*** For reasons of both balance and narrative, it is important that Strahd faces the final fight alone.
 
-***Strahd's Tactics.*** Strahd's original statblock is exceptionally fragile, allowing players to destroy him *without* the Sunsword as early as level 6. His ***phasing*** lair action, however, turns the original final battle into a torturous slog, ensuring that the players cannot win unless the Dungeon Master allows it or makes a mistake.
+***Strahd's Tactics.*** Strahd's original statblock is exceptionally fragile, allowing players to destroy him *without* the Sunsword as early as level 6. His ***phasing*** lair action, however, turns the original final battle into a torturous slog, ensuring that the players cannot win unless the Game Master allows it or makes a mistake.
 
 Many substitute statblocks have been proposed, increasing Strahd's Challenge Rating beyond his original difficulty. However, these strengthened statblocks fail for two simple reasons: 
 

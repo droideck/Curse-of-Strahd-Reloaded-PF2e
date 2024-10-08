@@ -221,10 +221,10 @@ The road here hides a spiked pit trap (<span class="citation">Dungeon Master's G
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
 > [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of four 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three. 
-> * ***Four Players.*** Reduce the number of vine blights to four. 
+> * ***Five Players.*** Reduce the number of vine blights to four. 
 > * ***Six Players.*** Increase the number of vine blights to six. 
 ## J2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
@@ -476,10 +476,10 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
 > [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 1 ally (Ireena Kolyana), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, and one CR 1 ally (Ireena Kolyana), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of needle blights to four.
-> * ***Four Players.*** Reduce the number of needle blights to six.
+> * ***Five Players.*** Reduce the number of needle blights to six.
 > * ***Six Players.*** Increase the number of needle blights to ten.
 
 > [!info]+ **Alerting the Druids**
@@ -578,10 +578,10 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 > [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
-> * ***Four Players.*** Reduce the number of elder twig blights to one.
+> * ***Five Players.*** Reduce the number of elder twig blights to one.
 > * ***Six Players.*** Increase the number of swarms of twig blights to three.
 
 Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
@@ -759,10 +759,10 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
 > [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 46% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bloody** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 46% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three.
-> * ***Four Players.*** Reduce the number of vine blights to four.
+> * ***Five Players.*** Reduce the number of vine blights to four.
 > * ***Six Players.*** Increase the number of vine blights to six. Increase the number of twig blights to six.
 
 The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
@@ -784,10 +784,10 @@ When the players first reach the second floor, they can hear the sound of clatte
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
 > [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to one.
-> * ***Four Players.*** Reduce the number of vine blights to two.
+> * ***Five Players.*** Reduce the number of vine blights to two.
 > * ***Six Players.*** Increase the number of vine blights to four.
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
@@ -826,10 +826,10 @@ If the players speak with him, Lorghoth is glad to share the following informati
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
 > [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 61% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bloody** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 61% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
-> * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Five Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 > * ***Six Players.*** Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 
 On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
@@ -1110,10 +1110,10 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Four Players.*** Reduce the number of berserkers to one.
+> * ***Five Players.*** Reduce the number of berserkers to one.
 > * ***Six Players.*** Increase the number of berserkers to three.
 
 A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
@@ -1307,10 +1307,10 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 </div>
 
 > [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of four 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Decrease Ludmilla’s HP to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
-> * ***Four Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
+> * ***Five Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
 > * ***Six Players.*** Increase Ludmilla’s HP to 136. 
 
 In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.

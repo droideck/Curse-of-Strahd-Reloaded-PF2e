@@ -29,7 +29,7 @@ In contrast to the original *Curse of Strahd* module, this guide offers a single
 
 In general, ***Lost in the Mists*** may be viewed as a "pure" version of *Curse of Strahd*, focusing its narrative on the isolation and alienation of Barovia. By contrast, ***Barovian Relics*** is best used by Dungeon Masters who are passionate about Barovia's gothic atmosphere and environment, but whose players require a personal connection to the campaign to be emotionally invested.
 
-See ***Arc A. Escape From Death House*** and **A1. Daggerford** for more information about how to run these hooks. If you choose to run ***Barovian Relics*** for one or more of your players, have each of those players choose a motivation from the ***Motivations*** section in **Chapter 1: Into the Mists** before beginning the campaign.
+See ***Arc A. Escape From Death House*** and **A1. Otari** for more information about how to run these hooks. If you choose to run ***Barovian Relics*** for one or more of your players, have each of those players choose a motivation from the ***Motivations*** section in **Chapter 1: Into the Mists** before beginning the campaign.
 # Strahd’s Spies
 One or more of Strahd's spies check in on the players once each day and once each night, as described in **Strahd's Spies** (p. 29). However, the nature of Strahd’s spies may vary with the players’ location and the time of day. Use the following table when planning an encounter with a spy:
 
