@@ -183,6 +183,21 @@ The dominant faith in Barovia worships the deity known as the Morninglord, a god
 
 With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morninglord’s grace, as described in <span class="citation">N1. St. Andral’s Church (p. 97)</span> but even he has his quiet doubts about how far that protection can go.
 
+> [!lore]+ **Pathfinder 2e Option** 
+> **Edicts:** bring hope to the hopeless, protect the innocent from darkness, greet each day with renewed purpose, spread light in dark places  
+> **Anathema:** extinguish sources of light or hope, aid the undead or other creatures of darkness, give in to despair  
+> **Areas of Concern:** dawn, renewal, hope  
+> 
+> ### Devotee Benefits 
+> **Divine Ability:** Charisma or Wisdom  
+> **Divine Font:** heal  
+> **Divine Skill:** Diplomacy  
+> **Favored Weapon:** mace  
+> **Domains:** confidence, healing, protection, sun  
+> **Alternate Domains:** family, vigil  
+> **Cleric Spells:** 1st: *bless*, 3rd: *searing light*, 5th: *dawn*
+
+
 > [!lore]+ **The Names of the Gods**
 >
 > In *Forgotten Realms* lore, "Morninglord" is the epithet of Lathander, the greater god of dawn and renewal. However, no canonical deity has the epithet "Mother Night," leaving her true name a mystery.
@@ -191,6 +206,21 @@ With Strahd newly awoken, however, a wave of despair has swept across the valley
 
 ## The Coven of Mother Night
 Though most Barovians worship the Morninglord in public, a precious few scorn his faith and instead turn their worship to Mother Night, seeking safety, power, or simple vengeance. Witches and werewolves comprise the bulk of Mother Night’s followers, though some ordinary Barovians build secret shrines to her, joining in profane fellowship with the creatures of night.
+
+
+> [!lore]+ **Mother Night - Pathfinder 2e Deity**  
+> **Edicts:** embrace the darkness, keep secrets, nurture nocturnal creatures, practice divination 
+> **Anathema:** reveal hidden truths unnecessarily, harm lycanthropes without cause, bring light to places of darkness, betray the coven 
+> **Areas of Concern:** night, witchcraft, foresight, lycanthropy
+> 
+> ### Devotee Benefits
+> **Divine Ability:** Wisdom or Charisma
+> **Divine Font:** harm 
+> **Divine Skill:** Occultism 
+> **Favored Weapon:** sickle 
+> **Domains:** darkness, fate, magic, secrecy 
+> **Alternate Domains:** moon, trickery 
+> **Cleric Spells:** 1st: *[Lose the Path](https://2e.aonprd.com/Spells.aspx?ID=940)*, 3rd: *[Clairaudience](https://2e.aonprd.com/Spells.aspx?ID=1465)*, 5th: *[Shadow Blast](https://2e.aonprd.com/Spells.aspx?ID=1666)*
 ## The Cult of Ezra
 Some Barovians are neither wholly satisfied with the faith of the Morninglord nor depraved enough to seek the blessings of Mother Night. In their eyes, the Morninglord is a powerless or craven deity, unable to save his own worshippers or even raise a single sunrise, while Mother Night is a cruel and savage being, too dangerous to acknowledge or worship.
 
@@ -201,6 +231,20 @@ In Barovia, the followers of Ezra preach that power is an illusion, and sufferin
 Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra, as are her followers. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
 
 Few, however, suspect the horrible truth: that “Ezra” does not, and has never existed—and that her soothing voice is merely a simulacrum conjured by the twisted whispers of the Dark Powers themselves.
+
+> [!lore]+ **Pathfinder 2e Option** 
+> **Edicts:** embrace the present moment, find strength in adversity, comfort the suffering, navigate the mists of uncertainty
+> **Anathema:** cling to false hope, succumb to despair, harm those seeking solace 
+> **Areas of Concern:** mists, endurance, illusion
+> 
+> ### Devotee Benefits
+> **Divine Ability:** Wisdom or Charisma 
+> **Divine Font:** harm 
+> **Divine Skill:** Deception 
+> **Favored Weapon:** dagger 
+> **Domains:** air, confidence, delirium, secrecy 
+> **Alternate Domains:** fate, sorrow 
+> **Cleric Spells:** 1st: *illusory disguise*, 3rd: *wall of wind*, 5th: *hallucination*
 ## The Faith of the Ladies Three
 In Soldav, the hidden bastion of the Mountain Folk, the people still keep to the old faith of the Ladies of the Fanes: the Weaver, the Seeker, and the Huntress. They do their best to honor their goddesses with offerings of food, flowers, and song, but mourn the loss of knowledge and tradition that came when the druids betrayed their faith for Strahd’s protection. They no longer remember the sacred rites that once bound their ancestors to the Ladies’ fellowship, nor do they remember the secrets of the Ladies’ blessings.
 
@@ -209,6 +253,52 @@ The Mountain Folk still remember, though, that the Weaver’s holy place was the
 They remember that the Seeker was a goddess of foresight, prophecy, and storms, her sigil a raven’s eye, ever-searching. They remember that the Weaver was a goddess of resilience, craftsmanship, and care, her sigil a spider’s delicate web. They remember, too, that the Huntress was a goddess of beasts, wild places, and war, her sigil a sharpened wolf’s tooth.
 
 Together, this trinity oversaw each life that was born in the valley: the Seeker, forging the threads of fate that would bind them together; the Weaver, spinning those threads into a lush and vibrant tapestry; and the Huntress, cutting each thread at its appointed time, and ushering its soul into death.
+
+> [!lore]+ **Pathfinder 2e Option**s 
+> ## The Weaver
+> 
+> **Edicts:** Create and maintain intricate works, nurture and protect communities, persevere through hardship, honor the interconnectedness of all things 
+> **Anathema:** Destroy works of craftsmanship needlessly, abandon those in your care, give up in the face of adversity, sever bonds between people or communities 
+> **Areas of Concern:** Resilience, craftsmanship, care
+> 
+> ### Devotee Benefits
+> **Divine Ability:** Fortitude or Wisdom 
+> **Divine Font:** Heal 
+> **Divine Skill:** Crafting 
+> **Favored Weapon:** Staff 
+> **Domains:** Creation, Duty, Family, Protection 
+> **Alternate Domains:** Toil, Vigil 
+> **Cleric Spells:** 1st: *mending*, 3rd: *wall of thorns*, 5th: *wall of stone*
+> 
+> ## The Huntress
+> **Edicts:** protect wild places, honor the natural cycle of life and death, hone your hunting and combat skills, respect the spirits of slain prey 
+> **Anathema:** needlessly destroy natural habitats, waste resources from a hunt, show cowardice in battle, disturb burial grounds 
+> **Areas of Concern:** wilderness, beasts, warfare, death
+> 
+> ### Devotee Benefits
+> **Divine Ability:** Strength or Wisdom 
+> **Divine Font:** harm 
+> **Divine Skill:** Survival 
+> **Favored Weapon:** spear 
+> **Domains:** death, might, nature, zeal 
+> **Alternate Domains:** moon, swarm 
+> **Cleric Spells:** 1st: *pass without trace*, 3rd: *animal form*, 5th: *moon frenzy*
+> 
+> ## The Seeker
+> **Edicts:** seek knowledge of the future, interpret omens and signs, weather life's storms with resilience, guide others through uncertainty 
+> **Anathema:** ignore prophetic visions, hide important information from those who seek it, harm ravens or other prophetic creatures, disrupt the natural flow of fate 
+> **Areas of Concern:** divination, meteorology, destiny
+> 
+> ### Devotee Benefits
+> **Divine Ability:** Intelligence or Wisdom 
+> **Divine Font:** heal 
+> **Divine Skill:** Occultism 
+> **Favored Weapon:** starknife 
+> **Domains:** fate, knowledge, lightning, time 
+> **Alternate Domains:** air, dreams 
+> **Cleric Spells:** 1st: *true strike*, 3rd: *lightning bolt*, 5th: *prying eye*
+
+
 # Design Notes: Lore of Barovia
 
 ***Metaphysics & Magic.*** The original Curse of Strahd module makes clear that the Dark Powers and the vestiges of the Amber Temple are separate entities, and that the evil of the latter gave birth to the former. This guide has intentionally preserved this distinction, aiming to retain the Gothic mystery of Barovia's existence without explaining it to the players outright.

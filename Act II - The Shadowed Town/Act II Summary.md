@@ -9,21 +9,39 @@ Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine
 Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
 
 # Milestones
-The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
+The players begin this act at 4th level and end it at 6th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
-* restore the bones of St. Andral (1,250 XP)
-* find the missing Arabelle (1,250 XP)
-* defeat Izek Strazni (1,500 XP)
-* obtain the *Tome of Strahd* (750 XP)
-* restore the soul of Stella Wachter (1,750 XP)
-* gain entry to the gates of Krezk (750 XP)
+* restore the bones of St. Andral (350 XP)
+* find the missing Arabelle (350 XP)
+* defeat Izek Strazni (500 XP)
+* obtain the *Tome of Strahd* (500 XP)
+* restore the soul of Stella Wachter
+* gain entry to the gates of Krezk
 
-> [!info]+ **Vallakian Merchants**
-> While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
+
+> [!info]+ **Vallakian Stat block**
+> ## Vallaki - Settlement 5
+> Traits - Town, Isolated, Cursed
 > 
-> In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
+> A walled settlement desperately clinging to false hope through mandatory festivals, situated near Lake Zarovich and protected from Castle Ravenloft's direct gaze.
 > 
-> When purchasing items from the players, Vallakian merchants will pay the item's full value for magic items and treasure, but half of the item's value for all other goods (e.g., weapons or armor). Merchants also have limited funds. A store cannot provide more than 50 gold pieces for a single item, but may provide store credit for its remaining value.
+> **Government** Burgomaster Vargas Vallakovich (autocracy)
+> **Population** 1,547 (99% humans, 1% other)
+> **Languages** Barovian
+> **Religions** Morninglord, Ezra
+> **Threats** Vampire spawn, wolves, political unrest
+> 
+> **Commerce** Common items up to 5th level available at Arasek Stockyard. Other town stores stock items of 4th level or lower. Merchants cannot pay more than 100 gp for a single item but may offer store credit for remaining value.
+> 
+> **Malicious Unhappiness** The Baron mandates weekly festivals under threat of imprisonment. Anyone speaking against these celebrations or appearing unhappy risks being labeled a traitor.
+> 
+> **Notable Figures**
+> • **Baron Vargas Vallakovich** (male human noble), oppressive burgomaster obsessed with enforcing happiness
+> • **Lady Fiona Wachter** (female human aristocrat), cunning noblewoman who seeks to overthrow the Baron through manipulation and subterfuge
+> • **Izek Strazni** (male human), the baron's brutal enforcer with a fiendish arm
+> • **Father Lucian Petrovich** (male human priest), leader of St. Andral's Church
+> • **The Martikov Family** Urwin and Danika run the Blue Water Inn, helping those they can
+
 # Timeline
 Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
 ## Neyavr 2
@@ -159,13 +177,13 @@ The players and Szoldar travel west to Lake Baratok, where they uncover Rictavio
 
 That afternoon, the players return to St. Andral's Church in [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
 ### Neyavr 5
-The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with cackle fever.
+The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with Abyssal Plague.
 
-That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their cackle fever.
+That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their Abyssal Plague.
 ### Neyavr 6
 The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
+The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their Abyssal Plague in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
 ### Neyavr 7
 The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Arc G - The Strazni Siblings]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
 

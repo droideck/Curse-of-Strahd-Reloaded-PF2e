@@ -8,15 +8,15 @@ As the players travel to Madam Eva's camp and the nearby town of Vallaki, they e
 
 Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
 # Milestones
-The players begin this act at 2nd level and should end it at 4th level, gaining milestone XP when they successfully do any of the following:
+The players begin this act at 1st level and should end it at 4th level, gaining milestone XP when they successfully do any of the following:
 
-* discover the secret staircase in Death House (200 XP)
-* successfully escape Death House (400 XP)
-* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (400 XP)
-* reconcile Doru with his father (100 XP)
+* discover the secret staircase in Death House (1000 XP)
+* successfully escape Death House (1000 XP)
+* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (500 XP)
+* reconcile Doru with his father
 * receive the Tarokka reading from Madam Eva (500 XP)
-* escort Ireena to Vallaki (250 XP)
-* find lodging in Vallaki (1,000 XP)
+* find lodging in Vallaki (300 XP)
+* escort Ireena to Vallaki
 # Timeline
 * [[Arc A - Escape From Death House]]: The players enter Death House, defeat the Flesh Mound, and emerge into the Svalich Woods on Octyavr 27, 735 B.C. (Barovian Calendar).
 * [[Act I - Into the Mists/Arc B - Welcome to Barovia]]: The players arrive in the village of Barovia and meet Ismark and Ireena on Octyavr 28.

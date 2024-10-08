@@ -1,4 +1,4 @@
-_An adventure for five 6th-level characters._
+_An adventure for four 7th-level characters._
 
 In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 
@@ -13,7 +13,7 @@ The players can locate the werewolves’ den in one of two ways:
 
 In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
 
-* First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of major image* (in case they need a distraction), a *spell scroll of remove curse* (in case any of them is bitten), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
+* First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of [Shared Invisibility](https://2e.aonprd.com/Spells.aspx?ID=2025)* (in case they need to sneak past someone), a *spell scroll of [Cleanse Affliction (4th rank)](https://2e.aonprd.com/Spells.aspx?ID=1467)* (in case any of them are cursed with something bad), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
 * Second, she and the players will set up camp in the hollow and wait until nightfall for the werewolf pack to exit the den to hunt.
 * Third, once the werewolf pack has left the den, she and the players will infiltrate the werewolf den to rescue Ilya from his captivity.
 
@@ -24,7 +24,7 @@ If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some sup
 
 When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
 
-Each player with a passive Wisdom (Perception) score of 12 or higher then notices the faint sound of music emanating from the far side of the tower. A player can also make a DC 14 Wisdom (Survival) check to identify a set of recent humanoid footprints leading from the wagon toward the source of the music—left no longer than an hour ago.
+Each player who succeeds on a DC 23 Perception check notices the faint sound of music emanating from the far side of the tower. A player can also make a DC 23 Survival check to identify a set of recent humanoid footprints leading from the wagon toward the source of the music—left no longer than an hour ago.
 
 As the players approach the source of the music, they can hear the following three stanzas of a haunting lament.
 
@@ -84,34 +84,34 @@ Whether the players interrupt her or allow her to finish, Bianca greets them wit
 > [!profile]+ **Profile: Bianca Stoyanovich**
 > **Roleplaying Information**
 > ***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
-> 
+>
 > ***Emotions.*** Bianca most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
-> 
+>
 > ***Motivations.*** Bianca wants to keep Kiril safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
-> 
+>
 > ***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
-> 
+>
 > **Character Information**
 > ***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring Kiril back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
-> 
+>
 > ***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
-> 
+>
 > ***Relationships.*** Bianca is Kiril's mate and wife, and the disinherited daughter of a noble family outside of Barovia.
 
 If the players identify themselves or Ezmerelda as the owner of the wagon, Bianca apologizes profusely for stealing from it. "I didn't mean to be a thief," she says, looking abashed. "I was just curious."
 
 Bianca can share the following information if asked:
 
-* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 14 Wisdom (Insight) check indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it. 
+* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 23 Perception check to Sense Motive indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it.
 * She saw Ezmerelda’s wagon and was curious about its contents. Rather than open the door, she investigated further and found the trapdoor on its bottom, which she used to enter and explore its interior.
-* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 14 Wisdom (Insight) check reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
+* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 25 Perception check to Sense Motive reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
 * The song she was singing is titled “The Lunatic’s Lament," and is about a woman who falls in love with the moon and chases it off a cliff, ultimately falling to her death. After pausing for a moment, she adds, softly: "Have you ever fallen in love with someone, and wondered if you made a mistake?"
 
 If the players ask about Bianca's husband, she is willing to share the following information:
 
 * Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents' wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
 * While "the vampire" slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been "haunted—not by any ghost, but by his own rage." (If the players ask what Kiril is enraged by, Bianca states simply and soberly: "A lack of power. An absence of control.")
-* Bianca is horrified if any of the players suggest—even implicitly—that Kiril might have harmed her, vowing that he "would *never* harm a hair on her head." She confesses, however, that he seems to be "trapped in a whirlwind of self-destruction, lashing out at himself and others." 
+* Bianca is horrified if any of the players suggest—even implicitly—that Kiril might have harmed her, vowing that he "would *never* harm a hair on her head." She confesses, however, that he seems to be "trapped in a whirlwind of self-destruction, lashing out at himself and others."
 * "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
 
 If the players express an interest in doing so, Bianca requests their counsel, asking what they would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice they might lend, and thanks them sincerely for doing so. (Bianca isn't willing to lead the players to meet Kiril, but assures them that she'll seek them out if she's unable to quell his anger on her own.)
@@ -121,18 +121,18 @@ Bianca is happy to relinquish the perfume and scrolls, but asks, in a heartfelt 
 Whether the players allow her to keep the lyre or not, Bianca bids them farewell and departs for the northern path away from the lake, vanishing into the trees shortly thereafter.
 
 > [!abstract]+ **Bianca's Secret**
-> If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 15 Charisma (Intimidation) check, provided the players provide sufficient assurances of her safety if she does. 
-> 
+> If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 25 Intimidation check to Coerce, provided the players provide sufficient assurances of her safety if she does.
+>
 > If the players attack Bianca, she pleads for their mercy and honestly assures them that she means them no harm. If refused, she attempts to flee, first in her humanoid form, then in her **wolf** form as soon as she reaches the tree line.
-> 
-> Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 20 Charisma (Intimidation) check:
+>
+> Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 28 Intimidation check:
 > * The pack is led by Kiril, her husband and a powerful werewolf, who seized power when the old leader stepped down.
 > * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
 > * When the pack leaves to hunt, Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
-> * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.) 
+> * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.)
 > * Whilst all other werewolves will be on the hunt, about half a dozen wolves still remain at the den.
-> 
-> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
+>
+> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 28 Diplomacy check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 25 Diplomacy check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
 
 > [!lore]+ **Bianca’s Fall**
 > Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
@@ -179,9 +179,9 @@ Upon descending into the hollow, Ezmerelda asks the players to gather firewood a
 The campfire produces no smoke, and its light does not extend beyond the edges of the hollow. If asked her reason for making it, Ezmerelda reminds the players that werewolves can see in the dark. “Should we be unlucky enough for them to find us," she notes, grinning, “we’ll want to nullify every advantage they can get." (While Ezmerelda can cast the *darkvision* spell, she prefers to avoid spending spell slots without cause, especially if she might need them to fight werewolves and especially when accompanied by others.)
 
 > [!item]+ **Furtive Firestarter**
-> *Wondrous item, uncommon*
+> *Uncommon, Light*
 >
-> This finely crafted set of flint and steel bears small runes etched along the sides of both pieces. When the set is used to ignite a combustible material, the resulting flame sheds bright light in a 10-foot radius, sheds no dim light, and produces no smoke. While within thirty feet of a flame created in this way, the user can speak a command word to instantly extinguish the flame.
+> This finely crafted set of flint and steel bears small runes etched along the sides of both pieces. When the set is used to ignite a combustible material, the resulting flame sheds bright light in a 10-foot radius, sheds no dim light, and produces no smoke. While within thirty feet of a flame created in this way, the user can speak a command word to instantly extinguish the flame with one action (concentrate).
 
 Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
@@ -224,11 +224,11 @@ One hour after nightfall, the majority of the werewolf pack departs the den. Rea
 
 > [!lore]+ **Members of the Pack**
 > At the time the players first arrive at the werewolf den, the pack contains the following werewolves:
-> 
+>
 > * Kiril Stoyanovich, the pack leader, and his wife, Bianca Stoyanovich
 > * Six long-time members of the pack formerly loyal to Emil Toranescu, who now follow Kiril out of fear of him and Strahd
 > * Four werewolves infected by Kiril within the past ten weeks, who follow Kiril slavishly and who embraced the curse through cannibalizing innocent humans as he did.
-> 
+>
 > When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
 
 As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
@@ -237,7 +237,7 @@ As the players approach, the exterior of the den is largely as described in <spa
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
 </div>
 
-A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
+A successful DC 20 Medicine check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
 
 > [!info]+ **Interior Lighting**
 > No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
@@ -256,14 +256,17 @@ Azianka and Davanka are bored, inattentive, and irritated at not being allowed t
 
 Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
 
-If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
+If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **[Wolves scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** from [[#L4d. Deep Caves]], which arrive after 1 round.
 
 The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
 
-Replace the wolves' ***bite*** attack with the following action options:
+ **[Wolves scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** get the following attack:
 
-* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
-* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
+- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
+  Wolf makes a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of wolf's current turn, and wolf can move it 5 feet toward it. When wolf moves the creature, it can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
+
+  This Strike has the following failure effect.
+  **Failure** The target becomes off-guard until the end of your current turn.
 
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
@@ -289,7 +292,7 @@ This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203
 <p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
 </div>
 
-The wolf is Skennis, an old, blind **werewolf** with 36 hit points in wolf form. No other **wolves** are in this cave.
+The wolf is Skennis, an old, blind **werewolf** with 50 hit points in wolf form. No other **wolves** are in this cave.
 
 > [!lore]+ **Skennis**
 > Skennis was the leader of the werewolf pack until Emil succeeded him five years ago. Skennis’s health has deteriorated in his old age, however, claiming his sight and much of his mobility. Unable to hunt, Skennis relied on the rest of the pack for food—until Kiril claimed power three months ago.
@@ -302,15 +305,15 @@ If a player approaches or inspects the wolf, read:
 <p>The wolf's breaths are shallow and slow, sending small puffs of steam into the chilly air. Its dull, grey fur is matted and dirty, and its ribs are visible beneath its thin hide.<p>
 </div>
 
-Skennis is not asleep, only dozing. The players must succeed on a group DC 14 Dexterity (Stealth) check to pass without alerting him. If the group check fails, read:
+Skennis is not asleep, only dozing. The players must succeed on a group DC 21 Stealth check to Sneak without alerting him. If the group check fails, read:
 
 <div class="description">
 <p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
 </div>
 
-The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
+The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 24 Stealth check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Stealth check made to avoid their notice to 21.)
 
 If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
 
@@ -322,62 +325,129 @@ This area is largely as described in <span class="citation">Z5. Deep Caves (p. 2
 
 Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
+To sneak through this area without disturbing the wolves, the players must succeed on a DC 25 Stealth check to Sneak, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
 <div class="statblock">
-<h2>Werewolf Brawler</h2>
-<em>Medium Humanoid, Chaotic Evil</em>
+<h2>Werewolf - Creature 5</h2>
+<em>Medium humanoid, beast, human, werecreature</em>
 <hr>
-<strong>Armor Class</strong> 14 in humanoid form, 15 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 142 (20d8 + 60)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet<br>
+<strong>Languages</strong> Common, Wolf Empathy<br>
+<strong>Skills</strong> Athletics +12, Acrobatics +10, Stealth +10<br>
+<strong>Str</strong> +5, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +2
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>17 (+3)</td>
-      <td>13 (+1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>11 (+0)</td>
-      <td>12 (+1)</td>
-    </tr>
-  </tbody>
-</table>
+<strong>AC</strong> 20<br>
+<strong>HP</strong> 101; regeneration 15 (deactivated by silver or void)<br>
+<strong>Weaknesses</strong> silver 7<br>
+<strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10
 <hr>
-<strong>Saving Throws</strong> Str +6, Con +6<br>
-<strong>Skills</strong> Athletics +6, Intimidation +4, Perception +6, Stealth +4<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<h3>Melee Attacks</h3>
+<p><strong>Battle Axe</strong> ◆ +13 [sweep], <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Claw</strong> ◆ +13 [agile], <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Jaws</strong> ◆ +13, <strong>Damage</strong> 2d8+9 piercing plus Curse of the Werewolf</p>
+<h3>Ranged Attacks</h3>
+<p><strong>Composite Shortbow</strong> ◆ +11 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d4+5 piercing</p>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Brute.</em></strong> A melee weapon deals one extra die of its damage when the werewolf hits with it (included in the attack).</p>
-<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Constitution modifier.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks with its spear (humanoid form) or one attack with its bite and two attacks with its claws (wolf or hybrid form). It can replace one claws attack with a lob.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be grappled.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<p><strong><em>Lob.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Strength saving throw. On a failure, the creature is thrown 10 feet and falls prone. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
+<h3>Active Abilities</h3>
+<p><strong>Change Shape</strong> ◆ (concentrate, polymorph, primal)<br>
+The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.<br>
+In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.<br>
+In animal shape, its Speed increases to 40 feet, it gains the knockdown effect on its jaws Strike, and it loses its weapon Strikes.</p>
+<p><strong>Reactive Strike</strong> ↻ <br>
+When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, the werewolf can make a melee Strike against that creature.</p>
+<p><strong>Maul</strong> ◆ (press)<br>
+The werewolf aims to snag a foe's armor, clothing, or flesh to pull them closer. He makes a melee Strike, and if he hits a target that is his size or smaller, that creature is Off-Guard until the end of his current turn, and he can move it 5 feet toward him. When he moves the creature, he can move the same distance in the same direction as it, even if he's adjacent to the target. This movement doesn't trigger reactions.<br>
+<strong>Failure</strong> The target becomes off-guard until the end of the werewolf's current turn.</p>
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Pack Attack</strong><br>
+The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
+<p><strong>Wolf Empathy</strong><br>
+The werewolf can communicate with canine creatures. The werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind.</p>
+<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
+This curse affects only humanoids.<br>
+<strong>Saving Throw</strong> DC 19 Fortitude<br>
+On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
+When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.<br>
+When the moon sets or the sun rises, the werecreature returns to humanoid form and is Fatigued for 2d4 hours.</p>
+<hr>
+<h3>Equipment</h3>
+<ul>
+<li>Battle Axe</li>
+<li>Composite Shortbow</li>
+<li>Arrows (20)</li>
+<li>Studded Leather Armor</li>
+</ul>
+</div>
+
+<div class="statblock">
+<h2>Werewolf-Brawler - Creature 7</h2>
+<em>Medium humanoid, beast, human, werecreature, mythic</em>
+<hr>
+<strong>Perception</strong> +15; darkvision, scent (imprecise) 30 feet<br>
+<strong>Languages</strong> Common, Wolf Empathy<br>
+<strong>Skills</strong> Athletics +16, Acrobatics +14, Stealth +14<br>
+<strong>Str</strong> +6, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +2
+<hr>
+<strong>AC</strong> 23<br>
+<strong>HP</strong> 146; regeneration 15 (deactivated by silver or void)<br>
+<strong>Immunities</strong> none<br>
+<strong>Weaknesses</strong> silver 10<br>
+<strong>Resistances</strong> mythic 3<br>
+<strong>Fortitude</strong> +17, <strong>Reflex</strong> +15, <strong>Will</strong> +13
+<hr>
+<h3>Melee Attacks</h3>
+<p><strong>Battle Axe</strong> ◆ +14 [sweep], <strong>Damage</strong> 2d10+11 slashing</p>
+<p><strong>Claw</strong> ◆ +14 [agile], <strong>Damage</strong> 2d10+11 slashing</p>
+<p><strong>Jaws</strong> ◆ +14, <strong>Damage</strong> 2d10+11 piercing plus Curse of the Werewolf</p>
+<h3>Ranged Attacks</h3>
+<p><strong>Composite Shortbow</strong> ◆ +12 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d6+6 piercing</p>
+<hr>
+<h3>Active Abilities</h3>
+<p><strong>Change Shape</strong> ◆ (concentrate, polymorph, primal)<br>
+The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.<br>
+In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.<br>
+In animal shape, its Speed increases to 40 feet, it gains the knockdown effect on its jaws Strike, and it loses its weapon Strikes.</p>
+<p><strong>Reactive Strike</strong> ↻ <br>
+When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, the werewolf can make a melee Strike against that creature.</p>
+<p><strong>Crushing Grip</strong> ◆ <br>
+The werewolf forces a creature it's grappling to succeed on a DC 25 Fortitude save. The creature takes 2d10+9 bludgeoning damage on a failure, and half as much damage on a success. A creature that critically fails the saving throw is also Stunned 1 until the end of its next turn.</p>
+<p><strong>Lob</strong> ◆◆ (frequency: once per round)<br>
+<strong>Requirements</strong> The werewolf has a creature Grabbed<br>
+<strong>Effect</strong> The werewolf attempts to throw the creature he's holding. The werewolf attempts an Athletics check against the grabbed creature's Fortitude DC.<br>
+<strong>Critical Success</strong> The werewolf tosses his foe. The grab ends. The grabbed creature is thrown into a space within 10 feet, takes 2d8 bludgeoning damage, and falls Prone.<br>
+<strong>Success</strong> As critical success, except the grabbed creatures is thrown 5 feet, and creatures take 1d8 bludgeoning damage.<br>
+<strong>Failure</strong> The werewolf drops his foe prone. The grab ends.<br>
+<strong>Critical Failure</strong> The werewolf loses hold of his foe. The grab ends.</p>
+<p><strong>(Mythic) Mythic Athletics</strong> ◇<br>
+<strong>Cost</strong> 1 Mythic Point<br>
+<strong>Effect</strong> The creature attempts its next skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Pack Attack</strong><br>
+The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
+<p><strong>Wolf Empathy</strong><br>
+The werewolf can communicate with canine creatures. The werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind.</p>
+<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
+This curse affects only humanoids.<br>
+<strong>Saving Throw</strong> DC 20 Fortitude<br>
+On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
+When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.<br>
+When the moon sets or the sun rises, the werecreature returns to humanoid form and is Fatigued for 2d4 hours.</p>
+<p><strong>(Mythic) Mythic Resilience - Fort</strong><br>
+The creature treats its Fortitude saves as one degree of success better than rolled. This is not cumulative with other effects that change degree of success, except for rolling a natural 1 or 20.</p>
+<p><strong>(Mythic) Mythic Resistance</strong><br>
+The creature gains resistance to all Strikes made by non-mythic creatures equal to half its level. Mythic weapons bypass this resistance even if the creature wielding them is not mythic.</p>
+<hr>
+<h3>Equipment</h3>
+<ul>
+<li>Battle Axe</li>
+<li>Composite Shortbow</li>
+<li>Arrows (20)</li>
+<li>Studded Leather Armor</li>
+</ul>
 </div>
 
 > [!info]+ **Where Wolves?**
@@ -393,7 +463,28 @@ This area is largely as described in <span class="citation">Z7. Shrine of Mother
 <p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
 </div>
 
-The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a thirteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
+> [!lore]+ **Mother Night - Pathfinder 2e Deity**
+> **Edicts:** embrace the darkness, keep secrets, nurture nocturnal creatures, practice divination
+> **Anathema:** reveal hidden truths unnecessarily, harm lycanthropes without cause, bring light to places of darkness, betray the coven
+> **Areas of Concern:** night, witchcraft, foresight, lycanthropy
+>
+> ### Devotee Benefits
+> **Divine Ability:** Wisdom or Charisma
+> **Divine Font:** harm
+> **Divine Skill:** Occultism
+> **Favored Weapon:** sickle
+> **Domains:** darkness, fate, magic, secrecy
+> **Alternate Domains:** moon, trickery
+> **Cleric Spells:** 1st: *[Lose the Path](https://2e.aonprd.com/Spells.aspx?ID=940)*, 3rd: *[Clairaudience](https://2e.aonprd.com/Spells.aspx?ID=1465)*, 5th: *[Shadow Blast](https://2e.aonprd.com/Spells.aspx?ID=1666)*
+
+The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a fourteen-year-old **werewolf** with 50 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **elite werewolf** priestess of Mother Night (use [Elite Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, but give her werewolf statblock abilities (you can use [Werecreature template](https://2e.aonprd.com/MonsterFamilies.aspx?ID=484)) and change the spells to something thematically appropriate).
+
+For example, something like this:
+<div>
+<h3>Divine Spontaneous Spells</h3> <p><strong>DC</strong> 22, <strong>attack</strong> +14<br> <strong>Cantrips</strong>: detect magic, guidance, shield, stabilize, void warp<br> <strong>1st (4 slots)</strong>: bless, fear, heal, lose the path, spirit link<br> <strong>2nd (4 slots)</strong>: augury, dispel magic, harm, see the unseen, spiritual armament<br> <strong>3rd (3 slots)</strong>: clairaudience, heal, safe passage, spiritual armament</p>
+</div>
+
+Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
 
 Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
 
@@ -415,22 +506,22 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > [!item]+ **Silverthorn Collar**
 > Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with five successful at DC 30 Thievery checks to Pick a Lock (or DC 35 Athletics check to Force Open). However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 28 Reflex Basic saving throw or take 2d10+13 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 24 (2d10+13) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
-> The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
+> If party tries to counteract the magic on collars in any way, they need to deal with DC 28 and 6th Rank. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
 > [!info]+ **Collars and Anti-Magic**
 > A _silverthorn collar_ is affected normally by <span class="citation">Khazan's Spell Drain (p. 167)</span> at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
 
 > [!info]+ **The Chains**
-> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook (p. 151)</span>, with an AC of 19. 
+> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *[Cold Iron Chain (Standard-Grade)](https://2e.aonprd.com/Equipment.aspx?ID=2916) (10 feet)*.
 
 When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
 
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
 * He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
-* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
+* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 21 Perception check to Sense Motive sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
 
@@ -442,7 +533,7 @@ If Ilya is identified as a werewolf, he flinches and heatedly denies it. (As he 
 
 If told that the players have been sent on behalf of Dmitri and Anna Krezkov, Ilya anxiously asks whether his parents and sister are well. He is visibly relieved if told that his family is still alive; however, if told of Kala’s condition, his lower lips trembles and he begins to sob.
 #### What Ilya Knows
- If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
+ If the players treat Ilya with kindness and succeed on a DC 20 Diplomacy check to Make an Impression, they can convince him to share the following information, which he relays with quiet horror and shame:
 
 * Three weeks ago, a woman resembling Zuleika approached him at the Shrine of the White Sun in Krezk. She identified herself as Zuleika Krezkova, his long-absent aunt, and told him that his father was secretly a **werewolf**—and that his curse had passed to Ilya as well. (Zuleika has steadfastly denied doing so, and insists that someone imitated her appearance for their own purposes—a claim that Ilya has come to believe.)
 * “Zuleika" told Ilya that his curse was a mighty weapon against Strahd von Zarovich and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
@@ -458,7 +549,7 @@ If questioned, Zuleika can share the following information:
 * One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
 * Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
 * Five years ago, the pack’s leader—an old **werewolf** named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
-* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
+* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.")
 * Upon his return, Kiril made his bid for power. “He beat Emil within an inch of his life," Zuleika murmurs, “and bade the dire wolves to carry him away to the castle dungeons, to be punished for his disloyalty." When Zuleika attempted to stop him, Kiril defeated her as well, seizing her holy symbol and imprisoning her in her own shrine..
 
 If asked about the collars, or if the players offer or attempt to remove them, Zuleika can share the following information:
@@ -470,45 +561,47 @@ If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or 
 
 * The werewolves call themselves the Children of Mother Night, and have offered her treasures and gifts for many generations. The hoard, however, is cursed: a creature that steals from Mother Night will lose its life in the process.
 * When Strahd first awoke, he sent two **vampire spawn** to inform the pack of his revival. When those spawn attempted to collect some of the pack’s “treasure" as a tax to Strahd, the curse froze them and devoured their life force, rotting their bodies away until they died of necrosis. Emil then ordered their corpses bolted to the wall behind the shrine, as a warning to those who would steal from Mother Night. (“For all his efforts," Zuleika notes smugly, “Kiril has been quite unable to remove them. Even he fears Mother Night’s wrath, as well he should.")
-* Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades. 
+* Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades.
 
 > [!info]+ **The Curse of Mother Night**
-> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item. (A creature that attempts to indirectly retrieve an item, such as by using a tool, a spell, or another creature to do so, is similarly affected. In such a case, the effect doesn’t end until the item is returned to Mother Night’s hoard.)
+> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 35 Will saving throw or be [Unconscious](https://2e.aonprd.com/Conditions.aspx?ID=95) until it releases the item. (A creature that attempts to indirectly retrieve an item, such as by using a tool, a spell, or another creature to do so, is similarly affected. In such a case, the effect doesn’t end until the item is returned to Mother Night’s hoard.)
 >
-> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
-> 
+> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 35 Fortitude Basic saving throw at the end of each turn it remains Unconscious, taking 8d8 void damage.
+>
 > A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
 
-Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
+Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril.
 
 Zuleika warns the players that, should they fail to keep their oath by the moon's first light after the next new moon, their vitality and strength will sap each night that their oath remains unfulfilled. (See **Oath of the New Moon** below for details.)
 
 > [!info]+ **Oath of the New Moon**
 > Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
-> 
-> The next new moon takes place on Neyavr 15th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 16th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
-> 
+>
+> The next new moon takes place on Neyavr 15th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 16th, each player that swore the oath becomes Drained 2, Clumsy 1, Enfeebled 1, Stupefied 1 which can't be reduced while the Oath in the effect. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.)
+>
 > A cleric of Mother Night, including Zuleika, can use their action to release a character from their oath and remove any penalties they've suffered for failing to fulfill it. (Zuleika won't do so unless the players free Emil from Castle Ravenloft.) This action has no effect if the cleric is being manipulated or coerced.
 
 If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ravenkind*, it has been revised as follows:
 
 > [!item]+ **Holy Symbol of Ravenkind**
-> 
-> *Wondrous item, legendary (requires attunement by a creature of good alignment)*
-> 
+>
+> *unique, mythic, divine, artifact, invested, holy*
+>
 > The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
-> 
-> **_Dawn's Embrace._** As a reaction, when a creature you can see within 30 feet of you would be reduced to 0 hit points, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
-> 
-> **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
-> 
-> **_Sun’s Blessing._** As an action, you can expend 2 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.
-> 
-> You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
+>
+> **_Dawn's Embrace._** As a reaction, when you or a creature you can see within 30 feet of you would be reduced to 0 hit points or would die from a [death](https://2e.aonprd.com/Traits.aspx?ID=40) effect, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains temporary Hit Points equal five times your level that last until the start of your next turn.
+>
+> **_Light of Hope._** You can expend 1 charge and cast one of the following: [_cleanse affliction_](https://2e.aonprd.com/Spells.aspx?ID=1467), [_clear mind_](https://2e.aonprd.com/Spells.aspx?ID=1469), [_sound body_](https://2e.aonprd.com/Spells.aspx?ID=1679), or [_sure footing_](https://2e.aonprd.com/Spells.aspx?ID=1708). The spell is heightened to the half of your level rounded up.
+>
+> **_Sun’s Blessing._** As a two-action activity, you can expend 2 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. The attacks of creatures that are neither hostile nor unholy in that radius receive effect of a [holy](https://2e.aonprd.com/Equipment.aspx?ID=2842) rune (it includes thaumaturge's implements, kineticist's impulses, etc.).
+>
+> If you have a divine spellcasting, you can use the holy symbol to cast [Divine Lance](https://2e.aonprd.com/Spells.aspx?ID=1498) with a Holy trait. For that, you should not have an Unholy trait.
+>
+> If you are unholy, you are enfeebled 2 while carrying or wielding this item.
 ### Bianca’s Return
 Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
 
-Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
+Any character who succeeds on a DC 25 Perception check hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 26 Stealth check to Hide. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
 If Bianca doesn’t notice the players, she proceeds as follows, assuming the players listen in and don’t interrupt:
 
@@ -531,14 +624,14 @@ If Bianca notices and confronts the players, or if the players make no efforts t
 
 If the players attack Bianca, she immediately shatters the crystal. (See **Kiril’s Return** below for more information on Kiril’s arrival.) Bianca also shatters the crystal if the players fail to distract or satisfy her within a reasonable period of time. Bianca assumes her wolf form and flees if the players continue to attack.
 
-The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
+The players can convince Bianca to stand down with a successful DC 28 Intimidation check to Coerce or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 21 Diplomacy check. The Diplomacy check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
 
 If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
 ## L4f. Kiril’s Return
-If Bianca breaks the _crystal of alarm_, the werewolf pack returns to the den after 10 minutes. The pack includes eighteen **wolves**, eight **werewolves**, and [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
+If Bianca breaks the _crystal of alarm_, the werewolf pack returns to the den after 10 minutes. The pack includes eighteen **wolves**, six **werewolves**, and [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
 
-If the players remain at the den, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+If the players remain at the den, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]].
 
-If the players have departed the den, but failed to conceal their trail with magic (e.g., *pass without trace* or *dimension door*), Kiril and the pack pursue them. If the players remain outside of a settlement's walls, they must succeed on a DC 19 group Dexterity (Stealth) check to evade the pack's notice. If the pack finds the players, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+If the players have departed the den, but failed to [Cover Tracks](https://2e.aonprd.com/Actions.aspx?ID=2407) with DC 23 Survival Check or with magic (e.g., *vanishing tracks* or *translocate*), Kiril and the pack pursue them. If the players remain outside of a settlement's walls, they must succeed on a DC 25 Stealth check to evade the pack's notice. If the pack finds the players, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]].
 
-***Milestone.*** Meeting Ilya and Zuleika completes a story milestone. If the players successfully escape the werewolf den after making a deal with Zuleika, award each player 1,500 XP. If the players also free Ilya and Zuleika from the den, award each player an additional 250 XP.
+***Milestone.*** Meeting Ilya and Zuleika completes a story milestone. If the players successfully escape the werewolf den after making a deal with Zuleika, award each player 250 XP.

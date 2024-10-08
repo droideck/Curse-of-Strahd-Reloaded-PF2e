@@ -509,7 +509,7 @@ The zombies’ siege of the town has lasted six days thus far, with the undead c
 
 Meanwhile, as Strahd’s servants spread themselves across the valley, obedient once more to the vampire’s will, a creeping darkness is returning to corrupt the land. Shadows lurk in every corner, and the Mists watch silently as the horrors unfold. 
 
-Meanwhile, in a distant land far beyond the valley, several travelers arrive in the town of Daggerford, blissfully unaware of the trials that await . . . 
+Meanwhile, in a distant land far beyond the valley, several travelers arrive in the town of Otari, blissfully unaware of the trials that await . . . 
 # Design Notes: History of Barovia
 ***Origins of the Valley.*** The "First Folk" are a fleshed-out interpretation of the ancient druids and mountain tribes mentioned in the original module. The Ladies of the Fanes, as well as the Fanes themselves, are reinterpretations of lore from the 3.5 module *Expedition to Castle Ravenloft*, added to *Curse of Strahd: Reloaded* in order to give Strahd a more active goal (i.e., escaping Barovia) and to tie together a number of narrative elements, including the werewolves, the wereravens, the winery's enchanted gems, and Madam Eva's divine pact.
 

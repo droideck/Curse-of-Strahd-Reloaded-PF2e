@@ -1,4 +1,4 @@
-_An adventure for five 7th-level characters._
+_An adventure for four 8th-level characters._
 
 In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
 # Q1. Flight From Ravenloft
@@ -22,27 +22,27 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 > [!abstract]+ **Ruins of Berez**
 > Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
 
-If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
+If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by one **Barovian hexwitch** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **[Scarecrows](https://2e.aonprd.com/Monsters.aspx?ID=3174)** standing guard in the marsh, which arrive three rounds after combat begins.
 
 > [!combat]- **Balancing the Ruins of Berez**
- > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
- > 
- > * Three Players. Reduce the number of bogwitches in the first wave to one. Reduce the number of scarecrows in the second wave to five.
- > * Four Players. Reduce the number of hexwitches in the first wave to one. Reduce the number of scarecrows in the second wave to six.
- > * Six Players. Add one stormwitch to the first wave. Increase the number of scarecrows in the second wave to eight."
+ > Due to the wave mechanic, this combat encounter is a series of a consecutive **Moderate+** combat encounter followed by a **Low+** combat encounter against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller or larger sizes, modify the encounter as follows:
+ >
+ > * Three Players. Reduce the number of bogwitches in the first wave to 1. Reduce the number of scarecrows in the second wave to five.
+ > * Five Players. Add one hexwitch to the first wave. Make half of the scarecrows Elite.
+ > * Six Players. Add one stormwitch and one hexwitch to the first wave. Make all of the scarecrows Elite.
 
 
 The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
 * The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
-* The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
+* The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes.
 * The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
 
-***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with **[Shambler Troop scaled to Level 11](https://2e.aonprd.com/Monsters.aspx?ID=1376)** instead of **Strahd zombies**.
 
 ***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
+***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **[Elite Vrocks](https://2e.aonprd.com/Monsters.aspx?ID=100)** don't attack players who bypass the gatehouse from the east side of the portcullis.
 
 The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
@@ -62,16 +62,16 @@ Players who escape Castle Ravenloft by crossing the western chasm can find shelt
 
 ***Tser Pool Encampment.*** The journey from Castle Ravenloft to Tser Pool is twelve miles long and takes four hours. Arturi Radanavich is no longer present, having departed three days prior without forewarning.
 
-If visited, Madam Eva declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name (Katarina), Madam Eva wryly congratulates them on their perceptiveness and can share the information regarding her relationship with Varushka in [[Arc O - Dinner with the Devil]]. 
+If visited, Madam Eva declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name (Katarina), Madam Eva wryly congratulates them on their perceptiveness and can share the information regarding her relationship with Varushka in [[Arc O - Dinner with the Devil]].
 
 If the players suggest that she is associated with the Ladies of the Fanes, Madam Eva's gaze tightens and she stonily warns the players "not to invoke the names of the ancient, lest they rouse undesired attentions." (Madam Eva doesn't explain further.)
 # Q2. Dmitri's Plea
 ## Q2a. A Dark Omen
-At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from the Abbey of Saint Markovia and lands on the kitchen windowsill of the Krezkovs' cottage. Anna and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk. 
+At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from the Abbey of Saint Markovia and lands on the kitchen windowsill of the Krezkovs' cottage. Anna and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk.
 
-If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **guards**, hoping to find the players there.
+If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **[Elite Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)**, hoping to find the players there.
 
-* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
+* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>.
 * Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the Blue Water Inn, hoping to find the players there.
 
 If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the kitchen, where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
@@ -84,11 +84,11 @@ If the players slept east of Vallaki after escaping Castle Ravenloft, such as in
 #### The Wolves' Ambush
 One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
 
-If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
+If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **[Dire Wolf scaled to Level 5](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **[Scarecrows](https://2e.aonprd.com/Monsters.aspx?ID=3174)**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
 
 > [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+> This combat encounter is a **Moderate+** combat encounter against a party of five 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+>
 > * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
 > * Four Players. Reduce the number of scarecrows to one.
 > * Six Players. Increase the number of scarecrows to three.
@@ -102,14 +102,14 @@ The revenant isn't sure what the dark tidings are, but can share that Commander 
 
 As the players depart, the revenant wishes them well, solemnly bidding them farewell and adding, almost wistfully, "May the Morninglord shelter you in the light of His grace."
 # Q3. Return to Krezk
-Upon arriving in Krezk, the players are met at the gate by Anna Krezkova, who has been waiting anxiously for Dmitri to return. When he does, she embraces him in gratitude for his safe return and thanks the players sincerely for making the journey. 
+Upon arriving in Krezk, the players are met at the gate by Anna Krezkova, who has been waiting anxiously for Dmitri to return. When he does, she embraces him in gratitude for his safe return and thanks the players sincerely for making the journey.
 
-Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a ***silvered battleaxe*** and ***longsword***, respectively (+4 to hit, 1d10 + 2 slashing damage each), are glad to accompany the players to the Abbey if asked. However, they warn the players abashedly that they will likely be of little help in a fight.
+Anna and Dmitri, two **[Elite Nobles](https://2e.aonprd.com/NPCs.aspx?ID=3418)** wielding a ***silvered battleaxe*** and ***longsword*** are glad to accompany the players to the Abbey if asked. However, they warn the players abashedly that they will likely be of little help in a fight.
 
 > [!abstract]+ **Emil Helps Out**
-> If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 10 Charisma (Persuasion) check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
+> If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 24 Diplomacy check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
 >
-> The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
+> The players make the check with +4 Circumstance Bonus if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
 ## Q3a. Return to the Abbey
 As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
 
@@ -123,15 +123,15 @@ The players are met at <span class="citation">S6. North Gate (p. 147)</span> by 
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
-The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, sniffling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
+The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 22 Diplomacy check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, sniffling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
 
-Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
+Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity.
 ### The Courtyard
 Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
 
-If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
+If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?"
 
-If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
+If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail.
 
 Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 
@@ -152,19 +152,19 @@ The players can find the Abbot in the Abbey’s asylum, which is largely as desc
 
 Unless the players interrupt, the conversation proceeds as follows:
 
-* The Abbot sighs, rubs his temples, and places a fatherly hand on Vasilka’s shoulder. “Fear not," he says softly. “The Morninglord’s forgiveness and grace are eternal, so long as we remember our proper places." 
-* The Abbot gestures to the flesh golem and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?" 
+* The Abbot sighs, rubs his temples, and places a fatherly hand on Vasilka’s shoulder. “Fear not," he says softly. “The Morninglord’s forgiveness and grace are eternal, so long as we remember our proper places."
+* The Abbot gestures to the flesh golem and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?"
 * Vasilka’s head bows deeper as she replies, “In the hall, waiting to be wed."
 * The Abbot smiles, nods, and squeezes her shoulder. “Good. So long as you remember that, you cannot be led astray."
 
-The Abbot then turns to the players and greets them warmly, welcoming them back to the Abbey of St. Markovia and inquiring as to the reason for their presence. If the players insist that he spare Anna and forgo his mission to retrieve her heart, he laughs softly and chides them gently, noting that “the ways of the gods may seem callous, or even cruel to the unenlightened, but faith shall always guide us to salvation." 
+The Abbot then turns to the players and greets them warmly, welcoming them back to the Abbey of St. Markovia and inquiring as to the reason for their presence. If the players insist that he spare Anna and forgo his mission to retrieve her heart, he laughs softly and chides them gently, noting that “the ways of the gods may seem callous, or even cruel to the unenlightened, but faith shall always guide us to salvation."
 
 > [!abstract]+ **Revealing the Truth**
-> If the players confront the Abbot for his lies to the Belviews regarding Cyrus and the promise of “perfection," the Belviews in the cells fall silent. The Abbot’s face grows stony, and he coldly asks the players how they came by such “tall tales." 
-> 
+> If the players confront the Abbot for his lies to the Belviews regarding Cyrus and the promise of “perfection," the Belviews in the cells fall silent. The Abbot’s face grows stony, and he coldly asks the players how they came by such “tall tales."
+>
 > Regardless of the players’ answer, the Abbot then turns to the Belviews in the cells and says, “Do not allow these outsiders to lead you astray. In the Morninglord, all things are possible." The Belviews in the cells then begin howling and gnashing their teeth, pounding against the metal bars as they demand for the “filthy, lying outsiders" to be “butchered, quartered, and stewed."
-> 
-> The players can calm the Belviews and convince them of the truth by succeeding on a DC 20 Charisma (Persuasion) check. The DC falls to 10 if the players first challenge the Abbot to tell the Belviews whether he can “perfect" them. (The Abbot, who cannot lie, refuses to do so, insisting only that “his flock" knows and trusts the words of its “shepherd.") If Otto, Zygfrek, or Clovin are present, the players succeed automatically as their companions confront the Abbot for his “lies," proclaiming to their family that Cyrus has not been “perfected" and the Abbot has no means of completing their transformation.
+>
+> The players can calm the Belviews and convince them of the truth by succeeding on a DC 26 Diplomacy check. The DC falls to 22 if the players first challenge the Abbot to tell the Belviews whether he can “perfect" them. (The Abbot, who cannot lie, refuses to do so, insisting only that “his flock" knows and trusts the words of its “shepherd.") If Otto, Zygfrek, or Clovin are present, the players succeed automatically as their companions confront the Abbot for his “lies," proclaiming to their family that Cyrus has not been “perfected" and the Abbot has no means of completing their transformation.
 
 If the players present the *Icon of Dawn’s Grace* and tell him that his spirit has been corrupted and must be restored through use of the *Icon*, the Abbot’s expression grows icy, and he warns them softly that they “speak the words of false prophets." “This artifact has lain in the vampire’s castle for centuries," he intones. “Cast it aside, and excise the poisons it has instilled in your minds."
 
@@ -174,7 +174,7 @@ If the players insist on cleansing the Abbot’s spirit or otherwise continue to
 <p>A palpable tension fills the air as the shadows of the room darken. The floors and walls seem to hum with power, and the Abbot’s eyes glimmer briefly with golden madness.</p>
 </div>
 
-***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
+***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **[Flesh Golem](https://2e.aonprd.com/Monsters.aspx?ID=238)** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
 
 Unless the players interrupt, the following exchange then occurs:
 
@@ -188,7 +188,7 @@ Unless the players interrupt, the following exchange then occurs:
 
 Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and uses his wings to fly her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
 
-***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
+***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **[Flesh Golem](https://2e.aonprd.com/Monsters.aspx?ID=238)** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
 
 <div class="description">
 <p>The Abbot steps forward, his single footstep echoing like a crack of thunder through the darkened hall. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly.</p>
@@ -206,158 +206,31 @@ When the Abbot attacks, he sheds his monk’s robes and transforms, revealing hi
 
 If the Abbot initiated combat by attacking Vasilka, he continues to do so until he has reduced her to 0 hit points or a player deals him 20 points of damage in a single turn, at which point he turns his attention to the players. (Vasilka doesn’t fight back under any circumstances.)
 
-In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be lured into one of the adjoining wings if a player succeeds on a DC 20 Charisma (Performance) check.
+In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be lured into one of the adjoining wings if a player succeeds on a DC 26 Performance check.
 
-> [!combat]- **Balancing the Fallen Star** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 51% of their total maximum hit points (for a total of 93% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the Abbot’s hit points in each phase to 181. Remove his Multiattack action in each phase, and reduce the damage of his Phase 1 bonus actions to 10 (3d6). Reduce the damage of his Erupt Earth bonus action in Phase 2 to 5 (2d4) and his Eclipse Beam bonus action to 7 (2d6) damage of each damage type. 
-> * **Four Players**. Reduce the Abbot’s hit points in each phase to 218. In his first phase, limit his Punish reaction to only 2/round. In his second phase, limit his Tail reaction to only 2/round. Additionally, decrease the damage of his Eclipse Beam bonus action to 2d6 damage of each damage type. 
-> * **Six Players**. Increase the Abbot’s hit points to 292 in each phase. Increase his first phase’s Multiattack to three attacks, but reduce each of its bonus actions to 10 (3d6) damage. In his second phase, increase his Multiattack to include two Claw attacks, but reduce Erupt Earth to 5 (2d4) damage.
+> [!combat]- **Balancing the Fallen Star**
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **Moderate+** combat encounters against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller or larger sizes, modify the encounter as follows:
+>
+> * **Three Players**. Make the first phase Weak.
+> * **Five Players**. Make the second phase Elite.
+> * **Six Players**. Make both phases Elite.
 
 > [!abstract]+ **The Flesh Golem’s Loyalty**
-> If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
+> If the players gave Vasilka’s flower garland to the **[Flesh Golem](https://2e.aonprd.com/Monsters.aspx?ID=238)** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
-![[Ithuriel.png]]
-<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-<div class="statblock">
-<h2>Ithuriel, the Dawnbringer</h2>
-<em>Medium Celestial, Lawful Evil</em>
-<hr>
-<strong>Armor Class</strong> 17 (natural armor)
-<br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
-<br>
-<strong>Speed</strong> 30 ft., fly 90 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>17 (+3)</td>
-      <td>20 (+5)</td>
-      <td>20 (+5)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Wis +10, Cha +10<br>
-<strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> necrotic, radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring only verbal components:<br>
-At will: detect evil and good<br>
-1/day each: commune, raise dead</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
-<p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form. He then immediately uses his <strong><em>frightful presence</em></strong> reaction.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
-<p><strong><em>Mace.</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
-<p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
-<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
-<p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
-<p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punish.</em></strong> In response to an enemy missing him with a melee attack, Ithuriel makes the following attack against it: <strong><em>Palm.</em></strong> <em>Melee Weapon Attack</em>: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 17 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 17). If he grapples the target, Ithuriel can immediately use his <strong><em>descend</em></strong>.</p>
-<p><strong><em>Descend.</em></strong> In response to grappling an enemy, Ithuriel can immediately fly up to his speed while dragging that enemy with him. If he moves within 5 feet of the ground while moving, the grappled enemy must succeed on a DC 17 Strength saving throw or take 3 (1d6) bludgeoning damage per 10 feet descended. For each additional 5 feet Ithuriel moves along the ground, the grappled enemy takes an additional 2 (1d4) bludgeoning damage as Ithuriel grinds it along the earth. (This movement doesn't provoke opportunity attacks.) When Ithuriel's movement ends, the grappled enemy is forced prone.
-<p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
-<p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
-</div>
+<div class="statblock"> <h2>Ithuriel, The Dawnbringer - Creature 11</h2> <em>Large celestial, angel, unholy</em> <hr> <strong>Perception</strong> +24; darkvision<br> <strong>Languages</strong> Diabolic, Draconic, Empyrean; tongues<br> <strong>Skills</strong> Arcana +25, Athletics +23, Deception +22, Diplomacy +24, Intimidation +22, Occultism +20, Religion +25, Survival +22<br> <strong>Str</strong> +7, <strong>Dex</strong> +3, <strong>Con</strong> +5, <strong>Int</strong> +3, <strong>Wis</strong> +3, <strong>Cha</strong> +5 <hr> <strong>AC</strong> 31<br> <strong>HP</strong> 220<br> <strong>Immunities</strong> death effects<br> <strong>Weaknesses</strong> holy 9<br> <strong>Saves</strong> Fort +23, Ref +20, Will +19; +1 status to all saves vs. magic<br> <strong>Speed</strong> 30 feet, fly 90 feet <hr> <h3>Melee</h3> <p><strong>Unholy Mace</strong> ◆ +26 [magical, shove, unholy], <strong>Damage</strong> 2d8+15 bludgeoning plus 1d6 force plus Solid Blow</p> <hr> <h3>Divine Innate Spells</h3> <p><strong>DC</strong> 29, <strong>attack</strong> +19</p> <p><strong>At Will</strong> detect alignment (evil only), invisibility (self only), translocate (4th)</p> <p><strong>Constant</strong> ⦾ truespeech</p> <p><strong>6th</strong> cleanse affliction, divine wrath - NOT HOLY, heal (×3), paralyze</p> <p><strong>5th</strong> creation, clear mind, translocate</p> <hr> <h3>Active Actions</h3> <p><strong>Change Shape</strong> ◆ (concentrate, divine, polymorph)<br> Abbot can take on the appearance of any Tiny, Small or Medium humanoid or animal. This doesn't change their Speed or Strikes.</p> <p><strong>Divine Wind</strong> ◆ (divine, spirit)<br> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone that deals 12d6 spirit damage (DC 30 basic Fortitude save). They can't use Divine Wind again for 1d4 rounds.</p> <p><strong>Flyby Attack</strong> ◆◆<br> Abbot Flies and makes a Strike at any point along the way.</p> <p><strong>Rebuke Soul</strong> ◆ (auditory, divine, incapacitation)<br> Abbot speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-ambertouched target within 40 feet takes 6d6 spirit damage and must attempt a Fortitude DC 30 save.<br> <strong>Critical Success</strong> The target is unaffected.<br> <strong>Success</strong> The target takes half damage and is Stunned 1.<br> <strong>Failure</strong> The target takes full damage and is Stunned 2.<br> <strong>Critical Failure</strong> The target takes double damage and is Stunned 4.<br> Regardless of the outcome, the target is then temporarily immune for 10 minutes.</p> <hr> <h3>Reactions</h3> <p><strong>Descend</strong> ↻<br> In response to grappling an enemy, Ithuriel can immediately fly up to his speed while dragging that enemy with him. Alternatively, if he moves within 5 feet of the ground while moving, the grappled enemy must succeed on a DC 30 basic Fortitude save or take 1d8 bludgeoning damage per 10 feet travelled like this as Ithuriel grinds it along the earth. This movement doesn't provoke opportunity attacks. When Ithuriel's movement ends, the grappled enemy falls prone unless they critically succeed on the save.</p> <hr> <h3>Passive Abilities</h3> <p><strong>Fallen Grace</strong><br> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form. He then immediately uses his frightful presence reaction.</p> <p><strong>Solid Blow</strong> (divine, force)<br> When a monadic deva hits a target for the second time during its turn with its mace, it deals an additional 2d12 force damage as its weapon shimmers with ripples of power.</p> <p><strong>Spiritual Warden</strong> (aura, divine)<br> 20 feet. Allies in the aura gain a +2 status bonus to saving throws against death effects and effects that target or manipulate their souls.</p> <p><strong>Unholy Armaments</strong> (divine)<br> Any weapon gains the effect of an unholy property rune while a monadic deva wields it.</p> <hr> <h3>Rituals</h3> <p><strong>DC</strong> 32</p> <p><strong>Resurrect</strong> (uncommon, healing)<br> <strong>Cast</strong> 1 day; <strong>Cost</strong> gemstones worth a total value of 75 gp × the target's level; <strong>Secondary Casters</strong> 2<br> <strong>Primary Check</strong> Religion (expert); <strong>Secondary Check</strong> Medicine, Society</p> </div>
 
 > [!warning]+ **Grappling Enemies**
 > Remember that Ithuriel's speed is halved when grappling a creature, including when using his ***descend*** reaction unless the creature is two or more sizes smaller than Ithuriel.
 
-<div class="statblock">
-<h2>Ithuriel, the Fallen Star</h2>
-<em>Huge Celestial, Lawful Evil</em>
-<hr>
-<strong>Armor Class</strong> 19 (natural armor)
-<br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
-<br>
-<strong>Speed</strong> 30 ft., fly 60 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>23 (+6)</td>
-      <td>14 (+2)</td>
-      <td>21 (+5)</td>
-      <td>17 (+3)</td>
-      <td>20 (+5)</td>
-      <td>20 (+5)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Wis +10, Cha +10<br>
-<strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> necrotic, radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 16<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
-<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
-<p></p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
-<p><strong><em>Eclipse Beam (1/day).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
-<p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
-<p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn.</p>
-</div>
+<div class="statblock"> <h2>Ithuriel, The Fallen Star - Creature 11</h2> <em>Huge celestial, unholy</em> <hr> <strong>Perception</strong> +24; darkvision<br> <strong>Languages</strong> Diabolic, Draconic, Empyrean, tongues<br> <strong>Skills</strong> Arcana +25, Diplomacy +24, Intimidation +22, Occultism +20, Religion +25, Survival +22<br> <strong>Str</strong> +7, <strong>Dex</strong> +3, <strong>Con</strong> +5, <strong>Int</strong> +3, <strong>Wis</strong> +3, <strong>Cha</strong> +5 <hr> <strong>AC</strong> 31<br> <strong>HP</strong> 220<br> <strong>Immunities</strong> death effects<br> <strong>Weaknesses</strong> holy 9<br> <strong>Resistances</strong> all damage 5<br> <strong>Saves</strong> Fort +23, Ref +20, Will +19; +1 status to all saves vs. magic <hr> <h3>Speed</h3> <p>30 feet, fly 60 feet</p> <hr> <h3>Melee Attacks</h3> <p><strong>Jaws</strong> ◆ +24 [magical, reach 10], <strong>Damage</strong> 2d8+13 piercing plus 2d6 spirit damage if not countered by holy water</p> <p><strong>Claw</strong> ◆ +24 [adamantine, agile, magical], <strong>Damage</strong> 2d8+13 slashing plus Grab</p> <p><strong>Tail</strong> ◆ +24 [magical, reach 20], <strong>Damage</strong> 2d8+13 bludgeoning plus Grab</p> <h3>Divine Innate Spells</h3> <p><strong>DC</strong> 29, <strong>attack</strong> +19<br> <strong>Constant</strong> • truespeech<br> <strong>At Will</strong> • detect alignment (evil only), invisibility (self only), translocate<br> <strong>5th</strong> • chilling darkness (2), rip the spirit, translocate</p> <h3>Active Actions</h3> <p><strong>Unholy Breath</strong> ◆◆ (arcane, fire)<br> Ilthuriel breathes unholy fumes that damage both body and soul in a 60-foot cone, dealing 8d6 spirit and 8d6 void damage (DC 30 Reflex save). Creatures that fail the save also take 2d6 persistent void damage. Ilthuriel can't use Unholy Breath again for 1d4 rounds.</p> <p><strong>(Mythic) Recharge</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> <strong>Effect</strong> The creature gains one additional use of a spell or ability that is normally only available a limited number of times. For example, a spellcaster can regain an expended slot or use an ability with a frequency of once per day again.</p> <p><strong>(Mythic) Remove a Condition</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> <strong>Effect</strong> The creature ends one condition affecting it.</p> <h3>Reactions</h3> <p><strong>Baleful Gaze</strong> ↻<br> <strong>Trigger</strong> A creature within 100 feet makes a ranged attack or uses an action that has the concentrate trait<br> <strong>Effect</strong> Ilthuriel fixes its central eye upon the triggering creature in an attempt to frighten it, jolting it and disrupting its action. The creature must attempt a DC 30 Will save; on a failure, Ilthuriel disrupts the triggering action and the creature is frightened 1.</p> <h3>Passive Abilities</h3> <p><strong>Frightful Presence</strong> (aura, emotion, fear, mental) 90 feet, DC 30<br> When a creature enters the area or starts its turn in the area, it must attempt a Will save.</p> <p><strong>Unholy Presence</strong> (aura, divine) 10 feet<br> Each creature that ends its turn in the aura must succeed at a DC 28 Fortitude save or become fatigued while it remains in the aura.</p> <p><strong>Countered by Holy Water</strong><br> If the Fallen Star takes damage from a spell with the holy or water trait, the amber magic within them is momentarily dampened. Until the end of their next turn, they take a -1 circumstance penalty to attack rolls, and their jaws Strikes don't deal spirit damage, and they lose their sweltering heat aura. This limitation ends if the dragon uses Unholy Breath.</p> <p><strong>(Mythic) Mythic Resilience</strong><br> The creature treats its Fortitude saves as one degree of success better than it rolled.</p> </div>
 
 ![[Ithuriel2.png]]
 
 <span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Defeating the Abbot**
-> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 2,000 XP, or 2,500 XP if they also redeemed the Abbot (see below).
+> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 250 XP.
 ### The Abbot's Redemption
 When the players reduce the Abbot’s second phase to 0 hit points, read:
 
@@ -392,19 +265,19 @@ The players recognize the man as the Abbot’s ordinary mortal guise. As they ap
 
 The Abbot believes that he has failed the Morninglord and fallen from grace, and that he is therefore damned. If the players greet him, he whirls in fear, demanding that they “reveal themselves," for “they walk in darkness, and he cannot see them."
 
-If the players tell the Abbot that he is blindfolded, he is briefly stunned, then shakes his head. “I see," he murmurs. “I am damned, then. Begone, then, and trouble yourselves with my wretchedness no more." 
+If the players tell the Abbot that he is blindfolded, he is briefly stunned, then shakes his head. “I see," he murmurs. “I am damned, then. Begone, then, and trouble yourselves with my wretchedness no more."
 
-If the players ask the Abbot to reunite with the shard of divinity, he hesitates, then asks to feel its warmth. If the players direct the orb to move toward the Abbot, he cups his hands around it, then begins to weep with joy, murmuring that it is “beautiful." 
+If the players ask the Abbot to reunite with the shard of divinity, he hesitates, then asks to feel its warmth. If the players direct the orb to move toward the Abbot, he cups his hands around it, then begins to weep with joy, murmuring that it is “beautiful."
 
-As he does, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+As he does, if any player succeeds on a DC 22 Perception check, add:
 
 <div class="description">
 <p>The shroud of shadow curls ever-closer around him, and you realize that it is not a single shadow, but an assembly of countless overlapping, amorphous, indistinct silhouettes. They whisper into his ears, their cold, hollow voices echoing into the void.</p>
 </div>
 
-The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player with a passive Wisdom (Perception) score of 14 or greater sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and has a passive DC 15 Wisdom (Insight) score discerns that it bore an expression of grief and concern—and appeared to be calling out.
+The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player who succeeds on a DC 22 Perception check sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and succeeds on a DC 24 Perception check to Sense Motive discerns that it bore an expression of grief and concern—and appeared to be calling out.
 
-A player who asks the Abbot or has a passive DC 13 Wisdom (Insight) score learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+A player who asks the Abbot or succeeds on a DC 22 Perception check to Sense Motive learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 24 check can make out a few words and phrases from the cacophony of whispers:
 
 * “The light has abandoned you, as you abandoned it."
 * “Their lies are comforting, but lies nonetheless."
@@ -415,7 +288,7 @@ If confronted, the Abbot replies, his voice quavering: “It is too late. I have
 > [!lore]+ **Dark Whispers**
 > The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
 
-As the Abbot finishes his protest, a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player with a passive Wisdom (Perception) score of 13 or greater discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and has a passive DC 13 Wisdom (Insight) score discerns that it bore an expression of grief and concern.
+As the Abbot finishes his protest, a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player who succeeds on a DC 22 Perception check discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and succeeds on a DC 22 Perception check to Sense Motive discerns that it bore an expression of grief and concern.
 
 As the silhouette vanishes, a single Tarokka card floats down from the void and lands before one of the players. If a player inspects the card, read:
 
@@ -428,12 +301,12 @@ If Ezmerelda is shown the card, she shares that it is “odd" for the Shepherd t
 > [!lore]+ **The Shepherd**
 > The Tarokka card is a message sent by the spirit of Saint Markovia. While she cannot enter the Abbot’s soul herself, she hopes that the players will conjure her so that she may speak with the Abbot on their behalf.
 
-The players can successfully persuade the Abbot to reunite with the shard of divinity by making any reasonable argument, such as directly rebutting the Dark Powers’ whispers or if they mention St. Markovia’s seance, or by succeeding on a DC 15 Charisma (Persuasion) check.
+The players can successfully persuade the Abbot to reunite with the shard of divinity by making any reasonable argument, such as directly rebutting the Dark Powers’ whispers or if they mention St. Markovia’s seance, or by succeeding on a DC 24 Diplomacy check.
 
 > [!abstract]+ **Redemption Failed**
 > If the players attempt to persuade the Abbot here without first summoning St. Markovia and fail, the darkness grows deeper and more oppressive, while the Abbot curls further into himself, his wings seeming to wither and crack. “Do you not see?" he whispers, his voice barely audible. “Even you cannot deny my damnation. It is ended."
 >
-> As the whispering shadows grow stronger, the golden orb begins to flicker and dim, and the mist begins to encircle the Abbot’s body, consuming him entirely in two rounds. While the mist is rising, the DC for any further Charisma (Persuasion) checks made to convince the Abbot increases to 20. 
+> As the whispering shadows grow stronger, the golden orb begins to flicker and dim, and the mist begins to encircle the Abbot’s body, consuming him entirely in two rounds. While the mist is rising, the DC for any further Diplomacy checks made to convince the Abbot increases to 29.
 >
 >The players can cause the mist to recede by convincing the Abbot to reunite with the shard or by using the Shepherd card to call forth the spirit of St. Markovia (see below). If they fail to do so before the Abbot’s body is consumed, they vanish from the void and reappear in the Abbey of St. Markovia, where the Abbot’s corpse swiftly dissipates into mist.
 
@@ -486,18 +359,18 @@ The youth, who appears to be no more than nineteen or twenty years of age and re
 Once awoken, the youth—who asks the players to call him Ithuriel, rather than the Abbot—expresses momentary disorientation as the shard of divinity gradually integrates his memories and sense of self.
 
 > [!info]+ **Ithuriel, Restored**
-> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+> Ithuriel uses the statistics of a **Ithuriel, The Dawnbringer**, but with a **raise dead** spell available once per day, but no more than three times per year.
 >
-> When first restored, Ithuriel awakens with 1 hit point and four levels of exhaustion.
+> When first restored, Ithuriel awakens with 1 hit point and the effects of **raise dead** spell.
 
-Ithuriel is deeply grateful to the players, and bows deeply before them in gratitude for their kindness and mercy. 
+Ithuriel is deeply grateful to the players, and bows deeply before them in gratitude for their kindness and mercy.
 
 If permitted, Ithuriel heals and apologizes profusely to Vasilka (“For seeking to control you, for inflicting terror upon you, and for forcing you into a role you never wished for"), the Krezkovs (“For the terrible evils I have wrought upon your family, for which I can never atone"), to the Belviews (“For the curse I brought upon your family, for my manipulations and deceit, and for my cruelty and callousness"), and to the players (“For the shadows I cast upon your lives, and the lives of those you cared for").
 
 Ithuriel can also share the following information if asked:
 
 * He is not quite the Abbot, nor is he entirely the shard that dwelled in the *Icon*. “I am both, and yet neither," he muses. “The same sun rising, but upon a new dawn."
-* He intends to free Vasilka from his orders. “She shall be free to find her own path," he says wistfully, “as all creatures must be." 
+* He intends to free Vasilka from his orders. “She shall be free to find her own path," he says wistfully, “as all creatures must be."
 * He similarly has no intention of taking Anna Krezkova’s heart. “I cannot see the way by which this land shall be freed," he says, bowing his head. “But I know that darkness cannot drive out darkness—only light."
 * He is unsure how to heal the Belviews’ condition. “However, I shall do what I can to heal the minds of those I can, and allow their family to be whole again," he says. “In time, and by the Morninglord’s grace, I shall find the wisdom and strength to remove the affliction I once placed upon them."
 * He intends to remain at the Abbey and in Krezk. “I have an obligation to these people that I might never repay," he says solemnly. “My place is here—and I sense that, perhaps soon, I shall be called upon to defend those I once tormented."
@@ -510,7 +383,7 @@ Before the players depart, Ithuriel freely offers them healing through the use o
 > [!info]+ **Ithuriel’s Feathers**
 > If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, Yester Hill, or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
 >
-> Once summoned, Ithuriel lingers only long enough to cast *raise dead* and provide the players with words of faith and encouragement for the trials they face ahead. If requested, he is also glad to provide one or more uses of his ***healing touch*** feature. 
+> Once summoned, Ithuriel lingers only long enough to cast *raise dead* and provide the players with words of faith and encouragement for the trials they face ahead. If requested, he is also glad to provide one or more uses of his ***healing touch*** feature.
 >
 > If asked to linger or fight alongside the players, Ithuriel politely declines, insisting that his place is at the Abbey, and he cannot leave his wards or neighbors without his protection. “Do not fear," he reassures the players before departing. “The Morninglord is with you."
 
@@ -550,7 +423,7 @@ If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's 
 Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
 
 > [!item]+ **Water of the White Sun**
-> As an action, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *lesser restoration* spell. 
+> As a two-action activity, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *[Restoration](https://2e.aonprd.com/Spells.aspx?ID=258)* spell.
 ### Cleansing of the White Sun
 Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an amber shard’s corruption, St. Markovia addresses that player personally. Read:
 
@@ -558,7 +431,7 @@ Once the players have filled their waterskins from the pool, if the players rede
 <p>"You carry a great weight upon your shoulders," she says, her eyes sorrowful as they seek to meet yours. “That you have chosen to bear it makes it no less heavy. If you would discard the yoke of the power you have chained yourself to, I can aid you in doing so while the water’s magic lingers."</p>
 </div>
 
-If the player expresses interest in doing so, Markovia directs them to stand in the pool’s waters, speak a prayer to the Morninglord, and submerge themselves. “When you arise from the water," she says, “your affliction shall be healed—so long as you speak truly and have faith that, as you once were, you can be again." 
+If the player expresses interest in doing so, Markovia directs them to stand in the pool’s waters, speak a prayer to the Morninglord, and submerge themselves. “When you arise from the water," she says, “your affliction shall be healed—so long as you speak truly and have faith that, as you once were, you can be again."
 
 If the player isn’t sure what prayer to use, Markovia suggests: “As the sun banishes the darkness of night, banish the shadow from my soul, and let the light embrace me once again."
 
@@ -618,7 +491,7 @@ When the players first approach the pack, read:
 
 If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.)
 
 When the players first approach the pack, read:
 
@@ -626,7 +499,7 @@ When the players first approach the pack, read:
 <p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+The wolves bare their teeth at the players, but don’t immediately attack. A player who succeeds on a DC 22 Perception check notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player who succeeds on a DC 22 Perception check to Sense Motive notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
 
 > [!info]+ **The Starving Wolves**
 > Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
@@ -641,12 +514,12 @@ If Emil Toranescu is accompanying the players, his hand tightens into a fist at 
 ## Q5b. Kiril’s Challenge
 
 > [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
+> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd rank, or any attack or spell that doesn’t deal void damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
 >
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals void damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
 
 > [!info]+ **Moonbeam**
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
+> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, nothing can cause him to revert to his human form.
 
 When the players first approach Kiril, or vice-versa, read:
 
@@ -670,7 +543,7 @@ Like a cat playing with its prey, Kiril is in no immediate hurry to kill the pla
 </div>
 
 > [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
+> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 29 Diplomacy check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
 
 At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
 
@@ -687,11 +560,11 @@ At a suitable point in the conversation, if he is present, Emil challenges Kiril
 * Kiril’s eyes flash crimson, and his claws and fangs grow slightly longer, his massive body trembling with rage. “Cowards and traitors!" he snarls. He turns to face Emil and the players. “It’s a shame the vampire will never reclaim his prisoner," he rumbles—"because when I’m through with you, there won’t be a single bone left!"
 
 Kiril then attacks.
-  
-> [!combat]- **Balancing the Mutant Lycan** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce Kiril’s hit points to 227 in each phase. Reduce his **Multiattack** action in P1 to one attack and a use of **Alpha’s Howl**, but increase the damage of the attacks granted by **Alpha’s Howl** to 2d6 plus Strength mod for the claw and 1d10 plus Strength mod for the bite. Decrease his **Savage Frenzy** bonus action to 10 (3d6) damage. In his P2, remove the ability to make a **Claw** attack as part of his **Leap** reaction. Make sure he uses his **Leap** reaction once every round. 
-> * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. 
+
+> [!combat]- **Balancing the Mutant Lycan**
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> * **Three Players**. Reduce Kiril’s hit points to 227 in each phase. Reduce his **Multiattack** action in P1 to one attack and a use of **Alpha’s Howl**, but increase the damage of the attacks granted by **Alpha’s Howl** to 2d6 plus Strength mod for the claw and 1d10 plus Strength mod for the bite. Decrease his **Savage Frenzy** bonus action to 10 (3d6) damage. In his P2, remove the ability to make a **Claw** attack as part of his **Leap** reaction. Make sure he uses his **Leap** reaction once every round.
+> * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action.
 > * **Six Players**. Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack.
 
 <div class="statblock">
@@ -727,7 +600,7 @@ Kiril then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Strength +10, Constitution +10<br>
+<strong>Saving Throws</strong> Strength +10, Fortitude +10<br>
 <strong>Skills</strong> Perception +9, Stealth +9<br>
 <strong>Senses</strong> passive Perception 19<br>
 <strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
@@ -741,11 +614,11 @@ Kiril then attacks.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes three melee attacks, up to one of which can be a Bite. He can then immediately use <strong><em>alpha's howl</em></strong></p>
 <p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 13 (2d8 + 4) slashing damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 11 (2d6 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies. If the target was already cursed with werewolf lycanthropy and has gained a werewolf's regeneration feature, it can't regenerate until it completes a long rest.</p>
-<p><strong><em>Alpha's Howl.</em></strong> Any number of targets within 60 feet that can hear Kiril and which Kiril or his infected victims have cursed with werewolf lycanthropy must make a DC 18 Wisdom saving throw, losing one level of bloodlust on a success (minimum 0). On a failure, a target gains one level of bloodlust (maximum 2) and must immediately use its reaction, if available, to move up to its speed toward a random creature other than Kiril. If it has at least one level of bloodlust, it must make an attack against the other creature with its claws (see below). If it has two levels of bloodlust, it must also make an attack against the other creature with its bite (see below).</p>
-<p>A target with one level of bloodlust gains wolflike claws and can use its claws to make an attack using its Strength modifier (minimum 2), dealing 2d4 slashing damage plus its Strength modifier (minimum 2) on a hit. A target with two levels of bloodlust also gains a wolflike muzzle and can use its bite to make an attack using its Strength modifier (minimum 2), dealing 1d8 piercing damage plus its Strength modifier (minimum 2) on a hit. A target with bloodlust is proficient with its claws and bite. A Humanoid bitten in this way must succeed on a DC 18 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 11 (2d6 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 17 Fortitude saving throw or be cursed with werewolf lycanthropy until Kiril dies. If the target was already cursed with werewolf lycanthropy and has gained a werewolf's regeneration feature, it can't regenerate until it completes a long rest.</p>
+<p><strong><em>Alpha's Howl.</em></strong> Any number of targets within 60 feet that can hear Kiril and which Kiril or his infected victims have cursed with werewolf lycanthropy must make a DC 18 Will saving throw, losing one level of bloodlust on a success (minimum 0). On a failure, a target gains one level of bloodlust (maximum 2) and must immediately use its reaction, if available, to move up to its speed toward a random creature other than Kiril. If it has at least one level of bloodlust, it must make an attack against the other creature with its claws (see below). If it has two levels of bloodlust, it must also make an attack against the other creature with its bite (see below).</p>
+<p>A target with one level of bloodlust gains wolflike claws and can use its claws to make an attack using its Strength modifier (minimum 2), dealing 2d4 slashing damage plus its Strength modifier (minimum 2) on a hit. A target with two levels of bloodlust also gains a wolflike muzzle and can use its bite to make an attack using its Strength modifier (minimum 2), dealing 1d8 piercing damage plus its Strength modifier (minimum 2) on a hit. A target with bloodlust is proficient with its claws and bite. A Humanoid bitten in this way must succeed on a DC 18 Fortitude saving throw or be cursed with werewolf lycanthropy until Kiril dies.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 18 Dexterity saving throw, taking 14 (4d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 18 Reflex saving throw, taking 14 (4d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
@@ -805,12 +678,12 @@ Kiril then attacks.
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. <em>Hit:</em> 15 (4d4 + 5) slashing damage, and the target must succeed on a DC 18 Dexterity saving throw or be pushed 10 feet away or grappled (Kiril's choice).</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. Hit: 27 (4d10 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
-<p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. <em>Hit:</em> 15 (4d4 + 5) slashing damage, and the target must succeed on a DC 18 Reflex saving throw or be pushed 10 feet away or grappled (Kiril's choice).</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. Hit: 18 (4d10 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
+<p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Fortitude saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
-<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
+<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Will saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
+<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Reflex saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
@@ -820,7 +693,7 @@ Kiril then attacks.
 </div>
 
 > [!warning]+ **Leaping While Grappling**
-> 
+>
 > As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
 
 > [!warning] **Dragging Grappled Creatures**
@@ -841,11 +714,11 @@ The broad-shouldered man, Kellen, leads the other werewolves in thanking the pla
 
 If the players fail to do so, Emil claps a hand on Kellen’s shoulder and reassures him that the pack has nothing to fear, for the players are “great warriors" whose courage “will see to the vampire’s undoing." Although Kellen initially looks doubtful, he is grateful for any reassurances the players can provide.
 
-Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk. 
+Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk.
 
 Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
 
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
+***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 250 XP.
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
@@ -858,6 +731,8 @@ When the players first return to Argynvostholt after retrieving Argynvost’s sk
 * If they return to Argynvostholt before midnight, two revenants are present in the foyer.
 * Otherwise, three revenants are present in the foyer.
 
+Use [Graveknights scaled to 9th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
+
 Read the following, modifying the text as needed depending on the number of revenants present:
 
 <div class="description">
@@ -867,16 +742,17 @@ Read the following, modifying the text as needed depending on the number of reve
 <p>"May you greet your deaths with honor and courage," one revenant rasps, “as our general has commanded."</p>
 </div>
 
-> [!combat]- **Balancing the Return to the Foyer** 
-> This combat encounter is a **bloody** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 44% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of revenants in the foyer by one, to a minimum of one. 
-> * **Four Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
+> [!combat]- **Balancing the Return to the Foyer**
+> This combat encounter is a **Severe+** combat encounter against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller sizes, modify the encounter as follows:
+>
+> * **Three Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
+> * **Five Players**. Increase the number of revenants in the foyer by one.
 
 The revenants then attack.
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player who succeeds on a DC 22 Perception check notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 22 Perception check to Sense Motive notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
 
-A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
+A player can attempt a DC 24 Diplomacy check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Reflex saving throws with disadvantage, and grant advantage on any attacks made against them.
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
 
@@ -885,12 +761,12 @@ When the players defeat the last revenant, it warns them that Commander Horngaar
 
 
 ## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
+When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open.
 
 > [!abstract]+ **Teleporting Players**
 > When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
 
-The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 19 Dexterity (Stealth) check, Vladimir hears their approach and exits the mausoleum to address them. Read:
+The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 29 Stealth check, Vladimir hears their approach and exits the mausoleum to address them. Read:
 
 <div class="description">
 <p>The sound of shrieking, rusted metal cuts through the silent graveyard as a tall, broad-shouldered knight clad in once-fine armor steps forth from the open mausoleum.</p>
@@ -900,11 +776,11 @@ The first time the players enter the cemetery, if they’re not using stealth or
 > [!abstract]+ **Zorya’s Return**
 > If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
 
-> [!combat]- **Balancing the Fallen Knight** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Remove the phantom warriors in Vladimir’s second phase 
-> * **Four Players**. Reduce the number of phantom warriors in Vladimir’s second phase to two. 
-> * **Six Players**. Increase the number of phantom warriors in Vladimir’s second phase to six.
+> [!combat]- **Balancing the Fallen Knight**
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **Severe+** combat encounters against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller or larger sizes, modify the encounter as follows:
+> * **Three Players**. Reduce the number of phantom knights to one.
+> * **Five Players**. Increase the number of phantom knights to three.
+> * **Six Players**. Increase the number of phantom knights to four.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -1030,7 +906,9 @@ The first time the players enter the cemetery, if they’re not using stealth or
 
 Vladimir attacks if the players attack him first, or if he deems further conversation unnecessary. If the players ask to restore Argynvost’s skull to the mausoleum, he falters briefly, then shakes his head. “You are too dangerous to be left alive," he rumbles. “Your antagonism to von Zarovich is a threat I shall not tolerate. When you lie in the ground, perhaps then I shall complete the task you have set yourselves upon—but not until the last breath has left your bodies."
 
-When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
+When Vladimir start the combat, two **[Phantom Knights scaled to 6th level](https://2e.aonprd.com/Monsters.aspx?ID=3135)** materialize to aid him. The phantom warriors fight to the death.
+
+Vladimir can switch between phases freely using a single concentrate action.
 
 In addition, the first time a player enters the mausoleum, Vladimir uses one of his reactions to summon a ring of black fire encircling the cemetery. Read:
 
@@ -1038,9 +916,9 @@ In addition, the first time a player enters the mausoleum, Vladimir uses one of 
 <p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, encircling the the manor's walls and wrought-iron fencing with a ring of black flames.</p>
 </div>
 
-Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
+Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 26 Fortitude saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
 
-The flames block the players' exit at the top of the stairs to the chapel, forming a sheet of black fire eight feet high around the cemetery. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet (see <span class="citation">High Jump, <em>Player’s Handbook</em> (p. 182)</span>) or by succeeding on a DC 18 Strength (Athletics) check. (If a player is carrying the full weight of Argynvost’s skull, their high jump distance is reduced by 3 feet, and they make the Strength (Athletics) check with disadvantage). On a failure, the player lands prone in the flames.
+The flames form a sheet of black fire eight feet high. A creature takes 10 (3d6) fire damage plus 10 (3d6) void damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet.
 ## Q6c. Argynvost’s Return
 When a player first places Argynvost’s skull on an alcove in the mausoleum, read:
 
@@ -1103,7 +981,7 @@ If any player still possesses an amber shard, Godfrey warns them to "beware how 
 
 If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
 
-* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
+* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple.
 * Godfrey warned him to avoid the darkness that lay within the temple, but believes that Kasimir may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
 * Godfrey did not ask Kasimir’s purpose in seeking out the Temple, but does not believe that he bore any ill intent. “Even so, I knew all too well of the allure the Temple poses," he says. “I could sense the magic, intelligence, and desperation within him. Such individuals are the Temple’s most vulnerable prey."
 * The Amber Temple is located near the peak of Mt. Ghakis, at the end of a trail now long-lost to the ages. “I sense the elf has rediscovered it, however," Godfrey says solemnly. “Seek him out, and he may guide you to the place you seek."
@@ -1111,7 +989,7 @@ If he has reason to believe the players hold an interest in journeying to the Am
 As the conversation draws to a close, or if the players request a boon for restoring his skull to his crypt, Argynvost offers to instill one of their nonmagical weapons with “the flame of a silver dragon." A weapon blessed in this way gains the following additional features:
 
 * The weapon becomes a +1 magical weapon of its kind, and has 3 charges. It regains all expended charges at dawn.
-* The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Constitution saving throw or be paralyzed until the start of the wielder’s next turn.
+* The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Fortitude saving throw or be paralyzed until the start of the wielder’s next turn.
 * The weapon’s wielder can use 2 charges as a bonus action to cast the *beacon of hope* spell.
 * The weapon’s wielder can use 3 charges as an action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, it can't be used again for one year.
 
@@ -1134,7 +1012,7 @@ If one or more players agrees to do so, Argynvost then asks if they will take th
 
 When the oath is completed, Argynvost’s wings sag in evident relief. “Thank you," he whispers. “You have done more for me than you know."
 
-Whether the players take the oath or not, Argynvost says, “My spirit shall act as a beacon unto the valley, so that all shall know the final conflict is at hand. Yet that flame shall not last long—you must make haste, lest my soul burn away before your task is complete. Do you understand?" 
+Whether the players take the oath or not, Argynvost says, “My spirit shall act as a beacon unto the valley, so that all shall know the final conflict is at hand. Yet that flame shall not last long—you must make haste, lest my soul burn away before your task is complete. Do you understand?"
 
 If asked, Argynvost confirms that his soul will be destroyed by lighting the beacon, and that it may last for “a half-cycle of the moon"—i.e., seven days—"or perhaps more, if I have the strength in me," before it is utterly consumed. Argynvost freely shares that he does not fear the annihilation of his soul, and that he will consider the sacrifice well-worth it if it leads to the liberation of the valley.
 
@@ -1162,9 +1040,14 @@ Continue with the following, modifying the text as necessary to reflect each non
 <p>
 </div>
 
-All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
+All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection***:
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
+> [!info]+ **Beacon of Protection**
+> The target gains a +1 status bonus to Armor Class and saving throws against attacks, spells, and other effects.
+>
+> Once per day, the target can spend a free action with the concentrate trait to strengthening the fighting resolve the resonance, increasing the bonus to +2 for 10 minutes.
+
+***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 250 XP.
 # Q7. Return to the Werewolf Den
 
 > [!abstract]+ **Fighting Kiril**

@@ -1,5 +1,5 @@
 <ol class="flowchart">
-        <li><strong>Act I: Into the Mists (<em>2nd to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
+        <li><strong>Act I: Into the Mists (<em>1st to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
         <li><strong>Act II: The Shadowed Town (<em>4th to 5th level</em>).</strong> As they work to obtain their bearings in Vallaki, the players must recover stolen relics for St. Andral's Church, rescue a kidnapped Vistana girl, assassinate the dangerous Izek Strazni, defeat the hags of Old Bonegrinder, and restore the soul of Lady Fiona Wachter's sickly daughter.</li>
         <li><strong>Act III: The Broken Land (<em>5th to 7th level</em>).</strong> The players travel across the western half of the Barovian valley, defeating a cabal of druids at Yester Hill, infiltrating a werewolf den at Lake Baratok, exploring the haunted mansion of Argynvostholt, and recruiting the Vistana monster hunter Ezmerelda d'Avenir. After dining with Strahd at Castle Ravenloft, the players have an opportunity to raid the castle the following night, liberating multiple captives and artifacts from the vampire's clutches before returning to purify the Abbey of St. Markovia, obtain the <em>Holy Symbol of Ravenkind</em>, and light the beacon of Argynvostholt.</li>
         <li><strong>Act IV: Secrets of the Ancient (<em>8th to 9th level</em>).</strong> The players must endure Strahd's torments and the icy cold of Mount Ghakis, climbing Tsolenka Pass to the Amber Temple in order to recover the broken hilt of the <em>Sunsword</em> and unlock the secrets of the <em>Tome of Strahd</em>. Upon their descent, the players must defeat the witch of Berez, Baba Lysaga, and reconsecrate the sacred fanes of the Ladies Three.</li>
@@ -7,7 +7,7 @@
     </ol>
 
 # Act I: Into the Mists
-<div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
+<div class="subtitle"><em>For 1st to 3rd-level characters.</em></div>
 In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
 
 The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
@@ -19,15 +19,15 @@ As the players travel to Madam Eva's camp and the nearby town of Vallaki, they e
 Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
 
 ## Act I Milestones
-| Level | Arc | Milestone                                                          | XP    |
-| :---: | --- | ------------------------------------------------------------------ | ----- |
-|   2   | A   | The players access the secret stairs in Death House                | 200   |
-|   2   | A   | The players begin their first long rest after escaping Death House | 400   |
-|   3   | B   | The players defend and depart the village of Barovia               | 400   |
-|   3   | B   | The players aid Doru in passing his test of will                   | 100   |
-|   3   | B   | The players receive the Tarokka reading                            | 500   |
-|   3   | C   | The players arrive in Vallaki                                      | 1,000 |
-|   3   | C   | The players escort Ireena to Vallaki                               | 250   |
+| Level | Arc | Milestone                                                          | XP   |
+| :---: | --- | ------------------------------------------------------------------ | ---- |
+|   1   | A   | The players access the secret stairs in Death House                | 1000 |
+|   2   | A   | The players begin their first long rest after escaping Death House | 1000 |
+|   3   | B   | The players defend and depart the village of Barovia               | 120  |
+|   3   | B   | The players aid Doru in passing his test of will                   | 120  |
+|   3   | B   | The players receive the Tarokka reading                            | 240  |
+|   3   | C   | The players arrive in Vallaki                                      | 600  |
+|   3   | C   | The players escort Ireena to Vallaki                               | 80   |
 
 # Act II: The Shadowed Town
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>

@@ -1,5 +1,5 @@
 ---
-description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Dungeon Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
+description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Game Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
 keywords: Curse of Strahd guide, DM's guide to Curse of Strahd, guide to running Curse of Strahd, how to run Curse of Strahd, D&D, Dungeons and Dragons, Curse of Strahd, DM Guide, Barovia, Role-playing Game, DM Tips, Campaign Guide, Strahd Von Zarovich, Tabletop Games
 cover: preview.png
 ---
@@ -7,11 +7,15 @@ cover: preview.png
 <img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
 
 
-**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Dungeon Masters than their players.
+**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Game Masters than their players.
 
 That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
 
 Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
+
+> [!warning]+ **Pathfinder 2e Difficulty**
+> This guide sets difficulty pretty high and it assumes that Mythic rules will be used at some point of the adventure (to be updated).
+> As a Pathfinder 2e GM, I suggest for you to check carefully the encounters before running them as written. If you want easier times for your party, consider dropping difficulty by one step (or using 3 player version even though you play 4 player party).
 
 > [!info]- **I'm a new DM. Why use a guide at all?**
 > 
@@ -37,7 +41,7 @@ Whether you're looking for a guide to roleplaying Strahd von Zarovich, a compreh
 # Your Personal *Curse of Strahd* Guide
 *Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this DM's guide to *Curse of Strahd*:
 
-* **Simplifies** your preparation material, presenting the campaign in an organized, Dungeon Master-friendly format.
+* **Simplifies** your preparation material, presenting the campaign in an organized, Game Master-friendly format.
 * **Guides** you through complex scenes with NPC profiles, pre-written descriptions, and tips for table management.
 * **Enhances** your players' experience by filling in gaps, tying off loose ends, and presenting a more immersive and cohesive narrative.
 * **Elevates** the gameplay and story, pruning and refining adventure material while ensuring all content serves the greater narrative.
@@ -142,6 +146,47 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 ***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support; **Cheese** and **Nancy** for their assistance in balancing and playtesting encounters; and to **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza**, and **Scarfe** for their frequent counsel and feedback.
 
 ***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Crimson-1, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DanPrime, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, gmbenjamin, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Neokke, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, Talanor, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
+
+## Pathfinder License Notices
+
+### Pathfinder Community Use Notice
+
+This guide uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy ([paizo.com/communityuse](https://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This guide is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](https://paizo.com).
+
+### ORC License Notice
+
+This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including [paizo.com/orclicense](https://paizo.com/orclicense), [azoralaw.com/orclicense](https://azoralaw.com/orclicense), and others. All warranties are disclaimed as set forth therein.
+
+**Attribution** This product is based on the following Licensed Material:
+
+**Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leigh Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
+
+**Pathfinder GM Core** © 2023 Paizo Inc., Designed by Logan Bonner and Mark Seifter. Authors: Amirali Attar Olyaee, Logan Bonner, Creighton Broadhurst, Jason Bulmahn, James Case, Jesse Decker, Eleanor Ferron, Fabby Garza Marroquín, Jaym Gates, Matthew Goetz, James Jacobs, Brian R. James, Jenny Jarzabski, Dustin Knight, Jason LeMaitre, Lyz Liddell, Luis Loza, Ron Lundeen, Stephen Radney-MacFarland, David N. Ross, Michael Sayre, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Clark Valentine, Landon Winkler, and Linda Zayas-Palmer
+
+**Pathfinder Monster Core** © 2024 Paizo Inc., Authors: Alexander Augunas, Dennis Baker, Kate Baker, Joshua Birdsong, Joseph Blomquist, Logan Bonner, Jason Bulmahn, James Case, John Compton, Paris Crenshaw, Adam Daigle, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Eleanor Ferron, Leo Glass, Matthew Goodall, BJ Hensley, Thurston Hillman, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Miko Kallio, Jason Keeley, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Robert G. McCreary, Philippe-Antoine Menard, Jacob W. Michaels, Dave Nelson, Jason Nelson, Tim Nightengale, Stephen Radney-MacFarland, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Amber Stewart, Jeffrey Swank, William Thompson, Jason Tondro, Clark Valentine, Landon Winkler, Tonya Woldridge, and Linda Zayas-Palmer
+
+**Pathfinder War of Immortals** © 2024 Paizo Inc., Authors: James Case, Liane Merciel, and Michael Sayre, Jessica Catalan, Matt Chapmond, Steven Hammond, Steven Helt, Brent Holtsberry, Jason Keeley, Michelle Y. Kim, Luis Loza, Erik Mona, AJ Neuro, JK Saavedra, Tony Saunders, Andrew Stoeckle, Greg A. Vaughan and Ruvaid Virk.
+
+**Pathfinder Gamemastery Guide** © 2020, Paizo Inc.; Authors: Alexander Augunas, Jesse Benner, John Bennett, Logan Bonner, Clinton J. Boomer, Jason Bulmahn, James Case, Paris Crenshaw, Jesse Decker, Robert N. Emerson, Eleanor Ferron, Jaym Gates, Matthew Goetz, T.H. Gulliver, Kev Hamilton, Sasha Laranoa Harving, BJ Hensley, Vanessa Hoskins, Brian R. James, Jason LeMaitre, Lyz Liddell, Luis Loza, Colm Lundberg, Ron Lundeen, Stephen Radney-MacFarland, Jessica Redekop, Alistair Rigg, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Christina Stiles, Landon Winkler, and Linda Zayas-Palmer.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Advanced Player Guide** © 2020, Paizo Inc.; Authors: Logan Bonner, Lyz Liddell, and Mark Seifter.
+
+**Pathfinder Bestiary (Second Edition)** © 2019, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Jason Bulmahn, John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, Leo Glass, Thurston Hillman, James Jacobs, Jason Keeley, Lyz Liddell, Ron Lundeen, Robert G. McCreary, Tim Nightengale, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Jeffrey Swank, Jason Tondro, Tonya Woldridge, and Linda Zayas-Palmer.
+
+**Pathfinder Bestiary 2 (Second Edition)** © 2020, Paizo Inc.; Authors: Alexander Augunas, Dennis Baker, Jesse Benner, Joseph Blomquist, Logan Bonner, Paris Crenshaw, Adam Daigle, Jesse Decker, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Keith Garrett, Scott Gladstein, Matthew Goodall, T.H. Gulliver, BJ Hensley, Tim Hitchcock, Vanessa Hoskins, James Jacobs, Brian R. James, Jason Keeley, John Laffan, Lyz Liddell, Colm Lundberg, Ron Lundeen, Jason Nelson, Randy Price, Jessica Redekop, Patrick Renie, Alistair Rigg, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Amber Stewart, Jeffrey Swank, Russ Taylor, and Jason Tondro.
+
+**Pathfinder Bestiary 3 (Second Edition)** © 2021, Paizo Inc.; Authors: Logan Bonner, James Case, Jessica Catalan, John Compton, Paris Crenshaw, Adam Daigle, Katina Davis, Erik Scott de Bie, Jesse Decker, Brian Duckwitz, Hexe Fey, Keith Garrett, Matthew Goodall, Violet Gray, Alice Grizzle, Steven Hammond, Sasha Laranoa Harving, Joan Hong, James Jacobs, Michelle Jones, Virginia Jordan, TJ Kahn, Mikko Kallio, Jason Keeley, Joshua Kim, Avi Kool, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Philippe-Antoine Menard, Patchen Mortimer, Dennis Muldoon, Andrew Mullen, Quinn Murphy, Dave Nelson, Jason Nelson, Samantha Phelan, Stephen Radney-MacFarland, Danita Rambo, Shiv Ramdas, BJ Recio, Jessica Redekop, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Simone D. Sallé, Michael Sayre, Mark Seifter, Sen.H.H.S, Abigail Slater, Rodney Sloan, Shay Snow, Pidj Sorensen, Kendra Leigh Speedling, Tan Shao Han, William Thompson, Jason Tondro, Clark Valentine, Ruvaid Virk, Skylar Wall, Andrew White, and Landon Winkler.
+
+**Pathfinder Lost Omens: Knights of Lastwall** © 2021, Paizo Inc.; Authors: Jessica Catalan, Banana Chan, Ryan Costello, Katina Davis, Alastor Guzman, Ron Lundeen, Ianara Natividad, Erin Roberts, Ashton Sperry, and Isabelle Thorne.
+
+**Rage of Elements** © 2024, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, James Case, Jessica Catalan, Andrew D. Geels, Sen H.H.S., Patrick Hurley, Jason Keeley, Luis Loza, Mark Moreland, Jonathan Morgantini, AJ Neuro, Jessica Redekop, Michael Sayre, Mark Seifter, Shahreena Shahrani, Shay Snow, Solomon St. John, Levi Steadman, Mari Tokuda, Ruvaid Virk, Andrew White, and Linda Zayas-Palmer.
+  
+**Reserved Material:** This product contains no Reserved Material.
+
+**Expressly Designated Licensed Material:** This product contains no Expressly Designated Licensed Material.
+
 # About the Author
 **DragnaCarta** first began DMing in 2008 with the 4th Edition "Red Box." Since then, he has run three complete *Curse of Strahd* campaigns, including [*Curse of Strahd: Twice Bitten*](https://www.youtube.com/watch?v=fiu6bM9RxbM), a Rules-As-Written Actual Play featuring five other *Curse of Strahd* DMs as players.
  

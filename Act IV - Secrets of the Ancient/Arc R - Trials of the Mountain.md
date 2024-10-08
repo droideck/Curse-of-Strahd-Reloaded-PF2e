@@ -1,4 +1,6 @@
-_An adventure for five 8th-level characters._
+_An adventure for four 9th-level characters._
+
+??? [Amalgamite](https://2e.aonprd.com/Monsters.aspx?ID=1059)
 
 In this arc, after learning that the dusk elf Kasimir Velikov knows the location of the Amber Temple after lighting Argynvost's beacon in [[Arc Q - A Shining Beacon]], the players must recruit Kasimir to their cause and traverse the treacherous Tsolenka Pass as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful Strahd—now determined to turn the players into vampire spawn—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.
 
@@ -2373,7 +2375,7 @@ Before the players depart, or at another suitable point in the conversation, Bur
 
 If asked, Burebis has sufficient energy to answer one final question; otherwise, or once he has done so, Burebis dismisses them, adding: "Go well, and may the Ladies guide you through the trials that await." He then falls asleep, and cannot be woken until the players return.
 
-***Milestone.*** Receiving Burebis’s mission achieves a story milestone. When the players depart the Shrine of the Rozana, award each player 5,000 XP.
+***Milestone.*** Receiving Burebis’s mission achieves a story milestone. When the players depart the Shrine of the Rozana, award each player 500 XP.
 ## R5g. Morning in Soldav
 Upon their return to Chief Diegia's longhouse, the players find that Como, Kaldur, and (if the players have made peace with him) Scorilo have cleared away the tables, benches, and refuse left by the holiday feast, allowing the players to place their bedrolls around the hearth. (Due to Burebis’s protective clouds, which shroud Soldav’s crater from view and protect it from divination, Strahd and his spies can’t find the players while they remain in Soldav, and their long rest is uninterrupted.)
 
@@ -2414,4 +2416,4 @@ If Sangzor does not detect any intent to seek the vestiges' power in the players
 ## R6b. The Amber Temple
 Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
-***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
+***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 500 XP.
