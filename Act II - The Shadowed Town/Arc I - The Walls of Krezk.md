@@ -91,10 +91,10 @@ Soon after the players depart the Raven River Crossroads, they cross paths with 
 The players can do battle with the blights, or they can hide in the thickets to avoid the horde’s attention with a successful DC 10 group Dexterity (Stealth) check, as described in **Group Checks** (*Player’s Handbook*, p. 175).
 
 > [!combat]- **Balancing the Needle Blights**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of four 5th-level players, and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of needle blights to six.
-> * ***Four Players.*** Reduce the number of needle blights to eight.
+> * ***Five Players.*** Reduce the number of needle blights to eight.
 > * ***Six Players.*** Increase the number of needle blights to twelve.
 ## I3b. The Luna River Path
 As the players depart the Luna River Crossroads, read:

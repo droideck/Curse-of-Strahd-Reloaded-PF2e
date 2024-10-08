@@ -236,11 +236,11 @@ The **greater strix** uses the statistics of a **manticore**, but is Medium and 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
-> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** encounter against a party of four 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (2d4) piercing damage if it has half its hit points remaining or fewer.
-> * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
-> * ***Six Players.*** Increase the number of swarms of lesser strix to three.
+> * ***Three Players.*** Reduce the number of swarms of lesser strix to one.
+> * ***Five Players.*** Increase the number of swarms of lesser strix to three.
+> * ***Six Players.*** Increase the number of swarms of lesser strix to four.
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
 
@@ -327,7 +327,7 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
 
 > [!warning]+ **New Content Warning**
-> In the v2.0.8 update, added **July 18, 2024**, Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia]] was removed. In its place, Ismark Kolyanovich now asks the players to travel to Tser Pool and seek Madam Eva's guidance on how Strahd may be defeated. Dungeon Masters who used the old version of Arc B should instead use the [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|deprecated version of this scene]]. (All other scenes in this arc, beginning with [[#C5. The Skeletal Rider]], remain unchanged.)
+> In the v2.0.8 update, added **July 18, 2024**, Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia]] was removed. In its place, Ismark Kolyanovich now asks the players to travel to Tser Pool and seek Madam Eva's guidance on how Strahd may be defeated. Game Masters who used the old version of Arc B should instead use the [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|deprecated version of this scene]]. (All other scenes in this arc, beginning with [[#C5. The Skeletal Rider]], remain unchanged.)
 ## C4a. Arrival at Tser Pool
 This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
 
