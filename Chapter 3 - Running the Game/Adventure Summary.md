@@ -19,15 +19,15 @@ As the players travel to Madam Eva's camp and the nearby town of Vallaki, they e
 Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
 
 ## Act I Milestones
-| Level | Arc | Milestone                                                          | XP    |
-| :---: | --- | ------------------------------------------------------------------ | ----- |
-|   2   | A   | The players access the secret stairs in Death House                | 200   |
-|   2   | A   | The players begin their first long rest after escaping Death House | 400   |
-|   3   | B   | The players defend and depart the village of Barovia               | 400   |
-|   3   | B   | The players aid Doru in passing his test of will                   | 100   |
-|   3   | B   | The players receive the Tarokka reading                            | 500   |
-|   3   | C   | The players arrive in Vallaki                                      | 1,000 |
-|   3   | C   | The players escort Ireena to Vallaki                               | 250   |
+| Level | Arc | Milestone                                                          | XP   |
+| :---: | --- | ------------------------------------------------------------------ | ---- |
+|   1   | A   | The players access the secret stairs in Death House                | 1000 |
+|   2   | A   | The players begin their first long rest after escaping Death House | 1000 |
+|   3   | B   | The players defend and depart the village of Barovia               | 120  |
+|   3   | B   | The players aid Doru in passing his test of will                   | 120  |
+|   3   | B   | The players receive the Tarokka reading                            | 240  |
+|   3   | C   | The players arrive in Vallaki                                      | 600  |
+|   3   | C   | The players escort Ireena to Vallaki                               | 80   |
 
 # Act II: The Shadowed Town
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>

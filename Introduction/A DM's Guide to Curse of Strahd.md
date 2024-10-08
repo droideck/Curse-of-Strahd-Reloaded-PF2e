@@ -1,5 +1,5 @@
 ---
-description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Dungeon Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
+description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Game Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
 keywords: Curse of Strahd guide, DM's guide to Curse of Strahd, guide to running Curse of Strahd, how to run Curse of Strahd, D&D, Dungeons and Dragons, Curse of Strahd, DM Guide, Barovia, Role-playing Game, DM Tips, Campaign Guide, Strahd Von Zarovich, Tabletop Games
 cover: preview.png
 ---
@@ -7,7 +7,7 @@ cover: preview.png
 <img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
 
 
-**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Dungeon Masters than their players.
+**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Game Masters than their players.
 
 That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
 
@@ -37,7 +37,7 @@ Whether you're looking for a guide to roleplaying Strahd von Zarovich, a compreh
 # Your Personal *Curse of Strahd* Guide
 *Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this DM's guide to *Curse of Strahd*:
 
-* **Simplifies** your preparation material, presenting the campaign in an organized, Dungeon Master-friendly format.
+* **Simplifies** your preparation material, presenting the campaign in an organized, Game Master-friendly format.
 * **Guides** you through complex scenes with NPC profiles, pre-written descriptions, and tips for table management.
 * **Enhances** your players' experience by filling in gaps, tying off loose ends, and presenting a more immersive and cohesive narrative.
 * **Elevates** the gameplay and story, pruning and refining adventure material while ensuring all content serves the greater narrative.
