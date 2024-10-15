@@ -809,13 +809,15 @@ A player that approaches the orb can hear many voices whispering the following p
 
 Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
 
-If the orb is removed from its position, the three ashen **[Weak Shadows](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir. Each round, one shadow “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+If the orb is removed from its position, the four ashen **[Shadows scaled down to 2nd level](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir. Each round, one shadow “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
 
 * “Begone from this place!”
 * “Look not upon us.”
 * “Return the Darklord’s offering!”
 
 Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+
+Alternatively, you can make the crystal ball function as a wand of 1st level. [Command](https://2e.aonprd.com/Spells.aspx?ID=1470) spell is a good candidate.
 
 The shadows gain the following additional feature:
 
@@ -824,9 +826,9 @@ The shadows gain the following additional feature:
 > [!combat]- **Balancing the Shadows**
 > This combat encounter is a **Extreme** encounter against a party of 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the number of shadows to two.
-> * ***Five Players.*** Leave it at three.
-> * ***Six Players.*** Increase the number of shadows to four.
+> * ***Three Players.*** Reduce the number of shadows to three.
+> * ***Five Players.***  Increase the number of shadows to five.
+> * ***Six Players.*** Increase the number of shadows to six.
 ### Hidden Trapdoor
 <span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
 
@@ -1030,6 +1032,7 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 > * ***Three Players.*** I wouldn't change it but I'd play the fight in a much less tactical way. It can smash things around, dash for the farthest character, etc.
 > * ***Five Players.*** I'd scale Flesh Mound to level 5. And Walter should be Level 4 made Elite (so making it Level 5).  
 > * ***Six Players.*** Apply Elite template to both monsters and play it in a much less tactical way as it will crit a lot. 
+
 ## A2h. Escape From Death House
 When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
 
@@ -1108,7 +1111,7 @@ The dog Lancelot, a popular community character, has been intentionally cut from
 ***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
 
 ***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
-
+	
 ***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergei von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
 
 The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
