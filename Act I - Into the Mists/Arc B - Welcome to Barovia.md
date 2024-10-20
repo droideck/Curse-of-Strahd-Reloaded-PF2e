@@ -1,4 +1,4 @@
-*An adventure for five 3rd-level characters.*
+*An adventure for four 3rd-level characters.*
 
 > [!warning]+ **Recent Update**
 > This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
@@ -28,7 +28,7 @@ The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter m
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 15 Medicine check and 10 minutes of Investigation reveals that he died of exhaustion. Critical success on the check reveals that the cause was partially unnatural. 
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
@@ -55,7 +55,7 @@ If the players continue to follow the footpath in the direction of the arrows, t
 
 The fog is part of the Mists that surround and entrap Barovia. If the players brought Dalvan's compass with them, the needle is now spinning wildly in circles.
 
-If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again.)
+If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 10 Fortitude saving throw or become Drained 1 or increase it by 1 to the maximum of drained 4, as the fog saps their energy and drains their life force. Critical failure would also make them Fatigued and Drained 2. (The DC increases by 5 each time that the players pass through the fog again this day)
 
 Upon emerging from the fog, the players can see a fourth tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. In addition, the fourth tree appears to bear a carving and has an object protruding from its trunk. If the players inspect it, read:
 
@@ -101,7 +101,7 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add **Immunities** non-silver physical damage;) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Guards](https://2e.aonprd.com/NPCs.aspx?ID=933)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -241,7 +241,7 @@ Once the players have retrieved the crate of fire bottles and had an opportunity
 ## B5d. The Burgomaster’s Mansion
 This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
 ### The Angry Mob
-When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
+When the players arrive, they find a mob of ten Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** has formed outside of the mansion. Add the following to the end of this area’s description:
 
 <div class="description">
 <p>A small mob of villagers have gathered outside of the manor, brandishing pitchforks, brooms, and axes. A plain, tired-looking woman stands at their front, her wavy brown hair tied back with a wrinkled white bandana.</p>
@@ -250,7 +250,7 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **[Noble](https://2e.aonprd.com/NPCs.aspx?ID=882)** with a fatigue. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
 > [!profile]+ **Profile: Ireena Kolyana**
 >
@@ -303,7 +303,11 @@ If the players are still present and haven’t yet intervened, Ireena pleads for
 
 If the players intervene, Alenka, Kolyan, and Ireena receive them with unfamiliarity and surprise, though Alenka is suspicious that they may be spies for “the Devil Strahd." (If Ismark’s name is mentioned, Ireena and Kolyan are reassured, though Alenka spits on the ground and quietly cursed “Ismark the Lesser" under her breath.)
 
-The players can disperse the mob by making a reasonable argument and succeeding on a DC 10 Charisma (Persuasion) check, made with advantage if the players inquire into Alenka’s missing family members and show her sympathy. The players can also disperse the mob by brandishing their weapons or magic and succeeding on a DC 10 Charisma (Intimidation) check, made with advantage if they mention their recent battles in Death House.
+The players have one round of conversations (one turn each) in which they should earn the number of Victory points equal to the number of members in the party.
+
+They can disperse the mob by making a reasonable argument and succeeding on a DC 18 Diplomacy check or DC 16 Diplomacy check if the players inquire into Alenka’s missing family members and show her sympathy. The players can also disperse the mob by brandishing their weapons or magic and succeeding on a DC 18 Intimidation check or DC 16 Intimidation check, if they mention their recent battles in Death House.
+
+Allow other skill checks if they feel appropriate but increase it to DC 20 or even DC 23 if it feels particularly hard.
 
 If the players appear ready to attack the mob unprovoked, Kolyan pleads for them to avoid violence. “They’re confused," he says hoarsely, “but they’re Barovians, all the same."
 
@@ -366,7 +370,7 @@ Burgomaster of Barovia</p>
 The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
 
 > [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
+> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have +2 circamstance bonus on any checks to [Make an Impression](https://2e.aonprd.com/Actions.aspx?ID=2392)  made within that ten minutes, provided it is possible for the check to succeed.
 #### Rooms at the Mansion
 If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
 
@@ -392,27 +396,26 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 > [!item]+ **Fire Bottle**
 > This bottle of Purple Grapemash No. 3, which bears the stamp of the Wizard of Wines winery, has been distilled, increasing its alcohol content, and had its cork removed and replaced with a rag wick. 
 > 
-> As an action, a creature can use a lit torch or other fire source to light the wick, then throw the bottle up to 20 feet, shattering on impact. Make a ranged attack against a creature or object, treating the bottle as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. 
-> 
-> A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+> As an action, a creature can use a lit torch or other fire source to light the wick, then another action to throw the bottle as a usual Bomb (**Hands** 1; **Range** 20 ft.), shattering on impact. On a hit, the target takes 1d6 fire damage and 1 persistent fire damage, and 1 fire splash damage.
+
 
 > [!abstract]+ **Visiting the Church**
 > Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Should the players choose to visit it before proceeding to [[#B5e. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling common items up to 3rd level for ten times the price listed in the *Player Core*, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
 
-If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
+If any players were kind to him in the tavern, he instead sells those players common items up to 3rd level at the normal price listed in *Player Core* — a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the *Player Core*, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
 During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
 
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage) and he is an [Elite Merchant](https://2e.aonprd.com/NPCs.aspx?ID=956).
 
-When the players first encounter Parriwimple, read:
+When the players first encounter Parriwimple - [Elite Bodyguard](https://2e.aonprd.com/NPCs.aspx?ID=921), read:
 
 <div class="description">
 <p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
@@ -440,10 +443,12 @@ Bildrath greets the players warmly or coldly, depending on their interaction at 
 
 Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
 
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
+If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two [Nets](https://2e.aonprd.com/Equipment.aspx?ID=2738), two [Caltrop Snares](https://2e.aonprd.com/Equipment.aspx?ID=332), ten flasks of [Oil](https://2e.aonprd.com/Equipment.aspx?ID=2739), and three [Spike Snares](https://2e.aonprd.com/Equipment.aspx?ID=343) from his shop, to be used in preparing the barricade for the siege. Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
+
+Barricade can be Repaired with DC 17 Crafting check.
 
 > [!info]+ **The Barricade**
-> The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
+> The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 10, Hardness 5, and 10 Hit Points, and it's immune to critical hits and precision damage. 
 >
 > Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
 
@@ -457,56 +462,47 @@ Dusk falls soon after the players complete their preparations. Read:
 <p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
 </div>
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
+If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his club closer to his chest.
 
 > [!info]+ **A Moonless Night**
 > At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick cloud cover obscures the moonlight, preventing defenders without darkvision from seeing any approaching creatures in the darkness.
 
 > [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
+> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his club, though he’s grateful for any aid the players might provide.
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
->
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.
-
-  
 > [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
-> * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
-> * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> Due to the wave mechanic, this combat encounter is very dangerous even though party will have an opportunity to rest for 10 minutes in between waves.
+> * **Three Players**. Apply Weak template to both Shambler Troops in the first wave. Apply Weak template to both Wights in the second wave. Apply Weak template to Zombie Hulk in the third wave. 
+> * **Five Players**. Apply Elite template to one Shambler Troops in the first wave. Apply Elite template to both Festrogs in the second wave. Apply Elite template to two plague zombies in the third wave. 
+> * **Six Players**. Apply Elite template to both Shambler Troops in the first wave. Apply Elite template to both Festrogs and to one Wight in the second wave. Apply Elite template to all four plague zombies in the third wave. 
 
-***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
-
-<div class="description">
-<p>Six figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
-</div>
-
-In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their **slam** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
-
-***The Second Wave.*** At the beginning of the third round of combat after the first wave arrives, two additional **zombies** emerge from the darkness, joined by two **ghouls**. Read:
+***The First Wave.*** Not long after darkness falls, two **[Shambler Troops](https://2e.aonprd.com/Monsters.aspx?ID=1376)** emerge from the darkness and approach the barricade. Read:
 
 <div class="description">
-<p>Two more zombies shamble from the gloom, flanked by a pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes. These ghouls move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night.</p>
+<p>Countless figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
 </div>
 
-The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
+In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their **Shambling Onslaught** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
 
-***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
+***The Second Wave.*** After 13 minutes, second wave arrives, two **[Festrogs](https://2e.aonprd.com/Monsters.aspx?ID=1153)** emerge from the darkness, joined by two **[Wight](https://2e.aonprd.com/Monsters.aspx?ID=3239)**. Read:
 
 <div class="description">
-<p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
+<p>A pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes emerge from the darkness. These like-ghouls-creatures move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night. Behind them - a couple of dark creatures with a red eyes and bows march behind them.</p>
 </div>
 
-> [!info]+ **The Plague Spreader**
-> Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature. 
->
-> In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
+The festrogs try to climb through the barricade using their claws. Meanwhile, the wights attack from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. When they run out of arrows or if melee combat approaches them, the wights draw their ***bound daggers*** and engages the players directly.
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+***The Third Wave.*** After 10 minutes, the third wave arrives, a **[Zombie Hulk with virulent miasma](https://2e.aonprd.com/Monsters.aspx?ID=3252)** and four **[Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=3250)** approach the barricade. Read:
 
-Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
+<div class="description">
+<p>A giant undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air. A few sickly looking zombies shamble near him.</p>
+</div>
+
+> [!info]+ **Virulent Miasma**
+> Giant zombie exhales a deadly poisonous red mist cloud in a 30-foot emanation. The cloud deals 6d6 poison damage to all creatures in the area, which must attempt a DC 22 Basic Fortitude. Giant zombie can't use Fetid Breath again for 1d4 rounds.
+> On a failure the creature is also exposed to Zombie Rot.
+
+The giant zombie spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth. One time use.
 ## B5g. The Western Barricade
 ### The Raven’s Guidance
 Shortly after the players dispatch the final wave, the **wereraven** Muriel appears to them in **raven** form. Read:
@@ -534,8 +530,7 @@ If the players follow her, Muriel guides them west toward the town square, then 
 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
-
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the [Zombie Brute with virulent miasma](https://2e.aonprd.com/Monsters.aspx?ID=3251). If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while switching to shield and using Raise Shield action taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
@@ -732,9 +727,9 @@ Ireena is horrified by her father’s death and the prospect that their home was
 
 Once the players have sufficiently comforted the siblings, Ismark exhaustedly asks the players to remain at the mansion with Ireena while he returns to the town square to ensure that any wounded Barovians are cared for. “We will see to our father’s burial tomorrow," he adds, quietly. "And if you can—try to get some sleep. You've more than earned it."
 ### The Argument
-Ismark returns to the manor shortly before midnight. Shortly thereafter, any players who remain awake, or who have a passive Wisdom (Perception) of 15 or greater, overhear a muffled argument from the kitchen below. 
+Ismark returns to the manor shortly before midnight. Shortly thereafter, any players who remain awake, or who pass a secret DC 15 Perception check, overhear a muffled argument from the kitchen below. 
 
-The players can eavesdrop on this conversation with a successful DC 13 Dexterity (Stealth) check or a successful DC 15 Wisdom (Perception) check. Read:
+The players can eavesdrop on this conversation with a successful DC 17 Stealth check or a successful DC 20 Perception check. Read:
 
 <div class="description">
 <p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
@@ -751,14 +746,14 @@ The players can eavesdrop on this conversation with a successful DC 13 Dexterity
 <p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
 </div>
 
-Ismark and Ireena ascend the stairs a few moments later. A player with a passive Wisdom (Insight) score of 10 or more notices that both have blotchy, red eyes, as if from crying.
+Ismark and Ireena ascend the stairs a few moments later. A player who is Expert in Perception notices that both have blotchy, red eyes, as if from crying.
 
 If confronted, Ismark can reluctantly share the following information:
 
 * He no longer believes that Barovia, surrounded by suspicious neighbors and in the shadow of the Devil’s keep, is safe for Ireena.
 * Instead, Ismark intends for Ireena to travel to Vallaki, a fortified town to the west. St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead.
 
-When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
+When the player returns to their room, they can see two **[Vampire Bat Swarms](https://2e.aonprd.com/Monsters.aspx?ID=2848)**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
 The players' rest at the mansion passes without incident. When they awaken the following morning, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
 
@@ -778,7 +773,7 @@ Ismark shares the information regarding his desire to bring her to Vallaki as de
 
 Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
 
-If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
+If the players agree to do so, the player with the highest Perception notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
 
 The players have one round to kill the rat as it scurries toward a large hole in the kitchen wall. If they fail to do so, Ireena skewers it with her rapier before it can do so, recognizing it as one of Strahd's spies.
 
@@ -870,7 +865,7 @@ If the players inquire further, Donavich can share the following information:
 
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 15 Perception check to Sense Motive reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
 The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
@@ -878,7 +873,7 @@ The undercroft is largely as described in <span class="citation">E5g. Undercroft
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
 </div>
 
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player who passes DC 25 Perception secret check spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
 
 <div class="description">
 <p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
@@ -1074,7 +1069,7 @@ Ireena gladly returns to the mansion with the players, or returns on her own sho
 
 When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
 
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 240 XP. If Doru successfully passed his test of will, award each player an additional 80 XP.
 
 > [!info]+ **Ireena Joins the Party**
 >
