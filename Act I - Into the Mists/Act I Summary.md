@@ -12,10 +12,10 @@ The players begin this act at 1st level and should end it at 4th level, gaining 
 
 * discover the secret staircase in Death House (1000 XP)
 * successfully escape Death House (1000 XP)
-* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (120 XP)
-* reconcile Doru with his father (120 XP)
+* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (240 XP)
+* reconcile Doru with his father (80 XP)
 * receive the Tarokka reading from Madam Eva (240 XP)
-* find lodging in Vallaki (600 XP)
+* find lodging in Vallaki (440 XP)
 * escort Ireena to Vallaki (80 XP)
 # Timeline
 * [[Arc A - Escape From Death House]]: The players enter Death House, defeat the Flesh Mound, and emerge into the Svalich Woods on Octyavr 27, 735 B.C. (Barovian Calendar).
