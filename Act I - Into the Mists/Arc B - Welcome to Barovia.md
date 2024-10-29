@@ -101,7 +101,14 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add **Immunities** non-silver physical damage;) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Guards](https://2e.aonprd.com/NPCs.aspx?ID=933)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add **Immunities** non-silver physical damage;) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
+
+> [!info]+ **Pathfinder 2e Statblock Suggestion**
+> I suggets to create a PC statblock for Ismark character. You can create your own or follow my suggestions.
+> 
+> **Ancestry** - Versatile Human
+> **Background** - Hunter
+> **Class** - Fighter
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -250,7 +257,14 @@ When the players arrive, they find a mob of ten Barovian **[Commoners](https://2
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **[Noble](https://2e.aonprd.com/NPCs.aspx?ID=882)** with a fatigue. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **[Noble](https://2e.aonprd.com/NPCs.aspx?ID=882)** with a fatigue. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>. 
+
+> [!info]+ **Pathfinder 2e Statblock Suggestion**
+> I suggets to create a PC statblock for Ireena character. You can create your own or follow my suggestions.
+> 
+> **Ancestry** - Versatile Human
+> **Background** - Noble
+> **Class** - Scoundrel Rogue
 
 > [!profile]+ **Profile: Ireena Kolyana**
 >
@@ -868,7 +882,7 @@ The undercroft is largely as described in <span class="citation">E5g. Undercroft
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
 </div>
 
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player who passes DC 25 Perception secret check spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+Doru, a **[Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224)**, has used his ***climb*** speed to cling to the ceiling at the sound of the players’ approach. A player who passes DC 22 Perception secret check spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
 
 <div class="description">
 <p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
