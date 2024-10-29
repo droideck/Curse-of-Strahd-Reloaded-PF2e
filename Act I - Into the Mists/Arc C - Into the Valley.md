@@ -1,6 +1,6 @@
 *An adventure for four 3rd-level characters.*
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
 Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
 
@@ -32,7 +32,7 @@ As the players travel, read:
 
 If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+The voice belongs to a gruff female Barovian **[Elite Torchbearer](https://2e.aonprd.com/NPCs.aspx?ID=901)** named Kereza, who is joined by a second, soft-spoken male **[Elite Torchbearer](https://2e.aonprd.com/NPCs.aspx?ID=901)** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
 
@@ -44,7 +44,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **[Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241).** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
@@ -53,7 +53,7 @@ If the players received the location of Van Richten’s hidden weapons cache fro
 <p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. </p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
+The five figures are **[Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=3250)**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
 
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
@@ -69,11 +69,11 @@ The players have arrived at the River Ivlis Crossroads, which is largely as desc
 
 This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
 ## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+The players can see a driver sitting in the coach box: the **[Elite Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224)** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **[Dire Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3242)**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
 
 The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
@@ -151,7 +151,7 @@ Whether Ireena is with the party or not, add:
 > 
 > <hr>
 > 
-> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
+> The wolves are **[Dire Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
 > 
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
@@ -216,7 +216,7 @@ If the players appear to doubt Strahd's fidelity to his concessions, [he promise
 
 When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
 
-As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
+As he does, Strahd’s **[Dire Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3242)**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
 ## C2e. Departing the Crossroads
 As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
 # C3. The Strix
@@ -228,12 +228,12 @@ Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, t
 
 The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
 
-The **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+The **greater strix** uses the statistics of a **[Weak Manticore](https://2e.aonprd.com/Monsters.aspx?ID=3093)**, but is **Medium** and has **Weakness 5** to **fire** damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
 ![[Greater Strix.png]]
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
+The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **[Weak Raven Swarms](https://2e.aonprd.com/Monsters.aspx?ID=782)** with additional **Weakness 5 fire**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
 > This combat encounter is a **bruising** encounter against a party of four 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -247,7 +247,7 @@ These abominations were built by the witch Baba Lysaga to hunt down wereravens. 
 > [!warning]+ **Don't Hurt Ireena**
 > Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
 
-If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
+If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 20 Medicine check, reducing her to 0 hit points and causing her to gain Dying 1 on a failure or Dying 2 on critical failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
 <div class="statblock"> 
 <h2>Muriel Vinshaw</h2> 
@@ -333,7 +333,7 @@ This area is largely as described in <span class="citation">G. Tser Pool Encampm
 
 As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
 
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
+Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **[Night Hags](https://2e.aonprd.com/Monsters.aspx?ID=257)** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
 However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
@@ -423,7 +423,7 @@ If the players make their way to the Vistani fire, Eliza—and Arturi, if he is 
 ## C4d. The Dancing Fire
 As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
 
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
+If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 16 Perseption to Sense Motive check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
 
 > [!info]+ **Insight Checks**
 > Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
@@ -502,13 +502,13 @@ After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireen
 <p>"A heavy mist had descended around me, and shadowed shapes lurked in every corner. I stepped forward, one hand reaching fearfully into the fog—and a wolf made of mist leapt forth, its jaws opened wide to devour me. And then—everything went black.</p>
 <p>"The next thing I remembered, I awoke in my own bed, my father's humming echoing from the kitchen. I don't know how I got there, or what became of the wolf, but I can still remember its teeth as clearly as ever."</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
+When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **[Dire Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3242)** until recently.
 
 If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
 ### Arturi Departs
 When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
 
-A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
+A player who succeeds on a DC 18 Diplomacy check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
 
 Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
 
@@ -519,7 +519,7 @@ Arturi refuses any offers to defend him, and slips away into the night, eventual
 
 The undead vanish into the woods shortly before dawn.
 ## C4e. Return to the River Ivlis Crossroads
-The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 11 Dexterity (Stealth) check or take other covert action to do so.
+The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 18 Stealth check to Avoid Notice or take other covert action to do so.
 ### Traveling to the Crossroads
 As the players make the journey to the crossroads, read:
 
@@ -540,9 +540,9 @@ The rustling bush hides the Vistani **bandit** Eliza. If the players disregard h
 
 **If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were *up to* something—and a storyteller can always use more tales." 
 
-Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 15 Charisma (Intimidation) check, however, Eliza returns to Tser Pool and remains there for the night.
+Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 20 Intimidation check to Coerce, however, Eliza returns to Tser Pool and remains there for the night.
 
-**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
+**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 20 Intimidation check to Coerce, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
 
 > [!lore]+ **Eliza's Fanaticism**
 > Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
@@ -555,7 +555,7 @@ Eliza hopes to travel with the players openly to their destination. If refused, 
 
 While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
 
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
+**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 18 Stealth check to Avoid Notice, followed by a DC 18 Survival check to Cover Tracks. Players who depart from the road in this way encounter a **[Weak Will-O'-Wisp](https://2e.aonprd.com/Monsters.aspx?ID=3240)** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
 ### The March of the Dead
 When the players arrive at the River Ivlis Crossroads, read:
 
@@ -674,7 +674,7 @@ If the players explore the watchtower, they find a broken silver pendant carved 
 
 From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
 ## The Graves
-The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 12 Wisdom (Survival) check reveals that the graves are no more than a few weeks old.
+The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 18 Survival check reveals that the graves are no more than a few weeks old.
 
 Small pebbles have been arranged in the soil atop each grave to form the shape of a rising sunburst.
 ## The Corpse
