@@ -101,14 +101,7 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add **Immunities** non-silver physical damage;) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
-
-> [!info]+ **Pathfinder 2e Statblock Suggestion**
-> I suggets to create a PC statblock for Ismark character. You can create your own or follow my suggestions.
-> 
-> **Ancestry** - Versatile Human
-> **Background** - Hunter
-> **Class** - Fighter
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add Regeneration 15 stopped by silver and void damage) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -257,14 +250,21 @@ When the players arrive, they find a mob of ten Barovian **[Commoners](https://2
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **[Noble](https://2e.aonprd.com/NPCs.aspx?ID=882)** with a fatigue. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>. 
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **[Noble](https://2e.aonprd.com/NPCs.aspx?ID=882)** with a fatigue. If players have means of healing DC 15 Medicine check says that Kolyan's wounds require extending treating (Treat Disease). You can use [Tuberculosis](https://2e.aonprd.com/Diseases.aspx?ID=4) disease DC and mechanics as an explanation but replace the description with a wound infection. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>. 
 
 > [!info]+ **Pathfinder 2e Statblock Suggestion**
 > I suggets to create a PC statblock for Ireena character. You can create your own or follow my suggestions.
 > 
-> **Ancestry** - Versatile Human
-> **Background** - Noble
+> **Ancestry** - Versatile Human - Assurance in Medicine
+> **Background** - Noble (Genealogy)
 > **Class** - Scoundrel Rogue
+> 
+> **Ancestry Feat** - General Training - Ride
+> **Class Feat** - Overextending Feint
+> **Skill Feat** - Battle Medicine
+> 
+> She will be 2 levels less than party. I suggest to choose more of a defensive and heal-focused abilities/feats.
+
 
 > [!profile]+ **Profile: Ireena Kolyana**
 >
@@ -317,7 +317,7 @@ If the players are still present and haven’t yet intervened, Ireena pleads for
 
 If the players intervene, Alenka, Kolyan, and Ireena receive them with unfamiliarity and surprise, though Alenka is suspicious that they may be spies for “the Devil Strahd." (If Ismark’s name is mentioned, Ireena and Kolyan are reassured, though Alenka spits on the ground and quietly cursed “Ismark the Lesser" under her breath.)
 
-The players have one round of conversations (one turn each) in which they should earn the number of Victory points equal to the number of members in the party.
+The players have one round of conversations (one turn each) in which they should earn the number of Victory points equal to the number of members in the party. It uses [Victory Points](https://2e.aonprd.com/Rules.aspx?ID=3028) subsystem.
 
 They can disperse the mob by making a reasonable argument and succeeding on a DC 18 Diplomacy check or DC 16 Diplomacy check if the players inquire into Alenka’s missing family members and show her sympathy. The players can also disperse the mob by brandishing their weapons or magic and succeeding on a DC 18 Intimidation check or DC 16 Intimidation check, if they mention their recent battles in Death House.
 
@@ -593,7 +593,7 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 >
 > If grappled, restrained, or attacked, Rahadin first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, Rahadin swiftly and efficiently dispatches them. 
 >
-> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following <span class="citation">Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)</span>: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
+> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following [Missing Limbs and Mobility](https://2e.aonprd.com/Rules.aspx?ID=2529): **Lose an Arm or Hand** or **Lose a Foot or Leg**. This injury lasts until the player has completed two long rests. If you think it would be interesting enough, consider removing the limb entirely. Then players will have to find a way to get a prosthetic.
 
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
