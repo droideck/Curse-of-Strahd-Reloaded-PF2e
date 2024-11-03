@@ -380,7 +380,7 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
 
-When triggered, the **[Animated Armor](https://2e.aonprd.com/Monsters.aspx?ID=2819)** will Release the grip on glaive and it will attempt to Shove a player over the railing. If it won't succeed after 2 rounds, it will attack with glaive and will fight to the death.
+When triggered, the **[Animated Armor](https://2e.aonprd.com/Monsters.aspx?ID=2819)** will Release the grip on glaive and it will attempt to Shove a player over the railing. If it won't succeed after 2 rounds, it will attack with glaive and will fight to the death. I suggest to join the Armor and Broom fights together.
 
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its darkvision, and is too stupid to think to climb back up. 
 
@@ -445,6 +445,7 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 </div>
 
 When a player first approaches within 5 feet of the **[Elite Animated Broom](https://2e.aonprd.com/Monsters.aspx?ID=2818)**, it rolls Stealth for initiative and attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses all its actions to attack any player close to it while inflicting Dust ability all over them.
+I suggest to join the Armor and Broom fights together.
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
@@ -560,7 +561,7 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 >
 > ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
 
-In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the 1 spell slot of [Mending](https://2e.aonprd.com/Spells.aspx?ID=1597), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), and [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=1159) cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the 1 spell slot of [Mending](https://2e.aonprd.com/Spells.aspx?ID=1597), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), and [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=1159) cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup> And additionally, I suggest to add the [Bless](https://2e.aonprd.com/Spells.aspx?ID=1451), [Soothe](https://2e.aonprd.com/Spells.aspx?ID=1678), and [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658) spells to the spell book so the character can cast them and use in the battle to come. They are Occult spells.
 
 As the ghost children speak with the players, Thorn levitates one of his ghostly toys into the air, which falls and breaks, but Rose swiftly repairs it using ghostly version of Mending spell. If her use of magic is remarked upon, she shyly shares her diary’s location, which can be found hidden in the cobweb-covered pillowcase on her bed.
 
@@ -692,6 +693,7 @@ If the players toss an object down the well and then turn away, they hear loud s
 
 Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
+As a fun option, you can move the Mimic here impersonating one of the chests. Be careful, it can be very dangerous. Use with a caution and only if you think your players can handle that.
 
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
