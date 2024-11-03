@@ -886,7 +886,7 @@ The undercroft is largely as described in <span class="citation">E5g. Undercroft
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
 </div>
 
-Doru, a **[Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224)**, has used his ***climb*** speed to cling to the ceiling at the sound of the players’ approach. A player who passes DC 22 Perception secret check spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+Doru, an **[Elite Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224)**, has used his ***climb*** speed to cling to the ceiling at the sound of the players’ approach. A player who passes DC 22 Perception secret check spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
 
 <div class="description">
 <p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
