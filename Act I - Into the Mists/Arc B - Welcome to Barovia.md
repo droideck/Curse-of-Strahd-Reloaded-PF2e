@@ -101,7 +101,8 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add Regeneration 15 stopped by silver and void damage) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. For Pathfinder 2e, I suggest using [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=936) statblock but replace weapons to longsword and short sword. Keep the shield as a back up option.
+The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add Regeneration 15 stopped by silver and void damage) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -544,15 +545,15 @@ If the players follow her, Muriel guides them west toward the town square, then 
 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the [Zombie Brute with virulent miasma](https://2e.aonprd.com/Monsters.aspx?ID=3251). If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while switching to shield and using Raise Shield action taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the [Weak Zombie Brute with virulent miasma](https://2e.aonprd.com/Monsters.aspx?ID=3251) but add a [Ferocity](https://2e.aonprd.com/MonsterAbilities.aspx?ID=63) reaction to its statblock. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while switching to shield and using Raise Shield action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
 > [!combat]- **Balancing the Town Square** 
-> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
-> * **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
-> * **Six Players**. Add one zombie fighting alongside the plague spreader.
+> This combat encounter is a **Severe** combat encounter. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Decrease the zombie brute's hit points by 20. 
+> * **Five Players**. Add one plague zombie fighting alongside the zombie brute.
+> * **Six Players**. Apply an Elite adjustment to the zombie brute.
 
 > [!info]+ **Dying NPCs**
 >
@@ -595,72 +596,77 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 >
 > Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following [Missing Limbs and Mobility](https://2e.aonprd.com/Rules.aspx?ID=2529): **Lose an Arm or Hand** or **Lose a Foot or Leg**. This injury lasts until the player has completed two long rests. If you think it would be interesting enough, consider removing the limb entirely. Then players will have to find a way to get a prosthetic.
 
+> [!info]+ **Pathfinder 2e Adjustments**
+>
+>As of now, I provide a basic statblock which is enough for this encounter. But in the future I plan to improve it for both phases in detail. 
+
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Castle Chamberlain - Creature 12</h2>
+<em>Rare Medium Humanoid (Elf)</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
+<strong>Perception</strong> +25; darkvision<br>
+<strong>Languages</strong> Common, Elven<br>
+<strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16<br>
+<strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +2, <strong>Wis</strong> +0, <strong>Cha</strong> +1
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
+<strong>AC</strong> 33<br>
+<strong>HP</strong> 225<br>
+<strong>Saves</strong> Fort +19, Ref +25, Will +22<br>
+<strong>Speed</strong> 30 feet
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+
+<h3>Active Actions</h3>
+<p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
+<strong>Frequency</strong> once per turn<br>
+<strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).</p>
+
+<p><strong>Elf Step</strong> ◆<br>
+Rahadin Steps twice</p>
+
+<p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
+
+<p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
+<strong>Requirements</strong> The assassin is wielding a piercing or slashing weapon and has a free hand.<br>
+<strong>Effect</strong> The assassin applied a poison to the weapon.</p>
+
+<p><strong>Quick Draw</strong> ◆<br>
+The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
+
+<p><strong>Ranged</strong> ◆ dart +25 (agile, thrown-20), <strong>Damage</strong> 4d4+6 piercing</p>
+
+<p><strong>Opportune Backstab</strong> ⮌<br>
+<strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
+<strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This move does not trigger reactions from the triggering enemy.</p>
+
+<p><strong>Nimble Dodge</strong> ⮌<br>
+<strong>Trigger</strong> The assassin is targeted with a melee or ranged attack by an attacker they can see.<br>
+<strong>Effect</strong> The assassin gains a +2 circumstance bonus to AC against the triggering attack.</p>
+
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<h3>Passive Abilities</h3>
+
+<p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet. DC 29 Will<br>
+Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
+
+<p><strong>Darkvision</strong></p>
+
+<p><strong>Deny Advantage</strong><br>
+The assassin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking or using Surprise Attack.</p>
+
+<p><strong>Sneak Attack</strong><br>
+The kobold warrior deals an extra 3d6 precision damage to off-guard creatures.</p>
+
+<p><strong>Surprise Attack</strong><br>
+On the first round of combat, creatures that haven't acted yet are off-guard to the assassin.</p>
+
+<p><strong>Swift Sneak</strong><br>
+The assassin can move their full speed when Sneaking.</p>
+
 </div>
 <br>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
+<h2>Rahadin, Kinslayer - 5e</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)

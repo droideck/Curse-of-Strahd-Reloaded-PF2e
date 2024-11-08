@@ -102,9 +102,9 @@ If the players identify themselves or Ezmerelda as the owner of the wagon, Bianc
 
 Bianca can share the following information if asked:
 
-* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 14 Wisdom (Insight) check indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it. 
+* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 14 Perception check to Sense Motive indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it. 
 * She saw Ezmerelda’s wagon and was curious about its contents. Rather than open the door, she investigated further and found the trapdoor on its bottom, which she used to enter and explore its interior.
-* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 14 Wisdom (Insight) check reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
+* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 14 Perception check to Sense Motive reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
 * The song she was singing is titled “The Lunatic’s Lament," and is about a woman who falls in love with the moon and chases it off a cliff, ultimately falling to her death. After pausing for a moment, she adds, softly: "Have you ever fallen in love with someone, and wondered if you made a mistake?"
 
 If the players ask about Bianca's husband, she is willing to share the following information:
@@ -427,7 +427,7 @@ When the two prisoners first notice the players, Ilya presses himself against th
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
 * He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
-* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
+* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Perception check to Sense Motive sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
 

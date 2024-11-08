@@ -264,10 +264,10 @@ If the players cause a ruckus at the front door or on the first floor of the man
 ## G4c. Ireena's Gratitude
 [[Non-Player Characters#Ireena Kolyana|Ireena]] is deeply disturbed by Izek's obsession with her. If the players inform her that she is Izek's sister, she mourns the child she once must have known, but not the man that he became. She reaffirms that, no matter who believes otherwise, she is and chooses to be Ireena Kolyana—not Ireena Strazni, or anyone else.
 
-***Milestone.*** Rescuing Ireena from Izek's clutches completes a story milestone. When Ireena is escorted to safety, award each player 750 XP, or 1,500 XP instead if Izek was defeated.
+***Milestone.*** Rescuing Ireena from Izek's clutches completes a story milestone. When Ireena is escorted to safety, award each player 200 XP, or 400 XP instead if Izek was defeated.
 
 > [!info]+ **No Double-Counting**
-> The players can earn a maximum of 1,500 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]. Parties that rescue Ireena then later kill Izek will earn 750 XP for the former and an additional 750 XP for the latter.
+> The players can earn a maximum of 400 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]. Parties that rescue Ireena then later kill Izek will earn 200 XP for the former and an additional 200 XP for the latter.
 # Design Notes: The Strazni Siblings
 This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
 

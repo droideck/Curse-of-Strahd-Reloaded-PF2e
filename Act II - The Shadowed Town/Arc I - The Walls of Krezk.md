@@ -77,7 +77,7 @@ Otherwise, rather than asking the players to secure a wagonload of wine from the
 
 If the players accept Baron Krezkov’s task, he provides them with a few strands of dark hair for Baba Lysaga to use in her scrying, as well as a large gold bracelet inset with intricate carvings of wolves and ravens (worth 300 gp) as a gift to purchase her favor. 
 
-If asked, Baron Krezkov confesses that the missing person is his son, Ilya Krezkov, who disappeared several days ago. A successful DC 15 Wisdom (Insight) check reveals that he is not telling the entire truth, though he is unwilling to share more.
+If asked, Baron Krezkov confesses that the missing person is his son, Ilya Krezkov, who disappeared several days ago. A successful DC 15 Perception check to Sense Motive reveals that he is not telling the entire truth, though he is unwilling to share more.
 # I3. The Road to Berez
 The journey from the village of Krezk to the **Ruins of Berez** is eight-and-three-quarter miles long and takes three hours. To get to Berez, the players must first retrace their steps to the Luna River Crossroads, then head south.
 ## I3a. The Needle Blight Horde
@@ -223,9 +223,9 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
 * Kala, his younger daughter, is eight years old and alive.
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's fate at the mention of the Abbot.
+If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Perception check to Sense Motive notices that a shadow crosses the Baron's fate at the mention of the Abbot.
 
-***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
+***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 200 XP.
 ## I6a. The Blessed Pool
 This area is largely as described in <span class="citation">S4. Pool and Shrine (p. 146)</span>. However, add the following to the end of this area's description:
 

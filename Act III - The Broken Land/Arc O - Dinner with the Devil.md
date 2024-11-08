@@ -415,7 +415,7 @@ The man is a middle-aged Barovian villager named Anton Konstantinovich. He has n
 
 Unless interrupted, Anton moves first to offer the players wine from the purple pitcher. (If the players ask to have their drinks poured from the red pitcher, the man silently shakes his head and again proffers the purple pitcher. The liquid in the red pitcher is blood, which the vampires drink exclusively.)
 
-Any player for whom the man pours a drink notices that each of his fingertips have been severed to the first knuckle, and a player with a passive Wisdom (Insight) score of 13 or greater notices that his hands are trembling. A player who peers past the mask into the man’s eyes and succeeds on a DC 13 Wisdom (Insight) check notices that they are wide with fear.
+Any player for whom the man pours a drink notices that each of his fingertips have been severed to the first knuckle, and a player with a passive Wisdom (Insight) score of 13 or greater notices that his hands are trembling. A player who peers past the mask into the man’s eyes and succeeds on a DC 13 Perception check to Sense Motive notices that they are wide with fear.
 
 > [!lore]+ **The Tongueless Man**
 > Volenta kidnapped Anton and his wife, Dezdrelda Konstaninova, several weeks ago and subjected them to numerous tortures to satisfy her profane delights, including cutting Anton’s tongue out and severing the tips of his fingers.
@@ -799,7 +799,7 @@ Strahd then bids the players goodnight, remaining within the Great Entry to spea
 
 Escher or Sasha then leads the players up <span class="citation">K21. South Tower Stair (p. 59)</span>, past the second-floor landing leading to <span class="citation">K30. King’s Accountant (p. 62)</span>, past the third-floor landing leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>, and onto the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>. 
 
-If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 12 Wisdom (Insight) check.)
+If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 12 Perception check to Sense Motive.)
 
 > [!abstract] **Wandering Players**
 > If any players disobey their guide’s instructions and split off from the remainder of the party to explore Castle Ravenloft, they encounter the following scenes as they do so.
@@ -899,7 +899,7 @@ Escher, who is jealous of the players, anxious about losing Strahd's favor, and 
 
 If challenged regarding his position in Strahd's court, Escher angrily insists that he "*earned* his place at Lord Strahd's right hand," and vows that the players are "incapable of imagining the loyalty Lord Strahd has toward him." 
 
-If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 13 Wisdom (Insight) check learns that Escher appears to be attempting to convince himself as much as the players.)
+If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 13 Perception check to Sense Motive learns that Escher appears to be attempting to convince himself as much as the players.)
 
 As Escher's confrontation with the players comes to a close, Rahadin appears silently at the door and clears his throat, startling Escher. Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher’s obvious surprise and resentment.
 
@@ -1333,7 +1333,7 @@ As Varushka counters the players’ argument, if any player has a passive Wisdom
 <p>As you observe the halo of shadows surrounding her, you notice that it seems to be not a single shadow, but an assembly of countless overlapping amorphous, indistinct silhouettes. Though Varushka makes no move to acknowledge or recognize their presence, they whisper incessantly into her ears, their cold, hollow voices seeming to darken the room further with every word.</p>
 </div>
 
-A player who asks Varushka or succeeds in a DC 13 Wisdom (Insight) check learns that Varushka neither perceives the silhouettes nor realizes that they’re there. A player who approaches Varushka or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+A player who asks Varushka or succeeds in a DC 13 Perception check to Sense Motive learns that Varushka neither perceives the silhouettes nor realizes that they’re there. A player who approaches Varushka or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
 
 * “They’ll leave you, just like her."
 * “Why should they escape your fate?"

@@ -542,7 +542,7 @@ The remainder of the book is concerned with genealogies, family legends, and not
 
 Lady Wachter can share that, according to the book, Vladislav was a Wachter and Lovina's husband. She isn't sure who Reinhold is, however, and doesn't know any more relevant information about Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich, or Tatyana Federovna.
 
-***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 1,500 XP. (This should bring the players to 5th level.)
+***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 400 XP.
 
 > [!abstract]+ **Lady Wachter’s Promises**
 >
