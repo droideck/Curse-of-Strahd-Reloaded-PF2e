@@ -16,8 +16,8 @@ This act ends at dusk on the first night after the players infiltrate Castle Rav
 # Milestones
 The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
 
-* defeat the druids occupying the Wizard of Wines winery (2,000 XP)
-* retrieve the stolen gem from Yester Hill (2,500 XP)
+* defeat the druids occupying the Wizard of Wines winery (200 XP)
+* retrieve the stolen gem from Yester Hill (250 XP)
 * recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
 * bargain with Zuleika Toranescu at the Werewolf Den (2,000 XP)
 * receive Argynvost’s mission at Argynvostholt (2,500 XP)
