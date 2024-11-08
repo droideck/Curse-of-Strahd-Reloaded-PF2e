@@ -30,7 +30,7 @@ As the players travel, read:
 <div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
 <p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+If any players pass a DC 20 Perception secret check, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
 The voice belongs to a gruff female Barovian **[Elite Torchbearer](https://2e.aonprd.com/NPCs.aspx?ID=901)** named Kereza, who is joined by a second, soft-spoken male **[Elite Torchbearer](https://2e.aonprd.com/NPCs.aspx?ID=901)** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
@@ -44,7 +44,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **[Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241).** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **[Elite Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241).** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
@@ -57,7 +57,7 @@ The five figures are **[Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=3
 
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
+If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 [silvered](https://2e.aonprd.com/Equipment.aspx?ID=2860) crossbow [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441), a [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425), [Healer's Toolkit (Expanded)](https://2e.aonprd.com/Equipment.aspx?ID=2727), two vials of [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001), and one [Healing Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=2943).
 # C2. River Ivlis Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
 
@@ -158,17 +158,17 @@ Whether Ireena is with the party or not, add:
 > [!abstract]+ **Challenging Strahd**
 > If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
 > 
-> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for four full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
+> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for four full rounds. During this time, each attack the player makes against Strahd improved by one degree of success, and the same apply for the Strahd's Reflex saving throws.
 > 
 > When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
 > 
-> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
+> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form (as of now, use [Vampire Mastermind scaled to 15 level](https://2e.aonprd.com/Monsters.aspx?ID=3226)  and add more spells up to 7th rank), Strahd casts ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)*** each round to suspend the player in the air above him, and casts [Blinding Beauty](https://2e.aonprd.com/Spells.aspx?ID=779) as a reaction and only on the target whenever the player makes an attack against him in 30 foot radius (flavor the spell as he cast darkness into their minds). The first time the player critically fails their saving throw against ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
 > 
-> The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
+> The first time the player at least fails their saving throw against ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)*** (which is unlikely, but possible), Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
 > 
-> If the player asks to be freed from Strahd's ***telekinetic grasp***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
+> If the player asks to be freed from Strahd's  ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
 > 
-> If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
+> If the player is knocked unconscious by Strahd, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
@@ -249,63 +249,71 @@ These abominations were built by the witch Baba Lysaga to hunt down wereravens. 
 
 If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 20 Medicine check, reducing her to 0 hit points and causing her to gain Dying 1 on a failure or Dying 2 on critical failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
-<div class="statblock"> 
-<h2>Muriel Vinshaw</h2> 
-<em>Medium humanoid (human, shapechanger), chaotic good</em> 
-<hr> 
-<strong>Armor Class</strong> 14 (leather armor) 
-<br> 
-<strong>Hit Points</strong> 63 (14d8) 
-<br> 
-<strong>Speed</strong> 30 ft., fly 50 ft. in raven and hybrid forms 
-<hr> 
-<table class="ability-table"> 
-  <thead> 
-    <tr> 
-<th>STR</th> 
-<th>DEX</th> 
-<th>CON</th> 
-<th>INT</th> 
-<th>WIS</th> 
-<th>CHA</th> 
-</tr> 
-</thead> 
-<tbody> 
-<tr> 
-<td>10 (+0)</td> 
-<td>16 (+3)</td> 
-<td>11 (+0)</td> 
-<td>13 (+1)</td> 
-<td>15 (+2)</td> 
-<td>14 (+2)</td> 
-</tr> 
-</tbody> 
-</table> 
-<hr> 
-<strong>Skills</strong> Insight +4, Perception +6
-<br> 
-<strong>Senses</strong> passive Perception 16
-<br> 
-<strong>Languages</strong> Common (can't speak in raven form)
-<br> 
-<strong>Challenge</strong> 2 (450 XP)
-<br> 
-<strong>Proficiency Bonus</strong> +2
-<br> 
-<hr> 
-<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn.</p> 
-<p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
-<p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
-<h3>Actions</h3> 
-<p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
-<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p> 
-<p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
-<h3>Bonus Actions</h3> 
-<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
-<h3>Reactions</h3> 
-<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<div class="statblock">
+<h2>Muriel Vinshaw - Creature 4</h2>
+<em>Medium humanoid, werecreature</em>
+<hr>
+<strong>Armor Class</strong> 21 (studded leather armor)
+<br>
+<strong>Hit Points</strong> 71
+<br>
+<strong>Speed</strong> 25 ft., fly 25 ft.
+<hr>
+<table class="ability-table">
+<thead>
+<tr>
+<th>STR</th>
+<th>DEX</th>
+<th>CON</th>
+<th>INT</th>
+<th>WIS</th>
+<th>CHA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14 (+2)</td>
+<td>20 (+5)</td>
+<td>16 (+3)</td>
+<td>14 (+2)</td>
+<td>16 (+3)</td>
+<td>12 (+1)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12
+<br>
+<strong>Saving Throws</strong> Fort +12, Ref +13, Will +10
+<br>
+<strong>Senses</strong> darkvision
+<br>
+<strong>Languages</strong> Common
+<br>
+<strong>Weaknesses</strong> silver 5
+<hr>
+
+<h3>Active Abilities</h3>
+<p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+
+<p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
+
+<p><strong>⮌ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+
+<p><strong>⮌ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+
+<h3>Attacks</h3>
+<p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
+<p><strong>Ranged</strong> ◆ hand crossbow +13 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
+<p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
+<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
 </div>
+
 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
 
@@ -331,9 +339,9 @@ The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-a
 ## C4a. Arrival at Tser Pool
 This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
 
-As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
+As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*. For Pathfinder 2e, you can use [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930) and modify its spell list.
 
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **[Night Hags](https://2e.aonprd.com/Monsters.aspx?ID=257)** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
+Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **Night Hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
 However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
@@ -378,7 +386,7 @@ As the players prepare to leave, Madam Eva pauses and closes her eyes, though th
 <p>“Do not look, child, nor rush to greet them; if they learn of your true aspirations, all may be lost. Do not reveal, even, that you know of their true nature, for their master will know that I have told you, and his wrath will descend upon us all. </p></div>
 
 ## C4c. Vistani Hospitality
-Upon exiting Madam Eva’s tent, the players find two other Vistani waiting outside of the tent: a woman named Eliza and a man named Arturi Radanavich. Stanimir joins the group a few moments later.
+Upon exiting Madam Eva’s tent, the players find two other Vistani waiting outside of the tent: a woman named Eliza and a man named Arturi Radanavich. Stanimir joins the group a few moments later. You can use [Elite Charlatan](https://2e.aonprd.com/NPCs.aspx?ID=889) statblock for Eliza and [Troubadour](https://2e.aonprd.com/NPCs.aspx?ID=941) for Arturi.
 
 Unless the players intervene, the conversation unfolds as follows:
 
@@ -423,7 +431,7 @@ If the players make their way to the Vistani fire, Eliza—and Arturi, if he is 
 ## C4d. The Dancing Fire
 As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
 
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 16 Perseption to Sense Motive check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
+If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 19 Perseption to Sense Motive check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
 
 > [!info]+ **Insight Checks**
 > Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
@@ -463,7 +471,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
 ### Stanimir’s Tale
-Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528) spell to create the shapes in the flames.
 
 When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale
@@ -512,10 +520,10 @@ A player who succeeds on a DC 18 Diplomacy check can convince Arturi to share th
 
 Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
 
-* Thirty minutes after Arturi arrives, twelve **zombies** arrive to mill about the base of the tree. 
-* Two hours later, five **ghouls** arrive to claw and howl at the trunk of the tree. 
-* Two hours later, three **ghasts** arrive to join the ghouls. 
-* Two hours later, four **wights** emerge silently to stand guard around the base of the tree.
+* Thirty minutes after Arturi arrives, twelve **[Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)** arrive to mill about the base of the tree. 
+* Two hours later, five **[Ghoul Stalker](https://2e.aonprd.com/Monsters.aspx?ID=3009)** arrive to claw and howl at the trunk of the tree. 
+* Two hours later, three **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** arrive to join the ghouls. 
+* Two hours later, four **[Wights](https://2e.aonprd.com/Monsters.aspx?ID=3239)** emerge silently to stand guard around the base of the tree.
 
 The undead vanish into the woods shortly before dawn.
 ## C4e. Return to the River Ivlis Crossroads
@@ -528,7 +536,7 @@ As the players make the journey to the crossroads, read:
 <p>As the witching hour approaches, an eerie stillness descends. Even the leaves cease their rustling, leaving the squelch of your boots through mud the only lingering sound.</p>
 </div>
 
-If the players failed to conceal their departure, any players with a passive Wisdom (Perception) score of 11 or greater realize they're being followed. Read:
+If the players failed to conceal their departure, any players who pass a DC 18 Perception check realize they're being followed. Read:
 
 <div class="description">
 <p>The sound of a snapping twig cuts through the silence like shattering glass. A bush behind you rustles—then abruptly falls still.</p>
@@ -547,13 +555,7 @@ Eliza hopes to travel with the players openly to their destination. If refused, 
 > [!lore]+ **Eliza's Fanaticism**
 > Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
 
-**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
-
-* Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-* Use a stampede of spooked **elk** for the stampede of spooked animals
-* Use a **giant spider** for the creature indigenous to the area
-
-While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
+**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in **Eliza's Flight** note.
 
 **If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 18 Stealth check to Avoid Notice, followed by a DC 18 Survival check to Cover Tracks. Players who depart from the road in this way encounter a **[Weak Will-O'-Wisp](https://2e.aonprd.com/Monsters.aspx?ID=3240)** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
 ### The March of the Dead
@@ -567,16 +569,64 @@ When the players arrive at the River Ivlis Crossroads, read:
 The silhouette is Madam Eva. She does not answer if called out to, and waits for the players to approach her. When they do, she whispers to them, her voice rasping like a chill wind: "*What did I say to you before you departed my tent?*" If the players respond accurately, Madam Eva nods, assured of their identities. 
 
 > [!abstract]+ **Eliza's Flight**
+> 
 > If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place. 
 > 
-> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
-> * Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-> * Use a stampede of spooked **elk** for the stampede of spooked animals
-> * Use a **giant spider** for the creature indigenous to the area
-> 
-> While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
+> Once noticed, Eliza immediately attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in [Chases](https://2e.aonprd.com/Rules.aspx?ID=3049).
 > 
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
+> 
+> Players must catch up to Eliza before she accumulates 10 Chase Points. If they do, a combat encounter occurs in the current obstacle's area. Eliza escapes if she reaches 12 Chase Points, successfully returning to Castle Ravenloft. 
+> 
+> ### Additional Details 
+> * Eliza starts at obstacle 2 with 2 Chase Points
+> * Each round, Eliza gains 1d4 Chase Points
+> * The forest grows darker and more threatening as the chase progresses
+> * Each area where combat might occur features difficult terrain and provides partial cover from the twisted trees
+>    
+> ### Obstacles
+> 
+> #### 1\. Biting Midge Swarm 
+> **Description:** A dense cloud of biting insects swarms the area. The swarm bites and obcure the vision.
+> 
+> **Skill Checks:**
+> 
+> *   Athletics or Fortitude: DC 18 (to power through)
+> *   Nature or Survival: DC 16 (to find a path around)
+> 
+> **Chase Points:** 2
+> 
+> #### 2\. Stampeding Elks 
+> **Description:** A herd of panicked elks thunders through the forest.
+> 
+> **Skill Checks:**
+> 
+> *   Reflex: DC 18 (to dodge)
+> *   Athletics: DC 16 (to leap onto a low branch or climb to a tree)
+> 
+> **Chase Points:** 3
+> 
+> #### 3\. Spider's Domain 
+> **Description:** Massive webbing between trees with a giant spider pursuing.
+> 
+> **Skill Checks:**
+> 
+> *   Acrobatics: DC 18 (to weave through)
+> *   Athletics: DC 18 (to break through)
+> 
+> **Chase Points:** 2
+> 
+> #### 4\. Ravine Crossing 
+> **Description:** A deep ravine with a partially collapsed log bridge.
+> 
+> **Skill Checks:**
+> 
+> *   Acrobatics: DC 18 (to balance across)
+> *   Athletics: DC 18 (to leap across)
+> 
+> **Chase Points:** 3
+> 
+> 
 
 If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
 
@@ -650,6 +700,7 @@ When the players awaken at Tser Pool the following morning, Stanimir invites the
 If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
+It uses [Skeleton Guard scaled to 5th or 4th level](https://2e.aonprd.com/Monsters.aspx?ID=3193) statblock and riding a [Skeletal Horse](https://2e.aonprd.com/Monsters.aspx?ID=3195)
 
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
@@ -691,7 +742,7 @@ If one of the players has a expert in Perception, or if one of the players passe
 
 <div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
 
-The movement belongs to a **wolf**, which swiftly retreats into the woods. Its four **wolf** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
+The movement belongs to an **[Elite Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241)**, which swiftly retreats into the woods. Its four **[Elite Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241)** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
 
 If the players continue, read:
 
@@ -718,24 +769,27 @@ If the players pause, proceed, or attack, the five wolves in the woods strike. R
 
 
 > [!combat]- **Balancing the Wolves** 
-> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of wolves to 3. 
-> * **Four Players**. Reduce the number of wolves to 4. 
-> * **Six Players**. Reduce the number of wolves to 1 and increase the number of werewolves to 2.
+> This combat encounter is a **Severe** encounter against a party of four 3rd-level players, a 1st level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of wolves to 4. 
+> * **Five Players**. Increase the number of wolves to 6. 
+> * **Six Players**. Increase the number of wolves to 7.
 
-Replace the wolves' ***bite*** attack with the following action options:
+Wolves get the following attack:
 
-* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
-* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
+- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.  
+  Wolf makes a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of wolf's current turn, and wolf can move it 5 feet toward it. When wolf moves the creature, it can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
+  
+  This Strike has the following failure effect.
+  **Failure** The target becomes off-guard until the end of your current turn.
 
-In combat, the **wolves** target a single player at a time, using their ***pack tactics*** to gain advantage on attack rolls and their ***claws*** attacks to attempt to knock a player into the gully. 
+In combat, the **wolves** target a single player at a time, using their ***pack attack*** to gain extra 1d4 damage. The wolves who can shove the target, try to push the target into the gully. 
 
-A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The sixth wolf uses its ***maul*** to attack any creature that falls into the ravine, then drags them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
+A player can first try to Grab an Edge. On failure, he falls into the ravine tumbles 40 feet down, taking 20 bludgeoning damage and falling prone. The sixth wolf tries to grapple and uses its ***maul*** to attack any creature that falls into the ravine, then drags them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
 
 Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if four of the six wolves are killed.
 
 > [!info]+ **Descending Into the Ravine**
-> A player attempting to ascend or descend the edge of the ravine must make a DC 15 Athletics check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
+> A player attempting to ascend or descend the edge of the ravine must make a DC 15 Athletics check to Climb.
 
 As the players depart this area, a player who passes DC 18 Perception check notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 25 Perception check to Sense Motive discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
 
@@ -757,7 +811,12 @@ This area is largely as described in <span class="citation">Tser Falls (p. 37)</
 >
 > Vladimir denied them and, when the knights grew enraged and unruly, banished them from the manor and forbade them from raising their swords against Strahd or any of his creatures. Now, only Sir Godfrey Gwilym, Vladimir Horngaard, and the spirits of the **phantom warriors** that once fought for the Order remain in Argynvostholt.
 
-If the players call out to this nameless **revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+> [!info]+ **Pathfinder 2e Adjustments**
+>
+>The revenant also has <strong>Regeneration 15</strong> (Deactivated by Fire or Holy) feature.
+
+
+If the players call out to this nameless **[Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167)** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
 
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 
@@ -821,7 +880,7 @@ If the players remain silent or continue ahead, read:
 
 The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
 
-As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -853,6 +912,12 @@ Morgantha greets the players warmly, calling them "weary travelers," and shares 
 
 Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (The dream pastries, if eaten, affect the players as described in **Dream Pastries**, p. 125.)
 
+> [!info]+ **Pathfinder 2e Adjustments**
+>
+>Instead of usual mechanics, use [Dreamtime Tea](https://2e.aonprd.com/Equipment.aspx?ID=628) but modify DC to 26. After that, the pastries work as described in **Dream Pastries**, p. 125. You can also answer some player's questions but it should be perverted by the Hag magic.
+>
+>And remember that it's a drug and it should use the [Addiction](https://2e.aonprd.com/Diseases.aspx?ID=15) mechanics.
+
 If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
 
 If the players ask to enter her home, Morgantha apologizes for her lack of hospitality, but notes that she's tired and not prepared for visitors, besides. (The players are welcome, she says, to visit another day if they'd like.)
@@ -874,7 +939,7 @@ The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-qu
 <p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
 <p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
 
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **[Raven Swarms scaled down to 1st level](https://2e.aonprd.com/Monsters.aspx?ID=782)**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
 
 As the players proceed down the road, read:
 
@@ -898,71 +963,22 @@ If one of the players has a expert in Perception, or if one of the players passe
 <p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
 </div>
 
-The shadow belongs to a **werewolf**. Its companions—three **wolves** and an additional **werewolf**—lurk in the woods nearby.
+The shadow belongs to a **[Elite Werewolf](https://2e.aonprd.com/Monsters.aspx?ID=3236)**. Its companions—three **[Elite Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3241)** and an additional **[Elite Werewolf](https://2e.aonprd.com/Monsters.aspx?ID=3236)**—lurk in the woods nearby.
 
 The werewolves don't attack immediately, preferring to wait for the perfect time to strike. If the players continue down the road, read:
 
 <div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
 <p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Wolves roll Stealth for initiative and they are hidden.
 
-Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
+Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, adjust the werewolf statblock with the next feature:
 
-<div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
-      <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
-<hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-</div>
+> [!info]+ **Pathfinder 2e Adjustments**
+>
+>The werewolf also has <strong>Regeneration 15</strong> (Deactivated by Silver or Void) feature.
 
-
-In combat, the **wolves** work together, using their ***Claws*** to knock characters prone, then using their ***Maul*** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its ***bite***. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.
+In combat, the **wolves** work together, knocking prone and dragging creatures away. Once the wolves have dragged a character away from the party, the **werewolves** shift their attention to target them with its ***jaw*** strike. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.
 
 A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
 
@@ -970,11 +986,18 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
+> [!combat]- **Balancing the Werewolves** 
+> This combat encounter is a **Extreme** encounter against a party of four 3rd-level players, a 1st level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Remove the Elite adjustment from werewolfs. 
+> * **Five Players**. Increase the number of wolves to 4. 
+> * **Six Players**. Increase the number of wolves to 5.
+
 > [!info]+ **Lycanthropy in Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> In Barovia, the curse of lycanthropy spreads as described in **Curse of the Werewolf**. However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., regeneration).
 >
 > Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+> You can create a statblock for the character using [Werecreature template](https://2e.aonprd.com/MonsterFamilies.aspx?ID=484) and add the Regeneration feature too (described above).
 >
 > An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
 >
@@ -1273,7 +1296,7 @@ If confronted regarding his magic items or true identity, Rictavio directs the p
 * If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
 * If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+These are lies. A DC 18 Perception check to Sense Motive indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
 Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
 

@@ -10,12 +10,12 @@ Act II ends the morning after the players' first full moon in Vallaki. However, 
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
-* restore the bones of St. Andral (1,250 XP)
-* find the missing Arabelle (1,250 XP)
-* defeat Izek Strazni (1,500 XP)
-* obtain the *Tome of Strahd* (750 XP)
-* restore the soul of Stella Wachter (1,750 XP)
-* gain entry to the gates of Krezk (750 XP)
+* restore the bones of St. Andral (350 XP)
+* find the missing Arabelle (300 XP)
+* defeat Izek Strazni (400 XP)
+* obtain the *Tome of Strahd* (100 XP)
+* restore the soul of Stella Wachter (250 XP)
+* gain entry to the gates of Krezk (200 XP)
 
 > [!info]+ **Vallakian Merchants**
 > While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.

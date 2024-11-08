@@ -84,7 +84,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Boon.*** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Condition.*** You grow an extra eye somewhere on your body, which is blind and never open. You have disadvantage on Wisdom (Insight) checks.
+***Condition.*** You grow an extra eye somewhere on your body, which is blind and never open. You have disadvantage on Perception checks to Sense Motive.
 ## Dahlver-Nar, He of the Many Teeth
 ***Spell.*** _Polymorph._
 
