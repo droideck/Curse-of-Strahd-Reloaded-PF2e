@@ -249,62 +249,63 @@ These abominations were built by the witch Baba Lysaga to hunt down wereravens. 
 
 If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
-<div class="statblock"> 
-<h2>Muriel Vinshaw</h2> 
-<em>Medium humanoid (human, shapechanger), chaotic good</em> 
-<hr> 
-<strong>Armor Class</strong> 14 (leather armor) 
-<br> 
-<strong>Hit Points</strong> 63 (14d8) 
-<br> 
-<strong>Speed</strong> 30 ft., fly 50 ft. in raven and hybrid forms 
-<hr> 
-<table class="ability-table"> 
-  <thead> 
-    <tr> 
-<th>STR</th> 
-<th>DEX</th> 
-<th>CON</th> 
-<th>INT</th> 
-<th>WIS</th> 
-<th>CHA</th> 
-</tr> 
-</thead> 
-<tbody> 
-<tr> 
-<td>10 (+0)</td> 
-<td>16 (+3)</td> 
-<td>11 (+0)</td> 
-<td>13 (+1)</td> 
-<td>15 (+2)</td> 
-<td>14 (+2)</td> 
-</tr> 
-</tbody> 
-</table> 
-<hr> 
-<strong>Skills</strong> Insight +4, Perception +6
-<br> 
-<strong>Senses</strong> passive Perception 16
-<br> 
-<strong>Languages</strong> Common (can't speak in raven form)
-<br> 
-<strong>Challenge</strong> 2 (450 XP)
-<br> 
-<strong>Proficiency Bonus</strong> +2
-<br> 
-<hr> 
-<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn.</p> 
-<p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
-<p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
-<h3>Actions</h3> 
-<p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
-<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p> 
-<p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
-<h3>Bonus Actions</h3> 
-<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
-<h3>Reactions</h3> 
-<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<div class="statblock">
+<h2>Muriel Vinshaw - Creature 4</h2>
+<em>Medium humanoid, werecreature</em>
+<hr>
+<strong>Armor Class</strong> 21 (studded leather armor)
+<br>
+<strong>Hit Points</strong> 71
+<br>
+<strong>Speed</strong> 25 ft., fly 25 ft.
+<hr>
+<table class="ability-table">
+<thead>
+<tr>
+<th>STR</th>
+<th>DEX</th>
+<th>CON</th>
+<th>INT</th>
+<th>WIS</th>
+<th>CHA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14 (+2)</td>
+<td>20 (+5)</td>
+<td>16 (+3)</td>
+<td>14 (+2)</td>
+<td>16 (+3)</td>
+<td>12 (+1)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12
+<br>
+<strong>Saving Throws</strong> Fort +12, Ref +13, Will +10
+<br>
+<strong>Senses</strong> darkvision
+<br>
+<strong>Languages</strong> Common
+<br>
+<strong>Weaknesses</strong> silver 5
+<hr>
+<h3>Active Abilities</h3>
+<p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+<p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
+<p><strong>⮌ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<p><strong>⮌ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+<h3>Attacks</h3>
+<p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
+<p><strong>Ranged</strong> ◆ hand crossbow +13 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
+<p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
+<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
 </div>
 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
@@ -695,7 +696,7 @@ As the players continue down the road, read:
 <div class="description"><p>You continue down the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
 <p>The air grows colder as the road passes through a dark evergreen forest, the thick canopy once more blocking out much of the sky's dim light. Here, the road grows narrow, its edges passing above steep, craggy slopes as it winds around a mountain spur. The only sounds that follow you are the crunching of fallen leaves and an occasional rustling in the underbrush.</p></div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+If one of the players passes DC 20 Perception check, add:
 
 <div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
 
@@ -706,13 +707,13 @@ If the players continue, read:
 <div class="description"><p>As the road curves around the edge of the mountain, the right-hand cliffs fall away, leaving a sheer drop to a wooded ravine below. The road, now barely ten feet wide, bends up ahead, doubling back around this ravine before plunging dramatically and winding around a smaller mountain peak. </p>
 </div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+If one of the players successfully Searches and passes DC 20 Perception check, add:
 
 <div class="description">
 <p>You see three gray-furred shadows dart through the underbrush ahead. Two more flicker at the edge of your vision, just behind you.</p>
 </div>
 
-If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
+If one of the players passes DC 25 Perception check, add:
 
 <div class="description">
 <p>A sixth lurks in the ravine nearly fifty feet below, keeping pace with your movements as it clings to the shadows of the crags.</p>
@@ -789,7 +790,7 @@ If the players ask why it cannot take up arms against Strahd itself, it says onl
 > * Raise no weapon against the vampire Strahd von Zarovich, his servants, or his creatures.
 > * Do not return to Argynvostholt.
 >   
-> A revenant that violates one of these commands suffers the effects of a *geas* spell and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
+> A revenant that violates one of these commands suffers the effects of a *[Geas](https://2e.aonprd.com/Rituals.aspx?ID=118)* ritual and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
 
 If the players ask for directions to Argynvostholt, the revenant advises them to travel "west, beyond the walled town, then south upon the ash-gray path."
 
@@ -870,9 +871,9 @@ When the conversation runs out of steam, Morgantha bids the players a safe journ
 Before she departs, Morgantha warns the players that the guards at the Vallaki gates are confiscating silver coins and visible silver items from travelers as a tax. "But," she says, tapping her nose with a cheeky, half-toothed grin, "you didn't hear it from me."
 
 > [!abstract]+ **Morgantha Detected**
-> If a player discerns Morgantha's fiendish nature, such as by using a paladin's ***divine sense***, and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
+> If a player discerns Morgantha's fiendish nature and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
 > 
-> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***etherealness*** feature, cackling. 
+> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***[Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)*** spell, cackling. 
 > 
 > If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc H - The Lost Soul]] begins.)
 # C10. The Deep Woods
@@ -900,7 +901,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>As quickly as it appeared, the field is swallowed up by the forest again, the trees closing in around you once more. The dark undergrowth rustles and stirs in the wind, and the weight of the forest presses in from all sides. You're unable to shake the sense that, somehow, you're being watched.</p></div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+If one of the players passes DC 20 Perception check, add:
 
 <div class="description">
 <p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
@@ -1030,7 +1031,7 @@ The refugees are lost in despair. Some recall a superstition that red-haired Bar
 
 Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 ### The Guards at the Gates
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. They have [Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) statblocks. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
 
 The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
 
@@ -1264,10 +1265,7 @@ As Urwin's conversation draws to a close, Rictavio descends the stairs from <spa
 ### Following the Ringmaster
 If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
-
-> [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
+Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio is attentive to his surroundings. GM should make a secret roll for any players who Avoid Notice with a DC 25 Stealth check or be detected.
 
 > [!abstract]+ **Detecting Magic**
 > If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
@@ -1285,11 +1283,11 @@ If confronted regarding his magic items or true identity, Rictavio directs the p
 * If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
 * If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+These are lies. A DC 25 Perception check to Sense Motive indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
 Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 25 Perception check or lose him in the crowd. 
 
 > [!abstract]+ **Following Rictavio**
 > Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
@@ -1343,7 +1341,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 
 If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 
-***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomacy.*** If the players make a successful DC 18 Diplomacy check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
 
 ***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
 
