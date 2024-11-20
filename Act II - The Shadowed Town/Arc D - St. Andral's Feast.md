@@ -79,7 +79,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
 ## D1a. Entering the Church
-When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
+When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 15 Reflex saving throw or crash into him.
 
 Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.
 
@@ -104,6 +104,8 @@ The young man is Milivoj, who is as described in <span class="citation">N1. St. 
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+
+He uses [Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, his Divine skill is Diplomacy, he has only one Searing Light prepared instead of two, and instead of [death's call](https://2e.aonprd.com/Spells.aspx?ID=413)_he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
 
 After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
 
@@ -156,10 +158,9 @@ The slab held the bones until Milivoj stole them.
 
 The players can find the following information by investigating the area around the crypt:
 
-* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
-
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
+* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 19 Perception check to Search, and a line of rust-stained dirt smeared across a floorboard on a critical success.
+* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 14 Perception check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
+* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 19 Perception check. 
 
 The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
 
@@ -191,9 +192,10 @@ The children in the armchairs are a twelve-year-old boy named Bogan and a ten-ye
 Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
 
 * Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
+* If the players succeed on a DC 14 Diplomacy check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
 
 A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+Use [Gravedigger](https://2e.aonprd.com/NPCs.aspx?ID=916) statblock but without **Light in the Dark** action for now (he can get it back if receives redemption).
 
 > [!profile]+ **Profile: Milivoj**
 >
@@ -217,11 +219,11 @@ Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes 
 
 As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 17 Athletics check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 17 Intimidation or Diplomacy check, or by forcing the door down with a successful DC 15 Athletics check.)
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Perception check to Sense Motive reveals that he is speaking slightly too quickly.
+Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 12 Perception check to Sense Motive reveals that he is speaking slightly too quickly.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+If the players accuse Milivoj of stealing the bones and succeed on a DC 21 Intimidation check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
 If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 
@@ -233,7 +235,7 @@ If informed that the bones may have been stolen to allow an attack upon the chur
 ## D2b. Departing the House
 Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 21 Diplomacy check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
 >
@@ -254,10 +256,10 @@ If the players successfully break the door to the wagon or pick its padlock, the
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain three **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
+> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her three **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
 
 Henrik van der Voort, the coffin maker, follows the following schedule:
 
@@ -271,27 +273,20 @@ The players cannot access the shop through persuasion, deception, or intimidatio
 
 Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
 
-* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
-* They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting Henrik, who remains in his current location.
+* They can break down one or both of the barred doors with a successful DC 25 Athletics check to Force Open. Or DC 20 Athletics check to Force Open a window. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
+* They can use magic to open the windows or doors from the inside but it's unease task. Doing so avoids alerting Henrik, who remains in his current location.
 
 In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
 
 Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
 
 > [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
+> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 21 Stealth check to approach a crate without awakening the nearby vampires, and a DC 20 Stealth check to open vampire spawn's casket, and DC 25 Stealth check to open Volenta's resting place. When vampire is killed, make a secret Perception check for each **Unconscious** vampire against killing character's Stealth DC (or DC of any other noise source if such thing happens). A woken vampire attacks intruders on sight.
 ## D4b. Recovering the Bones
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
-* a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
-
-The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
-
-> [!warning]+ **Which Needle?**
-> There are two official poison needle traps in *Dungeons & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *Xanathar's Guide to Everything*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
-
-The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
+* a **[Poisoned Lock but DC 21 for everything](https://2e.aonprd.com/Hazards.aspx?ID=2)** trap (but use [Clown Monarch](https://2e.aonprd.com/Equipment.aspx?ID=1997) or [Fearflower Nectar](https://2e.aonprd.com/Equipment.aspx?ID=3333)), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
+* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. DC 22 to disarm and detect.
 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
@@ -301,7 +296,7 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 ## D4c. Volenta's Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta (https://2e.aonprd.com/Monsters.aspx?ID=1873 abilities?) crouching upside-down on the ceiling behind them.
+If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her three loyal [Vampire Servitors](https://2e.aonprd.com/Monsters.aspx?ID=3224) arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
 ![[Volenta Popofsky.png]]
 <span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -324,7 +319,7 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 >
 > ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
 
-Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
+Volenta uses the three vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
 
 * Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
 * She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to Escher.)
@@ -332,27 +327,125 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
 > [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of three consecutive **bruising** combat encounters against a party of four 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 72% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> This is a **Severe+** combat encounter against a party of four 4th-level players and a Level 5 ally (Father Lucien). The second for is irrelevant for now, as she will escape. If cornered, she will fight and it's another **Severe** encounter. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove the vampire spawn. Volenta flees once her second phase is bloodied.
-> * ***Five Players.*** Decrease the number of vampire spawn to one. 
-> * ***Six Players.*** Increase the number of vampire spawn to three.
+> * ***Three Players.*** Decrease the number of vampire spawn to two.
+> * ***Five Players.*** Increase the number of vampire spawn to four. 
+> * ***Six Players.*** Increase the number of vampire spawn to five.
 
 > [!warning]+ **Sunlight in Barovia**
 > Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
 
-> [!warning]+ **Vampires Aren't Humanoid**
-> Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
+> [!warning]+ **Vampire Spawn Modifications**
+> This campaign uses different vampires than PF2e.
+>
+> **Vampire Fast Healing 10**  
+> The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+> 
+> **Vampire Vulnerabilities**  
+> All vampires possess the following vulnerabilities:
+> 
+> - **Forbiddance** The vampire can't enter a residence without an invitation from one of the occupants.
+> - **Harmed by Running Water** The vampire takes 20 acid damage if it ends its turn in running water.
+> - **Stake to the Heart** If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.
+> - **Sunlight Hypersensitivity** The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.
 
 <div class="statblock">
-<h2>Volenta, First Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, First Form - Creature 6</h2>
+<em>Medium undead, vampire</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Perception</strong> +15; darkvision<br>
+<strong>Languages</strong> Common plus one regional language<br>
+<strong>Skills</strong> Acrobatics +14, Athletics +12, Crafting +15, Intimidation +11, Society +7, Stealth +15<br>
+<strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2
+<hr>
+<strong>AC</strong> 25<br>
+<strong>HP</strong> 70; fast healing 10, void healing<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
+<strong>Resistances</strong> physical 5 (except silver)<br>
+<strong>Fortitude</strong> +12, <strong>Reflex</strong> +16, <strong>Will</strong> +14
+<hr>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+<p><strong>Ranged</strong> ◆ dagger +16 (agile, thrown 10), <strong>Damage</strong> 2d4+6 piercing</p>
+<p><strong>Ranged</strong> ◆ acid flask +16 (bomb, consumable, splash), <strong>Damage</strong> 1 acid plus 2d6 persistent acid and 2 acid splash</p>
+<p><strong>Ranged</strong> ◆ alchemist's fire +16 (bomb, consumable, splash), <strong>Damage</strong> 2d8+6 fire plus 2 persistent fire and 2 fire splash</p>
+<p><strong>Ranged</strong> ◆ frost vial +16 (bomb, consumable, splash), <strong>Damage</strong> 2d6+6 cold plus 2 cold splash</p>
+<hr>
+<p><strong>Drink Blood</strong> ◆ (divine)<br>
+<strong>Requirements</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
+<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a Medicine DC 23 check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+
+<p><strong>Exhume</strong> ◆ (manipulate)<br>
+<strong>Requirements</strong> Volenta is adjacent to a dead creature that hasn't already been affected by Exhume<br>
+<strong>Effect</strong> Volenta harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.</p>
+
+<p><strong>Force Feed</strong> ◆<br>
+<strong>Requirements</strong> Volenta has a creature Grabbed or Restrained and is holding weird brew, an alchemical elixir, or an alchemical poison<br>
+<strong>Effect</strong> Volenta forces the target to consume the alchemical item.</p>
+
+<p><strong>Grab</strong> ◆<br>
+As per the standard Grab action.</p>
+
+<p><strong>Quick Draw</strong> ◆<br>
+The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
+
+<p><strong>Weird Brew</strong> ◆ (manipulate)<br>
+<strong>Cost</strong> 1 batch of infused reagents<br>
+<strong>Effect</strong> Volenta creates a vial of weird brew, an alchemical liquid that has the infused trait and becomes inert after 24 hours. Weird Brew has the effects of Snake Oil, and maybe more depending on the results of Volenta's Crafting DC 20 check.<br>
+<strong>Critical Success</strong> Volenta chooses one of the following items and adds its effects to the Weird Brew: Antidote (Moderate), Antiplague (Moderate), Elixir of Life (Lesser), Giant Scorpion Venom, or Juggernaut Mutagen (Moderate). Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits.<br>
+<strong>Success</strong> As critical success, but Volenta chooses from Antidote (Lesser), Antiplague (Lesser), Elixir of Life (Minor), Graveroot, or Juggernaut Mutagen (Lesser).</p>
+
+<p><strong>Smokestick</strong> ◇<br>
+When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+
+<p><strong>Awakened Bloodlust</strong><br>
+When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+
+<p><strong>Sneak Attack</strong><br>
+The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
+
+<p><strong>Vampire Fast Healing 15</strong><br>
+The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong>Void Healing</strong><br>
+Negative healing</p>
+<strong>Vampire Vulnerabilities</strong><br>
+All vampires possess the following vulnerabilities:
+<ul>
+<li><strong>Forbiddance</strong> The vampire can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water</strong> The vampire takes 20 acid damage if it ends its turn in running water.</li>
+<li><strong>Stake to the Heart</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
+<li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+
+<h3>Inventory</h3>
+<ul>
+<li>Acid Flask (Moderate) (Infused) (2)</li>
+<li>Alchemist's Fire (Moderate) (Infused) (2)</li>
+<li>Alchemist's Tools</li>
+<li>Bandolier</li>
+<li>Bomber's Eye Elixir (Lesser) (Infused)</li>
+<li>Dagger (10)</li>
+<li>Elixir of Life (Lesser) (Infused) (3)</li>
+<li>Frost Vial (Moderate) (Infused) (2)</li>
+<li>Infused Reagents (7)</li>
+<li>Snake Oil (6)</li>
+<li>Spider Venom (3)</li>
+<li>A Nice Dress</li>
+</ul>
+</div>
+<div class="statblock">
+<h2>Volenta, Second Form (Mythic Striker?) - Creature 6</h2>
+<em>Medium undead, vampire</em>
+<hr>
+<strong>Perception</strong> +15; darkvision<br>
+<strong>Languages</strong> Common<br>
+<strong>Skills</strong> Acrobatics +14, Athletics +12, Crafting +15, Intimidation +11, Society +7, Stealth +15<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -367,119 +460,87 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
   </thead>
   <tbody>
     <tr>
-      <td>16 (+3)</td>
       <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
+      <td>20 (+5)</td>
+      <td>12 (+1)</td>
+      <td>8 (-1)</td>
+      <td>18 (+4)</td>
       <td>14 (+2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency</strong> +3<br>
+<strong>AC</strong> 25<br>
+<strong>Saving Throws</strong> Fort +12, Ref +16, Will +14<br>
+<strong>HP</strong> 70; fast healing 10, void healing<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
+<strong>Resistances</strong> physical 5 (except silver)<br>
+<strong>Speed</strong> 25 feet, climb 25 feet<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
-</div>
-<br>
-<div class="statblock">
-<h2>Volenta, Second Form</h2>
-<em>Medium undead, chaotic evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
-<hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
-<h3>Reactions</h3>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
-</div>
 
+<h3>Melee Attacks</h3>
+<p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+
+<h3>Ranged Attacks</h3>
+<p><strong>Ranged</strong> ◆ dagger +16 (agile, thrown 10, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+
+<h3>Active Abilities</h3>
+<p><strong>Blood Frenzy</strong> ◇ <br>
+<strong>Requirements</strong> Volenta is not Fatigued or already in a frenzy<br>
+<strong>Trigger</strong> Volenta deals bleed damage to a living creature.<br>
+<strong>Effect</strong> Volenta flies into a frenzy that lasts 1 minute. While frenzied, Volenta gains a +1 status bonus to attack rolls with its claws, gains a +4 status bonus to damage rolls with its claws, gains 15 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. Volenta can't voluntarily stop its frenzy. After its frenzy, Volenta is Fatigued.</p>
+
+<p><strong>Drink Blood</strong> ◆<br>
+<strong>Requirement</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
+<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.</p>
+
+<p><strong>Grab</strong> ◆<br>
+<em>As per standard rules</em></p>
+
+<p><strong>Hateful Floury</strong> ◆◆<br>
+<strong>Requirements</strong> Volenta is in a blood frenzy.<br>
+<strong>Effect</strong> Volenta unleashes a whirlwind of attacks against its foes, making a single melee Strike with its claws against each opponent within reach.</p>
+
+<h3>Passive Abilities</h3>
+<p><strong>Bloodletting</strong> When Volenta deals piercing or slashing damage, it also deals 1d4 bleed damage if the target was Off-Guard or if the attack was a critical hit.</p>
+
+<p><strong>Sneak Attack</strong> The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
+
+<p><strong>Vampire Fast Healing 15</strong> The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+
+<strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities:
+<ul>
+<li><strong>Forbiddance</strong> The vampire can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water</strong> The vampire takes 20 acid damage if it ends its turn in running water.</li>
+<li><strong>Stake to the Heart</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
+<li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+</div>
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***bombs.*** Afterward, she alternates between using her meele strickes to ***Grab***, ***Force Feed*** some of her nasty poisons and ***Drink Blood*** when on low HP (she likes the blood "spicy").
 
-When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
+When attacking, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
 
-Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* reaction to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
+Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* free action to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
 
 When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
 ### 2. Father Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
+[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] uses [Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, his Divine skill is Diplomacy, he has only one Searing Light prepared instead of two, and instead of [death's call](https://2e.aonprd.com/Spells.aspx?ID=413) he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
 
-* ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+In combat, Father Lucian directs the players to form a defensive line around the door, hoping to funnel the vampires one-by-one into a choke point in order to dispatch them individually. Then he casts **Infuse Vitality** spell on players' weapons. Father Lucian himself attempts to end his turns behind full cover on each round of combat if possible but he will go out to cast his offensive spells when most appropriate.
 
-In combat, Father Lucian directs the players to form a defensive line around the door, hoping to funnel the vampires one-by-one into a choke point in order to dispatch them individually. Father Lucian himself attempts to end his turns behind full cover on each round of combat, ducking out only briefly to target vampires with his offensive spells.
+On his first turn, Father Lucian uses his action to cast **Infuse Vitality**, filling the players weapons with a fierce golden light, so their strikes can stop Vampire's regeneration.
 
-On his first turn, Father Lucian uses his action to cast *spirit guardians*, filling the air with a galaxy of swirling, fiery suns that burn with fierce golden light. He stands as near to the front lines as possible while remaining behind full cover, seeking to ensure that any attacking vampire spawn will inevitably be drawn into range of his spell.
+On his second turn, Father Lucian casts **Circle of Protection** arounds the party. 
 
-On his second turn, Father Lucian casts *spiritual weapon*, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle. He then casts *sacred flame*, targeting any vampire that is currently attacking the players.
+On his third, he casts **Spiritual Weapon**, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle.
 
-On his third and subsequent turns, Father Lucian uses his action to cast *guiding bolt* and his bonus action to attack with *spiritual weapon* once again.
+He the forth and subsequent turns he sustains the **Spiritual Weapon** and uses his best judgment to attack using **Vitality Lash**, targeting any vampire that is currently attacking the players.
 
-If any of the players are reduced to 0 hit points, Father Lucian spends his action casting *cure wounds* on them. If his concentration is ever disrupted, he spends his action to renew *spirit guardians* instead.
+If one of the vampires has a lowered AC, we will use **Holy Light** spell to try to finish him off.
+
+If any of the players are reduced to 0 hit points, Father Lucian spends his action casting **Heal** on them. If some one is about to drop to 0 hit points and can be saved, he casts **Protector's Sacrifice** focus spell.
 
 > [!info]+ **Dying NPCs**
 >
@@ -487,7 +548,8 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 >
 > However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
+The three [Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224) fight by using their ***claws*** to grapple enemies and drink their blood. If possible, they will reposition them out of the chockpoint to feast upon in private. All three spawn fight to the death.
+Remember, that the spawn uses the same weaknesses and fact healing mechanics as Volenta.
 # D5. Retrieving the Bones
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
@@ -705,7 +767,7 @@ Milivoj himself has been relocated to his family home—both to show (not tell) 
 
 The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Arc E - The Missing Vistana]]) is not all that he seems.
 
-***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
+***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to four, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
 
 Volenta has been placed as the mastermind of this scheme in order to provide the players with a low-level boss that they can reasonably defeat—but who will recur as an antagonist throughout the adventure.
 
