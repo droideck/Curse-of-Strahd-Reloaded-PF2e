@@ -81,7 +81,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 17 Diplomacy or DC 17 Intimidation check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
@@ -164,9 +164,9 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > [!abstract]+ **Tracking Arabelle**
 > If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>. As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
 > 
-> A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
+> A player who searches the area where Arabelle disappeared and makes a DC 24 Survival check to Track can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 
-> A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
+> A player who inspects the footprints and makes a DC 24 Society check to Investigate can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river. On failure, they still can understand that there was fighting.
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
@@ -214,7 +214,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
 > * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
 
-His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
+His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 19 Medicine check identifies the symptoms of frostbite.)
 
 Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
 
@@ -322,7 +322,7 @@ Shortly after the players discover these records, however, they are interrupted 
 
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
-If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
+If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 21 Diplomacy check to Make an Impression. 
 
 If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to **N3t. Victor’s Workroom** to speak further. He won’t share any information outside of his workroom.
 
@@ -401,7 +401,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 > [!abstract]+ **The Haunting**
 > If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
 >  
-> Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Perception check to Sense Motive reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
+> Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 19 Perception check to Sense Motive reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
 > 
 > If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
 > 
@@ -497,7 +497,7 @@ Lake Baratok is as described in <span class="citation">Approaching the Tower (p.
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
 ### Outside the Wagon
-Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
+Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with an [Average Lock](https://2e.aonprd.com/Equipment.aspx?ID=2731), and can be opened with four successful DC 25 Thievery checks to Pick a Lock or a successful DC 30 Athletics check to Force Open. 
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged vertically in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
