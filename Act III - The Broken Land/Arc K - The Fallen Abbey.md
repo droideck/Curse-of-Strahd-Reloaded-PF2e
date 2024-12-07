@@ -1,4 +1,4 @@
-_An adventure for four 6th-level characters._
+_An adventure for four 7th-level characters._
 
 In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
 

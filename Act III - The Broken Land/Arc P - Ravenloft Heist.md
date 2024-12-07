@@ -1,4 +1,4 @@
-*An adventure for four 7th-level characters.*
+*An adventure for four 8th-level characters.*
 
 In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Ravenloft*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
 
