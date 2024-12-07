@@ -90,7 +90,7 @@ If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span c
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
-As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+As the characters exit Blinsky Toys, they can see Izek Strazni and two **[Guard](https://2e.aonprd.com/NPCs.aspx?ID=933)** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
@@ -171,7 +171,7 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > 
 > A player who searches the area where Arabelle disappeared and makes a DC 24 Survival check to Track can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 
-> A player who inspects the footprints and makes a DC 24 Society check to Investigate can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river. On failure, they still can understand that there was fighting.
+> A player who inspects the footprints and makes a DC 24 Society check or DC 19 Warfare Lore check to Investigate can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river. On failure, they still can understand that there was a fight.
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
@@ -181,7 +181,11 @@ If the players inquire about Luvash’s mission, the guard directs them to Kasim
 ## E2c. Kasimir’s Hovel
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
 
-Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>. If the players enter it, read:
+Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>.
+For now, you can use [Elite Demonologist](https://2e.aonprd.com/NPCs.aspx?ID=931) stat block but remove all demon abilities.
+He wears [Charm of Resistance](https://2e.aonprd.com/Equipment.aspx?ID=3065) and he has a [Traveler's Cloak](https://2e.aonprd.com/Equipment.aspx?ID=1558) for cold weather.
+
+If the players enter it, read:
 
 <div class="description">
 <p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
@@ -247,7 +251,7 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 
 The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**. Use [Elite Riding Dog](https://2e.aonprd.com/Monsters.aspx?ID=2925) stat block for them. Baron has a [Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) stat block.
 ## E3a. Entering the Mansion
 If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
@@ -282,11 +286,11 @@ The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 1
 
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in <span class="citation">N3o. Master Bedroom (p. 108)</span>. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
+The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **[Guards](https://2e.aonprd.com/NPCs.aspx?ID=933)** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
+* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **[Elite Riding Dogs](https://2e.aonprd.com/Monsters.aspx?ID=2925)**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
 * Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
 * Victor Vallakovich can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
@@ -295,7 +299,7 @@ The NPCs in the mansion behave as follows:
 > [!abstract]+ **Banishment from Vallaki**
 > If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken on the western side of the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
 > 
-> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
+> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **[Guards](https://2e.aonprd.com/NPCs.aspx?ID=933)** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
 ## E3b. Searching the Library
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
 
@@ -323,8 +327,93 @@ Shortly after the players discover these records, however, they are interrupted 
 >
 > ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
 >
-> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his [Create Undead](https://2e.aonprd.com/Rituals.aspx?ID=117) ritual.)
 
+<div class="statblock">
+<h2>Victor Vallakovich - Creature 9 - Apply Weak</h2>
+<em>Medium humanoid (human)</em>
+<hr>
+<strong>Perception</strong> +12<br>
+<strong>Languages</strong> Common, Elven, Necril, Aklo<br>
+<strong>Skills</strong> Arcana +18, Crafting +18, Occultism +18<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>-1</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+4</td>
+      <td>+2</td>
+      <td>+2</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>AC</strong> 25<br>
+<strong>Saving Throws</strong> Fort +15, Ref +15, Will +18<br>
+<strong>HP</strong> 92 (max 112)<br>
+<strong>Speed</strong> 25 feet<br>
+<hr>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ dagger +19 (agile, finesse, magical, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
+<p><strong>Ranged</strong> ◆ dagger +19 (agile, magical, thrown 10, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
+
+<p><strong>Drain Bonded Item</strong> ◇ (frequency: once per day)<br>
+Victor expends the magical power stored in his ring. During the current turn, he can cast one spell he prepared today, without spending a spell slot. Victor must still Cast the Spell and meet the spell's other requirements.</p>
+
+<p><strong>Counterspell</strong> ⮌<br>
+<strong>Trigger</strong> A creature casts a spell Victor has prepared<br>
+<strong>Effect</strong> Victor expends a prepared spell to counter the triggering creature's casting of that same spell. He loses its spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell.</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Steady Spellcasting</strong><br>
+If a reaction would disrupt Victor's spellcasting action, the Victor attempts a DC 15 flat check. On a success, the action isn't disrupted.</p>
+
+<hr>
+<h3>Spellcasting</h3>
+<p><strong>Arcane Flexible Prepared Spells</strong> DC 25, attack +17<br>
+<strong>Cantrips (5th):</strong> detect magic, ignition, light, prestidigitation, shield, telekinetic hand<br>
+<strong>1st (2/2):</strong> fear*, force barrage*, mystic armor*<br>
+<strong>2nd (2/2):</strong> dispel magic*, invisibility*<br>
+<strong>3rd (2/2):</strong> fireball<br>
+<strong>4th (2/2):</strong> fly, suggestion*<br>
+<strong>5th (2/2):</strong> cone of cold*, sending*<br>
+(*) denotes spell that are in the flexible collection</p>
+
+<h3>Rituals</h3>
+<p><strong>Create Undead</strong> (uncommon)<br>
+<strong>Cast</strong> 1 day; <strong>Cost</strong> black onyx, see Creature Creation Rituals table; <strong>Secondary Casters</strong> 1<br>
+<strong>Primary Check</strong> Arcana (expert), Occultism (expert), or Religion (expert); <strong>Secondary Check</strong> Religion<br>
+You transform the target into an undead creature with a level up to that allowed in the Creature Creation Rituals table...</p>
+
+<p><strong>Faulty Teleportation Circle</strong> (uncommon)<br>
+<strong>Cast</strong> 1 day; <strong>Cost</strong> rare incense, precious metals, and purified chalk worth 500 gp; <strong>Secondary Casters</strong> 2<br>
+<strong>Primary Check</strong> Arcana or Occultism (master); <strong>Secondary Check</strong> Crafting, Survival<br>
+You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual...</p>
+
+<h3>Inventory</h3>
+<ul>
+<li>Dagger (magical)</li>
+<li>Clothing (Fine)</li>
+<li>Explorer's Clothing</li>
+<li>Spellbook</li>
+<li>Bonded item - Simple Silver Ring</li>
+</ul>
+
+</div>
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 21 Diplomacy check to Make an Impression. 
@@ -341,9 +430,9 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 > - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
 > - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
 >
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
+> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have - immunity to effects or conditions that require a physical body, like disease, poison, and precision damage; and also they  usually have resistance against all damage (except force damage and damage from the _ghost touch_ weapons), with double the resistance against non-magical damage. The same note mentions that phase spiders have developed a way to counteract those immunities through the use of their fangs, venom and ethereal web. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional Focus component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom - effectively it functions as a [Ghost Oil](https://2e.aonprd.com/Equipment.aspx?ID=1571).
 >
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
+> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Interplanar Teleport (with the destination of Ethereal Plane only)* spell for up to ten individuals for one hour on the night of the full moon.
 >
 > The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
 > 
@@ -351,11 +440,11 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 >
 > Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
 >
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
+> Once, night hags were creatures of the First World, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Abaddon long ago, where they degenerated into fiends. The foul taint of Abaddon twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
 >
 > Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
 >
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
+> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mental damage, and the touch of cold iron wounds her even further.
 >
 > Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
 >
@@ -371,19 +460,19 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138) on the door, rather than dealing lightning damage, casts [Fear (3rd rank)](https://2e.aonprd.com/Spells.aspx?ID=1524) in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *[Sending](https://2e.aonprd.com/Spells.aspx?ID=1665)* and *[Fear](https://2e.aonprd.com/Spells.aspx?ID=1524)* spells.
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka (use [Weak Wolf Skeleton](https://2e.aonprd.com/Monsters.aspx?ID=1899) stat block but remove Knockdown feature and make it tiny).Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *[Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577)* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
 
 > [!info]+ **The Tome of Strahd**
-> A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
+> A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *[Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715)* to retrieve it, revealing his position.
 
 If persuaded to aid the players in finding Arabelle, Victor can share the following information:
 
@@ -401,7 +490,7 @@ Victor isn’t sure how to get to Lake Baratok from Vallaki. However, he does kn
 
 If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, Yevgeni Krushkin, have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
 
-Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows.
+Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows. They use an [Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) stat block.
 
 > [!abstract]+ **The Haunting**
 > If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
@@ -457,7 +546,7 @@ Szoldar also warns the players to be cautious of werewolves on the Svalich Road 
 
 The werewolves' recent flurry of activity has made Szoldar suspect that the pack has come under the leadership of a new, more reckless alpha. He doesn’t know where the werewolves’ den is, but he cautions the players to keep an eye out for anything strange or unusual.
 # E5. The Svalich Road
-As the players exit Szoldar’s shack, any characters with a passive Wisdom (Perception) score of 19 or higher notice a silhouette watching them from the southern treeline. If the players approach, look toward, or otherwise attempt to interact with the silhouette, it vanishes. 
+As the players exit Szoldar’s shack, any character who succeeds DC 24 Perception check notices a silhouette watching them from the southern treeline. If the players approach, look toward, or otherwise attempt to interact with the silhouette, it vanishes. 
 
 The silhouette is Arrigal, who has decided to spy on the players on Strahd’s behalf and to ensure that Arabelle is safely returned should the players find her. Though he remains out of sight for the remainder of the journey, Arrigal continues to track the players from afar.
 ## E5a. Luna River Bridge
@@ -475,7 +564,7 @@ If the players retrieve the scrap of material, they find it to be a small, soake
 
 The Luna River Crossroads are largely as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. 
 
-If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
+If this is the first time that the players have visited the Luna River Crossroads, three **[Twigjacks](https://2e.aonprd.com/Monsters.aspx?ID=3222)** and two **[Scarecrows](https://2e.aonprd.com/Monsters.aspx?ID=3174)** are lying in wait here. Modify the area description as follows:
 
 <div class="description">
 <p>The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast.</p>
@@ -489,10 +578,10 @@ If Szoldar is accompanying the players, he warns them that the saplings and scar
 If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
 
 > [!combat]- **Balancing the Blights**
-> This combat encounter is a **bruising** encounter against a party of four 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Severe** encounter against a party of four 4th-level players and a Level 3 ally (Szoldar Szoldarovoch). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of scarecrows to 1.
-> * ***Five Players.*** Reduce the number of twig blights to 2.
+> * ***Five Players.*** Increase the number of twig blights to 4.
 > * ***Six Players.*** Increase the number of scarecrows to 3.
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
@@ -506,7 +595,7 @@ Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmere
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged vertically in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
-A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 14 Wisdom (Survival) check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
+A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 19 Survival check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
 
 > [!warning]+ **A Chance to React**
 >
@@ -516,18 +605,18 @@ A player who approaches the wagon detects a faint scent of sulfur, and notices t
 >
 > If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
 
-**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
+**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 19 Survival check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
 
-A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
+A player who makes a successful DC 19 Survival check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 21 Crafting check to Investigate reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
 
 If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
 ### Inside the Wagon
-**Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
+**Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door (Stealth and Disable DC is 27 - one check per trap):
 
-* ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
-* ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
+* ***Silver Barbed Net***: *Ranged Weapon Attack:* +20 to hit (10 feet increment). *Hit:* 20 (2d10+9) piercing damage and the target is grabbed until it is freed or restrained on a critical success. The Escape DC is 27. A creature that attempts to do so must also succeed on a DC 25 Reflex Basic saving throw or take 2d10+9 piercing damage in the process. The net has Hardness 10 and 50 HP. If the net is broken, the creature can automatically escape without harming it by spending 3 action (or 1 action, but it'll need to make the Reflex saving throw).
+* ***Bottle of Concentrated Acid***. *Ranged Weapon Attack:* +20 to hit. *Hit:* 3d6 persistent acid damage and 3 acid splash damage.
 
-**Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
+**Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 25 Perception check to Search to find:
 
 * The climber's kit, disguise kit, healer's kit, and poisoner's kit
 * The wooden box containing the Tarokka cards
@@ -554,7 +643,7 @@ The tower door is largely as described in <span class="citation">V2. Tower Door 
 
 The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
 ![[Tower Door.png]]
-Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
+Each of the eight buttons depicts a different arcane rune. A player who makes a successful DC 19 Arcana check, identifies the runes as the symbols of the eight schools of magic - ancient relic of the past. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
 A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
 
@@ -565,75 +654,53 @@ The two possible proper sequences are:
 
 Each time a button is pressed, its symbol glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
-A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
+A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 32 Athletic check to Force Open.
 
-If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
+---
+#### Electrified Hall  - Hazard 9
+_Electricity, Evocation, Magical, Trap_
+**Complexity** Simple  
+**Stealth** DC 33 (expert)
+
+**Disable**  
+DC 30 Thievery (master) to disable the runes, or **dispel magic** (5th level; counteract DC 30) to counteract the trap.
+
+**Lightning Blast - ⮌** _(arcane, electricity, evocation)_ **Trigger** A creature damages the door, fails to Force Open the door, or fails a check to activate the symbols.  
+**Effect** A stroke of lightning blasts out from the door in a 30 feet cone, everyone in the way should make a DC 28 Reflex save.
+- **Critical Success** No effect.
+- **Success** The trap deals 1d10+6 electricity damage.
+- **Failure** The trap deals 2d10+13 electricity damage, and the creature becomes **clumsy 1** and **stupefied 1** for 1 hour.
+- **Critical Failure** The trap deals 4d10+26 electricity damage, and the creature becomes **clumsy 2** and **stupefied 2** for 1 hour.
+
+**Reset** Automatic
+
+---
+
+If eight different symbols are pressed in an incorrect sequence, trap is triggered and the griffon statues atop the tower roof—three disguised **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)**—come to life and attack. The forth gargoyles is damaged and cannot animate or fight. The gargoyles fight to the death.
 
 > [!combat]- **Balancing the Gargoyles**
-> This combat encounter is a **brutal** combat encounter against a party of four 4th-level players and a CR 1/2 ally (Szoldar Szoldarovich), and will consume approximately 77% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Severe** combat encounter against a party of four 4th-level players and a Level 3 ally (Szoldar Szoldarovich). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
-> * ***Five Players.*** One of the gargoyles is damaged and cannot animate or fight.
-> * ***Six Players.*** Add a fifth gargoyle.
+> * ***Three Players.*** Decrease the number of the gargoyles to two.
+> * ***Five Players.*** All four gargoyles attack.
+> * ***Six Players.*** Add a fifth gargoyles.
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
-The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. A character can do an Athletics  DC 15 check to Climb. If a creature climbs the scaffolding to the second floor, the four **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Modify the statblock for the **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** by adding [Grab ◆](https://2e.aonprd.com/MonsterAbilities.aspx?ID=45) to the Claw attack and add these passive abilities:
 
-<div class="statblock">
-<h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
-<br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">8 (-1)</td>
-      <td data-label="CON">16 (+3)</td>
-      <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">7 (-2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus.</strong> +2<br>
-<hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong>If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
-</div>
+---
+**_Carry_**. A gargoyle can Fly at half Speed while it has a creature Grabbed or Restrained in both of its claws, carrying that creature along with it.
 
-If able, a gargoyle that has grappled a player flies 15 feet up on its turn and uses its action to ***bite*** the grappled player.
+**_Hot Shift._** If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its **_claws_** deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains weakness 10 to cold damage and immediately stops glowing if dealt cold damage.
+
+**_Cold Shift._** If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its **_claws_** deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains weakness 10 to fire damage and its ice vanishes if dealt fire damage.
+
+**_Stone Body._** If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the _shatter_ spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.
+
+If able, a gargoyle that has grappled a player flies 20 feet up on its turn and uses its action to ***bite*** the grappled player.
+
+---
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
 
@@ -646,9 +713,9 @@ The interior of the tower is largely as described in <span class="citation">V4. 
 
 **The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
 
-A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
+A successful DC 17 Perception check to Search the fourth floor reveals one clue on a success and both on a critical success:
 
-* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
+* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 19 Society or Arcana check to Recall Knowledge recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
 * Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
 ![[Carnival Poster.png]]
 <span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -697,23 +764,22 @@ If at least two characters show that they’re carrying silvered weapons or ammu
 Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
 
 > [!combat]- **Balancing the Werewolves**
-> This combat encounter is a **bloody** encounter against a party of four 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 52% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Severe** encounter against a party of four 4th-level players and a Level 3 ally (Szoldar Szoldarovoch). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the werewolves’ HP to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Five Players.*** Reduce the werewolves’ HP to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Six Players.*** Increase the werewolves’ HP to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> * ***Three Players.*** Apply the Weak template to Mathilda.
+> * ***Five Players.*** Apply the Elite template to Zsolt.
+> * ***Six Players.*** Apply the Elite template to both of them.
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
+
 <div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
+<h2>Werewolf - Creature 5</h2>
+<em>Medium Beast, Human, Humanoid, Werecreature</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet<br>
+<strong>Languages</strong> Common, Wolf Empathy<br>
+<strong>Skills</strong> Acrobatics +7, Athletics +9<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -728,33 +794,68 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
-      <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
+      <td>20 (+5)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>14 (+2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision, passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>AC</strong> 20<br>
+<strong>HP</strong> 101<br>
+<strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10<br>
+<strong>Weaknesses</strong> silver 7<br>
+<strong>Speed</strong> 25 feet<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
+<p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
+
+<p><strong>Change Shape</strong> ◆<br>
+The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+<p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
+<p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
+
+<p><strong>Maul</strong> ◆<br>
+You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
+<p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
+
+<p><strong>Reactive Strike</strong> ⮌<br>
+<strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
+<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
+
+<h3>Passive Abilities</h3>
+<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
+This curse affects only humanoids.<br>
+<strong>Saving Throw</strong> DC 19 Fortitude<br>
+On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+
+<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
+When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
+
+<p><strong>Pack Attack</strong><br>
+The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
+
+<p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
+The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
+
+<p><strong>Wolf Empathy</strong><br>
+The werewolf can communicate with canine creatures.</p>
+
+<h3>Inventory</h3>
+<ul>
+<li>Battle Axe</li>
+<li>Composite Shortbow</li>
+<li>Studded Leather Armor</li>
+<li>Arrows (20)</li>
+</ul>
+
 </div>
 
 In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.
@@ -768,7 +869,7 @@ The players' return to Vallaki from Lake Baratok is three and one-quarter miles 
 
 When the players return to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
 
-As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
+As the players return to Vallaki’s Sunset gate, a player that succeeds on DC 24 Perception check notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
 
 > [!profile]+ **Profile: Dr. Rudolph van Richten**
 > **Roleplaying Information**
@@ -795,7 +896,7 @@ If the players indicate an interest in following Rictavio to the stockyard, Dani
 
 If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
 
-Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
+Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 21 Diplomacy check to Make an Impression, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
 
 ![[RVR_Transparent.png]]
 
@@ -823,11 +924,11 @@ If the players demand it, Van Richten agrees to bring them to his wagon at Arase
 ## E8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player who succeed DC 24 Perception check notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 
 If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
-If the players muster sufficient evidence of their good faith or succeed on a DC 15 Charisma (Persuasion) check, Rictavio sighs and commands the players to form a protective wall around the rear of the wagon. If the players antagonize Rictavio instead, or otherwise fail to convince him, a young girl’s voice quietly rings out from the wagon: “They mean me no harm. Please, open the door.”
+If the players muster sufficient evidence of their good faith or succeed on a DC 21 Diplomacy check to Make an Impression, Rictavio sighs and commands the players to form a protective wall around the rear of the wagon. If the players antagonize Rictavio instead, or otherwise fail to convince him, a young girl’s voice quietly rings out from the wagon: “They mean me no harm. Please, open the door.”
 ## E8c. Rictavio’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
 
@@ -867,11 +968,17 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 
 > [!item]+ **Talisman of Echoes**
 >
-> _Wondrous item, rare_
->
-> This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell. (The spell *speak with dead* isn't affected by the spell's ordinary ten-day limit when cast in this way.)
->
-> The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
+> _Rare, Invested, Magical, Necromancy_
+> **Price:** 700 gp
+> **Usage:** worn; Bulk L
+> 
+> This silver medallion bears intricate spiraling patterns that seem to catch echoes of whispered voices. The talisman has 4 charges, which replenish each day at dawn, gaining 1d4 charges.
+> 
+> **Activate** [◆◆] command, Interact; **Frequency** 1 charge; **Effect** You cast [Peaceful Rest](https://2e.aonprd.com/Spells.aspx?ID=1625) at 2nd level.
+> 
+> **Activate** [10 minutes] command, Interact; **Frequency** 2 charges; **Effect** You cast [Talking Corpse](https://2e.aonprd.com/Spells.aspx?ID=1712) at 4th level. Unlike the normal spell, this effect can target a corpse If anyone has previously cast this spell on the corpse in the last week.
+> 
+> If you expend the talisman's last charge, roll a DC 5 flat check. On a failure, the talisman crumbles to dust and is destroyed.
 
 ![[SpeakWithDead.png]]
 
@@ -922,7 +1029,7 @@ A few moments later, Arabelle staggers, her eyes rolling back into her head as t
 <p>A thousand souls in torment black.</p>
 </div>
 
-Arabelle then falls over unconscious. Any character that makes a successful DC 10 Wisdom (Medicine) check can easily discern that she is unharmed—merely asleep. Upon waking, Arabelle retains no memory of the prophecy she spoke.
+Arabelle then falls over unconscious. Any character that makes a successful DC 15 Medicine check to Recall Knowledge can easily discern that she is unharmed—merely asleep. Upon waking, Arabelle retains no memory of the prophecy she spoke.
 
 Neither Arabelle, Van Richten, nor Arrigal know it, but Arabelle's prophecy refers to Strahd's ultimate plot to use the Heart of Sorrow to plunge the valley into eternal night, summoning a horde of undead across the land and using the souls of the Barovians to escape the Mists.
 
@@ -946,7 +1053,7 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 > [!abstract]+ **Recruiting Van Richten**
 > If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)
 > 
-> A player who succeeds on a DC 15 Perception check to Sense Motive notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
+> A player who succeeds on a DC 24 Perception check to Sense Motive notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
 # Design Notes: The Missing Vistana
 The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
 

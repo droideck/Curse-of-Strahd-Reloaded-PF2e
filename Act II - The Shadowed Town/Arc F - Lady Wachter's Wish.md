@@ -1,4 +1,4 @@
-_An adventure for four 4th-level characters._
+_An adventure for four 5th-level characters._
 
 In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
@@ -202,7 +202,7 @@ Lady Wachter also shares that Izek is known to be a heavy drinker. While he is a
 
 ***Compensation.*** If the players demand compensation for their services, Lady Wachter promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes the Baron’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person. 
 
-If the players demand additional compensation and succeed on a DC 15 Charisma (Persuasion) check, Fiona reluctantly agrees to pay an additional 100 gp upon completion of their task.
+If the players demand additional compensation and succeed on a DC 22 Diplomacy check to Request, Fiona reluctantly agrees to pay an additional 300 gp upon completion of their task.
 
 Should the players mention the Barovian refugees, Lady Wachter swiftly, and without reservation, promises to ensure that the refugees will be permitted to safely enter the town as soon as Baron Vallakovich has been removed from power.
 
@@ -288,7 +288,7 @@ The players can attempt to plant the poisoned bottle of wine in Izek’s case of
 
 Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (She is too suspicious of strangers and too fearful of Izek to risk disappointing him.) 
 
-However, if the players fake a convincing cover story, they can convince her to replace one of the Purple Grapemash No. 3 bottles with the poisoned Red Dragon Crush bottle with a successful DC 13 Charisma (Deception) check.
+However, if the players fake a convincing cover story, they can convince her to replace one of the Purple Grapemash No. 3 bottles with the poisoned Red Dragon Crush bottle with a successful DC 20 Deception check to Lie.
 
 ***Distracting Izek.*** If the players choose to swap the bottles while [[Non-Player Characters#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks. 
 
@@ -297,29 +297,27 @@ Players should be careful, however, to avoid being caught in the act. Izek is li
 As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of the following encounters may take place. 
 
 > [!info]+ **Getting Caught**
-> Should the players fail to escape initial notice in any of these encounters, they can still avoid detection by making a successful DC 13 group Dexterity (Stealth) check, which may be accompanied by one or more additional skill checks at your discretion. (See **Group Checks** in the <span class="citation">Player's Handbook,  p. 175</span>.) For example, a player who seeks to escape notice by clambering onto the roof of a nearby house might attempt a DC 10 Strength (Athletics) check, gaining advantage on their Dexterity (Stealth) check if they succeed.
+> If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 15 Deception check to Lie. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
 > 
-> If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 9 Charisma (Deception) check. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
-> 
-> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
+> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 15 Deception check to Lie. If the players deny any association with Ireena, the DC is 20. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 
 As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”) 
 
-Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 4 cp, or a half-dozen of his fish for 20 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards. 
+Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 5 cp, or a half-dozen of his fish for 25 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards. 
 
-The players can calm Bluto with a successful DC 14 Charisma (Persuasion) check or by purchasing one or more of his fish. 
+The players can calm Bluto with a successful DC 20 Diplomacy check or by purchasing one or more of his fish. 
 ### 2. Izek’s Spies
  As [[Non-Player Characters#Izek Strazni|Izek]] visits one of his spies, the players can overhear a conversation in which the spy informs Izek that several of their neighbors have recently visited the Morning Gate to purchase "pastries that allow you to dream while wide-awake" from a peddler named Morgantha.
 
-As the conversation continues, the players are noticed by a small, mangy **mastiff** standing guard in the alleyway near the spy’s house. Upon spotting the players, the dog begins to growl at them, threatening to draw the attention of Izek, his guards, or his spy. The players can calm the dog with a successful DC 14 Wisdom (Animal Handling) check or by providing it with food.
+As the conversation continues, the players are noticed by a small, mangy **mastiff** standing guard in the alleyway near the spy’s house. Upon spotting the players, the dog begins to growl at them, threatening to draw the attention of Izek, his guards, or his spy. The players can calm the dog with a successful DC 20 Nature check to Command an Animal or by providing it with food.
 ### 3. Gate Inspections
 As [[Non-Player Characters#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha. 
 
 Izek conjures a flame in his hand and threatens to burn the refugees unless they disperse, which they do. Izek then snarls to the guards that if wolves are getting brave enough to approach the walls, werewolves can’t be far behind. 
 
-Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bolts from a weapons cache stored in crates near the players’ hiding position. The players can avoid the guard’s attention with a successful DC 13 group Dexterity (Stealth) check or by other suitable means.
+Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bolts from a weapons cache stored in crates near the players’ hiding position. The players can avoid the guard’s attention with a successful DC 19 Stealth check to Avoid Notice or by other suitable means.
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
@@ -329,7 +327,7 @@ When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspec
 >
 > If the doll is not available for Izek to take, he beats Blinsky using **_unarmed strikes_** until the toymaker is at 1 hit point, and then uses his **_hurl flame_** ability to burn each of the other toys on display to cinders. Izek then threatens to kill Blinsky and burn his shop down unless a replacement doll is completed by dusk on the following day.
 >
-> In his fury, Izek forgets the case containing the poisoned wine on Blinsky’s counter. The players can persuade Blinsky to help them poison Izek when he returns by showing Blinsky kindness and treating his wounds or with a successful DC 15 Charisma (Persuasion) check.
+> In his fury, Izek forgets the case containing the poisoned wine on Blinsky’s counter. The players can persuade Blinsky to help them poison Izek when he returns by showing Blinsky kindness and treating his wounds or with a successful DC 20 Diplomacy check.
 ## F4c. Ambushing Izek
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
 
@@ -349,14 +347,10 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 
 
 > [!warning]+ **Poisoned Izek**
-> Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
+> Remember that Izek remains **Sickened 2** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
 
 > [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters have been calibrated to consume most or all of the players' hit points in order to create a dangerous and exciting fight.
-> 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Game Master.
-> 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
 
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
@@ -514,10 +508,9 @@ Father Petrovich also briefly expresses his regret for his younger sister, Baron
 If the players return to Wachterhaus to obtain their promised compensation (if any), Lady Wachter provides it to them with gratitude. Their reward is as follows:
 
 * Up to thirty silvered crossbow bolts
-* Up to four silvered spears
-* Up to two sets of armor worth 100 gp or less
-* Up to one set of armor worth 400 gp or less
-* Enough raw silver to silver up to two additional weapons
+* Up to two silvered spears
+* Two additional silver weapons with Bulk 1/L, or 1 additional silver weapon with Bulk 2
+* Up to 3 common items 4th level or less
 
 All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
 

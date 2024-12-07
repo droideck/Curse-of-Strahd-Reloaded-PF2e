@@ -11,18 +11,36 @@ Act II ends the morning after the players' first full moon in Vallaki. However, 
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
 * restore the bones of St. Andral (350 XP)
-* find the missing Arabelle (300 XP)
+* find the missing Arabelle (350 XP)
 * defeat Izek Strazni (400 XP)
 * obtain the *Tome of Strahd* (100 XP)
 * restore the soul of Stella Wachter (250 XP)
 * gain entry to the gates of Krezk (200 XP)
 
-> [!info]+ **Vallakian Merchants**
-> While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
+
+> [!info]+ **Vallakian Stat block**
+> ## Vallaki - Settlement 5
+> Traits - Town, Isolated, Cursed
 > 
-> In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
+> A walled settlement desperately clinging to false hope through mandatory festivals, situated near Lake Zarovich and protected from Castle Ravenloft's direct gaze.
 > 
-> When purchasing items from the players, Vallakian merchants will pay the item's full value for magic items and treasure, but half of the item's value for all other goods (e.g., weapons or armor). Merchants also have limited funds. A store cannot provide more than 50 gold pieces for a single item, but may provide store credit for its remaining value.
+> **Government** Burgomaster Vargas Vallakovich (autocracy)
+> **Population** 1,547 (99% humans, 1% other)
+> **Languages** Barovian
+> **Religions** Morninglord, Ezra
+> **Threats** Vampire spawn, wolves, political unrest
+> 
+> **Commerce** Common items up to 5th level available at Arasek Stockyard. Other town stores stock items of 4th level or lower. Merchants cannot pay more than 100 gp for a single item but may offer store credit for remaining value.
+> 
+> **Malicious Unhappiness** The Baron mandates weekly festivals under threat of imprisonment. Anyone speaking against these celebrations or appearing unhappy risks being labeled a traitor.
+> 
+> **Notable Figures**
+> • **Baron Vargas Vallakovich** (male human noble), oppressive burgomaster obsessed with enforcing happiness
+> • **Lady Fiona Wachter** (female human aristocrat), cunning noblewoman who seeks to overthrow the Baron through manipulation and subterfuge
+> • **Izek Strazni** (male human), the baron's brutal enforcer with a fiendish arm
+> • **Father Lucian Petrovich** (male human priest), leader of St. Andral's Church
+> • **The Martikov Family** Urwin and Danika run the Blue Water Inn, helping those they can
+
 # Timeline
 Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
 ## Neyavr 2
