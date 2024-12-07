@@ -1,4 +1,4 @@
-*An adventure for four 3rd-level characters.*
+*An adventure for four 3rd-level and 4th level characters.*
 
 In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
@@ -536,7 +536,7 @@ If the players failed to conceal their departure, any players who pass a DC 18 P
 <p>The sound of a snapping twig cuts through the silence like shattering glass. A bush behind you rustles—then abruptly falls still.</p>
 </div>
 
-The rustling bush hides the Vistani **bandit** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
+The rustling bush hides the Vistani **[Elite Charlatan](https://2e.aonprd.com/NPCs.aspx?ID=889)** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
 
 **If the players call out to Eliza**, she remains hidden and doesn't respond.
 
@@ -687,14 +687,23 @@ Madam Eva declines to return with the players, preferring instead to linger at t
 > [!lore]+ **Why Madam Eva Remains**
 > Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
 
-**_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 240 XP.
+**_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 240 XP. It is enough to get them to 4th level.
 ## C4g. Departing Tser Pool
 When the players awaken at Tser Pool the following morning, Stanimir invites them to break their fast with him around the cold fire. Breakfast, which Arturi attends if able, includes cornmeal polenta, stuffed cabbage rolls, and fried bread. (If her treachery was not revealed the previous night, Eliza cheerfully joins the players for breakfast as well.)
 
 If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
+
+> [!abstract]+ **Ireena's Pathfinder 2e stat block**
+> Ireena gets to 2nd level here. Feel free to level up her yourself or you can use my suggestions:
+> 
+> * Raise **Society** to **Expert** as she wants to learn how to take care of the barovian refugees in Vallaki.
+> * **General Feat** - Ward Medic
+> * **Skill Feat** - Unusual Treatment
+>  
+>  She improves her medical skill so she can be of service while she is with party.
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
-It uses [Skeleton Guard scaled to 5th or 4th level](https://2e.aonprd.com/Monsters.aspx?ID=3193) statblock and riding a [Skeletal Horse](https://2e.aonprd.com/Monsters.aspx?ID=3195)
+It uses [Skeleton Guard scaled to 7th level](https://2e.aonprd.com/Monsters.aspx?ID=3193) statblock and riding a [Skeletal Horse scaled to 5th level](https://2e.aonprd.com/Monsters.aspx?ID=3195)
 
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
@@ -719,7 +728,7 @@ If the players explore the watchtower, they find a broken silver pendant carved 
 
 From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
 ## The Graves
-The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 18 Survival check reveals that the graves are no more than a few weeks old.
+The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 19 Survival check reveals that the graves are no more than a few weeks old.
 
 Small pebbles have been arranged in the soil atop each grave to form the shape of a rising sunburst.
 ## The Corpse
@@ -732,24 +741,24 @@ As the players continue down the road, read:
 <div class="description"><p>You continue down the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
 <p>The air grows colder as the road passes through a dark evergreen forest, the thick canopy once more blocking out much of the sky's dim light. Here, the road grows narrow, its edges passing above steep, craggy slopes as it winds around a mountain spur. The only sounds that follow you are the crunching of fallen leaves and an occasional rustling in the underbrush.</p></div>
 
-If one of the players passes DC 20 Perception check, add:
+If one of the players passes DC 21 Perception check, add:
 
 <div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
 
-The movement belongs to an **[Elite Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241)**, which swiftly retreats into the woods. Its four **[Elite Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241)** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
+The movement belongs to a **[Wolf scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)**, which swiftly retreats into the woods. Its five **[Wolfs scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
 
 If the players continue, read:
 
 <div class="description"><p>As the road curves around the edge of the mountain, the right-hand cliffs fall away, leaving a sheer drop to a wooded ravine below. The road, now barely ten feet wide, bends up ahead, doubling back around this ravine before plunging dramatically and winding around a smaller mountain peak. </p>
 </div>
 
-If one of the players successfully Searches and passes DC 20 Perception check, add:
+If one of the players successfully Searches and passes DC 21 Perception check, add:
 
 <div class="description">
 <p>You see three gray-furred shadows dart through the underbrush ahead. Two more flicker at the edge of your vision, just behind you.</p>
 </div>
 
-If one of the players passes DC 25 Perception check, add:
+If one of the players passes DC 26 Perception check, add:
 
 <div class="description">
 <p>A sixth lurks in the ravine nearly fifty feet below, keeping pace with your movements as it clings to the shadows of the crags.</p>
@@ -763,10 +772,10 @@ If the players pause, proceed, or attack, the five wolves in the woods strike. R
 
 
 > [!combat]- **Balancing the Wolves** 
-> This combat encounter is a **Severe** encounter against a party of four 3rd-level players, a 1st level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of wolves to 4. 
-> * **Five Players**. Increase the number of wolves to 6. 
-> * **Six Players**. Increase the number of wolves to 7.
+> This combat encounter is a **Severe** encounter against a party of four 4th-level players, a 2nd level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of wolves to 5. 
+> * **Five Players**. Increase the number of wolves to 7. 
+> * **Six Players**. Increase the number of wolves to 8.
 
 Wolves get the following attack:
 
@@ -785,7 +794,7 @@ Once a player falls into the ravine, the rest of the pack flees into the woods, 
 > [!info]+ **Descending Into the Ravine**
 > A player attempting to ascend or descend the edge of the ravine must make a DC 15 Athletics check to Climb.
 
-As the players depart this area, a player who passes DC 18 Perception check notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 25 Perception check to Sense Motive discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
+As the players depart this area, a player who passes DC 19 Perception check notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 26 Perception check to Sense Motive discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
 
 > [!lore]+ **The Watching Wolves**
 > The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
@@ -810,7 +819,7 @@ This area is largely as described in <span class="citation">Tser Falls (p. 37)</
 >The revenant also has <strong>Regeneration 15</strong> (Deactivated by Fire or Holy) feature.
 
 
-If the players call out to this nameless **[Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167)** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+If the players call out to this nameless **[Elite Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167)** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
 
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 
@@ -874,7 +883,7 @@ If the players remain silent or continue ahead, read:
 
 The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
 
-As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 7](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -908,7 +917,7 @@ Morgantha has a few "dream pastries" left from her workday—"filled with the li
 
 > [!info]+ **Pathfinder 2e Adjustments**
 >
->Instead of usual mechanics, use [Dreamtime Tea](https://2e.aonprd.com/Equipment.aspx?ID=628) but modify DC to 26. After that, the pastries work as described in **Dream Pastries**, p. 125. You can also answer some player's questions but it should be perverted by the Hag magic.
+>Instead of usual mechanics, use [Dreamtime Tea](https://2e.aonprd.com/Equipment.aspx?ID=628) but modify DC to 27. After that, the pastries work as described in **Dream Pastries**, p. 125. You can also answer some player's questions but it should be perverted by the Hag magic.
 >
 >And remember that it's a drug and it should use the [Addiction](https://2e.aonprd.com/Diseases.aspx?ID=15) mechanics.
 
@@ -933,7 +942,7 @@ The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-qu
 <p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
 <p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
 
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **[Raven Swarms scaled down to 1st level](https://2e.aonprd.com/Monsters.aspx?ID=782)**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **[Weak Raven Swarms](https://2e.aonprd.com/Monsters.aspx?ID=782)**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
 
 As the players proceed down the road, read:
 
@@ -951,13 +960,13 @@ As the players continue down the road, read:
 
 <div class="description"><p>As quickly as it appeared, the field is swallowed up by the forest again, the trees closing in around you once more. The dark undergrowth rustles and stirs in the wind, and the weight of the forest presses in from all sides. You're unable to shake the sense that, somehow, you're being watched.</p></div>
 
-If one of the players passes DC 20 Perception check, add:
+If one of the players passes DC 21 Perception check, add:
 
 <div class="description">
 <p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
 </div>
 
-The shadow belongs to a **[Elite Werewolf](https://2e.aonprd.com/Monsters.aspx?ID=3236)**. Its companions—three **[Elite Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3241)** and an additional **[Elite Werewolf](https://2e.aonprd.com/Monsters.aspx?ID=3236)**—lurk in the woods nearby.
+The shadow belongs to a **[Werewolf scaled to 5th level](https://2e.aonprd.com/Monsters.aspx?ID=3236)**. Its companions—three **[Wolfs scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** and an additional **[Werewolf scaled to 5th level](https://2e.aonprd.com/Monsters.aspx?ID=3236)**—lurk in the woods nearby.
 
 The werewolves don't attack immediately, preferring to wait for the perfect time to strike. If the players continue down the road, read:
 
@@ -972,6 +981,91 @@ Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition,
 >
 >The werewolf also has <strong>Regeneration 15</strong> (Deactivated by Silver or Void) feature.
 
+<div class="statblock">
+<h2>Werewolf - Creature 5</h2>
+<em>Medium Beast, Human, Humanoid, Werecreature</em>
+<hr>
+<strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet<br>
+<strong>Languages</strong> Common, Wolf Empathy<br>
+<strong>Skills</strong> Acrobatics +7, Athletics +9<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 (+5)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>14 (+2)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>AC</strong> 20<br>
+<strong>HP</strong> 101<br>
+<strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10<br>
+<strong>Weaknesses</strong> silver 7<br>
+<strong>Speed</strong> 25 feet<br>
+<hr>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
+<p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
+
+<p><strong>Change Shape</strong> ◆<br>
+The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+<p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
+<p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
+
+<p><strong>Maul</strong> ◆<br>
+You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
+<p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
+
+<p><strong>Reactive Strike</strong> ⮌<br>
+<strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
+<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
+
+<h3>Passive Abilities</h3>
+<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
+This curse affects only humanoids.<br>
+<strong>Saving Throw</strong> DC 19 Fortitude<br>
+On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+
+<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
+When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
+
+<p><strong>Pack Attack</strong><br>
+The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
+
+<p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
+The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
+
+<p><strong>Wolf Empathy</strong><br>
+The werewolf can communicate with canine creatures.</p>
+
+<h3>Inventory</h3>
+<ul>
+<li>Battle Axe</li>
+<li>Composite Shortbow</li>
+<li>Studded Leather Armor</li>
+<li>Arrows (20)</li>
+</ul>
+
+</div>
+
 In combat, the **wolves** work together, knocking prone and dragging creatures away. Once the wolves have dragged a character away from the party, the **werewolves** shift their attention to target them with its ***jaw*** strike. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.
 
 A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
@@ -981,10 +1075,10 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
 > [!combat]- **Balancing the Werewolves** 
-> This combat encounter is a **Extreme** encounter against a party of four 3rd-level players, a 1st level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Remove the Elite adjustment from werewolfs. 
+> This combat encounter is a **Extreme** encounter against a party of four 4th-level players, a 2nd-level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Decrease the number of wolves to 2. 
 > * **Five Players**. Increase the number of wolves to 4. 
-> * **Six Players**. Increase the number of wolves to 5.
+> * **Six Players**. Add one more werewolf.
 
 > [!info]+ **Lycanthropy in Barovia**
 >
@@ -1025,7 +1119,7 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the
 
 This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
 ### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 16 Diplomacy check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 17 Diplomacy check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
 
 The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
 
@@ -1039,7 +1133,7 @@ The refugees are lost in despair. Some recall a superstition that red-haired Bar
 
 Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 ### The Guards at the Gates
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. They have [Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) statblocks. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. They have [Elite Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) stat blocks. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
 
 The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
 
@@ -1128,7 +1222,7 @@ The man is the ringmaster Rictavio, who is largely as described in <span class="
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>. They are [Trackers](https://2e.aonprd.com/NPCs.aspx?ID=906).
 
 Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
@@ -1194,7 +1288,7 @@ After clearing his throat, Rictavio shares the following story:
 
 If spoken with, Rictavio is willing to share the following information over drinks:
 
-* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 23 Perception check to Sense Motive reveals that Rictavio's words sound a bit too smooth and practiced.)
+* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 24 Perception check to Sense Motive reveals that Rictavio's words sound a bit too smooth and practiced.)
 * He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
 
 During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
@@ -1219,7 +1313,7 @@ If the players linger at Rictavio's table, the Wachter brothers are happy (if pr
 
 (See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
 
-Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 25 Diplomacy check.
+Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 26 Diplomacy check.
 
 At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
 
@@ -1273,13 +1367,13 @@ As Urwin's conversation draws to a close, Rictavio descends the stairs from <spa
 ### Following the Ringmaster
 If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio is attentive to his surroundings. GM should make a secret roll for any players who Avoid Notice with a DC 25 Stealth check or be detected.
+Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio is attentive to his surroundings. GM should make a secret roll for any players who Avoid Notice with a DC 26 Stealth check or be detected.
 
 > [!abstract]+ **Detecting Magic**
 > If a player casts _detect magic_ while in Rictavio's presence, remember that he has the next items and, probably, can't be detected with magic on their character level:
 > 
 > * [_hat of disguise (greater)_](https://2e.aonprd.com/Equipment.aspx?ID=442&NoRedirect=1) which is an illusion and can be detected only by 5th rank of Detect Magic, But he also has
-> * _ring of mind shielding_ which is basically a [Hidden Mind](https://2e.aonprd.com/Spells.aspx?ID=1556) wand that can be used only by Van Richten, and it was acquired by him in his travels through the mists.
+> * _ring of mind shielding_ which is basically a [Hidden Mind](https://2e.aonprd.com/Spells.aspx?ID=1556) wand but it only hides the person who wears it.
 
 If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
 
@@ -1290,11 +1384,11 @@ If confronted regarding his magic items or true identity, Rictavio directs the p
 * If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
 * If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
 
-These are lies. A DC 25 Perception check to Sense Motive indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+These are lies. A DC 26 Perception check to Sense Motive indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
 Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 25 Perception check or lose him in the crowd. 
+If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 26 Perception check or lose him in the crowd. 
 
 > [!abstract]+ **Following Rictavio**
 > Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
@@ -1348,7 +1442,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 
 If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 
-***Diplomacy.*** If the players make a successful DC 18 Diplomacy check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomacy.*** If the players make a successful DC 19 Diplomacy check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
 
 ***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
 
