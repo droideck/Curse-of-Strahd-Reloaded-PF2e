@@ -12,10 +12,10 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 
 * restore the bones of St. Andral (350 XP)
 * find the missing Arabelle (350 XP)
-* defeat Izek Strazni (400 XP)
-* obtain the *Tome of Strahd* (100 XP)
-* restore the soul of Stella Wachter (250 XP)
-* gain entry to the gates of Krezk (200 XP)
+* defeat Izek Strazni (500 XP)
+* obtain the *Tome of Strahd* (500 XP)
+* restore the soul of Stella Wachter
+* gain entry to the gates of Krezk
 
 
 > [!info]+ **Vallakian Stat block**
