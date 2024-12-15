@@ -1039,7 +1039,7 @@ Arrigal is similarly grateful for the players’ assistance in recovering his ni
 
 In addition, though he won’t take up arms against Strahd or cease his work as a spy, Arrigal offers to deliver false information to Castle Ravenloft once when the players request it—but no more than that. He won’t deliver any information that is obviously false, however, and he provides no guarantees as to how long or whether Strahd will believe his information.
 
-***Milestone.*** Finding Arabelle completes a story milestone. When Arabelle delivers her prophecy, award each player 300 XP.
+***Milestone.*** Finding Arabelle completes a story milestone. When Arabelle delivers her prophecy, award each player 350 XP.
 
 > [!abstract]+ **The Werewolf’s Curse**
 >
