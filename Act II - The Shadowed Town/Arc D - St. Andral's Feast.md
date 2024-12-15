@@ -107,6 +107,20 @@ When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Fath
 
 He uses [Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, his Divine skill is Diplomacy, he has only one Searing Light prepared instead of two, and instead of [death's call](https://2e.aonprd.com/Spells.aspx?ID=413)_he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
 
+> [!lore]+ **The Morninglord's Pathfinder 2e Option** 
+> **Edicts:** bring hope to the hopeless, protect the innocent from darkness, greet each day with renewed purpose, spread light in dark places  
+> **Anathema:** extinguish sources of light or hope, aid the undead or other creatures of darkness, give in to despair  
+> **Areas of Concern:** dawn, renewal, hope  
+> 
+> ### Devotee Benefits 
+> **Divine Ability:** Charisma or Wisdom  
+> **Divine Font:** heal  
+> **Divine Skill:** Diplomacy  
+> **Favored Weapon:** mace  
+> **Domains:** confidence, healing, protection, sun  
+> **Alternate Domains:** family, vigil  
+> **Cleric Spells:** 1st: *bless*, 3rd: *searing light*, 5th: *dawn
+
 After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
 
 * Upon noticing the players, Milivoj immediately scowls, and asks, "Father, are these outsiders bothering you? I can ask them to leave."
@@ -119,7 +133,8 @@ Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctua
 
 If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
 
-* The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
+* The church is ordinarily hallowed ground. It gives [Consecrate 7th Rank](https://2e.aonprd.com/Rituals.aspx?ID=115) effects, and this additional effect:
+  You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
 * Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 * To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
@@ -138,7 +153,7 @@ Father Lucian accompanies the players as they complete their investigation, answ
 While accompanying the party, Father Lucian fights alongside them, but allows the players to take the lead in social encounters and exploration.
 
 > [!warning]+ **Father Lucian's Aid**
-> Without Father Lucian's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
+> Without Father Lucian's assistance—and, specifically, the healing and holy damage — the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
 ## D1c. The Scene of the Crime
 [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
 
@@ -553,7 +568,7 @@ Remember, that the spawn uses the same weaknesses and fact healing mechanics as 
 # D5. Retrieving the Bones
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
-**_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 300 XP.
+**_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 350 XP.
 # D6. Rahadin's Visit
 At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation

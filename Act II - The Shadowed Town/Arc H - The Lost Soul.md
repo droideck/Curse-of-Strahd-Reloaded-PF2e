@@ -53,13 +53,13 @@ The players can notice that the panes of the windows looking into the room have 
 
 If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
 
-While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+While Erasmus’s spirit is present, a player who succeeds on a DC 20 Perception or DC 18 Religion check senses a ghostly presence within the room. On a critical success they can distinguish that the presence shines with innocence and a sense of fierce determination.
 
 The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
 # H2. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
+If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 18 Diplomacy check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
 If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
@@ -272,7 +272,7 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 
 Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
 
-Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
+Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 15 Diplomacy check to Request can bypass the need to make an appointment and are admitted immediately.
 
 Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
 
@@ -282,7 +282,7 @@ If the players reveal Stella’s fate, Lady Wachter’s eyes tighten, and she as
 
 When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims.
 
-The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 10 Charisma (Persuasion) check. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
+The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 15 Diplomacy check to Request. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
 
 Lady Wachter is shocked by and wary of the players’ knowledge of the protective circle and demands to know how the players learned of it. If asked, she is willing to share the following information about it:
 
@@ -383,7 +383,7 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >![[Soul Leech.png]]
 ><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 >
->The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+>The players can convince Morgantha to reveal her plans for the leech with a DC 20 Diplomacy check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 >
 > Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
 
@@ -1182,7 +1182,7 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
 
-***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 250 XP.
+***Milestone.*** Restoring Stella’s soul to her body completes a story milestone.
 
 > [!item]+ **Spirit Mirror**
 >
@@ -1218,6 +1218,8 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
 Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+
+***Milestone.*** Obtaining the *Tome of Strahd* completes a story milestone. (500 XP)
 
 > [!abstract]+ **The Symbol**
 >
