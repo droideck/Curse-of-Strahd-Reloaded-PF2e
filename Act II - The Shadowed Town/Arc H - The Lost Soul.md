@@ -403,17 +403,21 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
 
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
+One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. 
+
+Like, we have the big round rock (the millstone) that grinds things. Under it, there are metal arms holding it up. One of these arms looks a bit rough and bumpy—kind of like a branch that has many little sections at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside.
+
+The players can unlock the millstone compartment by using the iron key, or by succeeding on four DC 25 Thievery checks to Pick a Lock. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span> though each peace of jewelry costs 3 gp.
 
 The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
 
 > [!info]+ **Damaging the Contract**
-> The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Intelligence (Arcana) check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
+> The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Arcana, Religion or Occult check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
 
 The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
 
 > [!item]+ **Charm of Mass Heroism**
-> As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
+> As a two action activity, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *[Heroism](https://2e.aonprd.com/Spells.aspx?ID=1555)* spell. Once they do so, the charm vanishes from their person.
 
 Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
@@ -432,23 +436,128 @@ If one or more players knock on the door to <span class="citation">O1. Ground Fl
 >
 > The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+> [!info]+ **Pathfinder 2e Infiltration Helper**
+> #### Initial Resources
+> - Majesto (Lady Wachter's imp familiar)
+>   * Can scout in crow, spider, or rat form while invisible
+>   * Can provide reconnaissance without raising AP
+> - Victor Vallakovich
+>   * Can assist with spells (translocate, fly, invisibility)
+>   * Must conserve 5th level slots for later
+>   * Can provide emergency extraction if needed
+> ---
+> #### Objectives
+> 1. Gain entry to the windmill
+> 2. Locate and retrieve the contract from the millstone
+> 3. Rescue Fyodor and Myrtle
+> 
+> ---
+> #### Obstacles
+> 
+> ##### Entry Phase
+> - **The Front Door Encounter** (1 IP)
+>   * Initial meeting with Morgantha
+>   * DC 15 Deception for dream pastry addiction story
+>   * DC 20 Deception for alternative cover story
+>   * Success: Gain entry without suspicion
+>   * Failure: +1 AP
+>   * Critical Failure: +2 AP
+> 
+> - **Maintaining Cover** (1 IP)
+>   * Convincing small talk with Morgantha
+>   * DC 20 Deception or Diplomacy
+>   * Success: Maintain trust
+>   * Critical Success: Can attempt to lure daughters down and increase result by one stage
+>   * Failure: +1 AP
+>   * Critical Failure: +2 AP
+> ---
+> ##### Contract Retrieval Phase
+> - **The Gnarled Arm** (2 IP)
+>   * Locate and manipulate the millstone's secret mechanism
+>   * DC 20 Perception to notice the unusual arm (1 IP)
+>   * DC 18 Thievery to properly manipulate the mechanism (1 IP)
+>   * Success: Retrieve hidden key
+>   * Critical Failure: It's stuck. Must attempt lock picking
+> 
+> - **The Millstone Compartment** (2 IP)
+>   * Access the hidden contract
+>   * Automatic success with key
+>   * DC 25 Thievery to pick lock
+>   * Failure: +1 AP
+>   * Critical failure: +2 AP
+> ---
+> ##### Rescue Phase
+> - **Upper Floor Access** (1 IP)
+>   * Reach the children without alerting the hags
+>   * DC 20 Stealth
+>   * Can be done only if hags are successfully lured downstairs or success on **Distract the Daughters**
+>   * Failure: +1 AP
+>   * Critical failure: +2 AP
+> 
+> - **Secure Escape** (1 IP)
+>   * Get children safely out
+>   * DC 18 Athletics or Acrobatics
+>   * Victor can assist with spells if necessary
+>   * Failure: +1 AP
+>   * Critical failure: +2 AP
+> ---
+> #### Awareness Points System
+> - Start at 0 AP
+> - +1 AP per round after first round
+> - Additional AP Triggers:
+>   * Casting spells: +1 AP
+>   * Combat noise: +3 AP
+> ---
+> #### Thresholds:
+> - 5 AP: DCs increase by 1
+> - 10 AP: DCs increase by 2
+> - 15 AP: Morgantha becomes suspicious (Start the sequence below, - players leave or fight begins soon)
+> ---
+> #### Opportunities
+> - **Kitchen Gathering**
+>   * Lure all hags to ground floor
+>   * DC 22 Diplomacy/Deception
+>   * Critical Success: -2 AP, creates clear path upstairs
+>   * Success: -1 AP, creates clear path upstairs
+>   * Failure: +1 AP
+>   * Critical failure: +2 AP
+>      
+> - **Dream Pastry Tales**
+>   * Share convincing dream story
+>   * DC 22 Deception (automatic success if true)
+>   * Success: -1 AP, gains Morgantha's trust
+>   * Critical Success: Can attempt to lure daughters down and the result is one stage better
+>   * Failure: +1 AP
+> 
+> - **Distract the Daughters**
+>   * Specifically target Bella and Offalia
+>   * DC 18 Performance
+>   * Can use minor illusion or similar magic
+>   * Success: Temporarily removes them from their post
+>   * Failure: +1 AP
+>   * Critical failure: +2 AP
+> ---
+> #### Special Notes
+> - The contract contains the hags' true names: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle
+> - Lady Wachter can read Abyssal if needed
+> - The compartment also contains six jewelry (3 gp each)
+> - Victor must conserve specific spell slots for the final confrontation
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 20 Deception check.
 
 If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 22 (Diplomacy or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
 
 On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 22 Deception check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 18 Performance check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
-If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Perception check to Sense Motive discerns that Morgantha is suspicious, not tired.)
+If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 25 Perception check to Sense Motive discerns that Morgantha is suspicious, not tired.)
 
 If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offlia of the players' suspicious visit.
 
