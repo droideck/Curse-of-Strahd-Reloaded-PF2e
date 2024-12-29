@@ -1,6 +1,6 @@
 _An adventure for four 4th- or 5th-level characters._
 
-In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
+In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for Abyssal Plague from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
 
 However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, Baron Dmitri Krezkov.
 
@@ -265,4 +265,4 @@ If the players ask his identity, the Abbot introduces himself as the Abbot of th
 
 If asked the source of his power, the Abbot laughs softly, stating only: "Beneath the Morninglord's light, all things are possible."
 ## I6b. The Abbey of St. Markovia
-If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc K - The Fallen Abbey]] for more information about visiting the Abbey.
+If the players have journeyed to Krezk to seek a cure for Abyssal Plague or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc K - The Fallen Abbey]] for more information about visiting the Abbey.

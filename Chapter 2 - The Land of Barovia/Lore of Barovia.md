@@ -242,7 +242,7 @@ Together, this trinity oversaw each life that was born in the valley: the Seeker
 > **Areas of Concern:** Resilience, craftsmanship, care
 > 
 > ### Devotee Benefits
-> **Divine Ability:** Constitution or Wisdom 
+> **Divine Ability:** Fortitude or Wisdom 
 > **Divine Font:** Heal 
 > **Divine Skill:** Crafting 
 > **Favored Weapon:** Staff 

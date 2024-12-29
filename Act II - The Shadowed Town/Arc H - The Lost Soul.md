@@ -111,7 +111,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
 > - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
 >
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
+The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have - immunity to effects or conditions that require a physical body, like disease, poison, and precision damage; and also they usually have resistance against all damage (except force damage and damage from the _ghost touch_ weapons), with double the resistance against non-magical damage. The same note mentions that phase spiders have developed a way to counteract those immunities through the use of their fangs, venom and ethereal web. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional Focus component to cast their spells (it is consumed, though), while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom - effectively it functions as a [Ghost Oil](https://2e.aonprd.com/Equipment.aspx?ID=1571).
 >
 > The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
 >
@@ -436,124 +436,160 @@ If one or more players knock on the door to <span class="citation">O1. Ground Fl
 >
 > The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
 
-> [!info]+ **Pathfinder 2e Infiltration Helper**
+> [!info]+ **Pathfinder 2e Infiltration Helper**  
+> For running this section, I recommend using simplified [Infiltration](https://2e.aonprd.com/Rules.aspx?ID=3059) rules. Each obstacle is intended to be tackled as a group but the party can split to address different objectives simultaneously (e.g., one distracts while another retrieves the contract and rescues the children). 
+> 
+> Suspicion Points (SP) represent the growing awareness of the party’s activities and accumulate each round. They can be reduced by capitalizing on Opportunities. Be flexible—allow players to propose additional checks or methods, creating new Opportunities or Obstacles that align with their approaches.
+> 
 > #### Initial Resources
-> - Majesto (Lady Wachter's imp familiar)
->   * Can scout in crow, spider, or rat form while invisible
->   * Can provide reconnaissance without raising AP
-> - Victor Vallakovich
->   * Can assist with spells (translocate, fly, invisibility)
->   * Must conserve 5th level slots for later
->   * Can provide emergency extraction if needed
+> 
+> - **Majesto (Lady Wachter's Imp Familiar)**
+>     - Can cast invisibility and has touch telepathy
+>     - Can scout and gather information without raising SP
+> - **Victor Vallakovich**
+>     - Can assist with spells (e.g., teleportation, flight, invisibility)
+>     - Must conserve his 5th-level spell slot for later
+>     - Can provide emergency extraction if needed
+> 
 > ---
+> 
+> #### Suspicion Points (SP) System
+> 
+> - Start at 0 SP
+> - +1 SP per round after the first
+> - Additional SP Triggers:
+>     - Casting spells: +1 SP
+>     - Combat noise: +3 SP
+> 
+> ---
+> 
+> #### Thresholds:
+> 
+> - 5 SP: DCs increase by 1
+> - 10 SP: DCs increase by 2
+> - 15 SP: Morgantha becomes suspicious (Begin the final sequence—players must flee or prepare to fight)
+> 
+> ---
+> 
 > #### Objectives
+> 
 > 1. Gain entry to the windmill
 > 2. Locate and retrieve the contract from the millstone
 > 3. Rescue Fyodor and Myrtle
 > 
 > ---
+> 
 > #### Obstacles
 > 
-> ##### Entry Phase
-> - **The Front Door Encounter** (1 IP)
->   * Initial meeting with Morgantha
->   * DC 15 Deception for dream pastry addiction story
->   * DC 20 Deception for alternative cover story
->   * Success: Gain entry without suspicion
->   * Failure: +1 AP
->   * Critical Failure: +2 AP
+> **Entry Phase**
 > 
-> - **Maintaining Cover** (1 IP)
->   * Convincing small talk with Morgantha
->   * DC 20 Deception or Diplomacy
->   * Success: Maintain trust
->   * Critical Success: Can attempt to lure daughters down and increase result by one stage
->   * Failure: +1 AP
->   * Critical Failure: +2 AP
-> ---
-> ##### Contract Retrieval Phase
-> - **The Gnarled Arm** (2 IP)
->   * Locate and manipulate the millstone's secret mechanism
->   * DC 20 Perception to notice the unusual arm (1 IP)
->   * DC 18 Thievery to properly manipulate the mechanism (1 IP)
->   * Success: Retrieve hidden key
->   * Critical Failure: It's stuck. Must attempt lock picking
+> - **The Front Door Encounter** (1 IP)  
+>     Initial meeting with Morgantha
+>         - DC 15 Deception for a dream pastry buying story
+>         - DC 20 Deception for an alternative cover story
+>         - DC 20 Diplomacy to earn sympathy by praising her wares and hospitality
+>         - DC 25 Intimidation to pressure entry
+>     - Success: Gain entry without suspicion
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> - **Maintaining Cover** (1 IP)  
+>     Engaging Morgantha in convincing small talk
+>         - DC 20 Deception or Diplomacy
+>         - DC 20 Society to reference local gossip or customs to seem more believable
+>         - DC 18 Performance to tell an entertaining story that distracts her from suspicion
+>     - Critical Success: Can attempt to lure daughters downstairs; outcome improves by one degree
+>     - Success: Maintain trust
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
 > 
-> - **The Millstone Compartment** (2 IP)
->   * Access the hidden contract
->   * Automatic success with key
->   * DC 25 Thievery to pick lock
->   * Failure: +1 AP
->   * Critical failure: +2 AP
-> ---
-> ##### Rescue Phase
-> - **Upper Floor Access** (1 IP)
->   * Reach the children without alerting the hags
->   * DC 20 Stealth
->   * Can be done only if hags are successfully lured downstairs or success on **Distract the Daughters**
->   * Failure: +1 AP
->   * Critical failure: +2 AP
+> **Contract Retrieval Phase**
 > 
-> - **Secure Escape** (1 IP)
->   * Get children safely out
->   * DC 18 Athletics or Acrobatics
->   * Victor can assist with spells if necessary
->   * Failure: +1 AP
->   * Critical failure: +2 AP
+> - **The Gnarled Arm** (2 IP)  
+>     Find and manipulate the secret millstone mechanism
+>         - DC 20 Perception to notice the unusual arm (1 IP)
+>         - DC 18 Thievery to get the key out (1 IP)
+>         - DC 20 Crafting to understand the mechanical or magical workings of the device
+>         - DC 15 Lore (Engineering or Farming) if applicable
+>     - Success: Retrieve hidden key
+>     - Critical Failure: Mechanism jams; must attempt lockpicking later
+> - **The Millstone Compartment** (2 IP)  
+>     Use the hidden key for **automatic access**
+>         - Without key: DC 25 Thievery to pick lock
+>         - DC 30 Athletics to carefully pry open
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> 
+> **Rescue Phase**
+> 
+> - **Upper Floor Access** (1 IP)  
+>     Reach the children without alerting the hags
+> 		- DC 20 Stealth
+>         - DC 22 Acrobatics to silently climb and enter through a high window
+>         - DC 20 Crafting or DC 15 Architecture Lore to use knowledge of building structure (creaky boards, worn steps) to move quietly
+>     - Only possible if hags are lured downstairs or after a success on **Distract the Daughters** (or if using invisibility)
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> - **Secure Escape** (1 IP)  
+>     Get the children out safely (if hags are there - automatic start of the combat, but on a Athletics or Acrobatics success - the children are out, even though with a rough slide)
+>         - DC 18 Athletics or Acrobatics
+>         - DC 18 Medicine to quickly soothe and calm the frightened children (reducing noise and panic)
+>         - DC 18 Nature to utilize local flora or fauna as cover or distraction while escaping outside
+>     - Victor can assist with spells if necessary
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> 
 > ---
-> #### Awareness Points System
-> - Start at 0 AP
-> - +1 AP per round after first round
-> - Additional AP Triggers:
->   * Casting spells: +1 AP
->   * Combat noise: +3 AP
-> ---
-> #### Thresholds:
-> - 5 AP: DCs increase by 1
-> - 10 AP: DCs increase by 2
-> - 15 AP: Morgantha becomes suspicious (Start the sequence below, - players leave or fight begins soon)
-> ---
+> 
 > #### Opportunities
-> - **Kitchen Gathering**
->   * Lure all hags to ground floor
->   * DC 22 Diplomacy/Deception
->   * Critical Success: -2 AP, creates clear path upstairs
->   * Success: -1 AP, creates clear path upstairs
->   * Failure: +1 AP
->   * Critical failure: +2 AP
->      
-> - **Dream Pastry Tales**
->   * Share convincing dream story
->   * DC 22 Deception (automatic success if true)
->   * Success: -1 AP, gains Morgantha's trust
->   * Critical Success: Can attempt to lure daughters down and the result is one stage better
->   * Failure: +1 AP
 > 
-> - **Distract the Daughters**
->   * Specifically target Bella and Offalia
->   * DC 18 Performance
->   * Can use minor illusion or similar magic
->   * Success: Temporarily removes them from their post
->   * Failure: +1 AP
->   * Critical failure: +2 AP
+> - **Kitchen Gathering**  
+>     Lure all hags to the ground floor
+>         - DC 20 Diplomacy/Deception
+>         - DC 22 Intimidation to challenge their authority and bait them downstairs
+>         - DC 20 Performance to stage a clumsy or comical scene that piques their interest
+>     - Critical Success: -2 SP and creates a clear path upstairs
+>     - Success: -1 SP and creates a clear path upstairs
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> - **Dream Pastry Tales**  
+>     Share a convincing dream-related story
+>         - DC 22 Deception (automatic success if the story is true)
+>         - DC 20 Religion to invoke local folklore about dream spirits, lending credibility
+>         - DC 20 Occultism to reference dream-related phenomena
+>     - Critical Success: -2 SP and may attempt to lure daughters down; result is one stage better
+>     - Success: -1 SP
+>     - Failure: +1 SP
+> - **Distract the Daughters**  
+>     Focus on Bella and Offalia
+>         - DC 17 Performance
+>         - DC 17 Crafting to create a sudden noise or small toy-like contraption elsewhere
+>         - DC 17 spellcasting check to produce a minor illusion or harmless magical effect (if allowed by GM)
+>     - Success: Temporarily removes daughters from their second floor post
+>     - Failure: +1 SP
+>     - Critical Failure: +2 SP
+> 
 > ---
+> 
 > #### Special Notes
-> - The contract contains the hags' true names: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle
-> - Lady Wachter can read Abyssal if needed
-> - The compartment also contains six jewelry (3 gp each)
-> - Victor must conserve specific spell slots for the final confrontation
+> 
+> - The contract contains the hags' true names: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle.
+> - Lady Wachter can read Abyssal if needed.
+> - The compartment also contains six pieces of jewelry, each worth 3 gp.
+> - Victor must conserve specific spell slots for the final confrontation.
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 20 Deception check.
+> [!info]- **Original Encounter Text**
+>
+>If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
+>
+>The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 22 (Diplomacy or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+>
+>On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
+>
+>A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 22 Deception check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+>
+>Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 18 Performance check and any reasonably relevant means (e.g., a *minor illusion* spell).
 
-If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 22 (Diplomacy or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
-
-On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
-
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 22 Deception check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
-
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 18 Performance check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
@@ -571,7 +607,10 @@ Assuming the players do not interfere, Bella sweeps across the room toward the f
 
 Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. 
 
-If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with Abyssal Plague and poisoning the other with *pale tincture*. 
+
+**Pale Tincture**
+**Saving Throw** DC 25 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 day; **Stage 1** [enfeebled](https://2e.aonprd.com/Conditions.aspx?ID=13) 1 and [stupefied](https://2e.aonprd.com/Conditions.aspx?ID=37) 1 (10 minutes); **Stage 2** enfeebled 2 and stupefied 2 (1 hour); **Stage 3** [fatigued](https://2e.aonprd.com/Conditions.aspx?ID=15), enfeebled 4, and stupefied 4 (1 day)
 
 The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
 ## H7b. Claiming the Heartstone
@@ -598,9 +637,9 @@ The circle, which extends five hundred feet vertically into the air, remains for
 
 As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mystic armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *invisibility* on himself when in the combat. 
 
-Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
+Victor reminds the players that, according to *Ethereal Entities*, he'll need to be able to thee the windmill in order to use his _counterspell reaction with Dispell Magic_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
 As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
 
@@ -623,80 +662,103 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > [!info]+ **Lair Actions**
 >
 > While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
->
-> In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
->
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement on its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+> 
+> It is a complex Level 5 Hazard.
+>  
+> #### Defense 
+> - **AC**: 20  
+> - **HP**: 50  
+> - **Hardness**: 13  
+> 
+> #### Saves 
+> - **Fort** +15  
+> - **Ref** +9  
+> - **Will** +0  
+> 
+> #### Stealth 
+> - **+13**  
+>   - *“This ancient windmill channels and amplifies the hags’ magic, creating various supernatural effects.”*
+> 
+> #### Disable
+> - **Thievery** DC 25 (expert) to jam the windmill's mechanisms  
+> - **Religion** DC 23 (expert) to perform a ritual blocking the magical resonance  
+> - **Occultism** DC 23 (expert) to disrupt the supernatural energies  
+> 
+> #### Routine
+> **Routine (1 action)**:
+> 
+> ##### **Warding Winds** (1 action)
+> The windmill generates protective winds. All creatures within a 20-foot emanation of the windmill:
+> 
+> - Take a –2 circumstance penalty to ranged attacks.  
+> - Treat the area as **difficult terrain** if they are **Flying**.
+> 
+> ##### **Pushing Gale** (1 action)
+> 
+> The windmill releases a powerful directional wind in a 60-foot line (10 feet wide).  
+> - **Fortitude** DC 23  
+> - **On Failure**: Pushed 20 feet away and take \(\mathbf{2d6}\) bludgeoning damage if smashing into something.  
+> - **On Success**: Pushed 10 feet, no damage.  
+> - **Critical Success**: Unaffected.  
+> - **Critical Failure**: Pushed 40 feet, double damage if smashing into something.
+> 
+> ##### **Amphibious Chorus** (1 action)  
+> **Traits**: Auditory, Mental  
+> 
+> Frogs around the windmill emit an entrancing chorus. All creatures within 120 feet that can hear it must attempt a **Will** DC 23 save:
+> 
+> - **Critical Success**: Unaffected; temporarily immune for 1 hour.  
+> - **Success**: Unaffected.  
+> - **Failure**: Must spend its **first action** on the next turn moving toward the windmill.  
+> - **Critical Failure**: Must spend **all actions** on its next turn moving toward the windmill.
+> 
+> ##### **Dispel Magic** (1 action)
+> 
+> The windmill pulses with anti-magical energy. The coven casts **Dispel Magic** (4th level) on any magical effect within 100 feet of the windmill:
+> 
+> - Standard **counteract** rules apply.  
+> - **Counteract modifier**: +13. 
+
+For each hag in **The Bonegrinder Coven** use [Night Hag](https://2e.aonprd.com/Monsters.aspx?ID=257) stat block scaled down to 6th level (apply **Elite** if there's no Binding Circle). Additionally, the coven shares 210 HP.
+But modify the spell lists as followed:
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
-<br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
-<hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+<h3>Morgantha Spells</h3>
+<p><strong>Occult Innate Spells</strong> DC 23, +17</p>
+<ul>
+<li><strong>At Will:</strong> detect alignment (all), dream message, invisibility, enfeeble, lightning bolt, paralyze</li>
+<li><strong>2/day:</strong> Necrotic Radiation (Heartstone)</li>
+<li><strong>1/day - Reaction:</strong> Rebounding Barrier (Can Sustain)</li>
+<li><strong>1/day:</strong> Shadow Blast (Heartstone) - Prefers Lightning</li>
+<li><strong>1/day:</strong> Dream Council</li>
+<li><strong>9th rank At Will:</strong> Ethereal Jaunt (At Will) (Heartstone)</li>
+<li><strong>Constant:</strong> detect magic (3rd)</li>
+</ul><hr>
+<h3>Bella Spells</h3>
+<p><strong>Occult Innate Spells</strong> DC 23, +17</p>
+<ul>
+<li><strong>At Will:</strong> detect alignment (all), dream message, invisibility, phantasmal treasure, blindness, paralyze</li>
+<li><strong>1/day - Reaction:</strong> Mirror Image (When attacked)</li>
+<li><strong>2/day:</strong> Confusion (Heartstone) </li>
+<li><strong>1/day:</strong> Blinding Foam (Heartstone)</li>
+<li><strong>1/day:</strong> Dream Council</li>
+<li><strong>9th rank At Will:</strong> Ethereal Jaunt (At Will) (Heartstone)</li>
+<li><strong>Constant:</strong> detect magic (3rd)</li>
+</ul><hr>
+<h3>Ofalia Spells</h3>
+<p><strong>Occult Innate Spells</strong> DC 23, +17</p>
+<ul>
+<li><strong>At Will:</strong> detect alignment (all), dream message, invisibility, laughing fit, acid arrow, fear</li>
+<li><strong>1/day - Reaction:</strong> Laughing Fit (Can Sustain)</li>
+<li><strong>2/day:</strong> Outcast's Curse (Heartstone)</li>
+<li><strong>1/day:</strong> Infectious Comedy (Heartstone) </li>
+<li><strong>1/day:</strong> Dream Council</li>
+<li><strong>9th rank At Will:</strong> Ethereal Jaunt (At Will) (Heartstone)</li>
+<li><strong>Constant:</strong> detect magic (3rd)</li>
+</ul>
+
 </div>
 
 
@@ -707,15 +769,61 @@ The hags fight in self-defense, or if the players make clear that they will not 
 ![[Morgantha.png]]
 <span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
+<h2>Morgantha - Creature 6</h2>
+<em>Large evil fiend, hag, humanoid, unholy</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
-<br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
-<br>
-<strong>Speed</strong> 30 ft.
+<strong>Perception</strong> +15; darkvision<br>
+<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
+<strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
+<strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +2
+<hr>
+<strong>AC</strong> 25<br>
+<strong>HP</strong> 210<br>
+<strong>Immunities</strong> sleep<br>
+<strong>Resistances</strong> mental 7<br>
+<strong>Weaknesses</strong> cold iron 7<br>
+<strong>Saves</strong> Fort +16, Ref +14, Will +15; +2 status to all saves vs. magic, -2 to all saves (if heartstone is lost)<br>
+<strong>Speed</strong> 25 feet
+
+<hr>
+<h3>Active Actions</h3>
+
+<p><strong>Shadow Step</strong> ⮌ <br>
+<strong>Trigger</strong> Morgantha would take damage<br>
+<strong>Effect</strong> Morgantha takes half damage and teleports up to 30 feet.</p>
+
+<p><strong>Shadow Claws</strong> ◆◆<br>
+Shadows extend the claws as they make a Claw Strike, increasing their reach to 60 feet for that Strike as tendrils spring forth. If this hits, the target must succeed at a DC 23 Will save or be teleported to an empty space within the Morgantha's normal reach.</p>
+
+<p><strong>Enervating Ring</strong> ◆<br>
+15-foot emanation, creatures must succeed at a DC 23 Fortitude save or take 2d8 void damage and become slowed 1 for 1 round.</p>
+
+<p><strong>Inflict Nightmares</strong> ◆◆<br>
+<strong>Range</strong> 30 feet; Target must succeed at a DC 23 Will save or fall unconscious and take 2d8 persistent mental damage. While it takes the persistent damage, the target remains unconscious. It can be woken up with appropriate 2-action help (which will give an additional flat check).</p>
+
+<p><strong>Melee</strong> ◆ jaws +15 (magical, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit damage and abyssal plague</p>
+
+<p><strong>Melee</strong> ◆ claw +15 (agile, magical, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit damage</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+
+<p><strong>Abyssal Plague</strong> (disease)<br>
+A creature can't recover from drained until abyssal plague is cured.<br>
+<strong>Saving Throw</strong> DC 23 Fortitude<br>
+<strong>Stage 1</strong> Drained 1 (1 day)<br>
+<strong>Stage 2</strong> Drained increases by 2 (1 day)</p>
+
+</div>
+<div class="statblock">
+<h1>Bella - Creature 6</h2>
+<em>Huge Evil Fiend Hag Humanoid Unholy, Common</em>
+<hr>
+<strong>Perception</strong> +14; darkvision<br>
+<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
+<strong>Skills</strong> Arcana +12, Athletics +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -730,77 +838,130 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </thead>
   <tbody>
     <tr>
-      <td>21 (+5)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
+      <td>17 (+4)</td>
+      <td>17 (+4)</td>
+      <td>17 (+4)</td>
+      <td>17 (+4)</td>
+      <td>17 (+4)</td>
+      <td>13 (+2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>AC</strong> 24<br>
+<strong>Saving Throws</strong> Fortitude +15, Reflex +14, Will +15<br>
+<strong>HP</strong> 209<br>
+<strong>Immunities</strong> sleep<br>
+<strong>Resistances</strong> mental 6<br>
+<strong>Weaknesses</strong> cold iron 6<br>
+<strong>Speed</strong> 24 feet<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
-<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
-<h3>Reactions</h3>
-<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
-<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
-<p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
-<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
-<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
+
+<h2>Melee Attacks</h3>
+<p><strong>Melee</strong> ◆ jaws +16 (magical, reach 15, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit plus abyssal plague and Grab</p>
+<p><strong>Melee</strong> ◆ tail +14 (agile, magical, reach 15, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit</p>
+
+<h2>Active Actions</h3>
+<p><strong>Hallucinatory Mist</strong> ◆◆ (mental)<br>
+29-foot cone, creatures must succeed at a DC 23 Will save or become stunned 1 until the end of their next turn.</p>
+
+<p><strong>Tail Lash</strong> ⮌<br>
+<strong>Trigger</strong> A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check<br>
+<strong>Effect</strong> Bella Strikes with its tail at the triggering creature at a -3 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.</p>
+
+<h2>Passive Abilities</h3>
+<p><strong>Abyssal Plague</strong> (disease)<br>
+A creature can't recover from drained until abyssal plague is cured.<br>
+<strong>Saving Throw</strong> DC 23 Fortitude<br>
+<strong>Stage 0</strong> Drained 1 (1 day)<br>
+<strong>Stage 1</strong> Drained increases by 2 (1 day)</p>
+</div>
+
+
+<div class="statblock">
+<h2>Offalia - Creature 6</h2>
+<em>Huge Evil Fiend Hag Humanoid Unholy</em>
+<hr>
+<strong>Perception</strong> +15; darkvision<br>
+<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
+<strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 (+4)</td>
+      <td>18 (+4)</td>
+      <td>18 (+4)</td>
+      <td>18 (+4)</td>
+      <td>18 (+4)</td>
+      <td>14 (+2)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>AC</strong> 25<br>
+<strong>Saving Throws</strong> Fortitude +16, Reflex +14, Will +15<br>
+<strong>HP</strong> 210<br>
+<strong>Immunities</strong> sleep<br>
+<strong>Resistances</strong> mental 7<br>
+<strong>Weaknesses</strong> cold iron 7<br>
+<strong>Speed</strong> 25 feet<br>
+<hr>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ tusk +17 (magical, range-15, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit damage plus abyssal plague</p>
+<p><strong>Melee</strong> ◆ foot +17 (magical, reach-10, unholy), <strong>Damage</strong> 2d4+8 slashing</p>
+<p><strong>Melee</strong> ◆ trunk +17, <strong>Damage</strong> plus grabbing trunk</p>
+
+<p><strong>Dual Tusks</strong> ◆ Offalia makes two tusk Strikes, each against a different creature. This counts as one attack for the Offalia's multiple attack penalty, and the penalty doesn't increase until after both attacks.</p>
+
+<p><strong>Fiendish Trumpet</strong> ◆◆ (mental, sonic) 60-foot emanation, creatures must succeed at a DC 23 Will save or become frightened 1 (success), frightened 2 (failure), or frightened 3 and fleeing for 1 rounds (critical failure).</p>
+
+<p><strong>Reactive Strike</strong> ⮌ A creature hits Offalia with a melee Strike;</p>
+
+<h2>Passive Abilities</h3>
+<p><strong>Abyssal Plague</strong> (disease)<br>
+A creature can't recover from drained until abyssal plague is cured.<br>
+<strong>Saving Throw</strong> DC 23 Fortitude<br>
+<strong>Stage 0</strong> Drained 1 (1 day)<br>
+<strong>Stage 1</strong> Drained increases by 2 (1 day)</p>
 </div>
 
 > [!combat]- **Balancing the Hags**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of four 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 5th-level players, a Weak level 9 ally (Victor Vallakovich), and level 4 ally (Majesto). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Five Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
-
-> [!design]- **Design Note: Innate Spellcasting**
-> Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
+> * ***Three Players.*** Apply Weak to both Offalia and Bella but don't use Victor actively. 
+> * ***Five Players.*** Apply Elite to Morgantha.
+> * ***Six Players.*** Apply Elite to Morgantha. Don't use Victor or Majesto in actual combat.
 
 ***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
-***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *invisibility (4th)* spell, remaining within 60 feet of the windmill at all times. 
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* spells (he prepared a couple of them). Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.)
 
-***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
+***Majesto.*** In battle, Lady Wachter’s **([Imp](https://2e.aonprd.com/Monsters.aspx?ID=3067) scaled to 4th level)** Majesto uses his ***stinger*** to attack and then go back to invisivility. Also, from time to time, he offers **Fiendish Temptation** to players.
 ### The Hags' Failed Escape
-The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
+The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***Ethereal Jaunt*** action to escape—which is prevented by Lady Wachter's binding circle. 
 
 > [!info]+ **Bloodied**
 > A creature is **bloodied** when reduced to half of its ordinary maximum hit points or fewer.
 
-Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair action at the next available opportunity. When it does, read:
+Horrified by Morgantha's failure, the coven uses its ***dispel magic (4th, +13)*** lair action against ***4th rank Binding Circle (DC 24)*** at the next available opportunity. When it does, read:
 
 <div class="description">
 <p>The air grows thick with power—and then a terrible, screeching groan cuts through the wind. As the coven's eyes glow with unified purpose, the massive vanes of the windmill begin to rotate—slowly at first, then gaining momentum, the creaking of its ancient wood melding with the grinding of its weathered gears to form a terrible cacophony.</p>
@@ -808,7 +969,7 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>"<em>Begone!</em>" screech the hags.</p>
 </div>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level. Read:
+[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting *counterspell with Dispel Magic* at 5th rank. Read:
 
 <div class="description">
 <p>With a flourish of his hand and a whispered incantation, Victor conjures a complex tapestry of sigils and runes in the air before him. The coven's blast, a swirling maelstrom of shadows and baleful light, meets the shimmering shield of Victor's counterspell—a radiant lattice that shimmers with power.</p>
@@ -829,23 +990,26 @@ Morgantha's secrets are as follows:
 * Strahd von Zarovich seeks to escape from the grasp of the Mists. He has prepared a dark and secret plot to do so, harnessing the power of three ancient shrines to defy the will of the Dark Powers that rule this land. (Morgantha doesn’t know the specifics of his plot or the nature of the shrines, but knows that one of the three shrines is located among the circle of standing stones located at the base of the windmill’s hill.)
 * Unbeknownst to Strahd, a traitor lurks in his midst: his eldest wife and **vampire spawn** Sasha Ivliskova. (Morgantha is wildly amused by this treachery, and has taken no action to warn Strahd of her conflicted loyalties.)
 
-Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 10 Charisma (Intimidation) check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
+Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 15 Intimidation check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
 ## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
+If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *[Rope](https://2e.aonprd.com/Equipment.aspx?ID=2748)*. The two strongest members of the party have been infected with Abyssal Plague and poisoned with *pale tincture*, respectively.
+
+**Pale Tincture**
+**Saving Throw** DC 25 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 day; **Stage 1** [enfeebled](https://2e.aonprd.com/Conditions.aspx?ID=13) 1 and [stupefied](https://2e.aonprd.com/Conditions.aspx?ID=37) 1 (10 minutes); **Stage 2** enfeebled 2 and stupefied 2 (1 hour); **Stage 3** [fatigued](https://2e.aonprd.com/Conditions.aspx?ID=15), enfeebled 4, and stupefied 4 (1 day)
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
-The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
+The players find that they are also surrounded and guarded by six **dretches ([Pusks](https://2e.aonprd.com/Monsters.aspx?ID=2895))**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
 ### Morgantha’s Interrogation
-As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
+As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with Abyssal Plague), and removes their gag, though not their binds. 
 
 Morgantha then pleasantly asks them to tell her who they are and why they have come to the windmill.
 
-***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts *bestow curse* on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
+***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Ofalia then casts *Outcast's Curse* on that player and recasting the spell if it is initially unsuccessful (ideally, waiting for **Critical Failure** result).
 
-Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
+Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Fortitude saving throw against the effects of Abyssal Plague. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of Abyssal Plague, forcing all other humanoids in the attic to make DC 23 Fortitude saving throws or be infected with Abyssal Plague themselves.
 
 Morgantha then warmly informs the players that there are two children imprisoned in the bedroom below. Tonight, the hags will kill them and grind their bones into flour to make more dream pastries. When the players inevitably fall asleep, the hags will ensure that they suffer horrible nightmares and gain no rest from their sleep. In the morning, the players will be fed the dream pastries made from the children’s remains and provided an additional opportunity to answer Morgantha’s questions. 
 
@@ -883,7 +1047,7 @@ Morgantha distributes the vials to herself and her daughters, and then directs B
 
 ***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
 
-The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+The players can convince Morgantha to reveal her plans for the leech with a DC 15 Diplomacy check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 
 Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
 
@@ -893,27 +1057,25 @@ Morgantha warns the players that, if they fail to complete her task within fourt
 
 If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 
-> [!info]+ **Curing Cackle Fever**
-> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
 ### Escaping the Windmill
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
 * The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
 * Lady Wachter, her cultists, and (if he wasn’t captured) [[Non-Player Characters#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
-* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 15 Charisma (Persuasion) check.)
+* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 20 Diplomacy check.)
 
 Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 20 Performance check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
-As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
+The disease of Abyssal Plague can be cured in one of two ways:
 
-* By making successful Constitution saving throws each night until the saving throw DC for the disease drops to 0.
-* By using magic capable of curing diseases, such as a paladin’s ***lay on hands*** or a **deva’s** ***healing touch.***
+* By making successful Fortitude saving throws each night until the saving throw DC for the disease stage drops to 0.
+* By using magic capable of curing diseases.
 
 > [!info]+ **If the Players Escape**
 >
@@ -923,9 +1085,9 @@ As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease o
 >
 > Whenever the coven successfully scries the players’ location, the hags proceed to use their **_nightmare haunting_** features on three separate players. As they do, the hags whisper through the nightmares that the players can end their torment by returning Fyodor and Myrtle to the windmill. (If the players do so, the hags honor their word and cease haunting the party thereafter.)
 
-The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
+The players can identify these remedies, as well as the symptoms of Abyssal Plague, with a successful DC 23 Medicine check or by asking Lady Wachter for a diagnosis.
 
-Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
+Though the players cannot find healing magic capable of curing Abyssal Plague in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
@@ -986,13 +1148,13 @@ Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can
 >
 > - All solid objects in the Material Plane, such as furniture and walls, have a translucent, semi-intangible reflection in the Ethereal Plane. Moving the object in the Ethereal Plane moves the object in the Material Plane as well.
 > - Walls and other solid objects reflected in the Ethereal Plane provide light obscurement and half-cover to creatures behind them. A creature in the Ethereal Plane can move through those reflections as if they were difficult terrain, but take 5 (1d10) force damage if it ends its turn inside an object.
-> - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
+> - The Ethereal Plane has [Subjective Gravity](https://2e.aonprd.com/Traits.aspx?ID=705) feature.
 > 
-> In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane, and lose any damage resistances to acid, cold, fire, lightning, thunder, bludgeoning, piercing, or slashing damage. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
+> In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
 ## H8b. The Restoration Ritual
 After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
 
-The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
+The voice belongs to the **[Weak Ghost Commoner](https://2e.aonprd.com/Monsters.aspx?ID=3007)** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
 
 > [!profile]+ **Profile: Stella Wachter**
 > **Roleplaying Information.**
@@ -1017,7 +1179,7 @@ The following sequence then unfolds, unless the players intervene:
 * If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
 * While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
 ### The Ghost of Erasmus van Richten
-Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
+Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **[Weak Poltergeist](https://2e.aonprd.com/Monsters.aspx?ID=3142)** without its ***Natural Invisibility*** feature) appears to the players. Read:
 
 <div class="description">
 <p>A soft, boyish laugher echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
@@ -1052,7 +1214,7 @@ During that time, Erasmus adds, the circle’s magic will blaze like a beacon, a
 
 As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
 ### The Wayward Souls
-One minute after Victor begins reading the ritual’s incantation from his spellbook, five **specters** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
+One minute after Victor begins reading the ritual’s incantation from his spellbook, five **[Phantom Knights](https://2e.aonprd.com/Monsters.aspx?ID=3135)** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
 
 The specters drift through the air toward Stella, reaching out to seize her as they whisper the following phrases in haunted, rasping tones:
 
@@ -1062,25 +1224,25 @@ The specters drift through the air toward Stella, reaching out to seize her as t
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
-> [!combat]- **Balancing the Specters**
-> Due to the specters fleeing, this is a **mild** combat encounters against a party of four 5th-level players, a CR 1 ally (Majesto), and two CR 2 allies (Erasmus van Richten, Fiona Wachter), and will consume approximately 5% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Balancing the Phantom Knights**
+> Due to the specters fleeing, this is a **Moderate** combat encounters against a party of four 5th-level players, a Level 5 ally (Fiona Wachter) and a Level 4 ally (Erasmus van Richten). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of specters to four.
-> * ***Five Players.*** Reduce the number of specters to four.
-> * ***Six Players.*** Increase the number of specters to six.
+> * ***Five Players.*** Reduce the number of specters to six.
+> * ***Six Players.*** Increase the number of specters to seven.
 
-***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+***Lady Wachter.*** Lady Wachter still has the statistics of a **[Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896)**. However, she has a different list of prepared spells:
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_*
+**Cleric Prepared Spells** DC 22, attack +14;
 
-In battle, Lady Wachter also gains the following reaction:
+* **Cantrips** **(3rd)** _[Vitality Lash](https://2e.aonprd.com/Spells.aspx?ID=1744)_, _[shield](https://2e.aonprd.com/Spells.aspx?ID=280)_, _[light](https://2e.aonprd.com/Spells.aspx?ID=1585)_, _[void warp](https://2e.aonprd.com/Spells.aspx?ID=1745)_, _[prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639)_
+* **1st** _[bane](https://2e.aonprd.com/Spells.aspx?ID=1447) (x2)_, _[sanctuary](https://2e.aonprd.com/Spells.aspx?ID=1660)_, _[command](https://2e.aonprd.com/Spells.aspx?ID=1470)_
+* **2nd** _[false life](https://2e.aonprd.com/Spells.aspx?ID=108)_, _[see the unseen](https://2e.aonprd.com/Spells.aspx?ID=1663)_, _[deafness](https://2e.aonprd.com/Spells.aspx?ID=1483)_, _[darkvision](https://2e.aonprd.com/Spells.aspx?ID=1481)_
+* **3rd** _[bind undead](https://2e.aonprd.com/Spells.aspx?ID=22)_, _[ring of truth](https://2e.aonprd.com/Spells.aspx?ID=1656)_, _[summon undead](https://2e.aonprd.com/Spells.aspx?ID=1706)_
 
-* ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
+**Cleric Domain Spells** DC 22, 1 Focus Point; **3rd** _[whispering quiet](https://2e.aonprd.com/Spells.aspx?ID=1834)_
 ### The Ghost of Leo Dilisnya
-At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
+At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter followed by two Phantom Knights. Read:
 
 <div class="description">
 <p>A chill wind rushes in, carrying with it an unmistakable pallor of death and despair. A low, rattling breath rumbles through the air, and, mere feet before you, a figure begins to coalesce in the air above, its form writhing and shifting from the ethereal mist.</p>
@@ -1141,15 +1303,14 @@ When reduced to 0 hit points in its second phase, the gallows speaker taunts the
 
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
 
+
 <div class="statblock">
-<h2>Speaker of the Gallows</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Speaker of the Gallows - Creature 8</h2>
+<em>Medium ghost spirit undead, chaotic evil</em>
 <hr>
-<strong>Armor Class</strong> 13
-<br>
-<strong>Hit Points</strong> 157 (35d8)
-<br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Perception</strong> +17; darkvision, divination senses (60 feet into Ethereal Plane)<br>
+<strong>Languages</strong> Common, Necril<br>
+<strong>Skills</strong> Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16, Stealth +19<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -1164,52 +1325,69 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
   </thead>
   <tbody>
     <tr>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>10 (+0)</td>
-      <td>12 (+1)</td>
-      <td>18 (+4)</td>
+      <td>-5</td>
+      <td>+6</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td>+3</td>
+      <td>+5</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>AC</strong> 26<br>
+<strong>Saves</strong> Fort +14, Ref +18, Will +15<br>
+<strong>HP</strong> 120; void healing<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void<br>
+<strong>Resistances</strong> all damage 10 (double vs non-magical; except force, ghost-touch, vitality)<br>
+<strong>Speed</strong> fly 25 feet<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
-<p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
-<p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
-<h3>Reactions</h3>
-<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
-<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
+
+<h3>Active Actions</h3>
+<p><strong>Melee</strong> ◆ foretelling touch +20 (magical), <strong>Damage</strong> 2d6+11 mental</p>
+<p><strong>Ranged</strong> ◆ ghostly jolt +20 (magical, range increment 30 feet), <strong>Damage</strong> 2d6+8 void</p>
+
+<p><strong>Foretelling Touch</strong> ◆◆<br>
+The gallows speaker makes the foretelling touch strike. If he hits and deals damage, the target is Frightened 1, or Frightened 2 on a critical hit.</p>
+
+<p><strong>Deathly Visions</strong> ◆<br>
+You force the target to see a vision of its own death. It takes 6d6 mental damage with a DC 25 Will save. If the target is reduced to 0 HP by this spell, its vision becomes reality and kills it instantly.<br>
+<strong>Critical Success</strong> The target is unaffected.<br>
+<strong>Success</strong> The target takes half damage and is Frightened 1.<br>
+<strong>Failure</strong> The target takes full damage and is frightened 2.<br>
+<strong>Critical Failure</strong> The target takes double damage, is frightened 4, and is Paralyzed for one round.</p>
+
+<p><strong>Absorb Phantom</strong> ◆◆<br>
+The gallows speaker extends its hand toward phantom creature within 100 feet. The target phantom dissolves and streaks toward the gallows speaker in a straight line, dealing 3d10 void damage to each creature along the line (DC 25 basic Fortitude save). The gallows speaker absorbs the essence of the target phantom, becoming Quickened and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike. An unwilling target can attempt a DC 25 Will save to resist being absorbed.</p>
+
+<p><strong>Join the Gallows</strong> ⮌<br>
+<strong>Trigger</strong> The gallows speaker reduces a living creature to 0 Hit Points with a melee Strike<br>
+<strong>Effect</strong> The creature attempts a DC 25 Fortitude save. If the creature fails its save, it remains conscious but is controlled by the gallows speaker until it loses its dying condition. It continues to attempt recovery checks as normal for the dying condition. The effect ends if the creature loses the dying condition. If the creature dies while under this effect, it joins the gallows in 1d4 days. If the gallows speaker is destroyed before the creature dies, the creature is spared this terrible fate.</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+
+<p><strong>Void Healing</strong><br>
+The creature is healed by void damage and harmed by vitality effects.</p>
+
+<p><strong>Divination Senses</strong><br>
+The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
+
+<p><strong>Wrath of the Traitor</strong><br>
+If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the Ba'al Verzi Avenger. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+
 </div>
 <br>
+
 <div class="statblock">
-<h2>Ba’al Verzi Avenger</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Ba'al Verzi Avenger - Creature 8 - Mythic Ambusher?</h2>
+<p><em>Medium chaotic evil ghost spirit undead</em></p>
 <hr>
-<strong>Armor Class</strong> 13
-<br>
-<strong>Hit Points</strong> 157 (35d8)
-<br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
-<hr>
+
+<p><strong>Perception</strong> +17; darkvision</p>
+<p><strong>Languages</strong> Common, Necril</p>
+<p><strong>Skills</strong> Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16, Stealth +21</p>
+
 <table class="ability-table">
   <thead>
     <tr>
@@ -1223,49 +1401,66 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
   </thead>
   <tbody>
     <tr>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>10 (+0)</td>
-      <td>12 (+1)</td>
-      <td>18 (+4)</td>
+      <td>-5</td>
+      <td>+6</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td>+3</td>
+      <td>+5</td>
     </tr>
   </tbody>
 </table>
+
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
+<p><strong>AC</strong> 26</p>
+<p><strong>HP</strong> 120; void healing</p>
+<p><strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void</p>
+<p><strong>Resistances</strong> all damage 10 (except force, ghost-touch, and vitality; double vs non-magical)</p>
+<p><strong>Saves</strong> Fort +14, Ref +18, Will +15</p>
+<p><strong>Speed</strong> fly 25 feet</p>
+
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. Leo doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
-<h3>Reactions</h3>
-<p>The avenger can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
-<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
-<p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
+<h3>Active Actions</h3>
+
+<p><strong>Melee</strong> ◆ ghostly hand +20 (agile, finesse, magical, nonlethal), <strong>Damage</strong> 2d10+9 void plus improved grab</p>
+<p><strong>Melee</strong> ◆ dagger +20 (agile, finesse, versatile S), <strong>Damage</strong> 3d4+6 piercing plus sellsword's folly</p>
+<p><strong>Ranged</strong> ◆ dagger +20 (agile, thrown 10, versatile S), <strong>Damage</strong> 3d4+6 piercing plus sellsword's folly</p>
+<p><strong>◆◆ Grasp of the Grave</strong> <em>(divine, teleportation)</em></p>
+<p><strong>Requirements</strong> The Ba'al Verzi Avenger has a creature Grabbed or Restrained</p>
+<p><strong>Effect</strong> The Ba'al Verzi Avenger pushes the creature 15 feet in a straight line. The Avenger immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked Prone, and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground.</p>
+
+<p><strong>◆ Wail of the Forsaken</strong> <em>(auditory, concentrate, fear, incapacitation, mental, primal)</em></p>
+<p><strong>Frequency</strong> three times per day</p>
+<p><strong>Effect</strong> The Ba'al Verzi unleashes a forlorn howl that can be heard up to 1 mile away. Any creature that hears the wail must succeed at a DC 25 Will save or be Frightened 1. Any creature that critically fails and is within 60 feet of the Ba'al Verzi is instead Frightened 3, and is also Paralyzed for 1d4 rounds (or until it's no longer frightened, whichever comes first). Whether it succeeds or fails its save, a creature is then temporarily immune to that Ba'al Verzi's wail for 24 hours.</p>
+
+<p><strong>⮌ Nimble Dash</strong></p>
+<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>
+<p><strong>Requirements</strong> You are not encumbered</p>
+<p><strong>Effect</strong> You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack. When you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.</p>
+
+
+<hr>
+<h3>Passive Abilities</h3>
+
+<p><strong>Divination Senses</strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
+
+<p><strong>Sellsword's Folly</strong> <em>(curse, emotion, magical, mental)</em></p>
+<p>Even the most experienced combat veteran becomes as reckless as a rookie when suffering from sellsword's folly.</p>
+<p><strong>Saving Throw</strong> DC 25 Will</p>
+<p><strong>Effect</strong> The chaos of combat overwhelms you. Each time you roll initiative for a combat encounter, you must attempt a new saving throw against the curse; on a failure, you become Confused for 1 round. This is an incapacitation effect.</p>
+
+<p><strong>Sneak Attack</strong> The creature's Strikes deal an additional 2d6 precision damage to Off-Guard creatures.</p>
+
+<p><strong>Void Healing</strong> The creature heals from negative damage and is damaged by positive effects.</p>
+
 </div>
 
 > [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 6th-level players and two Level 4 allies (Erasmus van Richten and Lady Fiona Wachter). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **Severe+** combat encounters against a party of four 5th-level players and a Level 5 ally (Fiona Wachter) and a Level 4 ally (Erasmus van Richten). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove ghost from the first phase.
-> * ***Five Players.*** Add two more ghosts to the first phase. And make the second phase Elite.
->  * ***Six Players.*** Make both phases Elite. And add two ghosts to the second phase.
-
+> * ***Three Players.*** Remove one Phantom Knight from the first phase.
+> * ***Five Players.*** Add another Phantom Knight to both phases (so it's one phatom at the second phase).
+>  * ***Six Players.*** Add two  Phantom Knights to both phases (so it's two phatoms at the second phase).
 ### Return to the Material Plane
 As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
 
@@ -1294,14 +1489,16 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 * When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
 * Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
 
-In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
+In gratitude for the players’ efforts, Lady Wachter grants them a pack of four *[Candles of Revealing](https://2e.aonprd.com/Equipment.aspx?ID=3412)*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
 
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone.
 
-> [!item]+ **Spirit Mirror**
+> [!item]+ **Spirit Mirror - Level 7**
 >
-> *Wondrous item, rare*
->
+> _Rare, Invested, Magical_
+> **Price:** 360 gp
+> **Usage:** worn; Bulk L
+> 
 > In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
 >
 > Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
@@ -1397,7 +1594,6 @@ Lady Wachter's reliance upon the members of her cult for the binding ritual has 
 This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
 
 1. There is no satisfying narrative end to such a "corruption" arc short of killing the hags themselves (the very outcome that the players were trying to avoid), 
-
 2. The hags have no way of enforcing such a bargain, 
 3. While such moral dilemmas may make for great media, few players are willing (let alone eager) to play a child-trafficking/drug-dealing TTRPG, and 
 4. The players are undertaking such tasks under duress (i.e., to save Stella), and are therefore not truly "choosing" to fall into corruption to the hags' satisfaction.
@@ -1416,7 +1612,7 @@ The *charm of mass heroism* has been added to provide the players with an additi
 
 Freek has been renamed to Fyodor remove the negative connotations associated with the name "Freek."
 
-Morgantha's use of the *Laughter* and *Mother's Milk* potions (which also exist in the original module) has been added to prevent the players from easily escaping their bonds or fighting their way free should they TPK to the coven. The *cackle fever* disease also intensifies the weight of the party's TPK, ensuring that the players do not soon forget the consequences of failure should they escape.
+Morgantha's use of the *Laughter* and *Mother's Milk* potions (which also exist in the original module) has been added to prevent the players from easily escaping their bonds or fighting their way free should they TPK to the coven. The *Abyssal Plague* disease also intensifies the weight of the party's TPK, ensuring that the players do not soon forget the consequences of failure should they escape.
 
 The coven's separate **night hag** statblocks have been replaced with a single, unified two-phase coven statblock to remove the risk of a "death spiral"—either for the players (due to the hags' *lightning bolt* spam) or for the hags (because a single **night hag** is trivially easy to kill with focus-fire, thereby destroying the coven). 
 
