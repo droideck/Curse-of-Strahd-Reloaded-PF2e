@@ -176,13 +176,13 @@ The players and Szoldar travel west to Lake Baratok, where they uncover Rictavio
 
 That afternoon, the players return to St. Andral's Church in [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
 ### Neyavr 5
-The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with cackle fever.
+The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with Abyssal Plague.
 
-That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their cackle fever.
+That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their Abyssal Plague.
 ### Neyavr 6
 The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
+The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their Abyssal Plague in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
 ### Neyavr 7
 The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Arc G - The Strazni Siblings]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
 

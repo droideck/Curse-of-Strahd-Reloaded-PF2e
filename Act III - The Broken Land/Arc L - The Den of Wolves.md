@@ -132,7 +132,7 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.) 
 > * Whilst all other werewolves will be on the hunt, about half a dozen wolves still remain at the den.
 > 
-> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
+> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Diplomacy check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Diplomacy check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
 
 > [!lore]+ **Bianca’s Fall**
 > Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
@@ -237,7 +237,7 @@ As the players approach, the exterior of the den is largely as described in <spa
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
 </div>
 
-A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
+A successful DC 12 Medicine check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
 
 > [!info]+ **Interior Lighting**
 > No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
@@ -368,16 +368,16 @@ To sneak through this area without disturbing the wolves, the players must succe
 <p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
 <p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Brute.</em></strong> A melee weapon deals one extra die of its damage when the werewolf hits with it (included in the attack).</p>
-<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Constitution modifier.</p>
+<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Fortitude modifier.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks with its spear (humanoid form) or one attack with its bite and two attacks with its claws (wolf or hybrid form). It can replace one claws attack with a lob.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
+<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Fortitude saving throw or be cursed with werewolf lycanthropy.</p>
 <p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be grappled.</p>
 <p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
 <p><strong><em>Lob.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Strength saving throw. On a failure, the creature is thrown 10 feet and falls prone. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
+<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Fortitude saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
 </div>
 
 > [!info]+ **Where Wolves?**
@@ -415,7 +415,7 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > [!item]+ **Silverthorn Collar**
 > Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Reflex saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
@@ -439,7 +439,7 @@ If Ilya is identified as a werewolf, he flinches and heatedly denies it. (As he 
 
 If told that the players have been sent on behalf of Dmitri and Anna Krezkov, Ilya anxiously asks whether his parents and sister are well. He is visibly relieved if told that his family is still alive; however, if told of Kala’s condition, his lower lips trembles and he begins to sob.
 #### What Ilya Knows
- If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
+ If the players treat Ilya with kindness and succeed on a DC 10 Diplomacy check, they can convince him to share the following information, which he relays with quiet horror and shame:
 
 * Three weeks ago, a woman resembling Zuleika approached him at the Shrine of the White Sun in Krezk. She identified herself as Zuleika Krezkova, his long-absent aunt, and told him that his father was secretly a **werewolf**—and that his curse had passed to Ilya as well. (Zuleika has steadfastly denied doing so, and insists that someone imitated her appearance for their own purposes—a claim that Ilya has come to believe.)
 * “Zuleika" told Ilya that his curse was a mighty weapon against Strahd von Zarovich and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
@@ -470,9 +470,9 @@ If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or 
 * Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades. 
 
 > [!info]+ **The Curse of Mother Night**
-> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item.
+> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Will saving throw or be incapacitated until it releases the item.
 >
-> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
+> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Fortitude saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
 > 
 > A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
 
@@ -528,7 +528,7 @@ If Bianca notices and confronts the players, or if the players make no efforts t
 
 If the players attack Bianca, she immediately shatters the crystal. (See **Kiril’s Return** below for more information on Kiril’s arrival.) Bianca also shatters the crystal if the players fail to distract or satisfy her within a reasonable period of time. Bianca assumes her wolf form and flees if the players continue to attack.
 
-The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
+The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Diplomacy check. The Diplomacy check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
 
 If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
 ## L4f. Kiril’s Return
