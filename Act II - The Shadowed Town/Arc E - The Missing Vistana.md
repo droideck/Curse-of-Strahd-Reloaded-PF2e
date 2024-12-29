@@ -425,7 +425,8 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 > - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
 > - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
 >
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have - immunity to effects or conditions that require a physical body, like disease, poison, and precision damage; and also they  usually have resistance against all damage (except force damage and damage from the _ghost touch_ weapons), with double the resistance against non-magical damage. The same note mentions that phase spiders have developed a way to counteract those immunities through the use of their fangs, venom and ethereal web. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional Focus component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom - effectively it functions as a [Ghost Oil](https://2e.aonprd.com/Equipment.aspx?ID=1571).
+> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have - immunity to effects or conditions that require a physical body, like disease, poison, and precision damage; and also they usually have resistance against all damage (except force damage and damage from the _ghost touch_ weapons), with double the resistance against non-magical damage. The same note mentions that phase spiders have developed a way to counteract those immunities through the use of their fangs, venom and ethereal web. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional Focus component to cast their spells (it is consumed, though), while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom - effectively it functions as a [Ghost Oil](https://2e.aonprd.com/Equipment.aspx?ID=1571).
+> 
 >
 > The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Interplanar Teleport (with the destination of Ethereal Plane only)* spell for up to ten individuals for one hour on the night of the full moon.
 >
@@ -957,10 +958,10 @@ As the conversation unfolds, Arrigal makes clear his belief that Van Richten has
 
 If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span>V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
 
-> [!item]+ **Talisman of Echoes**
+> [!item]+ **Talisman of Echoes - Level 9**
 >
 > _Rare, Invested, Magical, Necromancy_
-> **Price:** 700 gp
+> **Price:** 600 gp
 > **Usage:** worn; Bulk L
 > 
 > This silver medallion bears intricate spiraling patterns that seem to catch echoes of whispered voices. The talisman has 4 charges, which replenish each day at dawn, gaining 1d4 charges.

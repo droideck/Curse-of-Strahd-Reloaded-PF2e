@@ -44,19 +44,19 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ## Fekre, Queen of Poxes
 ***Spell.*** _Stinking Cloud._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be poisoned. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+***Boon.*** When you make a critical hit, you can force the target to succeed on a Fortitude saving throw or be poisoned. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-***Condition.*** Your body is covered in boils and pustules. Other creatures have disadvantage on Wisdom (Medicine) checks made to stabilize you.
+***Condition.*** Your body is covered in boils and pustules. Other creatures have disadvantage on Medicine checks made to stabilize you.
 ## Zrin-Hala, the Howling Storm
 ***Spell.*** _Lightning Bolt._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be paralyzed until the start of your next turn.
+***Boon.*** When you make a critical hit, you can force the target to succeed on a Fortitude saving throw or be paralyzed until the start of your next turn.
 
-***Condition.*** One side of your face sags and loses all feeling. You have disadvantage on Charisma (Persuasion) checks.
+***Condition.*** One side of your face sags and loses all feeling. You have disadvantage on Diplomacy checks.
 ## Sykane, the Soul Hungerer
 ***Spell.*** _Spirit Guardians (Necrotic)._
 
-***Boon.*** You make death saving throws with advantage, and have advantage made on Wisdom (Medicine) checks made to stabilize other creatures.
+***Boon.*** You make death saving throws with advantage, and have advantage made on Medicine checks made to stabilize other creatures.
 
 ***Condition.*** Your eyes glow a sickly yellow. You have disadvantage on Charisma (Deception) checks.
 ## Savnok, the Inscrutable
@@ -74,9 +74,9 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ## Shami-Amourae, the Lady of Delights
 ***Spell.*** _Suggestion._
 
-***Boon.*** You have advantage on Charisma (Persuasion) checks.
+***Boon.*** You have advantage on Diplomacy checks.
 
-***Condition.*** You gain an extra finger on each hand. You have disadvantage on Constitution saving throws against poison, spells, and magical effects.
+***Condition.*** You gain an extra finger on each hand. You have disadvantage on Fortitude saving throws against poison, spells, and magical effects.
 ## Drizlash, the Nine-Eyed Spider
 *Shard Location: The Amber Temple*
 
@@ -90,13 +90,13 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Boon.*** When you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and gain 1 level of exhaustion.
 
-***Condition.*** You lose all of your teeth. You have disadvantage on Charisma (Persuasion) checks.
+***Condition.*** You lose all of your teeth. You have disadvantage on Diplomacy checks.
 ## Zantras, the Kingmaker
 ***Spell.*** _Charm Monster._
 
-***Boon.*** You have advantage on Charisma (Persuasion) checks.
+***Boon.*** You have advantage on Diplomacy checks.
 
-***Condition.*** Your skin turns red and your teeth become filed points. You have disadvantage on Wisdom saving throws.
+***Condition.*** Your skin turns red and your teeth become filed points. You have disadvantage on Will saving throws.
 ## Delban, the Star of Ice and Hate
 ***Spell.*** _Hunger of Hadar._
 
@@ -112,7 +112,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ## Yrrga, the Eye of Shadows
 ***Spell.*** _Blindness/Deafness._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be blinded. The target can repeat this saving throw at the end of each of its turns, ending the effect on a success.
+***Boon.*** When you make a critical hit, you can force the target to succeed on a Fortitude saving throw or be blinded. The target can repeat this saving throw at the end of each of its turns, ending the effect on a success.
 
 ***Condition.*** Your eyes become starry voids. You have disadvantage on Wisdom (Perception) checks.
 ## Great Taar Haak, the Five-Headed Destroyer
@@ -140,7 +140,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ## Vaund the Evasive
 ***Spell.*** _Blur._
 
-***Boon.*** You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells.
+***Boon.*** You have advantage on Reflex saving throws against effects that you can see, such as traps and spells.
 
 ***Condition.*** You become twitchy and nervous. You have disadvantage on Charisma (Deception) checks.
 ## Seriach, the Hell Hound Whisperer
@@ -150,4 +150,4 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Boon.*** You gain resistance to fire damage.
 
-***Condition.*** The skin of your left arm  turns crimson red and gains barbed spines, elongated fingers, and long nails. You have disadvantage on Wisdom saving throws.
+***Condition.*** The skin of your left arm  turns crimson red and gains barbed spines, elongated fingers, and long nails. You have disadvantage on Will saving throws.

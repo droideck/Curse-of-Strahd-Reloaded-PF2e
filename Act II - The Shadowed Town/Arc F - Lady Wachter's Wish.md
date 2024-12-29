@@ -193,7 +193,7 @@ Where appropriate, Lady Wachter can also share the following story about her dau
 
 * Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
 * Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
-* Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
+* Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile Fortitude and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
 * Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
 
 > [!abstract]+ **Stella’s Illness**
