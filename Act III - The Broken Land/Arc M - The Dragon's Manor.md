@@ -1,4 +1,4 @@
-_An adventure for four 4th, 5th, 6th or 7th-level characters._
+_An adventure for four 6th or 7th-level characters._
 
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
 
@@ -90,7 +90,7 @@ This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class=
 > The wire disappears when the revenant relinquishes its intentions to violate Horngaard’s command, leaving no wound or other trace. Until such a point, the wires have immunity to all damage and cannot be removed by any means.
 
 > [!abstract]+ **The Lanterns**
-> A player who inspects the lanterns realizes that the lights are not flames, but blurred and writhing spectral figures wearing armor and horned helmets. A successful DC 13 Wisdom (Perception) check reveals the words of their whispers, repeated in a maddened refrain: “Free us," “Forgive us," and “Where is the light?"
+> A player who inspects the lanterns realizes that the lights are not flames, but blurred and writhing spectral figures wearing armor and horned helmets. A successful DC 22 Perception check reveals the words of their whispers, repeated in a maddened refrain: “Free us," “Forgive us," and “Where is the light?"
 >
 > If asked, Godfrey can inform the players that the spirits belong to soldiers of Strahd’s army—the same soldiers who slew Argynvost and died in Argynvostholt’s bloodstained halls on the final day of the war. Commander Horngaard, Godfrey shares, ordered that their spirits be imprisoned to suffer here for all eternity, without hope of rest or reincarnation. 
 >
@@ -133,8 +133,8 @@ If asked why he has summoned the players to Argynvostholt, Godfrey can share the
 Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
 
 * A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
-* A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Diplomacy check (depending on whether or not they’re telling the truth).
+* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 22 Deception check to Lie if they are lying, and automatically if not. 
+* A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 24 Deception or Diplomacy check (depending on whether or not they’re telling the truth).
 
 If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
 
@@ -142,7 +142,7 @@ If a player possessing a shard fails to reassure Godfrey, he asks them gravely w
 
 If the player admits to desiring the shard's power for understandable—if not sympathetic—reasons, Godfrey assures them that they are no lesser for their struggles. "You are stronger than you know," he insists. "Embrace the power within you—not the lies and illusions these shards may promise. There is always a chance to turn away from the darkness, no matter how far we may feel we have fallen."
 
-If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 14 Charisma (Deception) check to convince him.)
+If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 24 Deception check to convince him.)
 
 If asked about the Amber Temple, Godfrey is willing to share that the Amber Temple is a place of corruption and evil—and that the Order of the Silver Dragon’s first and secret purpose was to defend the Amber Temple from those who would seek out its power.
 
@@ -159,7 +159,7 @@ Sir Godfrey further warns the players that not all of the mansion's restless spi
 Godfrey notes that these warlike spirits cannot be dissuaded from their mad crusade, and that few weapons or spells can harm their incorporeal forms. "Of all the creatures in this manor," he notes, "only the arachnids that haunt the Ethereal realm give them pause." (Godfrey is referring to the mated pair of **phase spiders** residing in [[#M4c. Spiders’ Ballroom]].) He adds that, even if the players were capable of harming the spirits of the manor, all were fearsome warriors in life. Only warriors with great strength of arms, he shares, may be able to overcome them.
 
 > [!abstract]+ **Harming the Incorporeal**
-> A player who attempts to recall information about harming spirits and succeeds on a DC 16 Intelligence (Arcana) check learns the following information:
+> A player who attempts to recall information about harming spirits and succeeds on a DC 24 Arcana check learns the following information:
 > 
 > * Spirits and other incorporeal undead are generally immune to elemental and natural forces, including acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage dealt by nonmagical attacks.
 > * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
@@ -195,7 +195,7 @@ The misshapen shadow is the corpse of a **dire wolf**. If the players approach i
 <p>The fog pulls away from the shadow, revealing the broken and battered corpse of an enormous wolf, easily six feet at the shoulder. The wolf's side bears several large puncture wounds, and its head and shoulders appear to have been crushed beneath an incredible weight.</p>
 </div>
 
-A DC 15 Intelligence (Investigation) check indicates that the wolf's side was punctured by an enormous pair of antlers—far larger than those belonging to an ordinary elk or deer—and that its head and shoulders were trampled by a similarly large set of hooves.
+A DC 22 Survival or Nature check to Investigate indicates that the wolf's side was punctured by an enormous pair of antlers—far larger than those belonging to an ordinary elk or deer—and that its head and shoulders were trampled by a similarly large set of hooves.
 
 When the players continue past the wolf corpse, read:
 
@@ -204,7 +204,7 @@ When the players continue past the wolf corpse, read:
 <p>The path continues south here, away from the water's edge. A few feet ahead, a trail of dark blood vanishes into the eastern fog, heading toward the shore.</p>
 </div>
 
-A DC 10 Medicine check reveals that the trail of blood is quite recent—no older than an hour. A DC 5 Wisdom (Survival) check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 15 Intelligence (Nature) check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
+A DC 15 Medicine check reveals that the trail of blood is quite recent—no older than an hour. A DC 10 Survival check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 24 Nature check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
 
 If the players follow the trail of blood, read:
 
@@ -216,10 +216,10 @@ If the players follow the trail of blood, read:
 <p>The elk's chest rises and falls with shallow, labored breaths, its remaining eye staring blankly into the mists. Above it, the raven croaks softly, the somber sound echoing through the blanket of fog.</p>
 </div>
 
-The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit point and five levels of exhaustion. A DC 12 Medicine check reveals that the wound is infected and gangrenous, and that the elk is close to death. The infected wound can't be healed by any magical means short of a *regeneration* spell.
+The elk is a **dire elk** (use the statistics of a **[Megaloceros](https://2e.aonprd.com/Monsters.aspx?ID=2202)**) with 1 hit point and **drained 4** and **fatigued**. A DC 22 Medicine check reveals that the wound is infected and gangrenous, and that the elk is close to death. The infected wound can't be healed by any magical means short of a *regeneration* spell.
 
 > [!info]+ **The Raven & the Elk**
-> The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the hit points, proficiency bonus, and saving throw proficiencies of a **roc**.
+> The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the rest of the statistics of a **[Roc](https://2e.aonprd.com/Monsters.aspx?ID=3170)**.
 > 
 > The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing.
 
@@ -232,7 +232,7 @@ If the players linger by the elk's side, read:
 <p>From the river to the east, a short distance from the water's edge, approaches the hazy silhouette of a humanoid figure astride a bestial shadow as tall as a horse, both obscured beneath the thick, swirling fog. You hear the soft splashing of water, and a distant, resonant rumble.</p>
 </div>
 
-A player who succeeds on a DC 13 Wisdom (Perception) check discerns that the "steed" has the approximate size and proportions of a **dire wolf**, with the rumble resembling a dire wolf's growl.
+A player who succeeds on a DC 22 Perception check discerns that the "steed" has the approximate size and proportions of a **dire wolf**, with the rumble resembling a dire wolf's growl.
 
 If the players allow the figure to approach, read:
 
@@ -245,14 +245,9 @@ If the players allow the figure to approach, read:
 The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
-> Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
-> 
-> * Cantrips (at will): mage hand, prestidigitation, ray of frost
-> * 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter
-> * 2nd level (3 slots): enlarge/reduce, invisibility, misty step
-> * 3rd level (1 slot remaining): animate dead, gaseous form
+> Wensencia is a **Barovian witch (use [Elite Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929) stat block)** but make her Occult. You can add some Hexes from [Starless Shadow](https://2e.aonprd.com/Patrons.aspx?ID=17) patron.
 >   
-> Wensencia's steed has the statistics of a **dire wolf**, but has a **zombie**'s ***undead fortitude*** feature instead of a dire wolf's ***pack tactics*** feature. It obey's Wensencia's spoken commands, and Wensencia can use a bonus action on her turn to mentally command it if it is within 60 feet of her.
+> Wensencia's steed has the statistics of a **[Dire Wolf scaled to 5th level](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, but it is **Undead** and it has [Ferocity](https://2e.aonprd.com/MonsterAbilities.aspx?ID=63)[reaction]  instead of a dire wolf's ***pack tactics*** feature. It obey's Wensencia's spoken commands, and Wensencia can use a bonus action on her turn to mentally command it if it is within 60 feet of her.
 
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s five other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
@@ -270,9 +265,9 @@ If the players challenge or move to obstruct her, Wensencia is annoyed and sligh
 
 Wensencia can't be persuaded to spare the elk's life on its own merits. If the players insist that she allow the elk time to die in its own time, she sniffs that "the beast could take hours to die—and the organs are best harvested while the heart is still beating, regardless."
 
-The players can dissuade Wensencia from harvesting the elk by offering a gift of reasonable value and succeeding on a successful DC 15 Diplomacy check. If the players threaten Wensencia in an attempt to dissuade her, she asks, in bafflement, why they would care so deeply about a "dumb, dying animal." 
+The players can dissuade Wensencia from harvesting the elk by offering a gift of reasonable value and succeeding on a successful DC 22 Diplomacy check. If the players threaten Wensencia in an attempt to dissuade her, she asks, in bafflement, why they would care so deeply about a "dumb, dying animal." 
 
-Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 10 Charisma (Intimidation) check. If the players attack her, she uses her first turn in combat to cast *gaseous form*, vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
+Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 18 Intimidation check. If the players attack her, she uses her first turn in combat to cast *gaseous form*, vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
 
 As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
 
@@ -304,19 +299,19 @@ When the players have uncovered—but not yet retrieved—the final piece of gea
 
 A player with a passive Wisdom (Perception) score of 13 or greater also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
 
-The stench and silhouettes belong to a pack of five **ghouls**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
+The stench and silhouettes belong to a pack of five **[Ghasts scaled to Level 4](https://2e.aonprd.com/Monsters.aspx?ID=219)**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
 
 <div class="description">
 <p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
 </div>
 
 > [!combat]+ **Balancing the Mass Grave** 
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players and a CR 2 ally (Ireena Kolyana), and will consume approximately 14% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of ghouls to four. 
-> * **Four Players**. Reduce the number of ghouls to four. 
-> * **Six Players**. Increase the number of ghouls to six.
+> This combat encounter is a **Moderate** combat encounter against a party of four 6th-level players and a Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of ghasts to four. 
+> * **Five Players**. Make one ghast Elite.
+> * **Six Players**. Make three ghasts Elite.
 
-When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **ghouls** with its **talons** attack and departing. Read:
+When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** with its **talons** attack and departing. Read:
 
 <div class="description">
 <p>A sudden gale of wind roars in your ears, the fog swirling violently around you. A monstrous silhouette, taller than the trees of the Svalich Wood and with a wingspan twice as wide, descends from the sky above—and so too does a gargantuan set of talons, emerging from the fog toward one of the ghouls like the fingers of a vengeful deity.</p>
@@ -485,7 +480,7 @@ This area is largely as described in <span class="citation">Q11. Wine Storage (p
 <p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
 </div> 
 
-A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
+A player who inspects the stain and succeeds on a DC 21 Crafting check determines that it appears to have originated from the northeastern barrel.
 
 The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this to the end of days" engraved around the inside of the ring.
 
@@ -505,13 +500,12 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 > * **Six Players**. Increase the number of giant spiders in the first wave to eight.
 
 > [!info]+ **Phase Spider Harvesting**
-> A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
+> A single adult **phase spider** possesses two large fangs, each of which can produce up to two vials of venom. A character can harvest a single fang successfully by succeeding on a DC 23 Nature check or DC 23 Survival check.
 > 
-> If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
-> 
-> * **DC 14.** The character harvests one vial of venom.
-> * **DC 16.** The character harvests two vials of venom.
-> * **DC 18.** The character harvests three vials of venom.
+> Critical Success. The character harvests two vials of venom.
+> Success. The character harvests one vial of venom.
+> Failure. The character harvests nothing.
+> Critical Failure. The character is subjected by the spider's venom.
 
 > [!item]+ **Phase Spider Fang**
 > While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
@@ -1127,7 +1121,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 
 The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
+***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 250 XP.
 
 > [!info]+ **Returning the Skull**
 > The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].

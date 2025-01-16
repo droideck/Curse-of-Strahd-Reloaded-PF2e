@@ -16,23 +16,22 @@ This act ends at dusk on the first night after the players infiltrate Castle Rav
 # Milestones
 The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
 
-* defeat the druids occupying the Wizard of Wines winery (200 XP)
-* retrieve the stolen gem from Yester Hill (250 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (2,000 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
-* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (250 XP)
-* obtain the *Spear of the Huntress* from King Dostron's crypt (250 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (250 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (250 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (250 XP)
-* defeat the Abbot (2,000 XP)
-* redeem the Abbot after defeating him (500 XP)
-* defeat Kiril Stoyanovich (2,000 XP)
-* light the beacon of Argynvostholt (3,000 XP)
+* defeat the druids occupying the Wizard of Wines winery (500 XP)
+* retrieve the stolen gem from Yester Hill (500 XP)
+* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (250 XP)
+* bargain with Zuleika Toranescu at the Werewolf Den (250 XP)
+* receive Argynvost’s mission at Argynvostholt (250 XP)
+* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft
+* return from Castle Ravenloft following the dinner with Strahd (250 XP)
+* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (250 XP)
+* recover the *Icon of Ravenloft* from Ravenloft’s catacombs
+* rescue Emil Toranescu from Ravenloft’s dungeons
+* rescue Gertruda from the master bedroom of Castle Ravenloft
+* raid Strahd’s hidden treasury in Castle Ravenloft
+* purify the Abbot’s soul (250 XP)
+* rescue Ilya Krezkov
+* obtain the *Holy Symbol of Ravenkind* (250 XP)
+* light the beacon of Argynvostholt (250 XP)
 # Timeline
 The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
 

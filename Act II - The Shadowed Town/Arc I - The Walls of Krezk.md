@@ -1,4 +1,4 @@
-_An adventure for four 4th- or 5th-level characters._
+_An adventure for four 5th-level characters._
 
 In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for Abyssal Plague from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
 

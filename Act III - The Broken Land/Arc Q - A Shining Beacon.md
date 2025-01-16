@@ -349,7 +349,7 @@ At will: detect evil and good<br>
 <span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Defeating the Abbot**
-> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 2,000 XP, or 2,500 XP if they also redeemed the Abbot (see below).
+> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 250 XP.
 ### The Abbot's Redemption
 When the players reduce the Abbot’s second phase to 0 hit points, read:
 
@@ -834,7 +834,7 @@ Emil is glad to allow the players to accompany him and the remainder of the pack
 
 Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
 
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
+***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 250 XP.
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
@@ -1148,7 +1148,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
+***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 250 XP.
 # Q7. Return to the Werewolf Den
 
 > [!abstract]+ **Fighting Kiril**
