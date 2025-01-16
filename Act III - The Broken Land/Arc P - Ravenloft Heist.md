@@ -8,6 +8,8 @@ Far above the rest of the castle, Strahd’s **guardian portrait** watches over 
 
 And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 # P1. Preparing for the Heist
+User BAND OF HEROES RITUAL 3 if mythic?
+
 Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
 
 * The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J7b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
@@ -193,13 +195,15 @@ The players might use any of the following methods to distract the **wights** pa
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
 > [!info]+ **Heist Milestones**
-> Stealing Argynvost's skull completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. If the players depart Castle Ravenloft after completing one or more of the following additional objectives, award each player:
+> Raiding Castle Ravenloft completes a story milestone. If the players depart Castle Ravenloft with one or more of their objectives completed, award each player 250 XP.
 > 
-> * 250 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
-> * 250 XP if they rescued Emil Toranescu
-> * 250 XP if they rescued Gertruda
-> * 250 XP if they obtained the *Spear of the Huntress* from King Dostron's crypt
-> * 250 XP if they looted Strahd's treasury
+> Objectives:
+> * Recover Argynvost's skull
+> * Obtaine the *Icon of Dawn's Grace* from St. Markovia's crypt
+> * Rescue Emil Toranescu
+> * Rescue Gertruda
+> * Obtain the *spear of the Huntress* from King Dostron's crypt
+> * Loot Strahd's treasury
 ## P3a. Front Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 

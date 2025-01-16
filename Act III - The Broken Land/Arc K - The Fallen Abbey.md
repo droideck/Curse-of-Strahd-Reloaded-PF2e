@@ -113,7 +113,7 @@ When the players enter this area, read:
 <p>A large wooden table stands at the center, surrounded by chairs and covered with a simple checkered tablecloth. Copper pots and pans hang from hooks above a stone hearth, and a variety of herbs dry from a wooden rack on the wall. An open window allows a cool breeze into the space, and a small pile of birdseed rests upon the windowsill.</p>
 </div>
 
-If the players linger here, they notice that a musty, acrid odor emits from a mortar and pestle atop one of the higher shelves. If retrieved, the mortar contains a faint ground powder colored a vibrant shade of purple, identifiable as wolfsbane with a DC 13 Intelligence (Nature) check.
+If the players linger here, they notice that a musty, acrid odor emits from a mortar and pestle atop one of the higher shelves. If retrieved, the mortar contains a faint ground powder colored a vibrant shade of purple, identifiable as wolfsbane with a DC 24 Nature or Craft check.
 
 At some point before dinner, Dmitri and Anna meet in the kitchen for a quiet conversation, asking any players present to excuse themselves from the room for a moment of privacy. A player who eavesdrops on the conversation sees the following: 
 
@@ -123,7 +123,7 @@ At some point before dinner, Dmitri and Anna meet in the kitchen for a quiet con
 
 The robin is the Abbot in disguise.
 
-A player can make a DC 14 Wisdom (Perception) check to attempt to eavesdrop on the conversation. On a success, they hear the following:
+A player can make a DC 23 Perception check to attempt to eavesdrop on the conversation. On a success, they hear the following:
 
 <div class="description">
 <p>“I know you said you’d made up your mind," Dmitri murmurs. “But please, Anna — you have to reconsider."</p>
@@ -132,7 +132,7 @@ A player can make a DC 14 Wisdom (Perception) check to attempt to eavesdrop on t
 <p>Anna jerks her hands away. “No," she whispers. “I made my choice—for Kala and our people. How <em>dare</em> you ask me to flee like a coward?"</p>
 </div>
 
-Dmitri flinches, then reflexively checks over his shoulder to ensure that no one is listening. A player must succeed on a DC 16 Dexterity (Stealth) check to remain unobserved; otherwise, Dmitri hears and smells them through the use of his ***keen hearing and smell*** feature. (Dmitri sharply asks the player whether they were eavesdropping, and tells them to forget what they heard and tell no one if they admit to doing so.)
+Dmitri flinches, then reflexively checks over his shoulder to ensure that no one is listening. A player must succeed on a DC 23 Stealth check to remain unobserved; remember that Dmitri has scent (imprecise) 30 feet. (Dmitri sharply asks the player whether they were eavesdropping, and tells them to forget what they heard and tell no one if they admit to doing so.)
 
 If the eavesdropping player escapes detection, read:
 
@@ -182,7 +182,7 @@ If the players answer her question with thoughtfulness and compassion, she asks:
 
 If the players again answer her question with thoughtfulness and compassion, Kala looks them in the eyes and whispers, "I don't think bad dreams ever really go away." Despite her young age, her eyes look haunted and weary.
 
-Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are, Kala! You can’t go outside without a coat or boots; you’ll catch cold." She then scoops Kala up and brings her inside. (If asked, Anna awkwardly apologizes for Kala’s macabre thoughts, and claims that Kala has been like this ever since she “took ill" a few days ago. A successful DC 12 Medicine check suggests that Kala has no apparent illness, while a successful DC 12 Perception check to Sense Motive suggests that Anna is not telling the entire truth. Anna refuses to elaborate and doubles down on her claim if challenged.)
+Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are, Kala! You can’t go outside without a coat or boots; you’ll catch cold." She then scoops Kala up and brings her inside. (If asked, Anna awkwardly apologizes for Kala’s macabre thoughts, and claims that Kala has been like this ever since she “took ill" a few days ago. A successful DC 21 Medicine check suggests that Kala has no apparent illness, while a successful DC 21 Perception check to Sense Motive suggests that Anna is not telling the entire truth. Anna refuses to elaborate and doubles down on her claim if challenged.)
 ### Dining Room & Living Room
 The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
 
@@ -201,7 +201,7 @@ Midway through dinner, there comes a knock at the door. When Anna goes to answer
 <p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
 </div>
 
-This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player with a passive Wisdom (Insight) score of 13 or higher notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
+This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player that succeeds on DC 23 Perception check to Sense Motive notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
 
 The Abbot greets Dmitri, Anna, and the players cordially, and notes with mild interest that the Krezkovs have guests. 
 
@@ -269,7 +269,7 @@ A player who inspects the map observes a small piece of parchment tucked away be
 <p>The sketch depicts a woman with narrowed, low-set eyes, whose lips seem to unconsciously curl into a snarl. A gray bandana ties back a set of thick, short-cropped dreadlocks behind her head, and a half-shredded black tunic lies beneath a set of worn leather armor upon her chest.</p>
 </div>
 
-The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
+The woman is Zuleika Toranescu, Dmitri’s elder sister. A player that succeeds on DC 23 Perception check notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
 
 ![[Sketch of Zuleika.png]]
 <span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -285,11 +285,11 @@ The door opens to a descending set of stone stairs that open into the wine cella
 <p>The floor bears a trail of deep gouges and claw marks. The marks lead to a bare spot between two wooden racks, covering a portion of the far stone wall approximately three feet across.</p>
 </div>
 
-A DC 12 Wisdom (Nature) check reveals that the marks and gouges were left by a large, lupine beast.
+A DC 23 Nature check reveals that the marks and gouges were left by a large, lupine beast.
 
 The bare spot on the wall hides a secret door. No check is required to spot the secret door, which can’t be closed completely due to Ilya’s damage, leaving a thin crack in the wall from the floor to a point six feet above the ground.
 
-A player can force the secret door open with a successful DC 20 Strength check. Alternatively, the player can find the mechanism that unlocks the door—a disguised lever on the wine rack—with a successful DC 15 Intelligence (Investigation) check, succeeding automatically with 1 full minute of searching. Once the lever is pulled, the lock on the door releases and the door drifts slightly forward, revealing handholds along its side that can be used to pull it fully open.
+A player can force the secret door open with a successful DC 28 Athletics check to Force Open. Alternatively, the player can find the mechanism that unlocks the door—a disguised lever on the wine rack—with a successful DC 25 Perception check. Once the lever is pulled, the lock on the door releases and the door drifts slightly forward, revealing handholds along its side that can be used to pull it fully open.
 
 The secret door leads to the hidden basement (see below).
 ### Hidden Basement
@@ -331,7 +331,7 @@ Dmitri apologizes to the players for concealing this information from them, and 
 # K2. The Abbey of Saint Markovia
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
 ## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. You can use [Jailer](https://2e.aonprd.com/NPCs.aspx?ID=935) stat block for the mongrelfolk and add the features as per original stat block. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***
@@ -698,7 +698,7 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 > [!info]+ **Seances with the Tarokka Deck**
 > When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
 > 
-> If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
+> If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 23 Occultism or Arcana check to recall the meaning of a particular card.
 > 
 > **Choosing Cards**
 > When choosing cards to answer a player question, use the following guidelines:
@@ -747,9 +747,9 @@ Immediately after the spirit answers the players’ tenth question, the players 
 > [!info]+ **The Artifact**
 > The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
 
-***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
+***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 250 XP.
 ##### The Eavesdroppers
-Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
+Shortly after the seance ends, Ezmerelda and any player that succeeds on DC 23 Perception check hear a sudden noise outside the door. Read:
 
 <div class="description">
 <p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
@@ -780,11 +780,11 @@ As the players exit the East Wing into the courtyard, they are greeted by the Ab
 
 After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
 
-A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
+A player must succeed on a DC 25 Deception check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
 
 In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
 
-If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 20 Dexterity (Deception) check and a DC 20 Diplomacy check. 
+If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 25 Stealth check and a DC 25 Diplomacy check. 
 
 If the player fails the first check, the Abbot notices their attention to Vasilka and asks her to confess if she has given her hands to “the sins of vanity and pride." If the player fails the second check, Vasilka meekly confesses that she made the necklace. In either case, Vasilka insists that she did so only because the flesh golem looked so lonely, and she wished for it not to feel so alone. The Abbot thanks Vasilka for her honesty, noting that “the Morninglord smiles upon those who reveal the truth"—but adds, quietly, that they will speak of her penance later.
 
