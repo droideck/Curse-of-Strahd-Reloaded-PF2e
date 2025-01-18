@@ -383,7 +383,6 @@ Volenta uses the three vampire spawn with her as cover, placing them between her
 <strong>Resistances</strong> physical 5 (except silver)<br>
 <strong>Fortitude</strong> +12, <strong>Reflex</strong> +16, <strong>Will</strong> +14
 <hr>
-
 <h3>Active Actions</h3>
 <p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
 <p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
@@ -395,39 +394,29 @@ Volenta uses the three vampire spawn with her as cover, placing them between her
 <p><strong>Drink Blood</strong> ◆ (divine)<br>
 <strong>Requirements</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
 <strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a Medicine DC 23 check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
-
 <p><strong>Exhume</strong> ◆ (manipulate)<br>
 <strong>Requirements</strong> Volenta is adjacent to a dead creature that hasn't already been affected by Exhume<br>
 <strong>Effect</strong> Volenta harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.</p>
-
 <p><strong>Force Feed</strong> ◆<br>
 <strong>Requirements</strong> Volenta has a creature Grabbed or Restrained and is holding weird brew, an alchemical elixir, or an alchemical poison<br>
 <strong>Effect</strong> Volenta forces the target to consume the alchemical item.</p>
-
 <p><strong>Grab</strong> ◆<br>
 As per the standard Grab action.</p>
-
 <p><strong>Quick Draw</strong> ◆<br>
 The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
-
 <p><strong>Weird Brew</strong> ◆ (manipulate)<br>
 <strong>Cost</strong> 1 batch of infused reagents<br>
 <strong>Effect</strong> Volenta creates a vial of weird brew, an alchemical liquid that has the infused trait and becomes inert after 24 hours. Weird Brew has the effects of Snake Oil, and maybe more depending on the results of Volenta's Crafting DC 20 check.<br>
 <strong>Critical Success</strong> Volenta chooses one of the following items and adds its effects to the Weird Brew: Antidote (Moderate), Antiplague (Moderate), Elixir of Life (Lesser), Giant Scorpion Venom, or Juggernaut Mutagen (Moderate). Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits.<br>
 <strong>Success</strong> As critical success, but Volenta chooses from Antidote (Lesser), Antiplague (Lesser), Elixir of Life (Minor), Graveroot, or Juggernaut Mutagen (Lesser).</p>
-
 <p><strong>Smokestick</strong> ◇<br>
 When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.</p>
-
 <hr>
 <h3>Passive Abilities</h3>
-
 <p><strong>Awakened Bloodlust</strong><br>
 When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-
 <p><strong>Sneak Attack</strong><br>
 The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
-
 <p><strong>Vampire Fast Healing 15</strong><br>
 The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
 <p><strong>Void Healing</strong><br>
@@ -440,7 +429,6 @@ All vampires possess the following vulnerabilities:
 <li><strong>Stake to the Heart</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
 <li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
 </ul>
-
 <h3>Inventory</h3>
 <ul>
 <li>Acid Flask (Moderate) (Infused) (2)</li>
@@ -495,38 +483,28 @@ All vampires possess the following vulnerabilities:
 <strong>Resistances</strong> physical 5 (except silver)<br>
 <strong>Speed</strong> 25 feet, climb 25 feet<br>
 <hr>
-
 <h3>Melee Attacks</h3>
 <p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
 <p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
-
 <h3>Ranged Attacks</h3>
 <p><strong>Ranged</strong> ◆ dagger +16 (agile, thrown 10, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
-
 <h3>Active Abilities</h3>
 <p><strong>Blood Frenzy</strong> ◇ <br>
 <strong>Requirements</strong> Volenta is not Fatigued or already in a frenzy<br>
 <strong>Trigger</strong> Volenta deals bleed damage to a living creature.<br>
 <strong>Effect</strong> Volenta flies into a frenzy that lasts 1 minute. While frenzied, Volenta gains a +1 status bonus to attack rolls with its claws, gains a +4 status bonus to damage rolls with its claws, gains 15 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. Volenta can't voluntarily stop its frenzy. After its frenzy, Volenta is Fatigued.</p>
-
 <p><strong>Drink Blood</strong> ◆<br>
 <strong>Requirement</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
 <strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.</p>
-
 <p><strong>Grab</strong> ◆<br>
 <em>As per standard rules</em></p>
-
 <p><strong>Hateful Floury</strong> ◆◆<br>
 <strong>Requirements</strong> Volenta is in a blood frenzy.<br>
 <strong>Effect</strong> Volenta unleashes a whirlwind of attacks against its foes, making a single melee Strike with its claws against each opponent within reach.</p>
-
 <h3>Passive Abilities</h3>
 <p><strong>Bloodletting</strong> When Volenta deals piercing or slashing damage, it also deals 1d4 bleed damage if the target was Off-Guard or if the attack was a critical hit.</p>
-
 <p><strong>Sneak Attack</strong> The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
-
 <p><strong>Vampire Fast Healing 15</strong> The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-
 <strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities:
 <ul>
 <li><strong>Forbiddance</strong> The vampire can't enter a residence without an invitation from one of the occupants.</li>
@@ -535,6 +513,7 @@ All vampires possess the following vulnerabilities:
 <li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
 </ul>
 </div>
+
 ### 1. Volenta
 [[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***bombs.*** Afterward, she alternates between using her meele strickes to ***Grab***, ***Force Feed*** some of her nasty poisons and ***Drink Blood*** when on low HP (she likes the blood "spicy").
 
@@ -665,54 +644,38 @@ Once Rahadin is satisfied justice has been done, he uses his _Marvelous Mount_ a
 <strong>Saves</strong> Fort +19, Ref +25, Will +22<br>
 <strong>Speed</strong> 30 feet
 <hr>
-
 <h3>Active Actions</h3>
 <p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
 <strong>Frequency</strong> once per turn<br>
 <strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).</p>
-
 <p><strong>Elf Step</strong> ◆<br>
 Rahadin Steps twice</p>
-
 <p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
-
 <p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
 <strong>Requirements</strong> The assassin is wielding a piercing or slashing weapon and has a free hand.<br>
 <strong>Effect</strong> The assassin applied a poison to the weapon.</p>
-
 <p><strong>Quick Draw</strong> ◆<br>
 The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
-
 <p><strong>Ranged</strong> ◆ dart +25 (agile, thrown-20), <strong>Damage</strong> 4d4+6 piercing</p>
-
 <p><strong>Opportune Backstab</strong> ⮌<br>
 <strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
 <strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This move does not trigger reactions from the triggering enemy.</p>
-
 <p><strong>Nimble Dodge</strong> ⮌<br>
 <strong>Trigger</strong> The assassin is targeted with a melee or ranged attack by an attacker they can see.<br>
 <strong>Effect</strong> The assassin gains a +2 circumstance bonus to AC against the triggering attack.</p>
-
 <hr>
 <h3>Passive Abilities</h3>
-
 <p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet. DC 29 Will<br>
 Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
-
 <p><strong>Darkvision</strong></p>
-
 <p><strong>Deny Advantage</strong><br>
 The assassin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking or using Surprise Attack.</p>
-
 <p><strong>Sneak Attack</strong><br>
 The kobold warrior deals an extra 3d6 precision damage to off-guard creatures.</p>
-
 <p><strong>Surprise Attack</strong><br>
 On the first round of combat, creatures that haven't acted yet are off-guard to the assassin.</p>
-
 <p><strong>Swift Sneak</strong><br>
 The assassin can move their full speed when Sneaking.</p>
-
 </div>
 <br>
 

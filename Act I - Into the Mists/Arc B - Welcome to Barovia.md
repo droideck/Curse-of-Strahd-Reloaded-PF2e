@@ -601,68 +601,69 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 >As of now, I provide a basic statblock which is enough for this encounter. But in the future I plan to improve it for both phases in detail. 
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain - Creature 12</h2>
-<em>Rare Medium Humanoid (Elf)</em>
-<hr>
-<strong>Perception</strong> +25; darkvision<br>
-<strong>Languages</strong> Common, Elven<br>
-<strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16<br>
-<strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +2, <strong>Wis</strong> +0, <strong>Cha</strong> +1
-<hr>
-<strong>AC</strong> 33<br>
-<strong>HP</strong> 225<br>
-<strong>Saves</strong> Fort +19, Ref +25, Will +22<br>
-<strong>Speed</strong> 30 feet
-<hr>
-
-<h3>Active Actions</h3>
-<p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
-<strong>Frequency</strong> once per turn<br>
-<strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).</p>
-
-<p><strong>Elf Step</strong> ◆<br>
-Rahadin Steps twice</p>
-
-<p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
-
-<p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
-<strong>Requirements</strong> The assassin is wielding a piercing or slashing weapon and has a free hand.<br>
-<strong>Effect</strong> The assassin applied a poison to the weapon.</p>
-
-<p><strong>Quick Draw</strong> ◆<br>
-The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
-
-<p><strong>Ranged</strong> ◆ dart +25 (agile, thrown-20), <strong>Damage</strong> 4d4+6 piercing</p>
-
-<p><strong>Opportune Backstab</strong> ⮌<br>
-<strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
-<strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This move does not trigger reactions from the triggering enemy.</p>
-
-<p><strong>Nimble Dodge</strong> ⮌<br>
-<strong>Trigger</strong> The assassin is targeted with a melee or ranged attack by an attacker they can see.<br>
-<strong>Effect</strong> The assassin gains a +2 circumstance bonus to AC against the triggering attack.</p>
-
-<hr>
-<h3>Passive Abilities</h3>
-
-<p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet. DC 29 Will<br>
-Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
-
-<p><strong>Darkvision</strong></p>
-
-<p><strong>Deny Advantage</strong><br>
-The assassin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking or using Surprise Attack.</p>
-
-<p><strong>Sneak Attack</strong><br>
-The kobold warrior deals an extra 3d6 precision damage to off-guard creatures.</p>
-
-<p><strong>Surprise Attack</strong><br>
-On the first round of combat, creatures that haven't acted yet are off-guard to the assassin.</p>
-
-<p><strong>Swift Sneak</strong><br>
-The assassin can move their full speed when Sneaking.</p>
-
+  <h2>Rahadin, Castle Chamberlain - Creature 12</h2>
+  <em>Rare Medium Humanoid (Elf)</em>
+  <hr>
+  <strong>Perception</strong> +25; darkvision
+  <br>
+  <strong>Languages</strong> Common, Elven
+  <br>
+  <strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16
+  <br>
+  <strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +2, <strong>Wis</strong> +0, <strong>Cha</strong> +1
+  <hr>
+  <strong>AC</strong> 33
+  <br>
+  <strong>HP</strong> 225
+  <br>
+  <strong>Saves</strong> Fort +19, Ref +25, Will +22
+  <br>
+  <strong>Speed</strong> 30 feet
+  <hr>
+  <p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
+  <p><strong>Ranged</strong> ◆ dart +25 (agile, thrown 20), <strong>Damage</strong> 4d4+6 piercing</p>
+  <h3>Actions</h3>
+  <p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
+    <strong>Frequency</strong> once per turn<br>
+    <strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).
+  </p>
+  <p><strong>Elf Step</strong> ◆<br>
+    Rahadin Steps twice.
+  </p>
+  <p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
+    <strong>Requirements</strong> Rahadin is wielding a piercing or slashing weapon and has a free hand.<br>
+    <strong>Effect</strong> Rahadin applies a poison to the weapon.
+  </p>
+  <p><strong>Quick Draw</strong> ◆<br>
+    Rahadin Interacts to draw a weapon, then Strikes with that weapon.
+  </p>
+  <p><strong>Opportune Backstab</strong> ⮌<br>
+    <strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
+    <strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This movement does not trigger reactions from the triggering enemy.
+  </p>
+  <p><strong>Nimble Dodge</strong> ⮌<br>
+    <strong>Trigger</strong> Rahadin is targeted with a melee or ranged attack by an attacker he can see.<br>
+    <strong>Effect</strong> Rahadin gains a +2 circumstance bonus to AC against the triggering attack.
+  </p>
+  <hr>
+  <p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet (DC 29 Will)<br>
+    Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or become stupefied 1 for as long as it remains within the aura.
+  </p>
+  <p><strong>Darkvision</strong></p>
+  <p><strong>Deny Advantage</strong><br>
+    Rahadin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using Surprise Attack.
+  </p>
+  <p><strong>Sneak Attack</strong><br>
+    Rahadin deals an extra 3d6 precision damage to off-guard creatures.
+  </p>
+  <p><strong>Surprise Attack</strong><br>
+    On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.
+  </p>
+  <p><strong>Swift Sneak</strong><br>
+    Rahadin can move his full speed when Sneaking.
+  </p>
 </div>
+
 <br>
 
 <div class="statblock">

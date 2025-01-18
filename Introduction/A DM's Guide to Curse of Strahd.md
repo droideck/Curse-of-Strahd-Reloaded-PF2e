@@ -13,6 +13,10 @@ That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse o
 
 Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
 
+> [!warning]+ **Pathfinder 2e Difficulty**
+> This guide sets difficulty pretty high and it assumes that Mythic rules will be used at some point of the adventure (to be updated).
+> As a Pathfinder 2e GM, I suggest for you to check carefully the encounters before running them as written. If you want easier times for your party, consider dropping difficulty by one step (or using 3 player version even though you play 4 player party).
+
 > [!info]- **I'm a new DM. Why use a guide at all?**
 > 
 > The official *Curse of Strahd* module is an engaging, dramatic, and conceptually vivid gothic horror experience. It's 5e’s most popular campaign for a reason!
