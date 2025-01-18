@@ -5,6 +5,7 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > [!info]+ **Finding Amber Shards**
 > The players have an opportunity to obtain an amber shard:
 > * during [[Character Creation]]
+> * optionally, during [[Arc A - Escape From Death House]]
 > * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
 > * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
 > 
@@ -12,6 +13,9 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 
 > [!info]+ **The Magic of the Shards**
 > A player who scrutinizes an amber shard with a *detect magic* spell discerns tinges of abjuration magic. A player who attempts to identify a shard with an *identify* spell learns that it was once a part of a larger framework meant to contain or imprison some entity or creature, and that it still retains some arcane link to the original container.
+
+> [!info]+ **Pathfinder 2e Mythic Rules**
+> As an option, I suggest running the War of Immortals mythic rules. As it's released on https://2e.aonprd.com, I'll share more details. Reach to me if you want more information on how to run it.  
 # Stage One
 In this stage, the player is a mere possessor of the amber shard, likely unaware of the true power it offers. 
 

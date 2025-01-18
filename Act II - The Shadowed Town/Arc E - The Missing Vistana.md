@@ -365,23 +365,18 @@ Shortly after the players discover these records, however, they are interrupted 
 <strong>HP</strong> 92 (max 112)<br>
 <strong>Speed</strong> 25 feet<br>
 <hr>
-
 <h3>Active Actions</h3>
 <p><strong>Melee</strong> ◆ dagger +19 (agile, finesse, magical, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
 <p><strong>Ranged</strong> ◆ dagger +19 (agile, magical, thrown 10, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
-
 <p><strong>Drain Bonded Item</strong> ◇ (frequency: once per day)<br>
 Victor expends the magical power stored in his ring. During the current turn, he can cast one spell he prepared today, without spending a spell slot. Victor must still Cast the Spell and meet the spell's other requirements.</p>
-
 <p><strong>Counterspell</strong> ⮌<br>
 <strong>Trigger</strong> A creature casts a spell Victor has prepared<br>
 <strong>Effect</strong> Victor expends a prepared spell to counter the triggering creature's casting of that same spell. He loses its spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell.</p>
-
 <hr>
 <h3>Passive Abilities</h3>
 <p><strong>Steady Spellcasting</strong><br>
 If a reaction would disrupt Victor's spellcasting action, the Victor attempts a DC 15 flat check. On a success, the action isn't disrupted.</p>
-
 <hr>
 <h3>Spellcasting</h3>
 <p><strong>Arcane Flexible Prepared Spells</strong> DC 25, attack +17<br>
@@ -392,18 +387,15 @@ If a reaction would disrupt Victor's spellcasting action, the Victor attempts a 
 <strong>4th (2/2):</strong> fly, suggestion*<br>
 <strong>5th (2/2):</strong> cone of cold*, sending*<br>
 (*) denotes spell that are in the flexible collection</p>
-
 <h3>Rituals</h3>
 <p><strong>Create Undead</strong> (uncommon)<br>
 <strong>Cast</strong> 1 day; <strong>Cost</strong> black onyx, see Creature Creation Rituals table; <strong>Secondary Casters</strong> 1<br>
 <strong>Primary Check</strong> Arcana (expert), Occultism (expert), or Religion (expert); <strong>Secondary Check</strong> Religion<br>
 You transform the target into an undead creature with a level up to that allowed in the Creature Creation Rituals table...</p>
-
 <p><strong>Faulty Teleportation Circle</strong> (uncommon)<br>
 <strong>Cast</strong> 1 day; <strong>Cost</strong> rare incense, precious metals, and purified chalk worth 500 gp; <strong>Secondary Casters</strong> 2<br>
 <strong>Primary Check</strong> Arcana or Occultism (master); <strong>Secondary Check</strong> Crafting, Survival<br>
 You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual...</p>
-
 <h3>Inventory</h3>
 <ul>
 <li>Dagger (magical)</li>
@@ -412,8 +404,8 @@ You create a 10-foot-diameter circle on the ground, which acts as a portal to a 
 <li>Spellbook</li>
 <li>Bonded item - Simple Silver Ring</li>
 </ul>
-
 </div>
+
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 21 Diplomacy check to Make an Impression. 
@@ -811,44 +803,34 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
 <strong>Weaknesses</strong> silver 7<br>
 <strong>Speed</strong> 25 feet<br>
 <hr>
-
 <h3>Active Actions</h3>
 <p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
 <p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
 <p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
 <p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
-
 <p><strong>Change Shape</strong> ◆<br>
 The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
 <p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
 <p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
-
 <p><strong>Maul</strong> ◆<br>
 You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
 <p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
-
 <p><strong>Reactive Strike</strong> ⮌<br>
 <strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
 <p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
-
 <h3>Passive Abilities</h3>
 <p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
 This curse affects only humanoids.<br>
 <strong>Saving Throw</strong> DC 19 Fortitude<br>
 On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
-
 <p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
 When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
-
 <p><strong>Pack Attack</strong><br>
 The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
-
 <p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
 The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
-
 <p><strong>Wolf Empathy</strong><br>
 The werewolf can communicate with canine creatures.</p>
-
 <h3>Inventory</h3>
 <ul>
 <li>Battle Axe</li>
@@ -856,7 +838,6 @@ The werewolf can communicate with canine creatures.</p>
 <li>Studded Leather Armor</li>
 <li>Arrows (20)</li>
 </ul>
-
 </div>
 
 In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.

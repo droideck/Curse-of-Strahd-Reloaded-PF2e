@@ -1018,44 +1018,34 @@ Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition,
 <strong>Weaknesses</strong> silver 7<br>
 <strong>Speed</strong> 25 feet<br>
 <hr>
-
 <h3>Active Actions</h3>
 <p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
 <p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
 <p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
 <p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
-
 <p><strong>Change Shape</strong> ◆<br>
 The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
 <p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
 <p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
-
 <p><strong>Maul</strong> ◆<br>
 You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
 <p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
-
 <p><strong>Reactive Strike</strong> ⮌<br>
 <strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
 <p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
-
 <h3>Passive Abilities</h3>
 <p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
 This curse affects only humanoids.<br>
 <strong>Saving Throw</strong> DC 19 Fortitude<br>
 On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
-
 <p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
 When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
-
 <p><strong>Pack Attack</strong><br>
 The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
-
 <p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
 The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
-
 <p><strong>Wolf Empathy</strong><br>
 The werewolf can communicate with canine creatures.</p>
-
 <h3>Inventory</h3>
 <ul>
 <li>Battle Axe</li>
@@ -1063,7 +1053,6 @@ The werewolf can communicate with canine creatures.</p>
 <li>Studded Leather Armor</li>
 <li>Arrows (20)</li>
 </ul>
-
 </div>
 
 In combat, the **wolves** work together, knocking prone and dragging creatures away. Once the wolves have dragged a character away from the party, the **werewolves** shift their attention to target them with its ***jaw*** strike. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.

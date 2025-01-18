@@ -400,41 +400,30 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 <strong>HP</strong> 145<br>
 <strong>Speed</strong> 25 feet<br>
 <hr>
-
 <h3>Melee Attacks</h3>
 <p><strong>Greataxe (holds in one hand)</strong> ◆ +20 [magical, sweep], <strong>Damage</strong> 2d12+11 slashing</p>
-
 <h3>Range Attacks</h3>
 <p><strong>Flame Hurl</strong> ◆ +15 [magical, range-increment-30], <strong>Damage</strong> 2d6+8 fire</p>
-
 <h3>Active Abilities</h3>
 <p><strong>Intimidating Strike</strong> ◆◆ (emotion, fear, fighter, mental)<br>
 The executioner makes a melee Strike. If it hits and deals damage, the target is Frightened 1, or Frightened 2 on a critical hit.</p>
-
 <p><strong>Slicing Whirl</strong> ◆◆ (flourish)<br>
 Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to Trip against each enemy within melee reach. Each attempt counts toward Izek's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts. Additionally, enemies take 1d12+4 slashing damage if they fall prone.</p>
-
 <p><strong>Flame Volley</strong> ◆ (fire, unholy)<br>
 Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. that explodes in a 10-foot burst. Creatures in the burst take 2d6 fire damage (DC 26 basic Reflex save). The flame drake can't use Flame Volley again for 1d4 rounds.</p>
-
 <h3>Reactions and Free Actions</h3>
 <p><strong>Reactive Strike</strong> ⮌<br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, Izek can make a melee Strike against that creature.</p>
-
 <p><strong>Forceful Retreat</strong> ⮌<br>
 In response to taking damage from a melee attack, Izek makes a Shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-
 <p><strong>Vengeful Strike</strong> ⮌<br>
 In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
-
 <hr>
 <h3>Passive Abilities</h3>
 <p><strong>Multiple Reactions</strong><br>
 Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-
 <p><strong>Second Phase</strong><br>
 When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-
 <hr>
 <h3>Inventory</h3>
 <ul>
@@ -481,28 +470,19 @@ When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, t
 <strong>HP</strong> 145<br>
 <strong>Speed</strong> 25 feet<br>
 <hr>
-
 <h3>Melee Attacks</h3>
 <p><strong>Greataxe (holds in one hand)</strong> ◆ +20 [magical, sweep], <strong>Damage</strong> 2d12+11 slashing plus 1d6 fire</p>
 <p><strong>Burning Punch</strong> ◆ +20 [invested, magical, unarmed], <strong>Damage</strong> 2d4+6 bludgeoning plus 2d4 fire plus push</p>
-
 <h3>Active Abilities</h3>
 <p><strong>Explosive Blast</strong> ◆ A bright streak flashes from Izek's clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot burst centered on that point must make DC 26 basic Reflex save and take 3d6 fire damage. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. The flame drake can't use Flame Volley again for 1d4 rounds.</p>
-
 <p><strong>Flame Burst</strong> ◆◆ [flourish] Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make DC 26 basic Reflex save or take 2d6 fire damage.</p>
-
 <p><strong>Flaming Wave</strong> ◆◆ [arcane, electricity] A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. It can't use Flaming Wave again for 1d4 rounds.</p>
-
 <h3>Reactions and Free Actions</h3>
 <p><strong>Hot Pursuit</strong> ⮌ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
-
 <p><strong>Reactive Strike</strong> ⮌ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
-
 <p><strong>Retaliatory Burn</strong> ⮌ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
-
 <h3>Passive Abilities</h3>
 <p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-
 <h3>Inventory</h3>
 <ul>
 <li>Greataxe (silver, low-grade)</li>
@@ -510,8 +490,8 @@ When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, t
 <li>Amber Shard</li>
 <li>A pouch with 66 gp</li>
 </ul>
-
 </div>
+
 
 > [!combat]+ **Balancing the Brute**
 > Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 4th-level players and a Level 3 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
