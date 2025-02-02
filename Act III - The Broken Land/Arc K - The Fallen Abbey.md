@@ -41,7 +41,7 @@ If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay
 > 
 > Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
 > 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion.
+> One month ago, while constructing the **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion.
 > 
 > The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
 > 
@@ -229,7 +229,7 @@ Dmitri and Anna then collapse onto their knees, holding one another and crying q
 * Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
 * The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
 * The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
-* The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
+* The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
 * The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
 * Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
 ### Kala’s Bedroom
@@ -388,7 +388,7 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 
 If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
 ## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
 > [!profile]+ **Profile: The Abbot**
 > **Roleplaying Information**
@@ -405,7 +405,7 @@ This area is largely as described in <span class="citation">S13. Main Hall (p. 1
 > 
 > ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
 > 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** Vasilka and the resurrector of Kala Krezkova.
 
 The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
 
@@ -421,7 +421,7 @@ The Abbot can also share the following information about himself, Vasilka, and S
 * He serves as the Abbot of the Abbey of Saint Markovia in Saint Markovia’s honor, a position he has held for some years. He was sent to reopen the Abbey following its tragic fate and abandonment—to make it a place of healing and sanctuary once again. (If asked how many years he has served at the Abbey, the Abbot shares that he has held his position for one hundred and seventeen years, ten months, and twenty-six days—a trivially brief time, in his mind. The Abbot won’t share his true angelic nature or identity, noting simply and serenely that he is merely a humble servant of the Morninglord.)
 * Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenely and states merely that the Morninglord’s service leads one on many paths.)
 * The Abbot believes that filling the void in Strahd’s soul—which Strahd has filled uselessly with power, pride, and wealth—is necessary to heal the wound that afflicts the land of Barovia. Only love can fill such a void, however: the deep, abiding, and unconditional love that Strahd has been denied all his life.
-* As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a **flesh golem** built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
+* As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
 * The Abbot has begun to train Vasilka in the arts of etiquette and romance. Given Strahd’s brilliant intelligence and his respect for creatures of similar intellect, the Abbot has also taught her philosophy, theology, and the natural sciences. Soon, the Abbot will offer her to Strahd as his bride—and when they are wed, the Abbot believes, the curse upon the land shall be lifted. 
 
 The Abbot notes, however, with some concern, that his window of opportunity is fast drawing to a close. Although he cannot discern neither its true nature nor its manner or time of arrival, he can sense the approach of a great storm on the horizon—one that will soon alter Strahd’s fate forever. (The Abbot is referring, of course, to the impending Grand Conjunction, though he does not know its name.)
@@ -463,7 +463,7 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 > 
 > ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
 > 
-> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** "brother," and learn as much as she can about people and the world.
 > 
 > ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
 > 
@@ -472,7 +472,7 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 > 
 > ***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
 > 
-> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **[Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)**.
 
 Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
 
@@ -488,7 +488,7 @@ Once the Abbot has gone, Vasilka shyly asks whether she can share something with
 
 Vasilka first asks to confirm that flowers are a way to signify care. (If the players previously told her that they are not, she appears crestfallen and slightly abashed upon asking.) She can then share the following information:
 
-* The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
+* The east wing of the Abbey is guarded by a **[Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
 * The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate Fortitude" and “afflict her mind with unpleasant thoughts."
 * Vasilka has watched it from a distance, and feels that it must be lonely. She feels sorrowful for it, and believes that it deserves recognition and respect for its toils. “We are siblings, in a way," she says quietly. “Were we not both made by the same hand?"
 * While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the east wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
@@ -496,7 +496,7 @@ Vasilka first asks to confirm that flowers are a way to signify care. (If the pl
 > [!abstract]+ **Anna's Sacrifice**
 > If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
 
-Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
+Vasilka asks the players to deliver the garland necklace to the [Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878) as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
 
 If the players agree, Vasilka asks them to keep the garland hidden from the Abbot until they’ve delivered it to the golem, fearing how the Abbot might respond upon learning of her duplicity.
 
@@ -520,7 +520,7 @@ As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot ap
 * Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
 ## K2c. The East Wing
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **[Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** is waiting for them. Read:
 
 <div class="description">
 <p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
@@ -783,11 +783,11 @@ When the players re-enter the East Wing to descend to the courtyard once more, t
 
 As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
 
-After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
+After he has made pleasantries with the players, if the **[Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
 
 A player must succeed on a DC 25 Deception check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
 
-In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
+In either case, the Abbot commands the **[Weak Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
 
 If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 25 Stealth check and a DC 25 Diplomacy check. 
 

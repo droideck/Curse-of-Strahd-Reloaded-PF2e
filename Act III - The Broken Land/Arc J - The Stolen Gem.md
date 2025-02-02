@@ -84,56 +84,68 @@ Muriel greets the players warmly and introduces herself, noting that Urwin has t
 If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
 
 <div class="statblock">
-    <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
-    <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
-    <br>
-    <strong>Hit Points</strong> 63 (14d8)
-    <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>16 (+3)</td>
-                <td>11 (+0)</td>
-                <td>13 (+1)</td>
-                <td>15 (+2)</td>
-                <td>14 (+2)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Perception check to Sense Motive.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Fortitude saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<h2>Muriel Vinshaw - Creature 4 - But Apply Elite</h2>
+<em>Medium humanoid, werecreature</em>
+<hr>
+<strong>Armor Class</strong> 21 (studded leather armor)
+<br>
+<strong>Hit Points</strong> 71
+<br>
+<strong>Speed</strong> 25 ft., fly 25 ft.
+<hr>
+<table class="ability-table">
+<thead>
+<tr>
+<th>STR</th>
+<th>DEX</th>
+<th>CON</th>
+<th>INT</th>
+<th>WIS</th>
+<th>CHA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14 (+2)</td>
+<td>20 (+5)</td>
+<td>16 (+3)</td>
+<td>14 (+2)</td>
+<td>16 (+3)</td>
+<td>12 (+1)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12
+<br>
+<strong>Saving Throws</strong> Fort +12, Ref +13, Will +10
+<br>
+<strong>Senses</strong> darkvision
+<br>
+<strong>Languages</strong> Common
+<br>
+<strong>Weaknesses</strong> silver 5
+<hr>
+
+<h3>Active Abilities</h3>
+<p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+
+<p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
+
+<p><strong>⮌ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+
+<p><strong>⮌ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+
+<h3>Attacks</h3>
+<p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
+<p><strong>Ranged</strong> ◆ hand crossbow +13 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
+<p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
+<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
 </div>
 
 ### Ireena's Request
@@ -181,7 +193,7 @@ As the players pass the entrance to the alpine path, they’re watched by a Moun
 <p>You hear the snap of a twig in the underbrush to the south.</p>
 </div>
 
-If the players investigate, they can make a DC 11 Wisdom (Perception) check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
+If the players investigate, they can make a DC 22 Perception check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
 
 <div class="description">
 <p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
@@ -218,11 +230,28 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **[Assassin Vines](https://2e.aonprd.com/Monsters.aspx?ID=555)**, concealed through the use of their ***false appearance*** feature.
 
-A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+---
+#### Spiked Pit Trap - Hazard 6
+_Electricity, Evocation, Magical, Trap_
+**Complexity** Simple  
+**Stealth** DC 24 (expert)
 
-In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
+**Disable**  
+DC 30 Thievery (master) to disable the runes, or **dispel magic** (5th level; counteract DC 30) to counteract the trap.
+
+**Pitfall - ⮌** **Trigger** A creature moves onto the leaf-covered hide;
+**Effect** The triggering creature falls in and takes falling damage (10 bludgeoning damage) and is targeted by a spike's Strike. A falling creature can attempt to Grab an Edge with a DC 24 Reflex save.
+**Melee - ◆** spike +20, **Damage** 4d8+13	piercing
+
+**Reset** Manual
+
+---
+
+If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+
+In combat, the **Assassin Vines** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
 > [!combat]- **Balancing the False Trail**
 > This combat encounter is a **mild** combat encounter against a party of four 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:

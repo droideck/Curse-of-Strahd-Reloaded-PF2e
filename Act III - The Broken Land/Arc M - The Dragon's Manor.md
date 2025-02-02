@@ -297,7 +297,7 @@ When the players have uncovered—but not yet retrieved—the final piece of gea
 <p>A damp, easterly wind stirs the swirling fog—bringing with it the thick, rotting stench of death.</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 13 or greater also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
+A player who succeeds on a DC 20 Perception check also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
 
 The stench and silhouettes belong to a pack of five **[Ghasts scaled to Level 4](https://2e.aonprd.com/Monsters.aspx?ID=219)**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
 
@@ -324,7 +324,7 @@ Nim, who occasionally eyes the players' fleshy extremities with hungry interest,
 
 * Long ago, the "hissing water" was much smaller, and the "drowned earth" near here dry and beautiful.
 * Then, as now, an old circle of stones stood on the far bank of the "hissing water" by the village, marked with the sigil of the spider. Though Nim didn't see it itself, someone once told it that "the Dark Master" had claimed the stones from their old master. If asked how, Nim shares that the "Dark Master" claimed the stones with the aid of "the wood-people, and their horns and claws." (Nim is referring to the Forest Folk who helped Strahd first desecrate the Swamp Fane. Although Nim doesn't remember it, Nim—then a villager of Berez called Nimira—learned the story from its grandmother, who spied upon the druids' first meeting with Strahd at the Fane.)
-*  On "the day the earth drowned," the circle of stones shook, and a great wave burst from the mountains across the river. "Nim ran away," Nim hisses. "Dark things in the water. Didn't dare stay." She adds, weeping, "But so *hungry*." (A player with a passive Wisdom (Insight) score of 8 or more then notices that Nim's tears are false, and that Nim is eyeing the players' flesh through its fingers with conniving, hopeful interest.)
+*  On "the day the earth drowned," the circle of stones shook, and a great wave burst from the mountains across the river. "Nim ran away," Nim hisses. "Dark things in the water. Didn't dare stay." She adds, weeping, "But so *hungry*." (A player who succeeds on a DC 17 Perception check then notices that Nim's tears are false, and that Nim is eyeing the players' flesh through its fingers with conniving, hopeful interest.)
 * Recently, the "Dark Master" has begun to visit the circle of stones once again—and each time he does, the circle trembles, though more quietly than it did long ago. The "swamp woman"—Baba Lysaga—has begun visiting it as well, and Nim has observed strange lights and sounds each time she does. (Nim doesn't know what Baba Lysaga is doing there.)
 
 If the **roc** appeared during the fight, Nim can identify it as "the Great Raven," which dwells atop the "cold mountain." Nim isn't sure why it might have attacked.
@@ -379,7 +379,7 @@ This area is as described in <span class="citation">Q9. Servants’ Quarters (p.
 
 If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
 
-If a player moves within reach of Zorya’s bed, a player with a passive Wisdom (Perception) score of 15 or greater notices the motheaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
+If a player moves within reach of Zorya’s bed, a player who succeeds on a DC 22 Perception check notices the motheaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
 
 If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Parlor]]. When she does, the players feel a diminished sense of longing and a small sense of satisfaction in addition to any other emotions.
 ### Parlor
@@ -389,7 +389,7 @@ This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
 
 If the players have previously encountered Zorya in the [[#Servants’ Quarters]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding behind the drapes of the western window.
 
-If a player moves within reach of Zorya’s window, a player with a passive Wisdom (Perception) score of 15 or greater notices the tattered drapes shift and rustle quietly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s window notices the moving drapes automatically.)
+If a player moves within reach of Zorya’s window, a player who succeeds on a DC 22 Perception check notices the tattered drapes shift and rustle quietly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s window notices the moving drapes automatically.)
 
 If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Dragon’s Den]]. When she does, the players feel a swelling sense of satisfaction in addition to any other emotions.
 ### Dragon’s Den
@@ -399,7 +399,7 @@ This area is largely as described in <span class="citation">Q6. Dragon’s Den (
 
 If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
 
-If a player moves within reach of Zorya’s decanter, a player with a passive Wisdom (Perception) score of 15 or greater notices a small, winged shadow fidgeting impatiently behind the glass, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s decanter notices the moving shadow automatically.)
+If a player moves within reach of Zorya’s decanter, a player who succeeds on a DC 22 Perception check notices a small, winged shadow fidgeting impatiently behind the glass, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s decanter notices the moving shadow automatically.)
 
 If a player unstops the decanter to reveal Zorya’s hiding place, she bursts forth with a trill of delight and plunges into the fireplace. Read:
 
@@ -419,58 +419,11 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 > 
 > If asked which door the key unlocks, Zorya is happy to guide the players to the [[#Knights’ Quarters]], though she responds with obvious distress and surprise should the **phantom warriors** there attack.
 
-<div class="statblock">
-<h2>Zorya, Pseudodragon Spirit</h2>
-<em>Tiny Undead, Neutral Good</em>
-<hr>
-<strong>Armor Class</strong> 13
-<br>
-<strong>Hit Points</strong> 7 (2d4 + 2)
-<br>
-<strong>Speed</strong> 15 ft., fly (hover) 60 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1 (-5)</td>
-      <td>15 (+2)</td>
-      <td>13 (+1)</td>
-      <td>10 (0)</td>
-      <td>12 (+1)</td>
-      <td>10 (0)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Skills</strong> Perception +3, Stealth +4<br>
-<strong>Damage Immunities</strong> acid, cold, fire, lightning, thunder, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
-<strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> understands Common and Draconic but can't speak<br>
-<strong>Challenge</strong> 1/4<br>
-<hr>
-<p><strong><em>Keen Senses.</em></strong> Zorya has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>
-<p><strong><em>Limited Telepathy.</em></strong> Zorya can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.</p>
-<p><strong><em>Magic Resistance.</em></strong> Zorya has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> Zorya can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</p>
-<p><strong><em>Ghostfire.</em></strong> Any damage Zorya deals with her <strong><em>breath weapon</em></strong> to incorporeal creatures ignores immunity to cold damage.</p>
-<p><strong><em>Ethereal Escape (1/day)</em></strong>. If Zorya would be reduced to 0 hit points, she is instead reduced to 1 hit point and flees into the Ethereal Plane, returning to the Material Plane after 1 minute.</p>
-<h3>Actions</h3>
-<p><strong><em>Breath Weapon (Recharge 5-6).</em></strong> Zorya exhales an icy blast of silver fire in a 10-foot cone. Each creature in that area must make a DC 11 Fortitude saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p><strong><em>Misty Step.</em></strong> In response to Zorya or a creature within 5 feet of her being hit or missed by an attack, Zorya casts <em>misty step</em>, bringing along up to one willing creature within 5 feet of her. A creature teleported in this way takes half damage from the triggering attack.</p>
-</div>
-
+For Zorya, Pseudodragon Spirit, use [Shadow Drake](https://2e.aonprd.com/Monsters.aspx?ID=640) stat block with [Ethereal](https://2e.aonprd.com/Traits.aspx?ID=593), [Incorporeal](https://2e.aonprd.com/Traits.aspx?ID=632), [Phantom](https://2e.aonprd.com/Traits.aspx?ID=766), [Spirit](https://2e.aonprd.com/Traits.aspx?ID=737) instead of [Shadow](https://2e.aonprd.com/Traits.aspx?ID=143) trait.
+Add the next features to it:
+- **_Limited Telepathy._** Zorya can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+- **_Ghostfire._** Any damage Zorya deals with her **_breath weapon_** to incorporeal creatures ignores immunity to cold damage.
+- **_Ethereal Escape (1/day)_**. If Zorya would be reduced to 0 hit points, she is instead reduced to 1 hit point and flees into the Ethereal Plane, returning to the Material Plane after 1 minute.
 ### Wine Storage
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
 
@@ -787,7 +740,7 @@ This area is largely as described in <span class="citation">Q35. Upstairs Galler
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
 </div>
 
-Any player who’s previously met the Abbot of the Abbey of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player with a passive Wisdom (Insight) score of 15 or greater notices that the man’s gaze appears to be envious, rather than reverent.
+Any player who’s previously met the Abbot of the Abbey of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player who succeeds on a DC 22 Perception check notices that the man’s gaze appears to be envious, rather than reverent.
 
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
