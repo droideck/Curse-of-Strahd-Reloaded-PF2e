@@ -1195,7 +1195,7 @@ During that time, Erasmus adds, the circle’s magic will blaze like a beacon, a
 
 As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
 ### The Wayward Souls
-One minute after Victor begins reading the ritual’s incantation from his spellbook, five **[Phantom Knights](https://2e.aonprd.com/Monsters.aspx?ID=3135)** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
+One minute after Victor begins reading the ritual’s incantation from his spellbook, five **[Ghost Commoners](https://2e.aonprd.com/Monsters.aspx?ID=3007)** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
 
 The specters drift through the air toward Stella, reaching out to seize her as they whisper the following phrases in haunted, rasping tones:
 
@@ -1205,12 +1205,12 @@ The specters drift through the air toward Stella, reaching out to seize her as t
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
-> [!combat]- **Balancing the Phantom Knights**
+> [!combat]- **Balancing the Ghosts**
 > Due to the specters fleeing, this is a **Moderate** combat encounters against a party of four 5th-level players, a Level 5 ally (Fiona Wachter) and a Level 4 ally (Erasmus van Richten). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the number of specters to four.
-> * ***Five Players.*** Reduce the number of specters to six.
-> * ***Six Players.*** Increase the number of specters to seven.
+> * ***Three Players.*** Reduce the number of ghosts to four.
+> * ***Five Players.*** Reduce the number of ghosts to six.
+> * ***Six Players.*** Increase the number of ghosts to seven.
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **[Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896)**. However, she has a different list of prepared spells:
 
@@ -1416,9 +1416,9 @@ If the gallows speaker is reduced to 0 hit points, the golden wisps around it wi
 > [!combat]- **Balancing the Gallows Speaker**
 > Due to the phase mechanic, this is a series of two consecutive **Severe+** combat encounters against a party of four 5th-level players and a Level 5 ally (Fiona Wachter) and a Level 4 ally (Erasmus van Richten). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove one Phantom Knight from the first phase.
-> * ***Five Players.*** Add another Phantom Knight to both phases (so it's one phatom at the second phase).
->  * ***Six Players.*** Add two  Phantom Knights to both phases (so it's two phatoms at the second phase).
+> * ***Three Players.*** Remove one ghost from the first phase.
+> * ***Five Players.*** Add another ghost to both phases (so it's one ghost at the second phase).
+>  * ***Six Players.*** Add two ghosts to both phases (so it's two ghosts at the second phase).
 ### Return to the Material Plane
 As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
 
