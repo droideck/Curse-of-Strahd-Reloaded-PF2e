@@ -20,7 +20,7 @@ If the players defied Baron Vallakovich or otherwise intervened in Willemina’s
 
 The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
 
-Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was Ernst Larnak, Lady Wachter’s spy.) 
+Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was Ernst Larnak, Lady Wachter’s spy.)
 
 The envelope contains the following letter, with the blank filled with the name of whichever player the envelope was addressed to:
 
@@ -61,18 +61,18 @@ Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 1
 
 **Cleric Domain Spells** DC 22, 1 Focus Point; **3rd** _[whispering quiet](https://2e.aonprd.com/Spells.aspx?ID=1834)_
 
-> [!lore]+ **Ezra's Pathfinder 2e Option** 
+> [!lore]+ **Ezra's Pathfinder 2e Option**
 > **Edicts:** embrace the present moment, find strength in adversity, comfort the suffering, navigate the mists of uncertainty
-> **Anathema:** cling to false hope, succumb to despair, harm those seeking solace 
+> **Anathema:** cling to false hope, succumb to despair, harm those seeking solace
 > **Areas of Concern:** mists, endurance, illusion
-> 
+>
 > ### Devotee Benefits
-> **Divine Ability:** Wisdom or Charisma 
-> **Divine Font:** harm 
-> **Divine Skill:** Deception 
-> **Favored Weapon:** dagger 
-> **Domains:** air, confidence, delirium, secrecy 
-> **Alternate Domains:** fate, sorrow 
+> **Divine Ability:** Wisdom or Charisma
+> **Divine Font:** harm
+> **Divine Skill:** Deception
+> **Favored Weapon:** dagger
+> **Domains:** air, confidence, delirium, secrecy
+> **Alternate Domains:** fate, sorrow
 > **Cleric Spells:** 1st: *illusory disguise*, 3rd: *wall of wind*, 5th: *hallucination
 
 ## F2a. Welcome to Wachterhaus
@@ -82,25 +82,25 @@ As the players approach Wachterhaus, read the following description instead of t
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
 </div>
 
-When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>.
 
-Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
+Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.)
 
 Haliq then guides the players through <span class="citation">N4j. Dining Room (p. 112)</span> and invites them to take seats in <span class="citation">N4i. Parlor (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
+The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>.
 ## F2b. Meet the Wachters
 Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
 
 A few moments after the players notice the young woman, Nikolai Wachter stumbles into view from the staircase behind her. Assuming the players do not otherwise divert the conversation, the scene unfolds as follows:
 
 * Nikolai greets the young woman as “Stella” and worriedly wonders aloud how she got here.
-* Nikolai notices the players and apologizes profusely to them, assuring them that he’ll get his little sister out of their hair. 
+* Nikolai notices the players and apologizes profusely to them, assuring them that he’ll get his little sister out of their hair.
 * If he previously encountered the players in the Blue Water Inn, Nikolai might then recognize them and greet them more personally—either warmly or coldly, depending on their prior interaction. He will then ask the players why they have come to Wachterhaus.
-* [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] arrives from the kitchen and lightly scolds Nikolai for allowing Stella to wander off. 
-* Nikolai tells her that he intends to take Stella for a brief walk around the gardens, and Lady Wachter’s face softens. 
+* [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] arrives from the kitchen and lightly scolds Nikolai for allowing Stella to wander off.
+* Nikolai tells her that he intends to take Stella for a brief walk around the gardens, and Lady Wachter’s face softens.
 * Lady Wachter reminds Nikolai that it’s a brisk evening, and to ensure that Stella is warmly dressed and that she neither trips nor injures herself.
-* Nikolai agrees and departs, leading a vacant-eyed Stella out the front door. 
+* Nikolai agrees and departs, leading a vacant-eyed Stella out the front door.
 
 [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] then enters the parlor and apologizes to the players for the disturbance. She then introduces herself as Lady Fiona Wachter and formally welcomes the players to Wachterhaus, thanking them for accepting her invitation. She invites the players to seat themselves upon the couches, if they haven’t already, and to make themselves comfortable.
 
@@ -145,7 +145,7 @@ Lady Wachter may also respond to player questions as follows:
 
 > [!info]+ **What Lady Wachter Knows**
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
-> 
+>
 > * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
 > * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
 > * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
@@ -175,15 +175,15 @@ Should the players indicate an opposition to the Baron, Lady Wachter confesses t
 * The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley—and the current Baron is no different.
 * Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
-* Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
+* Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory.
 * Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
-* Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
+* Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer.
 
 Lady Wachter can also share the following information about Izek:
 
 * Izek was orphaned at the age of ten, losing his younger sister and arm in a wolf attack, and both of his parents to grief not long thereafter. His sister’s body was never found.
-* Izek was often mocked for his disability, but after several of his tormentors went missing, the laughter abruptly stopped. No bodies were ever found, but rumors persist that Izek—a large and frequently violent child—murdered them himself. 
+* Izek was often mocked for his disability, but after several of his tormentors went missing, the laughter abruptly stopped. No bodies were ever found, but rumors persist that Izek—a large and frequently violent child—murdered them himself.
 * Approximately a year after losing his parents, Izek was arrested by the town guard and brought to the Vallakovich mansion. No one knows what crime he committed or why he was released soon thereafter, but Valentin Vallakovich’s twenty-five-year-old son, then-Baronet Vargas Vallakovich, all but adopted Izek and took him into their home.
 * Izek served the Vallakovich family faithfully for the next five years. When Izek was sixteen, he somehow obtained a new arm to replace the one he had lost—though his new limb more resembled a devil’s than any human form. (Curiously, the day that Izek regrew his arm came the same day that Baron Valentin Vallakovich was announced to have passed in his sleep. Lady Wachter is confident that the two events are connected.)
 * Izek’s fiendish arm allowed him to wield a proper weapon—but, more significantly, magically gave him the power to conjure fire. Vargas soon put both of Izek’s skills to work, designating Izek his personal enforcer and a ranking member of Vallaki’s town guard. As time passed, Izek became a terror throughout Vallaki, committing wanton acts of battery, arson, and extortion both at the Baron’s command and to serve his own diabolic whims.
@@ -192,7 +192,7 @@ Lady Wachter can also share the following information about Izek:
 Where appropriate, Lady Wachter can also share the following story about her daughter, Stella:
 
 * Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
-* Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
+* Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance.
 * Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile Fortitude and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
 * Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
 
@@ -219,7 +219,7 @@ If the players are interested in Lady Wachter’s proposal, she casts _[whisperi
 
 Lady Wachter also shares that Izek is known to be a heavy drinker. While he is a formidable foe, she has secured a bottle of poisoned wine that should dull his senses—imposing the **poisoned** condition for 1 hour—shortly after finishing it. Should the players accept her assignment, she promises to have one of her associates deliver it to them.
 
-***Compensation.*** If the players demand compensation for their services, Lady Wachter promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes the Baron’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person. 
+***Compensation.*** If the players demand compensation for their services, Lady Wachter promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes the Baron’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person.
 
 If the players demand additional compensation and succeed on a DC 22 Diplomacy check to Request, Fiona reluctantly agrees to pay an additional 300 gp upon completion of their task.
 
@@ -249,8 +249,8 @@ If the players reject Lady Wachter’s argument, she replies curtly with the fol
 If the players insist that Madam Eva foresaw the existence of the *Sunsword*, she pauses, then notes that, as much as the “Vistana seer” might *believe* what she saw, “the future is notoriously difficult to interpret.” She is willing to concede—albeit with some amusement—that, despite her doubts, she may be more willing to believe the players’ arguments should the sword itself be found.
 
 > [!design]- **Design Notes: Lady Wachter's Arc**
-> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
-> 
+> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future.
+>
 > The players' lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Arc S - The Amber Temple]].
 
 ***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
@@ -305,42 +305,42 @@ The players can attempt to plant the poisoned bottle of wine in Izek’s case of
 * **12:15 P.M.** Tereska places the two bottles of wine into the wine case, beginning with the bottle closest to the case. (If the players have replaced one of the bottles with the poisoned bottle, which is labeled Red Dragon Crush, Tereska regards it with surprise and makes a cursory Wisdom (Perception) check to discern whether anyone else is in or around the kitchen. If she sees no one, she chides herself for forgetfulness and assumes that the bottle was labeled Red Dragon Crush all along.)
 * **12:45 P.M.** After preparing and packing Izek’s midday meal, Tereska takes the leather wine case and walks it to the Vallaki town square, where she delivers it to Izek.
 
-Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (She is too suspicious of strangers and too fearful of Izek to risk disappointing him.) 
+Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (She is too suspicious of strangers and too fearful of Izek to risk disappointing him.)
 
 However, if the players fake a convincing cover story, they can convince her to replace one of the Purple Grapemash No. 3 bottles with the poisoned Red Dragon Crush bottle with a successful DC 20 Deception check to Lie.
 
-***Distracting Izek.*** If the players choose to swap the bottles while [[Non-Player Characters#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks. 
+***Distracting Izek.*** If the players choose to swap the bottles while [[Non-Player Characters#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks.
 
 Players should be careful, however, to avoid being caught in the act. Izek is liable to declare—and join—a manhunt for any player seen breaking the law. Any manhunt, which will require Izek to rouse the town’s twelve off-duty **guards**, will last until nightfall. Izek then resumes his normal schedule the following day.
 ## F4b. Trailing Izek
-As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of the following encounters may take place. 
+As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of the following encounters may take place.
 
 > [!info]+ **Getting Caught**
 > If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 15 Deception check to Lie. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
-> 
+>
 > If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 15 Deception check to Lie. If the players deny any association with Ireena, the DC is 20. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 
-As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”) 
+As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”)
 
-Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 5 cp, or a half-dozen of his fish for 25 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards. 
+Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 5 cp, or a half-dozen of his fish for 25 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards.
 
-The players can calm Bluto with a successful DC 20 Diplomacy check or by purchasing one or more of his fish. 
+The players can calm Bluto with a successful DC 20 Diplomacy check or by purchasing one or more of his fish.
 ### 2. Izek’s Spies
  As [[Non-Player Characters#Izek Strazni|Izek]] visits one of his spies, the players can overhear a conversation in which the spy informs Izek that several of their neighbors have recently visited the Morning Gate to purchase "pastries that allow you to dream while wide-awake" from a peddler named Morgantha.
 
 As the conversation continues, the players are noticed by a small, mangy **mastiff** standing guard in the alleyway near the spy’s house. Upon spotting the players, the dog begins to growl at them, threatening to draw the attention of Izek, his guards, or his spy. The players can calm the dog with a successful DC 20 Nature check to Command an Animal or by providing it with food.
 ### 3. Gate Inspections
-As [[Non-Player Characters#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha. 
+As [[Non-Player Characters#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha.
 
-Izek conjures a flame in his hand and threatens to burn the refugees unless they disperse, which they do. Izek then snarls to the guards that if wolves are getting brave enough to approach the walls, werewolves can’t be far behind. 
+Izek conjures a flame in his hand and threatens to burn the refugees unless they disperse, which they do. Izek then snarls to the guards that if wolves are getting brave enough to approach the walls, werewolves can’t be far behind.
 
 Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bolts from a weapons cache stored in crates near the players’ hiding position. The players can avoid the guard’s attention with a successful DC 19 Stealth check to Avoid Notice or by other suitable means.
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana.
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -417,11 +417,11 @@ Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to
 <p><strong>Flame Volley</strong> ◆ (fire, unholy)<br>
 Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. that explodes in a 10-foot burst. Creatures in the burst take 2d6 fire damage (DC 26 basic Reflex save). The flame drake can't use Flame Volley again for 1d4 rounds.</p>
 <h3>Reactions and Free Actions</h3>
-<p><strong>Reactive Strike</strong> ⮌<br>
+<p><strong>Reactive Strike</strong> ↻<br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, Izek can make a melee Strike against that creature.</p>
-<p><strong>Forceful Retreat</strong> ⮌<br>
+<p><strong>Forceful Retreat</strong> ↻<br>
 In response to taking damage from a melee attack, Izek makes a Shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong>Vengeful Strike</strong> ⮌<br>
+<p><strong>Vengeful Strike</strong> ↻<br>
 In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 <hr>
 <h3>Passive Abilities</h3>
@@ -483,9 +483,9 @@ When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, t
 <p><strong>Flame Burst</strong> ◆◆ [flourish] Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make DC 26 basic Reflex save or take 2d6 fire damage.</p>
 <p><strong>Flaming Wave</strong> ◆◆ [arcane, electricity] A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. It can't use Flaming Wave again for 1d4 rounds.</p>
 <h3>Reactions and Free Actions</h3>
-<p><strong>Hot Pursuit</strong> ⮌ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
-<p><strong>Reactive Strike</strong> ⮌ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
-<p><strong>Retaliatory Burn</strong> ⮌ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
+<p><strong>Hot Pursuit</strong> ↻ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
+<p><strong>Reactive Strike</strong> ↻ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
+<p><strong>Retaliatory Burn</strong> ↻ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
 <h3>Passive Abilities</h3>
 <p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <h3>Inventory</h3>
@@ -516,7 +516,7 @@ If the players successfully deliver Izek’s severed head to [[Non-Player Charac
 >
 > Trapped in Lady Wachter’s clutches, the Baron spitefully agrees to relinquish his claim to the position of burgomaster. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
 ## F5a. The Abdication
-The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him.
 
 If the players attend the announcement, Lady Wachter does not publicly acknowledge them, but offers them a knowing look and a small nod of recognition.
 
@@ -530,11 +530,11 @@ Lady Wachter first commands the town guard to release the prisoners in the stock
 <p>“May Vallaki find sanctuary in the mercy of the mists, and may we come together stronger, more united, and more prosperous than ever before. Thank you.”</p>
 </div>
 
-The townsfolk answer her speech with muted applause and slowly disperse from the square. 
+The townsfolk answer her speech with muted applause and slowly disperse from the square.
 
-If still alive, Father Lucian Petrovich emerges from the crowd and greets the players. He notes, with dry amusement, that he has not previously heard the phrase “find sanctuary in the mercy of the mists” before, but that it is reminiscent of a passage he once read in a prayer book dedicated to Ezra, goddess of the Mists. He wonders aloud whether Vallaki shall soon see a religious revival of a different kind, then chuckles wryly and moves to return to St. Andral’s Church. 
+If still alive, Father Lucian Petrovich emerges from the crowd and greets the players. He notes, with dry amusement, that he has not previously heard the phrase “find sanctuary in the mercy of the mists” before, but that it is reminiscent of a passage he once read in a prayer book dedicated to Ezra, goddess of the Mists. He wonders aloud whether Vallaki shall soon see a religious revival of a different kind, then chuckles wryly and moves to return to St. Andral’s Church.
 
-If asked his opinion on Lady Wachter, Father Petrovich states, carefully, that he believes that her heart is in the right place, and that he believes that the light of the Morninglord can guide any soul—even those that believe themselves lost to the Mists. 
+If asked his opinion on Lady Wachter, Father Petrovich states, carefully, that he believes that her heart is in the right place, and that he believes that the light of the Morninglord can guide any soul—even those that believe themselves lost to the Mists.
 
 Father Petrovich also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
 ## F5b. The Reward
@@ -585,7 +585,7 @@ Lady Wachter can share that, according to the book, Vladislav was a Wachter and 
 
 ***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[Arc H - The Lost Soul]] and [[Arc S - The Moonlit Murders]] for more information about the players' relationship with Lady Fiona Wachter.)
 
-Lady Wachter's spell list has been updated to include *ring of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[Arc H - The Lost Soul]] for more information about Lady Wachter's use of *ring of truth*). 
+Lady Wachter's spell list has been updated to include *ring of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[Arc H - The Lost Soul]] for more information about Lady Wachter's use of *ring of truth*).
 
 *Toll the Dead*, *Bane*, *Blindness/Deafness*, and *Lesser Restoration* have also been added to Lady Wachter's spell list to provide her with additional options in the fight against the **specters** of the Ethereal Plane and Leo Dilisnya's spirit in [[Arc H - The Lost Soul]].
 

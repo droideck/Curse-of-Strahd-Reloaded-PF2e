@@ -11,9 +11,9 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 
 > [!abstract]+ **An Early Start**
 > If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
-> 
+>
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
-> 
+>
 > The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
@@ -50,13 +50,13 @@ The church's occupants follow the following schedule unless interrupted:
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
  >
 > So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-> 
+>
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
-> 
+>
 > It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
-> 
+>
 > A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
-> 
+>
 > A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
 > 
 > Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
@@ -64,19 +64,19 @@ The church's occupants follow the following schedule unless interrupted:
 > Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
 > 
 > Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
-> 
+>
 > That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
-> 
+>
 > Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
-> 
+>
 > Six days later, shortly before Yeska's lessons with Father Lucian, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
-> 
+>
 > When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Lucian revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
-> 
+>
 > But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Lucian emerged to block the exit. Without recognizing him, Father Lucian demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
-> 
+>
 > Yeska doesn't yet know that the bones were stolen. Instead, Father Lucian told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Lucian sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
-> 
+>
 > Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
 ## D1a. Entering the Church
 When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 15 Reflex saving throw or crash into him.
@@ -107,18 +107,18 @@ When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Fath
 
 He uses [Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, his Divine skill is Diplomacy, he has only one Searing Light prepared instead of two, and instead of [death's call](https://2e.aonprd.com/Spells.aspx?ID=413)_he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
 
-> [!lore]+ **The Morninglord's Pathfinder 2e Option** 
-> **Edicts:** bring hope to the hopeless, protect the innocent from darkness, greet each day with renewed purpose, spread light in dark places  
-> **Anathema:** extinguish sources of light or hope, aid the undead or other creatures of darkness, give in to despair  
-> **Areas of Concern:** dawn, renewal, hope  
-> 
-> ### Devotee Benefits 
-> **Divine Ability:** Charisma or Wisdom  
-> **Divine Font:** heal  
-> **Divine Skill:** Diplomacy  
-> **Favored Weapon:** mace  
-> **Domains:** confidence, healing, protection, sun  
-> **Alternate Domains:** family, vigil  
+> [!lore]+ **The Morninglord's Pathfinder 2e Option**
+> **Edicts:** bring hope to the hopeless, protect the innocent from darkness, greet each day with renewed purpose, spread light in dark places
+> **Anathema:** extinguish sources of light or hope, aid the undead or other creatures of darkness, give in to despair
+> **Areas of Concern:** dawn, renewal, hope
+>
+> ### Devotee Benefits
+> **Divine Ability:** Charisma or Wisdom
+> **Divine Font:** heal
+> **Divine Skill:** Diplomacy
+> **Favored Weapon:** mace
+> **Domains:** confidence, healing, protection, sun
+> **Alternate Domains:** family, vigil
 > **Cleric Spells:** 1st: *bless*, 3rd: *searing light*, 5th: *dawn
 
 After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
@@ -137,14 +137,14 @@ If the players agree not to spread his words beyond the church, Father Lucian so
   You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
 * Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-* To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
+* To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life.
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
-* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
+* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast.
 * Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
 
 Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
 
-If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
+If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy.
 
 If the players ask for the identities of other possible witnesses, Father Lucian notes that the only other employee of the church is the groundskeeper, Milivoj. Father Lucian can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
 
@@ -174,8 +174,8 @@ The slab held the bones until Milivoj stole them.
 The players can find the following information by investigating the area around the crypt:
 
 * While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 19 Perception check to Search, and a line of rust-stained dirt smeared across a floorboard on a critical success.
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 14 Perception check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 19 Perception check. 
+* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 14 Perception check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals.
+* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 19 Perception check.
 
 The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
 
@@ -190,7 +190,7 @@ If one of the players asks Yeska whether he has told anyone else about the bones
 ![[Yeska.png]]
 <span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 # D2. Milivoj’s House
-Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
+Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church.
 
 <div class="description">
 <p>The muddy road that leads into the town’s northwest quarter is rough and uneven, chilled by a persistent fog that seems to cling to the soaked earth beneath your feet. As you move further from the town’s center, the streets narrow and the houses grow grimier and more dilapidated, the smell of damp wood and mildew filling your nostrils.</p>
@@ -233,7 +233,7 @@ Use [Gravedigger](https://2e.aonprd.com/NPCs.aspx?ID=916) statblock but without 
 >
 > ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
 ## D2a. Confronting Milivoj
-Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Perception check to Sense Motive reveals his body language has grown tense, and that he is shifting uncomfortably. 
+Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Perception check to Sense Motive reveals his body language has grown tense, and that he is shifting uncomfortably.
 
 As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
 
@@ -287,7 +287,7 @@ Henrik van der Voort, the coffin maker, follows the following schedule:
 * In the evening, he prepares an evening meal in **N6d. Kitchen**.
 * At night, he sleeps in **N6e. Henrik's Bedroom.**
 ## D4a. Entering the Shop
-The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
+The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**.
 
 Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
 
@@ -309,7 +309,7 @@ The bones have been concealed as described in <span class="citation">N6e. Henrik
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
 > [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim.
 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
@@ -346,9 +346,9 @@ Volenta uses the three vampire spawn with her as cover, placing them between her
 
 > [!combat]- **Balancing the First Bride**
 > This is a **Severe+** combat encounter against a party of four 4th-level players and a Level 5 ally (Father Lucien). The second for is irrelevant for now, as she will escape. If cornered, she will fight and it's another **Severe** encounter. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Decrease the number of vampire spawn to two.
-> * ***Five Players.*** Increase the number of vampire spawn to four. 
+> * ***Five Players.*** Increase the number of vampire spawn to four.
 > * ***Six Players.*** Increase the number of vampire spawn to five.
 
 > [!warning]+ **Sunlight in Barovia**
@@ -357,12 +357,12 @@ Volenta uses the three vampire spawn with her as cover, placing them between her
 > [!warning]+ **Vampire Spawn Modifications**
 > This campaign uses different vampires than PF2e.
 >
-> **Vampire Fast Healing 10**  
+> **Vampire Fast Healing 10**
 > The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
-> 
-> **Vampire Vulnerabilities**  
+>
+> **Vampire Vulnerabilities**
 > All vampires possess the following vulnerabilities:
-> 
+>
 > - **Forbiddance** The vampire can't enter a residence without an invitation from one of the occupants.
 > - **Harmed by Running Water** The vampire takes 20 acid damage if it ends its turn in running water.
 > - **Stake to the Heart** If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.
@@ -529,7 +529,7 @@ In combat, Father Lucian directs the players to form a defensive line around the
 
 On his first turn, Father Lucian uses his action to cast **Infuse Vitality**, filling the players weapons with a fierce golden light, so their strikes can stop Vampire's regeneration.
 
-On his second turn, Father Lucian casts **Circle of Protection** arounds the party. 
+On his second turn, Father Lucian casts **Circle of Protection** arounds the party.
 
 On his third, he casts **Spiritual Weapon**, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle.
 
@@ -548,7 +548,7 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 The three [Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224) fight by using their ***claws*** to grapple enemies and drink their blood. If possible, they will reposition them out of the chockpoint to feast upon in private. All three spawn fight to the death.
 Remember, that the spawn uses the same weaknesses and fact healing mechanics as Volenta.
 # D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
+If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]].
 
 **_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 350 XP.
 # D6. Rahadin's Visit
@@ -657,10 +657,10 @@ Rahadin Steps twice</p>
 <p><strong>Quick Draw</strong> ◆<br>
 The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
 <p><strong>Ranged</strong> ◆ dart +25 (agile, thrown-20), <strong>Damage</strong> 4d4+6 piercing</p>
-<p><strong>Opportune Backstab</strong> ⮌<br>
+<p><strong>Opportune Backstab</strong> ↻<br>
 <strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
 <strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This move does not trigger reactions from the triggering enemy.</p>
-<p><strong>Nimble Dodge</strong> ⮌<br>
+<p><strong>Nimble Dodge</strong> ↻<br>
 <strong>Trigger</strong> The assassin is targeted with a melee or ranged attack by an attacker they can see.<br>
 <strong>Effect</strong> The assassin gains a +2 circumstance bonus to AC against the triggering attack.</p>
 <hr>
@@ -738,7 +738,7 @@ The assassin can move their full speed when Sneaking.</p>
 </div>
 
 # Design Notes: St. Andral's Feast
-***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
+***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible.
 
 Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for Ireena to stay while the arc unfolds.
 
@@ -756,6 +756,6 @@ The fresh paint for the Carnival of Wonders sign has been added to intentionally
 
 Volenta has been placed as the mastermind of this scheme in order to provide the players with a low-level boss that they can reasonably defeat—but who will recur as an antagonist throughout the adventure.
 
-Volenta's statblock has been designed to provide the players with a dynamic, tactical experience while ensuring that she is not the first of her minions to die. 
+Volenta's statblock has been designed to provide the players with a dynamic, tactical experience while ensuring that she is not the first of her minions to die.
 
 Meanwhile, Father Lucian's ***divine eminence*** feature has been modified to allow the players to reap its benefits and ensure that the encounter is not too deadly, as well as to ensure that martial characters without access to magical weapons can deal substantive damage despite the vampires' resistances to nonmagical weapon damage.
