@@ -2,15 +2,15 @@
 
 In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
+Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool.
 
 On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
 
-Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them. 
+Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them.
 
 While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**.
 
 Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
 
@@ -115,64 +115,64 @@ Whether Ireena is with the party or not, add:
 > [!abstract]+ **The Players Misbehave**
 >
 >  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
->  
->  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fixate their gazes on the rude player. 
->  
+>
+>  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fixate their gazes on the rude player.
+>
 >  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
->  
+>
 >  The third time that a player disrespects Strahd, he frowns. Read the following:
->  
+>
 >  <hr>
->  
+>
 > "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
-> 
-> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck." 
-> 
+>
+> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck."
+>
 > He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
-> 
+>
 > <hr>
-> 
-> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end. 
-> 
+>
+> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end.
+>
 > If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
 
 > [!abstract]+ **Running Away**
 > If, at any point during the encounter, the players move to flee, read:
-> 
+>
 > <hr>
-> 
+>
 > From behind Strahd, you hear a chorus of low, feral growls. Multiple pairs of eyes glint from the underbrush—each one the height of a man's shoulder.
-> 
+>
 > Slowly, from the shadows, slinks a pack of massive wolves, each one as tall as a horse and twice as muscled, measuring nine feet in length from head to haunches. Their fur is a thick, mottled grey, and saliva drips from their yellowed, sharpened teeth.
-> 
+>
 > They take up positions behind and around Strahd, flanking him like a noble's honor guard.
-> 
+>
 > "You must forgive my pets," Strahd says. "They can be . . . **overenthusiastic** at the sight of new friends."
-> 
+>
 > <hr>
-> 
+>
 > The wolves are **[Dire Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
-> 
+>
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
 > [!abstract]+ **Challenging Strahd**
 > If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
-> 
+>
 > If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for four full rounds. During this time, each attack the player makes against Strahd improved by one degree of success, and the same apply for the Strahd's Reflex saving throws.
-> 
-> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
-> 
+>
+> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins."
+>
 > Assuming his [[Strahd von Zarovich#The Mage|Mage]] form (as of now, use [Vampire Mastermind scaled to 15 level](https://2e.aonprd.com/Monsters.aspx?ID=3226)  and add more spells up to 7th rank), Strahd casts ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)*** each round to suspend the player in the air above him, and casts [Blinding Beauty](https://2e.aonprd.com/Spells.aspx?ID=779) as a reaction and only on the target whenever the player makes an attack against him in 30 foot radius (flavor the spell as he cast darkness into their minds). The first time the player critically fails their saving throw against ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
-> 
+>
 > The first time the player at least fails their saving throw against ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)*** (which is unlikely, but possible), Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
-> 
+>
 > If the player asks to be freed from Strahd's  ***[Forceful Hand (7th Eank)](https://2e.aonprd.com/Spells.aspx?ID=915)***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
-> 
+>
 > If the player is knocked unconscious by Strahd, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him.
 
 (He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")
 
@@ -202,7 +202,7 @@ As the players attempt to answer his questions, [[Strahd von Zarovich#The Gentle
 The players can push Strahd to make the following concessions:
 
 * He agrees to overlook Ismark's transgressions, so long as Ismark does not defy him or act counter to his will again.
-* He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
+* He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.)
 * He agrees to refrain from judgment against the players unless they take action directly against his person.
 * He agrees to forgive the players their transgressions against the cult of Death House.
 
@@ -210,7 +210,7 @@ The players might successfully exact these concessions using a variety of argume
 
 * The players have promised Ismark that they will escort Ireena to Vallaki and they must be allowed to fulfill their word.
 * The players have taken no hostile action against Strahd and should be granted a presumption of innocence.
-* The players' actions in Death House were conducted in self-defense, and therefore should be excused. 
+* The players' actions in Death House were conducted in self-defense, and therefore should be excused.
 
 If the players appear to doubt Strahd's fidelity to his concessions, [he promises](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/), "Fear not, dear children. I am no liar. We both know deception is for the weak."
 
@@ -226,7 +226,7 @@ Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, t
 >
 > As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Muriel Vinshaw and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
 
-The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
+The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers.
 
 The **greater strix** uses the statistics of a **[Weak Manticore](https://2e.aonprd.com/Monsters.aspx?ID=3093)**, but is **Medium** and has **Weakness 5** to **fire** damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
@@ -237,7 +237,7 @@ The greater strix is joined by two **swarms of lesser strix** (each using the st
 
 > [!combat]- **Balancing the Strix**
 > This combat encounter is a **bruising** encounter against a party of four 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Reduce the number of swarms of lesser strix to one.
 > * ***Five Players.*** Increase the number of swarms of lesser strix to three.
 > * ***Six Players.*** Increase the number of swarms of lesser strix to four.
@@ -295,8 +295,8 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <h3>Active Abilities</h3>
 <p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
 <p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
-<p><strong>⮌ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-<p><strong>⮌ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+<p><strong>↻ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<p><strong>↻ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
 <h3>Attacks</h3>
 <p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
 <p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
@@ -313,9 +313,9 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 
 > [!info]+ **Muriel Incognito**
 > While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
-> 
+>
 > While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
-> 
+>
 > * **Whistle.** To signal secrecy or caution.
 > * **Snoring.** To signal boredom.
 > * **Laughter.** To signal amusement.
@@ -337,7 +337,7 @@ As the players enter the camp, they are met by Stanimir, an old Vistana who info
 
 Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **Night Hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
-However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
+However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears.
 
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
 ## C4b. Madam Eva's Tent
@@ -364,7 +364,7 @@ This scene unfolds largely as described in <span class="citation">Madam Eva’s 
 
 She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
 
-If Muriel is with the players in raven form, Madam Eva regards her with an emotion nearly resembling fondness and asks to inspect her. She strokes Muriel’s wings and notes that she once had a beloved pet raven named Turul long ago.  
+If Muriel is with the players in raven form, Madam Eva regards her with an emotion nearly resembling fondness and asks to inspect her. She strokes Muriel’s wings and notes that she once had a beloved pet raven named Turul long ago.
 
 “I have only seen him once these past ten years, however,” Eva adds, somewhat mournfully. “Doubtless, he has gone wild without me.” (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
 
@@ -384,8 +384,8 @@ Upon exiting Madam Eva’s tent, the players find two other Vistani waiting outs
 
 Unless the players intervene, the conversation unfolds as follows:
 
-* Eliza greets the players immediately, giving them a warm welcome to the Tser Pool Encampment. 
-* As Stanimir approaches, Eliza clicks her tongue and scolds him for his lack of hospitality, noting that the players seem to have traveled a long way. 
+* Eliza greets the players immediately, giving them a warm welcome to the Tser Pool Encampment.
+* As Stanimir approaches, Eliza clicks her tongue and scolds him for his lack of hospitality, noting that the players seem to have traveled a long way.
 * Stanimir amusedly reminds Eliza that fate waits for no one, but nonetheless invites the players to rest their weary feet at the camp’s central fire, offering wine, food, and song should the players join.
 * If the players accept and move to accompany Stanimir, Arturi hesitates, then asks if the players would mind if he accompanied them. He notes that he has heard that they have just arrived from Barovia, and he is curious to hear news from the village. (He adds, somewhat awkwardly, that it has been some time since he had last shared a Vistani fire, and apologizes for imposing upon them and the others.)
 
@@ -414,10 +414,10 @@ Unless the players intervene, the conversation unfolds as follows:
 > ***Arturi's Curse.*** Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, clinging to him like a burial shroud. “Undead take you,” Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast,” a word that can also be more directly translated as “living dead.” No village gave Arturi sanctuary; no town’s walls would protect him.
 >
 > For eighteen years Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, shortly after Strahd's reawakening, he returned to Barovia, where he sought the counsel of the Vistana seer Madam Eva. "Find the man who forged your fetters," she told him. "His final breath will set you free."
-> 
+>
 > Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache, containing a half-written manuscript and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
-> 
-> Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . . 
+>
+> Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . .
 >
 > **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
@@ -477,9 +477,9 @@ After one of the players has gone, Eliza then shares the following tale:
 <p>“Sing, ravens, of Chernovog’s rise, named Green-God and Demon-Lord upon Yester Hill. Lugdana, gray-haired, weary of battle, her longsword and shield yet polished and ready. Guided through shadows, toward sacred ground, she clashed with the demon, their tempest-like dance.</p>
 <p>“Sing, ravens, of Lugdana’s last fury, of Ravenkind’s token now blazing with light. The battle’s tide turning, a hero’s brave cry, a final onslaught with divinity’s grace. The Demon-Lord banished, the warrior now fell, the wound at her side gouged too deep to bear.</p>
 <p>“Sing, ravens, of light’s final moments, a shadow descending from radiance on high. Sing of the angel, black-feathered and beaked, the Morninglord’s angel reclaiming its gift. The Symbol retaken, in ravens’ claws held.</p>
-<p>“Sing, ravens; you are the keepers, the watchers, the tellers of stories untold. Sing, ravens, of Lugdana’s memory, the shadows that lurk, and heroes to come.”</p></div> 
+<p>“Sing, ravens; you are the keepers, the watchers, the tellers of stories untold. Sing, ravens, of Lugdana’s memory, the shadows that lurk, and heroes to come.”</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir and Arturi going last, with Stanimir voting “True” and Arturi voting “False”—Eliza reveals that her story was half-true. 
+When her tale has ended and all participants have made their guesses—Stanimir and Arturi going last, with Stanimir voting “True” and Arturi voting “False”—Eliza reveals that her story was half-true.
 
 Lugdana was indeed a paladin of the Morninglord who bore the legendary *Holy Symbol of Ravenkind*, which was a platinum amulet shaped like a sunburst, with an enormous ruby embedded at its center. According to legend, the symbol was given to Lugdana by an angel in the guise of a raven. Eliza notes with a chuckle, however, that no one knows what happened to the Symbol after Lugdana fell at Yester Hill, nor where it resides today.
 ### Arturi’s Tale
@@ -508,15 +508,15 @@ When her tale has ended and all participants have made their guesses—Stanimir 
 
 If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
 ### Arturi Departs
-When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
+When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow."
 
 A player who succeeds on a DC 18 Diplomacy check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
 
 Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
 
-* Thirty minutes after Arturi arrives, twelve **[Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)** arrive to mill about the base of the tree. 
-* Two hours later, five **[Ghoul Stalker](https://2e.aonprd.com/Monsters.aspx?ID=3009)** arrive to claw and howl at the trunk of the tree. 
-* Two hours later, three **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** arrive to join the ghouls. 
+* Thirty minutes after Arturi arrives, twelve **[Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)** arrive to mill about the base of the tree.
+* Two hours later, five **[Ghoul Stalker](https://2e.aonprd.com/Monsters.aspx?ID=3009)** arrive to claw and howl at the trunk of the tree.
+* Two hours later, three **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** arrive to join the ghouls.
 * Two hours later, four **[Wights](https://2e.aonprd.com/Monsters.aspx?ID=3239)** emerge silently to stand guard around the base of the tree.
 
 The undead vanish into the woods shortly before dawn.
@@ -540,7 +540,7 @@ The rustling bush hides the Vistani **[Elite Charlatan](https://2e.aonprd.com/NP
 
 **If the players call out to Eliza**, she remains hidden and doesn't respond.
 
-**If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were *up to* something—and a storyteller can always use more tales." 
+**If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were *up to* something—and a storyteller can always use more tales."
 
 Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 20 Intimidation check to Coerce, however, Eliza returns to Tser Pool and remains there for the night.
 
@@ -560,67 +560,67 @@ When the players arrive at the River Ivlis Crossroads, read:
 <p>A squat, cloaked silhouette stands beside the gallows—waiting.</p>
 </div>
 
-The silhouette is Madam Eva. She does not answer if called out to, and waits for the players to approach her. When they do, she whispers to them, her voice rasping like a chill wind: "*What did I say to you before you departed my tent?*" If the players respond accurately, Madam Eva nods, assured of their identities. 
+The silhouette is Madam Eva. She does not answer if called out to, and waits for the players to approach her. When they do, she whispers to them, her voice rasping like a chill wind: "*What did I say to you before you departed my tent?*" If the players respond accurately, Madam Eva nods, assured of their identities.
 
 > [!abstract]+ **Eliza's Flight**
-> 
-> If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place. 
-> 
+>
+> If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place.
+>
 > Once noticed, Eliza immediately attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in [Chases](https://2e.aonprd.com/Rules.aspx?ID=3049).
-> 
+>
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
-> 
-> Players must catch up to Eliza before she accumulates 10 Chase Points. If they do, a combat encounter occurs in the current obstacle's area. Eliza escapes if she reaches 12 Chase Points, successfully returning to Castle Ravenloft. 
-> 
-> ### Additional Details 
+>
+> Players must catch up to Eliza before she accumulates 10 Chase Points. If they do, a combat encounter occurs in the current obstacle's area. Eliza escapes if she reaches 12 Chase Points, successfully returning to Castle Ravenloft.
+>
+> ### Additional Details
 > * Eliza starts at obstacle 2 with 2 Chase Points
 > * Each round, Eliza gains 1d4 Chase Points
 > * The forest grows darker and more threatening as the chase progresses
 > * Each area where combat might occur features difficult terrain and provides partial cover from the twisted trees
->    
+>
 > ### Obstacles
-> 
-> #### 1\. Biting Midge Swarm 
+>
+> #### 1\. Biting Midge Swarm
 > **Description:** A dense cloud of biting insects swarms the area. The swarm bites and obcure the vision.
-> 
+>
 > **Skill Checks:**
-> 
+>
 > *   Athletics or Fortitude: DC 18 (to power through)
 > *   Nature or Survival: DC 16 (to find a path around)
-> 
+>
 > **Chase Points:** 2
-> 
-> #### 2\. Stampeding Elks 
+>
+> #### 2\. Stampeding Elks
 > **Description:** A herd of panicked elks thunders through the forest.
-> 
+>
 > **Skill Checks:**
-> 
+>
 > *   Reflex: DC 18 (to dodge)
 > *   Athletics: DC 16 (to leap onto a low branch or climb to a tree)
-> 
+>
 > **Chase Points:** 3
-> 
-> #### 3\. Spider's Domain 
+>
+> #### 3\. Spider's Domain
 > **Description:** Massive webbing between trees with a giant spider pursuing.
-> 
+>
 > **Skill Checks:**
-> 
+>
 > *   Acrobatics: DC 18 (to weave through)
 > *   Athletics: DC 18 (to break through)
-> 
+>
 > **Chase Points:** 2
-> 
-> #### 4\. Ravine Crossing 
+>
+> #### 4\. Ravine Crossing
 > **Description:** A deep ravine with a partially collapsed log bridge.
-> 
+>
 > **Skill Checks:**
-> 
+>
 > *   Acrobatics: DC 18 (to balance across)
 > *   Athletics: DC 18 (to leap across)
-> 
+>
 > **Chase Points:** 3
-> 
-> 
+>
+>
 
 If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
 
@@ -632,7 +632,7 @@ Regardless of the players' answer, Madam Eva then shares the information about t
 
 Regardless of the players' answer, Madam Eva fixates them with a steady gaze. "If you wish to put aside this mission, no soul could blame you. There is no shame in flight from a foe that no others have defeated. If you wish me to read your futures, I can read your palms, or gaze into my crystal ball. I can tell you the face of your true love, the path to good health in your elder years, or the success you might find in a trade of profession." She pauses, then adds, her voice nearly a whisper: "Or I can read the cards—and set you upon a path that ends only when your foe is vanquished—or you are. The choice is yours."
 
-If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well," she says. "Then let us begin." 
+If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well," she says. "Then let us begin."
 ## C4f. The Tarokka Reading
 Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth, reaching into her cloak, and removing three old candles, which she stakes into the ground and lights with a wave of her hand. She then removes a deck of Tarokka cards, which she sets upon the ground between the candles. Read:
 
@@ -678,9 +678,9 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>The sound of the natural world returns—the whispering of the wind through the trees, the distant hooting of an owl, and the faraway lapping of the Ivlis River against its banks. Silver moonlight once again pierces the cemetery's edge, and you feel yourselves breathe for the first time since the reading began.</p>
 <p>Madam Eva says nothing. She only regards you silently with dark, heavy eyes.</p></div>
 
-Madam Eva refuses to elaborate on the players’ readings or provide any additional information or assistance. If asked to, she says only, “The threads of Fate cannot be beckoned like a servant or conjured like a magician’s trick. I see only what the cards show me, and no more.” 
+Madam Eva refuses to elaborate on the players’ readings or provide any additional information or assistance. If asked to, she says only, “The threads of Fate cannot be beckoned like a servant or conjured like a magician’s trick. I see only what the cards show me, and no more.”
 
-Madam Eva dismisses the players from her presence once she has completed the Tarokka reading, instructing them to return to Tser Pool and to "tell no servant of Strahd of what they have just heard." 
+Madam Eva dismisses the players from her presence once she has completed the Tarokka reading, instructing them to return to Tser Pool and to "tell no servant of Strahd of what they have just heard."
 
 Madam Eva declines to return with the players, preferring instead to linger at the crossroads. If asked why, she shares only that the place holds "special memories" for her, and that she will return to Tser Pool when she is ready. "Fear not," she rasps, a twinkle of amusement in her eyes. "I have little to fear from the creatures that prowl these woods, I assure you." If the players depart the crossroads and later return, they find that Madam Eva has vanished.
 
@@ -695,11 +695,11 @@ If the players attempt to speak with Madam Eva again before departing, Stanimir 
 
 > [!abstract]+ **Ireena's Pathfinder 2e stat block**
 > Ireena gets to 2nd level here. Feel free to level up her yourself or you can use my suggestions:
-> 
+>
 > * Raise **Society** to **Expert** as she wants to learn how to take care of the barovian refugees in Vallaki.
 > * **General Feat** - Ward Medic
 > * **Skill Feat** - Unusual Treatment
->  
+>
 >  She improves her medical skill so she can be of service while she is with party.
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
@@ -771,21 +771,21 @@ If the players pause, proceed, or attack, the five wolves in the woods strike. R
 </div>
 
 
-> [!combat]- **Balancing the Wolves** 
-> This combat encounter is a **Severe** encounter against a party of four 4th-level players, a 2nd level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of wolves to 5. 
-> * **Five Players**. Increase the number of wolves to 7. 
+> [!combat]- **Balancing the Wolves**
+> This combat encounter is a **Severe** encounter against a party of four 4th-level players, a 2nd level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows:
+> * **Three Players**. Reduce the number of wolves to 5.
+> * **Five Players**. Increase the number of wolves to 7.
 > * **Six Players**. Increase the number of wolves to 8.
 
 Wolves get the following attack:
 
-- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.  
+- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
   Wolf makes a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of wolf's current turn, and wolf can move it 5 feet toward it. When wolf moves the creature, it can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
-  
+
   This Strike has the following failure effect.
   **Failure** The target becomes off-guard until the end of your current turn.
 
-In combat, the **wolves** target a single player at a time, using their ***pack attack*** to gain extra 1d4 damage. The wolves who can shove the target, try to push the target into the gully. 
+In combat, the **wolves** target a single player at a time, using their ***pack attack*** to gain extra 1d4 damage. The wolves who can shove the target, try to push the target into the gully.
 
 A player can first try to Grab an Edge. On failure, he falls into the ravine tumbles 40 feet down, taking 20 bludgeoning damage and falling prone. The sixth wolf tries to grapple and uses its ***maul*** to attack any creature that falls into the ravine, then drags them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
 
@@ -801,7 +801,7 @@ As the players depart this area, a player who passes DC 19 Perception check noti
 ## C7b. Tser Falls
 <span class="citation"><em>This scene takes place in Chapter 2: Area H.</em></span>
 
-This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
+This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground.
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -823,13 +823,13 @@ If the players call out to this nameless **[Elite Revenant](https://2e.aonprd.co
 
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 
-If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life. 
+If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life.
 
 If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
 
 If the players inquire about the Order of the Silver Dragon, the revenant shares only that the knights of the Order opposed the lord of Ravenloft in life and suggests that the players speak with Sir Godfrey to obtain further information. If the players obtained the silver pendant in the watchtower by the River Ivlis Crossroad, the revenant recognizes it, but refuses to comment further on its significance.
 
-If the players ask the revenant why it is guarding the bridge, it says only, "Because I raised my voice against my commander and was banished. Now, I stand like my brothers- and sisters-in-arms, watching the dark places of this land and awaiting an order that will never come." 
+If the players ask the revenant why it is guarding the bridge, it says only, "Because I raised my voice against my commander and was banished. Now, I stand like my brothers- and sisters-in-arms, watching the dark places of this land and awaiting an order that will never come."
 
 If the players ask why it cannot take up arms against Strahd itself, it says only, "Because my commander forbids it, and my spirit is bound from disobeying his will." It is willing to share that its commander's name is Sir Vladimir Horngaard, but is unwilling to share more, advising the players to speak with Sir Godfrey instead.
 
@@ -838,11 +838,11 @@ If the players ask why it cannot take up arms against Strahd itself, it says onl
 
 > [!info]+ **The Oathbound Revenant**
 > Each revenant of the Order of the Silver Dragon has been bound by the effects of Vladimir Horngaard's ***oathbind*** feature, which binds them to obey Vladimir's express commands. The revenants of the Order, excepting Sir Godfrey Gwilym, have been given the following commands:
-> 
+>
 > * Do not betray the secrets of the Order of the Silver Dragon.
 > * Raise no weapon against the vampire Strahd von Zarovich, his servants, or his creatures.
 > * Do not return to Argynvostholt.
->   
+>
 > A revenant that violates one of these commands suffers the effects of a *[Geas](https://2e.aonprd.com/Rituals.aspx?ID=118)* ritual and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
 
 If the players ask for directions to Argynvostholt, the revenant advises them to travel "west, beyond the walled town, then south upon the ash-gray path."
@@ -881,9 +881,9 @@ If the players remain silent or continue ahead, read:
 
 <div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
+The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill.
 
-As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 7](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 7](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -893,16 +893,16 @@ This scene largely unfolds as described in <span class="citation">Dream Pastries
 > [!profile]+ **Profile: Morgantha, Dream Peddler**
 > **Roleplaying Information**
 > ***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
-> 
+>
 > ***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
-> 
+>
 > ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
-> 
+>
 > ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
-> 
+>
 > **Character Information**
 > ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
-> 
+>
 > ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
 > 
 > ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
@@ -931,9 +931,9 @@ Before she departs, Morgantha warns the players that the guards at the Vallaki g
 
 > [!abstract]+ **Morgantha Detected**
 > If a player discerns Morgantha's fiendish nature and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
-> 
-> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***[Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)*** spell, cackling. 
-> 
+>
+> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***[Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)*** spell, cackling.
+>
 > If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc H - The Lost Soul]] begins.)
 # C10. The Deep Woods
 The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-quarter miles long and takes two hours. As the players make this journey, read:
@@ -942,7 +942,7 @@ The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-qu
 <p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
 <p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
 
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **[Weak Raven Swarms](https://2e.aonprd.com/Monsters.aspx?ID=782)**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **[Weak Raven Swarms](https://2e.aonprd.com/Monsters.aspx?ID=782)**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel.
 
 As the players proceed down the road, read:
 
@@ -950,7 +950,7 @@ As the players proceed down the road, read:
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
 
-Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible. 
+Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible.
 
 Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
 
@@ -1030,7 +1030,7 @@ The werecreature changes into its humanoid, hybrid, or animal shape. Each shape 
 <p><strong>Maul</strong> ◆<br>
 You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
 <p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
-<p><strong>Reactive Strike</strong> ⮌<br>
+<p><strong>Reactive Strike</strong> ↻<br>
 <strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
 <p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
 <h3>Passive Abilities</h3>
@@ -1057,16 +1057,16 @@ The werewolf can communicate with canine creatures.</p>
 
 In combat, the **wolves** work together, knocking prone and dragging creatures away. Once the wolves have dragged a character away from the party, the **werewolves** shift their attention to target them with its ***jaw*** strike. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.
 
-A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
+A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after.
 
-If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction. 
+If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction.
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
-> [!combat]- **Balancing the Werewolves** 
-> This combat encounter is a **Extreme** encounter against a party of four 4th-level players, a 2nd-level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Decrease the number of wolves to 2. 
-> * **Five Players**. Increase the number of wolves to 4. 
+> [!combat]- **Balancing the Werewolves**
+> This combat encounter is a **Extreme** encounter against a party of four 4th-level players, a 2nd-level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows:
+> * **Three Players**. Decrease the number of wolves to 2.
+> * **Five Players**. Increase the number of wolves to 4.
 > * **Six Players**. Add one more werewolf.
 
 > [!info]+ **Lycanthropy in Barovia**
@@ -1089,14 +1089,14 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 
 > [!abstract]+ **Curing Player Lycanthropy**
 > The players can learn from the Martikovs of the Blue Water Inn, Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
-> 
+>
 > Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting *remove curse* upon reaching 5th level. (Father Lucian of St. Andral's Church in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
 
 > [!warning]+ **Embracing Werewolf Lycanthropy**
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
 # C12. The Town of Vallaki
 ## C12a. The Vallakian Gates
-The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph:
 
 <div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
 
@@ -1120,7 +1120,7 @@ The members of the refugee camp, which include Emeric, a melancholy older man, a
 
 The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
+Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki.
 ### The Guards at the Gates
 The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. They have [Elite Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) stat blocks. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
 
@@ -1154,7 +1154,7 @@ This area is largely as described in <span class="citation">N2. Blue Water Inn (
 
 When the players first arrive, the inn contains the following notable NPCs:
 
-* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
+* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**;
 * Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
 * Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
 * Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
@@ -1217,14 +1217,14 @@ Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the 
 
 Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
-* Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
-* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
+* Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies.
+* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.)
 * "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
 * Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
 
-Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry.
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>. 
+The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>.
 
 Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
 
@@ -1269,7 +1269,7 @@ After clearing his throat, Rictavio shares the following story:
 <p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
 <p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
 <p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
-<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
+<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p>
 <p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
 </div>
 
@@ -1289,7 +1289,7 @@ If the players don't intervene, the following sequence of events then occurs:
 * The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
 * From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
 * Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
+* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>.
 
 Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
 ### The Brothers Wachter
@@ -1313,7 +1313,7 @@ At some point during the conversation, Danika approaches the table to clear away
 
 If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 15 Reflex saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 15 Reflex saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.)
 
 Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
 
@@ -1360,11 +1360,11 @@ Once inside, Rictavio removes the parcel from his coat, withdraws two apples, an
 
 > [!abstract]+ **Detecting Magic**
 > If a player casts _detect magic_ while in Rictavio's presence, remember that he has the next items and, probably, can't be detected with magic on their character level:
-> 
+>
 > * [_hat of disguise (greater)_](https://2e.aonprd.com/Equipment.aspx?ID=442&NoRedirect=1) which is an illusion and can be detected only by 5th rank of Detect Magic, But he also has
 > * _ring of mind shielding_ which is basically a [Hidden Mind](https://2e.aonprd.com/Spells.aspx?ID=1556) wand but it only hides the person who wears it.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity.
 
 If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
 
@@ -1375,20 +1375,20 @@ If confronted regarding his magic items or true identity, Rictavio directs the p
 
 These are lies. A DC 26 Perception check to Sense Motive indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+Rictavio declines to share further information for fear that Strahd's agents might steal it from them.
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 26 Perception check or lose him in the crowd. 
+If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 26 Perception check or lose him in the crowd.
 
 > [!abstract]+ **Following Rictavio**
 > Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
 ### Exiting the Inn
 As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession. 
+* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession.
 * The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
-* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
-* Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
+* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.”
+* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye.
+* Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her.
 * As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
 ![[Izek Strazni.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1429,11 +1429,11 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 >
 > ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
+If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves.
 
-***Diplomacy.*** If the players make a successful DC 19 Diplomacy check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomacy.*** If the players make a successful DC 19 Diplomacy check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions.
 
-***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
+***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe.
 
 The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
@@ -1442,7 +1442,7 @@ If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Pet
 > [!lore]+ **What's Lucian Doing Here?**
 > After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated.
 
 The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
 
@@ -1461,7 +1461,7 @@ If the players defied Vargas or Izek in any way, or otherwise assisted Willemina
 ## Journey to Vallaki
 ***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
 
-***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
+***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain.
 
 As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
 
@@ -1471,7 +1471,7 @@ Altogether, the intended effect of this encounter is to introduce the players to
 
 ***The Strix.*** The greater and lesser strix have been introduced to provide Baba Lysaga and the druids of Yester Hill with a meaningful way of combating the wereravens of the Keepers of the Feather. Muriel has also been added here to foreshadow the Keepers of the Feather, to foreshadow Strahd's prophecy (which the players will have an opportunity to learn after defeating the druids at Yester Hill), and to continue setting up Muriel's existence before her formal introduction at the beginning of the winery quest.
 
-***Changes to Lycanthropy.*** Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics. 
+***Changes to Lycanthropy.*** Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics.
 
 Lycanthropic immunity has been changed to silver-based regeneration in order to ensure that lycanthropes resonate with common understandings of lycanthropy and to ensure that all classes can meaningfully contribute to a lycanthrope's defeat, with or without magic weapons or spell. Lycanthropes have also been made weak to necrotic damage (in addition to damage from silvered weapons) in order to provide creative players with an alternate means of halting their regeneration and (more importantly) to explain how Strahd, who owns no silver weapons, is able to keep the werewolves in line.
 
@@ -1479,7 +1479,7 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 
 ***Arturi Radanavich.*** Arturi Radanavich is a creation of the *Advanced Dungeons & Dragons* sourcebook *Van Richten's Guide to the Vistani.* His tale (and his character) have largely been transplanted directly into this guide in order to further introduce Van Richten's legend (and tragedy), to provide an explanation for Van Richten's transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in Van Richten's history upon uncovering his burned journal in Van Richten's Tower.
 
-***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told. 
+***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told.
 
 Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to Izek Strazni and her true origins in Vallaki.
 

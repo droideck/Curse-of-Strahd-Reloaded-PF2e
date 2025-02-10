@@ -1,16 +1,16 @@
 *An adventure for four 1st-level characters.*
 
 > [!tip]+ **A Taste of Horror**
-> The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
-> 
+> The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit.
+>
 > You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
-> 
+>
 > You can also get an early peek at drafts of the remainder of **Act III: The Broken Land**, as well as outlines and notes for all following acts and arcs, by supporting this guide on [Patreon](https://www.patreon.com/DragnaCarta).
 
 > [!warning]+ **A First-Level Adventure**
 > Remember that, unlike the *Curse of Strahd: Reloaded*  adventure, the players in this guide begin at 1st level, rather than 2nd level.
 
-The players begin in the town of Otari on the night before Last Day of Summer, an annual Sarenrae holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Crook’s Nook, a ramshackle tavern on the outskirts of town. 
+The players begin in the town of Otari on the night before Last Day of Summer, an annual Sarenrae holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Crook’s Nook, a ramshackle tavern on the outskirts of town.
 
 When the relics they carry sense the presence of Death House, however, the players are led through Otari’s rainy streets and into the house’s waiting threshold.
 
@@ -24,7 +24,7 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 
 > [!warning]+ **Keep Your Workload Low**
 > *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
-> 
+>
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
 ## A1a. Crook’s Nook
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
@@ -108,9 +108,9 @@ The entrance beyond the portico is otherwise as described in <span class="citati
 
 > [!lore]+ **Strahd & the Cult**
 >
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
+> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding.
 >
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
+> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue.
 ### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
@@ -123,7 +123,7 @@ Instead of a longsword, the portrait of the Durst family from <span class="citat
 ![[The Durst Family.png]]
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent. 
+Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent.
 
 Bloody letters then begin appearing on the southern wall, just above the marble staircase. They read as follows:
 
@@ -180,7 +180,7 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
-You are cordially invited to join 
+You are cordially invited to join
 <div style="height: 3px;"></div>
 <strong>MR. GUSTAV & ELISABETH DURST</strong>
 <div style="height: 3px;"></div>
@@ -255,8 +255,8 @@ A few inches behind the empty spot on the shelf sits an antique copper pot, its 
 A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
 
 * The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
-* The piece of lace bears the initial "K" sewn onto one corner. 
-* A successful DC 17 Medicine or Nature check identifies the brown powder as dried silphium, a contraceptive herb. 
+* The piece of lace bears the initial "K" sewn onto one corner.
+* A successful DC 17 Medicine or Nature check identifies the brown powder as dried silphium, a contraceptive herb.
 * The parchment scroll reads: "For the light of my life. —G."
 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
@@ -295,7 +295,7 @@ This room is largely as described in <span class="citation">Conservatory (p. 214
 <p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
 </div>
 
-***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
+***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings.
 
 The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord with a successful DC 15 Performance check (if failed, the PC can continue to try, but 20 minutes will pass in doing so or 40 if the check was a critical failure), read:
 
@@ -339,9 +339,9 @@ A character that Searches the room for 1 minute and succeeds on a DC 15 Percepti
 >
 > As the players explore Death House and the many secret places within the land of Barovia. If you want them to find something, in case they failed: just make them spend more time to automatically succeed on the check.
 
-***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
+***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it.
 
-Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow. 
+Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow.
 
 The door cannot be opened unless the amber shard from the [[#Master Suite]] is placed into the niche or a player plays *Waltz for Klara* on the harpsichord in the [[#Conservatory]]. The secret door then swings open, allowing the players to enter the [[#Secret Room]].
 ### Secret Room
@@ -382,13 +382,13 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 
 When triggered, the **[Animated Armor](https://2e.aonprd.com/Monsters.aspx?ID=2819)** will Release the grip on glaive and it will attempt to Shove a player over the railing. If it won't succeed after 2 rounds, it will attack with glaive and will fight to the death. I suggest to join the Armor and Broom fights together.
 
-If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its darkvision, and is too stupid to think to climb back up. 
+If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its darkvision, and is too stupid to think to climb back up.
 
 A creature that is pushed over the edge of the balcony can [Grab an Edge](https://2e.aonprd.com/Actions.aspx?ID=2313)[reaction] with DC 15 Acrobatics check or fall two stories, or twenty feet, and take 10 bludgeoning damage. If it takes damage, it lands prone.
 
 > [!combat]- **Balancing the Animated Armor**
 > This combat encounter is a **Low** encounter against a party of four 1st-level players. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Apply Weak template.
 > * ***Five Players.*** Leave as it is.
 > * ***Six Players.*** Apply Elite template.
@@ -416,7 +416,7 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 ***The Bed.*** A player that approaches the bed can see that a large, bloodstained kitchen knife has been driven into one of the pillows.
 
-***The Jewelry Box.*** The jewelry box is empty of valuables. Instead, it is filled with grain, with an *amber shard* resting in the center of the box. (This amber shard is the unique key to the secret door in the [[#Library]].) 
+***The Jewelry Box.*** The jewelry box is empty of valuables. Instead, it is filled with grain, with an *amber shard* resting in the center of the box. (This amber shard is the unique key to the secret door in the [[#Library]].)
 
 A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
 
@@ -473,7 +473,7 @@ If a player enters the nursery, the humming abruptly cuts off. Read:
 <p>Looking down, you notice that a small object seems to have fallen beneath the crib. In the distance, you can faintly hear the sound of an infant's soft whimpering.</p>
 </div>
 
-The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 15 Medicine check identifies the finger as a woman's, and the toothmarks as a human child's. 
+The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 15 Medicine check identifies the finger as a woman's, and the toothmarks as a human child's.
 
 The name "Walter" has been lovingly carved into the head of the crib. A successful DC 17 Occultism identifies the runes around it as dark necromantic magic.
 
@@ -534,7 +534,7 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 >
 > ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
 >
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
+> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*).
 >
 > **Character Information**
 > ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
@@ -567,11 +567,11 @@ As the ghost children speak with the players, Thorn levitates one of his ghostly
 
 In addition to her cantrips, Rose’s aged and faded diary also contains entries regarding her studies, her friends, her younger brother, her nursemaid (“Miss Klara”), and arguments between her mother and father. (Rose doesn't know anything about the content of those fights.)
 
-Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them when they escape, burying them in the garden outside. 
+Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them when they escape, burying them in the garden outside.
 
 The dollhouse contains small dolls that depict tiny, twisted molds of any characters and creatures currently visible in the house. The dolls are made of painted resin. Any character looking inside the dollhouse while in Rose and Thorn’s room can see the appropriately-placed dolls of all living creatures within the manor. The dollhouse only contains rooms within the house itself, and does not depict the dungeon levels below.
 
-When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.” 
+When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.”
 
 A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715) cantrip as an action, without the use of components. (The spectral hand is invisible.)
 ### Storage Room
@@ -617,7 +617,7 @@ As the players descend the stairs, read:
 ### Family Crypts
 <span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
 
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
+These rooms are largely as described in **Family Crypts** (p. 217-18).
 
 As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
 
@@ -673,7 +673,7 @@ The players cannot help Rose or Thorn’s ghosts find peace by placing their rem
 ### Cult Initiates’ Quarters
 <span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
 
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
+This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>.
 
 As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
 ### Well and Cultist Quarters
@@ -698,7 +698,7 @@ As a fun option, you can move the Mimic here impersonating one of the chests. Be
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. You can use **Spiked Pit** from **Pathfinder Society Intro #2: United in Purpose** which is available in Foundry VTT, but you need to fix the depth (10 feet) and size (5 feet) and set 2d12 piersing damage. 
+This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. You can use **Spiked Pit** from **Pathfinder Society Intro #2: United in Purpose** which is available in Foundry VTT, but you need to fix the depth (10 feet) and size (5 feet) and set 2d12 piersing damage.
 If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
 <div class="description">
@@ -723,7 +723,7 @@ If the characters enter this area from [[#Ghoulish Encounter]], read:
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
 
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
@@ -733,9 +733,9 @@ This room is largely as described in <span class="citation">Dining Hall (p. 218)
 ### Larder
 <span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
 
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
+This area is largely as described in <span class="citation">Larder (p. 218)</span>.
 
-The **[Grick](https://2e.aonprd.com/Monsters.aspx?ID=2182)** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. It uses Stealth for initiative and attacks when some one approaches. A player who does Search and passes DC 20 Perception check determines its presence before entering. 
+The **[Grick](https://2e.aonprd.com/Monsters.aspx?ID=2182)** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. It uses Stealth for initiative and attacks when some one approaches. A player who does Search and passes DC 20 Perception check determines its presence before entering.
 
 If the players disturb the grick, read:
 
@@ -746,14 +746,14 @@ If the players disturb the grick, read:
 
 > [!combat]- **Balancing the Grick**
 > This combat encounter is a **Low** encounter against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Apply Weak template.
 > * ***Five Players.*** Leave as it is.
 > * ***Six Players.*** Apply Elite template.
 ### Ghoulish Encounter
 <span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read:
 
 <div class="description">
 <p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
@@ -766,7 +766,7 @@ When a player first enters one of the 5-foot squares at the entrance of the corr
 
 > [!combat]- **Balancing the Ghouls**
 > Due to the choke point and spiked pits, this is **Spicy Moderate (90 XP)** encounter against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter(s) as follows:
-> 
+>
 > * ***Three Players.*** Decrease the number of ghouls to two.
 > * ***Five Players.*** Increase the number of ghouls to four.
 > * ***Six Players.*** Increase the number of ghouls to five.
@@ -809,7 +809,7 @@ A player that approaches the orb can hear many voices whispering the following p
 * “His gaze burns upon us.”
 * “The Darklord’s eyes are always watching.”
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them.
 
 If the orb is removed from its position, the four ashen **[Shadows scaled down to 2nd level](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir. Each round, one shadow “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
 
@@ -827,7 +827,7 @@ The shadows gain the following additional feature:
 
 > [!combat]- **Balancing the Shadows**
 > This combat encounter is a **Extreme** encounter against a party of 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Reduce the number of shadows to three.
 > * ***Five Players.***  Increase the number of shadows to five.
 > * ***Six Players.*** Increase the number of shadows to six.
@@ -865,7 +865,7 @@ Folded inside the foot locker, on top of its other contents, is a **[Elite Shred
 
 > [!combat]- **Balancing the Boneless**
 > This combat encounter is a **Low** encounter against a party of 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** Remove Elite template.
 > * ***Five Players.*** Scale to Level 4.
 > * ***Six Players.*** Scale to Level 3 and then apply Elite.
@@ -946,11 +946,11 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 > A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 16 Intimidation check, the mound will spend next turn obeying the command. The mound won't obey a command that is directly harmful to it.
 
 > [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters uses Pathfinder 2e's relatively balanced combat system. 
+> All enemies in this guide, including boss monsters uses Pathfinder 2e's relatively balanced combat system.
 > All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to be really dangerous, in order to create a dangerous and exciting fight.
-> 
+>
 > However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Game Master.
-> 
+>
 > Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, reactions, and targets will provide the most interest and excitement for the current round.
 
 <div class="statblock">
@@ -983,7 +983,7 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 <p><strong>Sapping Squeeze</strong> ◆ <strong>Requirements</strong> Walter has a creature grabbed <strong>Effect</strong> Walter squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 basic Fortitude save). Walter regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute.</p>
 <p><strong>Undulating Step</strong> ◆◆ Walter separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form.</p>
 <p><strong>Quake</strong> ◆ The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 18 Fortitude saving throw or fall prone.</p>
-<p><strong>Squelch</strong> ⮌ In response to taking damage from a melee attack, the flesh mound attempts to Grapple the attacker.</p>
+<p><strong>Squelch</strong> ↻ In response to taking damage from a melee attack, the flesh mound attempts to Grapple the attacker.</p>
 <p><strong>Grab</strong> ◆</p>
 <hr>
 <p><strong>All-Around Vision</strong> The creature can't be flanked.</p>
@@ -1017,7 +1017,7 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 <p><strong>Gore Spray</strong> ◆◆ Walter spews blood and gore from his chest that deals 2d6 void damage to creatures within a 15-foot cone (DC 19 basic Reflex save). Also, the creature is blinded on failure and dazzled on success. The Walter can't use its Gore Spray again for 1d4 rounds or until it takes a critical hit (whichever comes first). Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
 <p><strong>Wail</strong> ◆ Walter shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 19 Will save. On a failure, a creature becomes frightened 1 (or frightened 2 on a critical failure). On a success, a creature is temporarily immune to this Walter's Wail for 1 minute. Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
 <p><strong>Blood Nourishment</strong> ◆ Walter uses its three-pronged tongue to drink the blood of an adjacent restrained or unconscious creature. The creature gains drained 1.</p>
-<p><strong>Lash Out</strong> ⮌ In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. It attempts to Shove the creature. On critical failure, the creature also falls prone.</p>
+<p><strong>Lash Out</strong> ↻ In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. It attempts to Shove the creature. On critical failure, the creature also falls prone.</p>
 <hr>
 <p><strong>Compression</strong> When Walter successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not difficult terrain for Walter.</p>
 <p><strong>Sneak Attack</strong> Walter deals 1d6 extra precision damage to off-guard creatures.</p>
@@ -1030,10 +1030,10 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **Moderate+** and **Severe+** combat encounters against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > * ***Three Players.*** I wouldn't change it but I'd play the fight in a much less tactical way. It can smash things around, dash for the farthest character, etc.
-> * ***Five Players.*** I'd scale Flesh Mound to level 5. And Walter should be Level 4 made Elite (so making it Level 5).  
-> * ***Six Players.*** Apply Elite template to both monsters and play it in a much less tactical way as it will crit a lot. 
+> * ***Five Players.*** I'd scale Flesh Mound to level 5. And Walter should be Level 4 made Elite (so making it Level 5).
+> * ***Six Players.*** Apply Elite template to both monsters and play it in a much less tactical way as it will crit a lot.
 
 ## A2h. Escape From Death House
 When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
@@ -1046,7 +1046,7 @@ When the players next begin to move toward the exit, read:
 <p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
 </div>
 
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
+The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present.
 
 Instead, as the players escape the crumbling Death House, they face two additional obstacles.
 
@@ -1063,7 +1063,7 @@ If the players attempt to bypass or attack Gustav, a swarm of levitating debris 
 
 > [!combat]- **Balancing the Ghost Mage**
 > This combat encounter is a **Low** encounter against a party of four 2nd-level players:
-> 
+>
 > * ***Three Players.*** Leave as it is.
 > * ***Five Players.*** Apply Elite template.
 > * ***Six Players.*** Scale it to level 5.
@@ -1113,11 +1113,11 @@ The dog Lancelot, a popular community character, has been intentionally cut from
 ***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
 
 ***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
-	
+
 ***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergei von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
 
 The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
 
-This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
+This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many.
 
 Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
