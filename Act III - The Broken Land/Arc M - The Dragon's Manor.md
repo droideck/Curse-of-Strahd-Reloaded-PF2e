@@ -161,11 +161,11 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 > [!abstract]+ **Harming the Incorporeal**
 > A player who attempts to recall information about harming spirits and succeeds on a DC 24 Arcana check learns the following information:
 > 
-> * Spirits and other incorporeal undead are generally immune to elemental and natural forces, including acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage dealt by nonmagical attacks.
+> * Incorporeal creatures usually have immunity to effects or conditions that require a physical body, like disease, poison, and precision damage. They usually have resistance against all damage (except force damage and damage from Strikes with the _ghost touch_ property rune), with double the resistance against non-magical damage.
 > * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
 > * Some creatures have developed natural means of counteracting these immunities. For example, the fangs and venom of a **phase spider** are capable of harming spirits on both the Material and Ethereal Plane. 
-> * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
-> * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
+> * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells (Spell Catalyst).
+> * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom. When applied in this way, the venom acts as Ghost Oil.
 >   
 > The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
 
@@ -204,7 +204,7 @@ When the players continue past the wolf corpse, read:
 <p>The path continues south here, away from the water's edge. A few feet ahead, a trail of dark blood vanishes into the eastern fog, heading toward the shore.</p>
 </div>
 
-A DC 15 Medicine check reveals that the trail of blood is quite recent—no older than an hour. A DC 10 Survival check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 24 Nature check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
+A DC 15 Medicine check reveals that the trail of blood is quite recent—no older than an hour. A DC 13 Survival check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 24 Nature check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
 
 If the players follow the trail of blood, read:
 
@@ -267,7 +267,7 @@ Wensencia can't be persuaded to spare the elk's life on its own merits. If the p
 
 The players can dissuade Wensencia from harvesting the elk by offering a gift of reasonable value and succeeding on a successful DC 22 Diplomacy check. If the players threaten Wensencia in an attempt to dissuade her, she asks, in bafflement, why they would care so deeply about a "dumb, dying animal." 
 
-Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 18 Intimidation check. If the players attack her, she uses her first turn in combat to cast *gaseous form*, vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
+Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 18 Intimidation check. If the players attack her, she uses her first turn in combat to cast *sanctuary* and then *invisibility* with sneak action (+13 Stealth), vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
 
 As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
 
@@ -281,15 +281,15 @@ When the players depart the stone slab for the grave site, read:
 
 The soldiers' remains are located in a one-hundred foot radius area of earth around the boulder, buried an average of five feet beneath the surface. For each thirty minutes the players dig, roll on the table below to determine what they uncover:
 
-| 1d20 | Remains |
-| :--: | ---- |
-| 1-7 | Old, scattered bones |
-| 8-10 | A full or partial human skeleton |
-| 11-15 | An iron shield engraved with the sigil of the Order of the Silver Dragon |
-| 16-17 | An iron helm engraved with the sigil of the Order of the Silver Dragon |
-| 18 | A silver medallion engraved with the sigil of the Order of the Silver Dragon |
-| 19 | A breastplate engraved with the sigil of the Order of the Silver Dragon |
-| 20 | Roll twice, ignoring a result of 20. |
+| 1d20  | Remains                                                                      |
+| :---: | ---------------------------------------------------------------------------- |
+|  1-7  | Old, scattered bones                                                         |
+| 8-10  | A full or partial human skeleton                                             |
+| 11-15 | An iron shield engraved with the sigil of the Order of the Silver Dragon     |
+| 16-17 | An iron helm engraved with the sigil of the Order of the Silver Dragon       |
+|  18   | A silver medallion engraved with the sigil of the Order of the Silver Dragon |
+|  19   | A breastplate engraved with the sigil of the Order of the Silver Dragon      |
+|  20   | Roll twice, ignoring a result of 20.                                         |
 
 When the players have uncovered—but not yet retrieved—the final piece of gear necessary to disguise themselves from the hostile spirits of Argynvostholt, read:
 
@@ -297,28 +297,28 @@ When the players have uncovered—but not yet retrieved—the final piece of gea
 <p>A damp, easterly wind stirs the swirling fog—bringing with it the thick, rotting stench of death.</p>
 </div>
 
-A player who succeeds on a DC 20 Perception check also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
+A player who succeeds on a DC 20 Perception check also notices several hunched silhouettes skulking toward their location—three from the east and three from the west.
 
-The stench and silhouettes belong to a pack of five **[Ghasts scaled to Level 4](https://2e.aonprd.com/Monsters.aspx?ID=219)**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
+The stench and silhouettes belong to a pack of six **[Ghasts scaled to Level 4](https://2e.aonprd.com/Monsters.aspx?ID=219)**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
 
 <div class="description">
-<p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
+<p>Six emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
 </div>
 
 > [!combat]+ **Balancing the Mass Grave** 
 > This combat encounter is a **Moderate** combat encounter against a party of four 6th-level players and a Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of ghasts to four. 
+> * **Three Players**. Reduce the number of ghasts to five. 
 > * **Five Players**. Make one ghast Elite.
 > * **Six Players**. Make three ghasts Elite.
 
-When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** with its **talons** attack and departing. Read:
+When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses an action to assume its gargantuan **roc** form before using its action to grapple one of the **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** with its **talons** attack and departing. Read:
 
 <div class="description">
 <p>A sudden gale of wind roars in your ears, the fog swirling violently around you. A monstrous silhouette, taller than the trees of the Svalich Wood and with a wingspan twice as wide, descends from the sky above—and so too does a gargantuan set of talons, emerging from the fog toward one of the ghouls like the fingers of a vengeful deity.</p>
 <p>Before the ghoul can even react, claws large enough to pluck an elephant from the earth have lashed around it, lifting it effortlessly into the sky. A single shriek bursts from the ghoul's throat—and then the shadowed behemoth is gone, vanishing into the foggy abyss overhead.</p>
 </div>
 
-When four of the ghouls have been slain, the fifth throws itself to the ground, bowing before the players and babbling for mercy in broken Common from the "nice, kind masters" in exchange for information. The ghoul, which refers to itself as Nim, promises that "Nim knows many things—many secrets!"
+When five of the ghouls have been slain, the sixth throws itself to the ground, bowing before the players and babbling for mercy in broken Common from the "nice, kind masters" in exchange for information. The ghoul, which refers to itself as Nim, promises that "Nim knows many things—many secrets!"
 
 Nim, who occasionally eyes the players' fleshy extremities with hungry interest, should make the players feel disturbed, uncomfortable, or darkly amused, and most often feels hungry, obsessed, sniveling, paranoid, or enraged. Nim is willing to share the following information if the players allow it to leave in peace:
 
@@ -444,13 +444,13 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 ## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
-This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **[phase spiders](https://2e.aonprd.com/Monsters.aspx?ID=203)** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when seven **[Hunting Spider scaled to Level 3](https://2e.aonprd.com/Monsters.aspx?ID=3207)** start the fight (or after half of them are dead).
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
-> This two-wave encounter includes a bruising combat encounter followed by a mild combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders in the first wave to one. Have the phase spiders appear in waves—first one, then the other. 
-> * **Four Players.** Reduce the number of giant spiders in the first wave to six. 
-> * **Six Players**. Increase the number of giant spiders in the first wave to eight.
+> This combat encounter is a **Moderate** combat encounter against a party of four 7th-level players, a Level 5 ally (Ireena Kolyana), a Level 6 ally (Ezmerelda d’Avenir), and a Level 2 ally (Zorya). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players.** Reduce the number of giant spiders to five. 
+> * **Five Players.**  Increase the number of phase spiders to three.
+> * **Six Players**. Increase the number of phase spiders to four.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to two vials of venom. A character can harvest a single fang successfully by succeeding on a DC 23 Nature check or DC 23 Survival check.
@@ -461,14 +461,14 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 > Critical Failure. The character is subjected by the spider's venom.
 
 > [!item]+ **Phase Spider Fang**
-> While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
+> It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional component to cast their spells (acts as a [Spell Catalyst](https://2e.aonprd.com/Rules.aspx?ID=1509) consumable).
 
 > [!item]+ **Vial of Phase Spider Venom**
-> You can use the venom in this vial to coat one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
+> And a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom - effectively it functions as a [Ghost Oil](https://2e.aonprd.com/Equipment.aspx?ID=1571).
 
-A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
+A player who succeeds on a DC 23 Perception check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *[Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001)* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
 
 <div class="description">
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
@@ -495,17 +495,16 @@ These areas are largely as described in <span class="citation">Q26. Northeast Gu
 
 This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, four **[Phantom Knights scaled to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=3135)** use their ***Walk the Ethereal Line*** feature to emerge from the Ethereal Plane, two rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
-* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
-* Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
+* They have increased **Resistances** all damage 7 (except [force](https://2e.aonprd.com/Traits.aspx?ID=610), [_ghost touch_](https://2e.aonprd.com/Equipment.aspx?ID=2840), or [spirit](https://2e.aonprd.com/Traits.aspx?ID=737); double resistance vs. non-[magical](https://2e.aonprd.com/Traits.aspx?ID=103))
 * Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
   
 > [!combat]+ **Balancing the Trapped Hallway** 
-> This combat encounter is a **bloody** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 45% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of phantom warriors to four. 
-> * **Four Players**. Reduce the number of phantom warriors to four. 
+> This combat encounter is a **Moderate+** combat encounter against a party of four 7th-level players, a Level 5 ally (Ireena Kolyana), a Level 6 ally (Ezmerelda d’Avenir), and a Level 2 ally (Zorya). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of phantom warriors to three. 
+> * **Five Players**. Reduce the number of phantom warriors to five. 
 > * **Six Players**. Increase the number of phantom warriors to six.
 
 Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
@@ -514,13 +513,11 @@ If all players appear to be wearing garments or gear bearing the insignia of the
 
 If some, but not all of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, one of the phantom warriors tightens her grip upon her sword and asks the players to explain why they have allowed outsiders to enter Argynvostholt. "The Devil's forces are at our gates," the spirit growls. "Do you not understand that a single infiltrator could bring our resistance to its knees?" 
 
-The players can convince the spirit to allow any "outsiders" to pass with a successful DC 20 Charisma (Persuasion or Deception) check. Otherwise, the phantom warriors deem the players potential traitors and attack.
+The players can convince the spirit to allow any "outsiders" to pass with a successful DC 25 Diplomacy or Deception check. Otherwise, the phantom warriors deem the players potential traitors and attack.
 
 If none of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, the phantom warriors immediately attack. 
 
-On initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#M3c. Chapel of Morning]], up to two of those spirits manifest as **specters** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***life drain***, each specter gains the following attack:
-
-* ***Spectral Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) force damage.
+On initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#M3c. Chapel of Morning]], up to two of those spirits manifest as **[Specters](https://2e.aonprd.com/Monsters.aspx?ID=812)** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***Vile Touch***, each specter uses **Spectral Spear** with the save characteristics but change the damage type to Spirit.
 
 In battle, the **phantom warriors** shout “Death to the invaders!", “For Argynvost!", and “Remember Horngaard!" The phantom warriors are spirits of soldiers who fell defending the mansion against Strahd’s armies. Cursed to relive the memory of that day while Vladimir Horngaard’s hatred binds them to Barovia, they can’t be stopped or reasoned with.
 
@@ -528,9 +525,9 @@ When the **phantom warriors** are defeated, any surviving **specters** warmly no
 ### Knights’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
 
-These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *[Elixirs of Life (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=3308)*.
 
-In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
+In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **[Elite Poltergeist](https://2e.aonprd.com/Monsters.aspx?ID=3142)** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
 
 <div class="description">
 <p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
@@ -542,7 +539,7 @@ When one or more players fully enter this room for the first time, read:
 <p>Four of the room’s five windows abruptly slam open, and a cold wind howls through the room. Large letters begin to emerge in the frost on the still-closed eastern window, each one meticulously and neatly formed: “IF YOU BE SERVANTS OF THE DEVIL, BEGONE."</p>
 </div>
 
-The words are a warning sent by Minodora. The players can convince her that they aren’t Strahd’s soldiers with a successful DC 5 Diplomacy check, succeeding automatically if they inform her of their relationship with Sir Godfrey or their purpose in the mansion.
+The words are a warning sent by Minodora. The players can convince her that they aren’t Strahd’s soldiers with a successful DC 10 Diplomacy check, succeeding automatically if they inform her of their relationship with Sir Godfrey or their purpose in the mansion.
 
 Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window:
 
@@ -586,7 +583,7 @@ If the players haven't yet defeated the spiders in [[#M4c. Spiders’ Ballroom]]
 
 The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#M4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
 
-A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
+A creature must succeed on a DC 28 Stealth check (it's a very hard DC due to the creaking floor), to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
@@ -625,7 +622,7 @@ If a player inspects the portrait, read:
 <p>The portrait, its once-vibrant canvas faded and tearing, depicts two men in fine clothes standing side-by-side. Gleaming longswords hang from their hips, and their gloved hands are tightly clasped together. One man is tall and silver-haired, the other dark-haired and stocky, but both of their faces are featureless, bearing only smooth, unblemished skin.</p>
 </div>
 
-A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) check recognizes that the men’s builds are recognizably similar to those of Sir Godfrey Gwilym and (if they have met him) Commander Vladimir Horngaard.
+A player who studies the portrait and succeeds on a DC 23 Perception check recognizes that the men’s builds are recognizably similar to those of Sir Godfrey Gwilym and (if they have met him) Commander Vladimir Horngaard.
 
 > [!lore]+ **The Portrait**
 > The portrait once depicted Commander Vladimir Horngaard and his husband, Sir Godfrey Gwilym. However, their faces vanished from the portrait after the Order’s resurrection, Vladimir’s blinding hatred for Strahd causing both knights to forget the love they shared in life.
@@ -658,14 +655,15 @@ The space behind the image of the chapel in the picture radiates three magical a
 
 Removing the picture from the wall reveals a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner.  In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
 
-The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
+The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of an [Undead Scourge](https://2e.aonprd.com/Equipment.aspx?ID=1577)
 
-> [!item]+ **Bracelet of Warding**
-> *Wondrous item, rare (requires attunement)*
+> [!item]+ **Bracelet of Warding - Level 8**
+> *Rare, Invested, Magical*
+> **Price**: 500 gp
+> 
+> This bracelet has 3 charges. While wearing it, you can use a spend 1 of its charges to cast the [Sanctuary](https://2e.aonprd.com/Spells.aspx?ID=266) (DC 20 Will save), or 2 of its charges to cast the [Share Life](https://2e.aonprd.com/Spells.aspx?ID=1669) spell.
 >
-> This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
->
-> You can cast one of these spells as a reaction in response to an enemy attacking a creature within range. If you do, you must spend an additional charge, and the spell must target the attacked creature. When cast in this way, the spell's effects end at the start of your next turn.
+> You can cast one of these spells as a reaction in response to an enemy attacking a creature within range. If you do, you must spend an additional charge, and the spell must target the attacked creature.
 >
 > The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
 
@@ -773,12 +771,12 @@ Brother Marek is glad to share his belief that the Order’s fate is damnation f
 
 If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Diplomacy check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 23 Diplomacy check, with +2 Circumstance bonus if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
 
 > [!abstract]+ **Legacy of the Sunsword**
 > If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
 >
-> If told of the “amber doors" referenced in the *Sunsword*’s foretelling, Brother Marek’s eyes widen. The players can convince him to share the existence of the Amber Temple with a DC 15 Diplomacy check, though Brother Marek—who never visited the temple himself—knows only that it once served as a prison for terrible evils, and that it can be found somewhere on Mount Ghakis. He doesn’t know how the *Sunsword* may have arrived there, nor where it may be found within.
+> If told of the “amber doors" referenced in the *Sunsword*’s foretelling, Brother Marek’s eyes widen. The players can convince him to share the existence of the Amber Temple with a DC 23 Diplomacy check, though Brother Marek—who never visited the temple himself—knows only that it once served as a prison for terrible evils, and that it can be found somewhere on Mount Ghakis. He doesn’t know how the *Sunsword* may have arrived there, nor where it may be found within.
 #### Marek is Convinced
 If convinced by the players to aid them in speaking with Argynvost, Brother Marek advises them: “Seek out the younger of the twin dragons above. Reignite the silver flame it once wielded, and remind it of the oath it once served. Do this, and the memory of the Silver Dragon may return to fill it once more." He then bids the players farewell and good luck and returns the stained-glass figure to its original kneeling position. Brother Marek’s spirit then departs, freezing the figure in place.
 
@@ -815,11 +813,11 @@ The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. 
 
 The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 23 Perception check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 21 Deception check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
+If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***Phantom Bow*** attacks against any living character within their line of sight. A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
 
 The interior of the beacon’s tower is largely as described in <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>, and <span class="citation">Q52. Beacon Turrets (p. 141)</span>, except for the changes to the **phantom warriors** described above. 
 
@@ -839,7 +837,7 @@ This area is largely as described in <span class="citation">Q53. Beacon of Argyn
 
 The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 ### Meeting Vladimir Horngaard
-The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
+The players must succeed on a DC 23 Stealth check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Stealth check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
 <div class="description">
 <p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
@@ -865,7 +863,7 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 > 
 > ***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
 
-Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 10 Diplomacy check or DC 14 Charisma (Deception) check, automatically succeeding on a Diplomacy check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
+Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 18 Diplomacy check or DC 23 Deception check, automatically succeeding on a Diplomacy check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
 
 If the players convince Vladimir that they are neither thieves nor assassins, Vladimir turns to face them. Read:
 
@@ -887,11 +885,11 @@ If asked, Vladimir can share the following information:
 > [!lore] **Vladimir and Argynvost**
 > Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 21 Deception check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 21 Deception check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 ### Vladimir’s Anger
-If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
+If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 21 Deception check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
 <div class="description">
 <p>The knight’s face curls into a terrible snarl, and the greatsword’s sharpened edge grinds against the broken stone floor. The temperature in the room seems to plummet, even as his red eyes burn with a haunting intensity.</p>
@@ -914,10 +912,10 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
 
 > [!combat]+ **Balancing the Commander** 
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 6th-level players, a CR 3 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will each consume approximately 39% of their total maximum hit points (for a total of 78% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 cold damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 cold and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
-> * **Four Players**. Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 cold damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 cold and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
-> * **Six Players**. Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 cold damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** cold and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
+> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 7th-level players, a Level 5 ally (Ireena Kolyana), a Level 6 ally (Ezmerelda d’Avenir), and a Level 2 ally (Zorya). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Apply weak template to second phase. 
+> * **Four Players**. He summons three phantom knights instead of two.
+> * **Six Players**. He summons four phantom knights instead of two. Make second phase Elite.
 
 > [!abstract]+ **The Players Flee**
 > If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
@@ -1043,17 +1041,14 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
-
-* If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Reflex saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Reflex saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 25 Fortitude saving throw or be pushed over the edge where they can do Grab an Edge as per usual rules with Climb DC 20.
 
 > [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
+> The fight with Vladimir will likely end in a TPK if the players have not yet reached 7th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
 > If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
-> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
+> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 18 Perception check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
 > Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc P - Ravenloft Heist]].
 
@@ -1061,7 +1056,7 @@ The first time Vladimir’s second form is reduced to 50 hit points or fewer, he
 
 When Vladimir dies, he rasps, “You have won this battle, but you shall never win forever. You can outrun me, even outfight me, but you cannot outlast me. Sleep—and know that we will meet again." 
 
-As Vladimir dies, his features fade, leaving behind the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist.
+As Vladimir dies, his features fade, leaving behind the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist. But [Guardian Shield](https://2e.aonprd.com/Equipment.aspx?ID=1572) stays.
 ### The Gargoyle’s Prophecy
 The dragon gargoyle’s brazier is freezing cold to the touch, and extinguishes any hot flame—magical or nonmagical—placed inside of it. However, if lit by Zorya’s breath weapon or one of the torches from [[#M4a. Cemetery|Argynvost’s mausoleum]], the brazier alights with a cold silver fire.
 
