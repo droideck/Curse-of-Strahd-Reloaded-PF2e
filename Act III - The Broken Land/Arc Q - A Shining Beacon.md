@@ -265,15 +265,15 @@ If the players tell the Abbot that he is blindfolded, he is briefly stunned, the
 
 If the players ask the Abbot to reunite with the shard of divinity, he hesitates, then asks to feel its warmth. If the players direct the orb to move toward the Abbot, he cups his hands around it, then begins to weep with joy, murmuring that it is “beautiful."
 
-As he does, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+As he does, if any player succeeds on a DC 22 Perception check, add:
 
 <div class="description">
 <p>The shroud of shadow curls ever-closer around him, and you realize that it is not a single shadow, but an assembly of countless overlapping, amorphous, indistinct silhouettes. They whisper into his ears, their cold, hollow voices echoing into the void.</p>
 </div>
 
-The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player with a passive Wisdom (Perception) score of 14 or greater sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and succeeds on a DC 15 Perception check to Sense Motive discerns that it bore an expression of grief and concern—and appeared to be calling out.
+The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player who succeeds on a DC 22 Perception check sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and succeeds on a DC 24 Perception check to Sense Motive discerns that it bore an expression of grief and concern—and appeared to be calling out.
 
-A player who asks the Abbot or succeeds in a DC 13 Perception check to Sense Motive learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+A player who asks the Abbot or succeeds on a DC 22 Perception check to Sense Motive learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 24 check can make out a few words and phrases from the cacophony of whispers:
 
 * “The light has abandoned you, as you abandoned it."
 * “Their lies are comforting, but lies nonetheless."
@@ -284,7 +284,7 @@ If confronted, the Abbot replies, his voice quavering: “It is too late. I have
 > [!lore]+ **Dark Whispers**
 > The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
 
-As the Abbot finishes his protest, any player with a passive Wisdom (Perception) score of 10 or greater sees a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player with a passive Wisdom (Perception) score of 13 or greater discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and succeeds on a DC 13 Perception check to Sense Motive discerns that it bore an expression of grief and concern.
+As the Abbot finishes his protest, any player who succeeds on a DC 19 Perception check sees a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player who succeeds on a DC 22 Perception check discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and succeeds on a DC 22 Perception check to Sense Motive discerns that it bore an expression of grief and concern.
 
 As the silhouette vanishes, a single Tarokka card floats down from the void and lands before one of the players. If a player inspects the card, read:
 
@@ -297,7 +297,7 @@ If Ezmerelda is shown the card, she shares that it is “odd" for the Shepherd t
 > [!lore]+ **The Shepherd**
 > The Tarokka card is a message sent by the spirit of Saint Markovia. While she cannot enter the Abbot’s soul herself, she hopes that the players will conjure her so that she may speak with the Abbot on their behalf.
 
-The players can again attempt to persuade the Abbot to reunite with the shard of divinity by making any reasonable argument and succeeding on a DC 15 Diplomacy check, made with advantage if their arguments directly rebut the Dark Powers’ whispers or if they mention St. Markovia’s seance.
+The players can again attempt to persuade the Abbot to reunite with the shard of divinity by making any reasonable argument and succeeding on a DC 24 Diplomacy check, made with +2 Circumstance Bonus if their arguments directly rebut the Dark Powers’ whispers or if they mention St. Markovia’s seance.
 
 > [!abstract]+ **Redemption Failed**
 > If the players attempt to persuade the Abbot here without first summoning St. Markovia and fail, the darkness grows deeper and more oppressive, while the Abbot curls further into himself, his wings seeming to wither and crack. “Do you not see?" he whispers, his voice barely audible. “Even you cannot deny my damnation. It is ended."
@@ -492,7 +492,7 @@ When the players first approach the pack, read:
 <p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+The wolves bare their teeth at the players, but don’t immediately attack. A player who succeeds on a DC 22 Perception check notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player who succeeds on a DC 22 Perception check to Sense Motive notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
 
 > [!info]+ **The Starving Wolves**
 > Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
@@ -536,7 +536,7 @@ Like a cat playing with its prey, Kiril is in no immediate hurry to kill the pla
 </div>
 
 > [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Diplomacy check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
+> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 29 Diplomacy check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
 
 At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
 
@@ -740,9 +740,9 @@ Read the following, modifying the text as needed depending on the number of reve
 
 The revenants then attack.
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Perception check to Sense Motive notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player who succeeds on a DC 22 Perception check notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 22 Perception check to Sense Motive notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
 
-A player can attempt a DC 15 Diplomacy check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Reflex saving throws with disadvantage, and grant advantage on any attacks made against them.
+A player can attempt a DC 24 Diplomacy check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Reflex saving throws with disadvantage, and grant advantage on any attacks made against them.
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
 
@@ -756,7 +756,7 @@ When the players first return to <span class="citation">Q15. Cemetery (p. 134)</
 > [!abstract]+ **Teleporting Players**
 > When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
 
-The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 19 Dexterity (Stealth) check, Vladimir hears their approach and exits the mausoleum to address them. Read:
+The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 29 Stealth check, Vladimir hears their approach and exits the mausoleum to address them. Read:
 
 <div class="description">
 <p>The sound of shrieking, rusted metal cuts through the silent graveyard as a tall, broad-shouldered knight clad in once-fine armor steps forth from the open mausoleum.</p>
@@ -903,9 +903,9 @@ In addition, the first time a player enters the mausoleum, Vladimir uses one of 
 <p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
 </div>
 
-Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
+Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 26 Fortitude saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
 
-The flames form a sheet of black fire eight feet high. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet (see <span class="citation">High Jump, <em>Player’s Handbook</em> (p. 182)</span>) or by succeeding on a DC 18 Strength (Athletics) check. (If a player is carrying the full weight of Argynvost’s skull, their high jump distance is reduced by 3 feet, and they make the Strength (Athletics) check with disadvantage). On a failure, the player lands prone in the flames.
+The flames form a sheet of black fire eight feet high. A creature takes 10 (3d6) fire damage plus 10 (3d6) void damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet.
 ## Q6c. Argynvost’s Return
 When a player first places Argynvost’s skull on an alcove in the mausoleum, read:
 
