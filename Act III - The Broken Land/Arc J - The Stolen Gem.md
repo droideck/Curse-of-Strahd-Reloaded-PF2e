@@ -84,7 +84,7 @@ Muriel greets the players warmly and introduces herself, noting that Urwin has t
 If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
 
 <div class="statblock">
-<h2>Muriel Vinshaw - Creature 4 - But Apply Elite</h2>
+<h2>Muriel Vinshaw - Creature 5</h2>
 <em>Medium humanoid, werecreature</em>
 <hr>
 <strong>Armor Class</strong> 21 (studded leather armor)
@@ -116,9 +116,9 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12
+<strong>Skills</strong> Acrobatics +13, Athletics +10, Deception +8, Society +9, Stealth +13
 <br>
-<strong>Saving Throws</strong> Fort +12, Ref +13, Will +10
+<strong>Saving Throws</strong> Fort +13, Ref +14, Will +11
 <br>
 <strong>Senses</strong> darkvision
 <br>
@@ -137,15 +137,15 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 <p><strong>↻ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
 
 <h3>Attacks</h3>
-<p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
-<p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
-<p><strong>Ranged</strong> ◆ hand crossbow +13 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+<p><strong>Melee</strong> ◆ beak +14 (agile, finesse), <strong>Damage</strong> 2d6+6 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> ◆ wing +14 (agile, finesse), <strong>Damage</strong> 2d6+6 bludgeoning</p>
+<p><strong>Ranged</strong> ◆ hand crossbow +14 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+9 piercing</p>
 
 <hr>
 <h3>Passive Abilities</h3>
 <p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
 <p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
-<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 19 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
 </div>
 
 ### Ireena's Request
@@ -187,7 +187,7 @@ Just before the players reach the Raven River Crossroads, they come across the p
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
 </div>
 
-As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
+As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **[Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907)** lurking in the southern underbrush. Read:
 
 <div class="description">
 <p>You hear the snap of a twig in the underbrush to the south.</p>
@@ -346,7 +346,7 @@ Upon learning that the players have been sent to investigate the delayed wine sh
 * The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
 * Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
 
-A DC 12 Perception check to Sense Motive suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Perception check to Sense Motive reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
+A DC 20 Perception check to Sense Motive suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 20 Perception check to Sense Motive reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
 
 Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
 
@@ -380,9 +380,9 @@ Dag can share the following information if asked:
 If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
 
 > [!abstract]+ **Speaking with Elvir**
-> If the players move to speak with Elvir, he ignores them, staring straight at the cavern wall, for the first full minute. He then hoarsely demands to know why they’ve come to the winery, insisting that there’s nothing left for them or anyone else to find there. If the players show Elvir kindness and compassion, they can somewhat lighten his mood with a DC 15 Diplomacy check. Otherwise, he firmly but politely asks them to leave him alone, his voice strained and raw.
+> If the players move to speak with Elvir, he ignores them, staring straight at the cavern wall, for the first full minute. He then hoarsely demands to know why they’ve come to the winery, insisting that there’s nothing left for them or anyone else to find there. If the players show Elvir kindness and compassion, they can somewhat lighten his mood with a DC 22 Diplomacy check. Otherwise, he firmly but politely asks them to leave him alone, his voice strained and raw.
 >
-> If the players get on Elvir’s good side and ask about Elric, Elvir tells them that Elric was a fool who abandoned his family, and that he “deserved what he got." A DC 10 Perception check to Sense Motive reveals that Elvir is uncomfortable with the harshness of his words, and doesn’t appear to entirely believe them. The players can convince Elvir to reveal his true feelings with a DC 20 Diplomacy check; otherwise, he shakes his head and firmly denies any deeper meaning.
+> If the players get on Elvir’s good side and ask about Elric, Elvir tells them that Elric was a fool who abandoned his family, and that he “deserved what he got." A DC 17 Perception check to Sense Motive reveals that Elvir is uncomfortable with the harshness of his words, and doesn’t appear to entirely believe them. The players can convince Elvir to reveal his true feelings with a DC 20 Diplomacy check; otherwise, he shakes his head and firmly denies any deeper meaning.
 ### Into the Tunnel
 After the players have spoken with Dag and the other Martikovs to their satisfaction, Davian and Stefania approach them. Davian apologizes to the players for Elvir’s behavior, and—at Stefania’s gentle chiding—his own outburst as well.
 
@@ -396,8 +396,8 @@ If the players are still willing to enter the winery to defeat the druids within
 > The players should be cautious when casting spells such as *fireball* or *lightning bolt* within the winery, both of which expressly set their surroundings on fire. If the players nonetheless set the winery aflame, apply the following rules: 
 >
 > * Each contiguous collection of ignited squares counts as a single fire. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.) 
-> * When the fire spreads, each creature within its area must make a DC 10 Reflex saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet. A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage. 
-> * All squares within 10 feet of a fire are heavily obscured by smoke. A creature that starts its turn in the smoke must make a DC 10 Fortitude saving throw or be poisoned until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
+> * A creature that enters the fire or begins its turn there for the first time on a turn takes 2d6 fire damage. 
+> * All squares within 10 feet of a fire are filled with smoke have the same effect as [Stinking Cloud](https://2e.aonprd.com/Spells.aspx?ID=309).
 > * A creature can use its action and suitable means to extinguish a 5-foot section
 
 Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
@@ -419,14 +419,14 @@ This area is as described in <span class="citation">W15. Brown Mold (p. 178)</sp
 <p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
 </div>
 
-The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
+The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 22 Nature check to remember information about brown mold learns the information described in [Brown Mold - scaled to Level 6](https://2e.aonprd.com/Hazards.aspx?ID=35). 
 
 A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
 
-A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter wolves.** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
+A successful DC 23 Arcana or Nature check identifies the teeth as belonging to one or more **[Witchwarg scaled to Level 7](https://2e.aonprd.com/Monsters.aspx?ID=3231).** A player looking to identify a tooth’s properties must study it with [Identify Magic](https://2e.aonprd.com/Actions.aspx?ID=2365) exploration activity and make a DC 23 Arcana or Nature check. On a success, the player learns that the tooth bears the following properties:
 
-* A creature can use their action to pierce their stomach with the tooth. That creature can then immediately exhale a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Reflex saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-* A creature can use their action to pierce their bicep with the tooth. That creature gains immunity to cold damage for 1 minute.
+* A creature can use their action to pierce their stomach with the tooth. That creature can then immediately use it as [Energy Breath Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=2941).
+* A creature can use their action to pierce their bicep with the tooth. That creature gains [Potion of Resistance (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2951) effect to cold damage for 1 minute (cold resistance 10).
 
 The tooth dissipates into frigid mist if either of these properties are used.
 ## J3b. Into the Winery
