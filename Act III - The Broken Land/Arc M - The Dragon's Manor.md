@@ -809,7 +809,7 @@ When the players first exit the <span class="citation">Q31. East Staircases (p. 
 <p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
 </div>
 
-The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **elite phantom warriors** that occupy the turrets.
 
 The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 

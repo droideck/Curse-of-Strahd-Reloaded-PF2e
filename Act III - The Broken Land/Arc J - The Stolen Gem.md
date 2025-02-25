@@ -1,6 +1,4 @@
-_An adventure for four 6h-level characters._
-
-[Waldgeist](https://2e.aonprd.com/Monsters.aspx?ID=1913) ?????
+**_An** adventure for four 6h-level characters._
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 
@@ -126,21 +124,15 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 <br>
 <strong>Weaknesses</strong> silver 5
 <hr>
-
 <h3>Active Abilities</h3>
 <p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
-
 <p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
-
 <p><strong>↻ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-
 <p><strong>↻ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
-
 <h3>Attacks</h3>
 <p><strong>Melee</strong> ◆ beak +14 (agile, finesse), <strong>Damage</strong> 2d6+6 slashing plus curse of the werecreature</p>
 <p><strong>Melee</strong> ◆ wing +14 (agile, finesse), <strong>Damage</strong> 2d6+6 bludgeoning</p>
 <p><strong>Ranged</strong> ◆ hand crossbow +14 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+9 piercing</p>
-
 <hr>
 <h3>Passive Abilities</h3>
 <p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
@@ -230,7 +222,7 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **[Assassin Vines](https://2e.aonprd.com/Monsters.aspx?ID=555)**, concealed through the use of their ***false appearance*** feature.
+The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **[Elite Assassin Vines](https://2e.aonprd.com/Monsters.aspx?ID=555)**, concealed through the use of their ***false appearance*** feature.
 
 ---
 #### Spiked Pit Trap - Hazard 6
@@ -239,7 +231,7 @@ _Electricity, Evocation, Magical, Trap_
 **Stealth** DC 24 (expert)
 
 **Disable**
-DC 30 Thievery (master) to disable the runes, or **dispel magic** (5th level; counteract DC 30) to counteract the trap.
+DC 26 Thievery (expert) to disable the trap.
 
 **Pitfall - ↻** **Trigger** A creature moves onto the leaf-covered hide;
 **Effect** The triggering creature falls in and takes falling damage (10 bludgeoning damage) and is targeted by a spike's Strike. A falling creature can attempt to Grab an Edge with a DC 24 Reflex save.
@@ -254,11 +246,11 @@ If any players fall into the pit, attempt to bypass the pit, or attack the vine 
 In combat, the **Assassin Vines** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
 > [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of four 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of four 6th-level players, one Level 5 ally (Muriel Vinshaw), and one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * ***Three Players.*** Reduce the number of vine blights to three.
-> * ***Five Players.*** Reduce the number of vine blights to four.
-> * ***Six Players.*** Increase the number of vine blights to six.
+> * ***Five Players.*** Reduce the number of vine blights to six.
+> * ***Six Players.*** Increase the number of vine blights to seven.
 ## J2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
 
@@ -350,7 +342,7 @@ A DC 20 Perception check to Sense Motive suggests that Davian might know more th
 
 Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
 
-* There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
+* There are four druids, eight **needle blights**, seven **assassin vines**, two **swarms of mandragoras** and a couple of arboreal wardens in the winery. The skies above the winery are guarded by two patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
 * The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
 * The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
 
@@ -419,7 +411,7 @@ This area is as described in <span class="citation">W15. Brown Mold (p. 178)</sp
 <p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
 </div>
 
-The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 22 Nature check to remember information about brown mold learns the information described in [Brown Mold - scaled to Level 6](https://2e.aonprd.com/Hazards.aspx?ID=35). 
+The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 22 Nature check to remember information about brown mold learns the information described in [Brown Mold - scaled to Level 4](https://2e.aonprd.com/Hazards.aspx?ID=35). 
 
 A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
 
@@ -445,94 +437,77 @@ As the players step into the cellar, read:
 <p>You see several silhouettes move behind the eastern rack—including one with a full rack of antlers.</p>
 </div>
 
+> [!combat]- **Mythic Adjustment**
+>  I suggest making all druids Mythic, as they were influenced by Gulthias Tree. It will also make the combat more dynamic and epic for Act III increasing pace.
+
 > [!lore]+ **Druidic Decorations**
 > The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid assailants** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
 
 A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
 
-The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
+The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight [Twigjacks](https://2e.aonprd.com/Monsters.aspx?ID=3222) or you can use [Cactus Leshy](https://2e.aonprd.com/Monsters.aspx?ID=1219) stat block. If the players are moving quietly, they can try to sneak past or ambush the druid and blights.
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
-    <em>Medium human, neutral evil</em>
-    <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
-    <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
-    <br>
-    <strong>Speed</strong> 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-                <td>13 (+1)</td>
-                <td>12 (+1)</td>
-                <td>15 (+2)</td>
-                <td>11 (+0)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
-    <ul>
-        <li>Cantrips (at will): produce flame, shillelagh, thorn whip</li>
-        <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, darkvision</li>
-    </ul>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+<h2>Druid Assailant - Creature 5</h2>
+<em>Medium humanoid (human, evil)</em>
+<hr>
+<strong>Perception</strong> +14<br>
+<strong>Languages</strong> Common, Hallit<br>
+<strong>Skills</strong> Deception +11, Intimidation +13, Nature +12, Stealth +9, Survival +12<br>
+<strong>Str</strong> +1, <strong>Dex</strong> +0, <strong>Con</strong> +2, <strong>Int</strong> +0, <strong>Wis</strong> +5, <strong>Cha</strong> +4
+<hr>
+<strong>AC</strong> 17<br>
+<strong>HP</strong> 75<br>
+<strong>Fortitude</strong> +10, <strong>Reflex</strong> +6, <strong>Will</strong> +15<br>
+<strong>Speed</strong> 20 feet
+<hr>
+<h3>Melee Attacks</h3>
+<p><strong>Club</strong> ◆ +12, <strong>Damage</strong> 1d6+3 bludgeoning</p>
+<hr>
+<h3>Reactive Abilities</h3>
+<p><strong>Gift of the Gulthias</strong> ↻ <br>
+In response to being attacked by a creature it can see, the druid casts Oaken Resilience, provided it has a 2nd-level spell slot available.</p>
+<hr>
+<h3>Spellcasting</h3>
+<p><strong>Primal Prepared Spells</strong> DC 23, attack +17<br>
+<strong>3rd (2 slots)</strong> horizon thunder sphere, noise blast<br>
+<strong>2nd (3 slots)</strong> oaken resilience, gecko grip, shatter<br>
+<strong>1st (3 slots)</strong> hydraulic push, shillelagh, tailwind<br>
+<strong>Cantrips (5th)</strong> detect magic, electric arc, light, prestidigitation, void warp</p>
+<hr>
+<h3>Inventory</h3>
+<ul>
+<li>Club</li>
+<li>Religious Symbol of Strahd (Wooden and Bloodstained)</li>
+<li>Filthy Rags</li>
+</ul>
 </div>
 
-The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
+The druid and blights attack on sight. On their first turn in combat, the druid casts summon animal and oaken resilience as a reaction. On their second turn, the druid casts thunderburst at 3rd level and makes a Strike if possible.
 
 > [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, and one CR 1 ally (Ireena Kolyana), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of four 6th-level players, and one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> * ***Three Players.*** Reduce the number of needle blights to four.
-> * ***Five Players.*** Reduce the number of needle blights to six.
-> * ***Six Players.*** Increase the number of needle blights to ten.
+> * ***Three Players.*** Reduce the number of twigjacks to six.
+> * ***Five Players.*** Add one more druid.
+> * ***Six Players.*** Add one more Elite druid.
 
 > [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> If a druid or player casts a spell—such as *thunderburst*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
 >
 > | No. of Rounds Later | Origin | Creatures |
 > | :---:|:----:|:---|
 > |1| - |None|
-> |2|[[#Fermentation Vats]]|2 **swarms of twig blights**|
-> |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **elder twig blights**|
+> |2|[[#Fermentation Vats]]|2 **swarms of mandragoras**|
+> |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **arboreal wardens**|
 > |4| - |None|
-> |5| [[#Printing Press]]|1 **druid assailant** and 3 **vine blights**|
+> |5| [[#Printing Press]]|1 **druid assailant** and 2 **elite assassin vines**|
 >
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 >
 > If the druid and blights in the cellar are alerted by loud or explosive sounds from [[#Fermentation Vats]], the needle blights join the combat after two rounds, and the druid joins the combat after three rounds. If the fighting is taking place elsewhere in the winery, increase the number of rounds by one each.
 
-The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
-
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Reflex saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Fortitude saving throw or be poisoned until the start of its next turn.
+The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine** (use any plant based Hazard you can find on https://2e.aonprd.com - something with Carnivorous in a name). The plant ignores **druids**.
 ## J3c. Ascending the Stairs
 The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 177)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
@@ -554,7 +529,7 @@ The scream originates from the large room containing the winery’s fermentation
 <p>Two twiglike creatures, slightly larger than the others, cling to the sides of the wooden cage before her, their sharp, pointed arms pushed through the bars of the cage. The woman nods, and the creatures pierce the sides of a battered-looking raven, which screams again in helpless agony.</p>
 </div>
 
-The woman is a **druid naturalist** (see statistics below) and is surrounded by two **swarms of twig blights**. The two creatures clinging to the cage are **elder twig blights**. 
+The woman is a **druid naturalist** (see statistics below) and is surrounded by two **swarms of mandragoras**. The two creatures clinging to the cage are **[Medium-size Arboreal Warden](https://2e.aonprd.com/Monsters.aspx?ID=2829)**. 
 
 > [!abstract]+ **The Raven's Interrogation**
 > If the players linger and remain undetected, they can hear the druid (using the spell *speak with animals*) speak to the battered raven with a series of caws and clicks. A player who uses similar magic to understand the speech of ravens hears the following conversation:
@@ -573,12 +548,12 @@ The woman is a **druid naturalist** (see statistics below) and is surrounded by 
 If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
 
 * The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Perception check to Sense Motive identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
+* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 20 Perception check to Sense Motive identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
 * The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
 * Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
-* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Perception check to Sense Motive identifies that Silvia hesitates slightly in delivering her words.)
+* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 20 Perception check to Sense Motive identifies that Silvia hesitates slightly in delivering her words.)
 
-Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Perception check to Sense Motive notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
+Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 20 Perception check to Sense Motive notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
 
 > [!info]+ **The Broken Spigot**
 > The fermentation vat to the immediate west of the central staircase of <span class="citation">W9. Fermentation Vats (p. 176)</span> has a damaged spigot. The first time that a player approaches it, read:
@@ -589,191 +564,40 @@ Silvia invites the players to approach the caged raven and see “the mark of th
 >
 > <hr>
 >
-> In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
+> In its current state, the damaged spigot has AC 10, Hardness 3, 12 hit points, and 6 hit points Broken Threshold. If the spigot is reduced to 6 hit points, or if a creature successfully makes a DC 18 Athletics check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cone to the north of the vat.
 >
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the **swarm of twig blights**, must also make the saving throw.)
+> When this happens, each Small or smaller creature within that area must make a DC 22 Fortitude basic saving throw. On a failure, that creature is pushed 10 feet away from the vat and takes 7 (4d6) bludgeoning damage. On critical failure, the creature is pushed 15 feat. On success, - only 5 foot. (A swarm of Small or smaller creatures, such as the **swarm of mandragoras**, must also make the saving throw.)
 >
 > Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
 
 Silvia attacks if the players approach the cage, refuse her invitation, or attack her first. 
 
-* On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
-* On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
-
 > [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> If a druid or player casts a spell—such as *thunderburst*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
 >
 > | No. of Rounds Later | Origin | Creatures |
 > | :---:|:----:|:---|
 > |1| - |None|
-> |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> |2| [[#Printing Press]]|1  **druid assailant** and 2 **elite assassin vines**|
 >
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 > [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of four 6th-level players, and one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
-> * ***Five Players.*** Reduce the number of elder twig blights to one.
-> * ***Six Players.*** Increase the number of swarms of twig blights to three.
-
-Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
+> * ***Three Players.*** Remove one elder twig blight (arboreal warden).
+> * ***Five Players.*** Increase the number of elder twig blights to three.
+> * ***Six Players.*** Make both elder twig blights Elite.
 
 As she dies, Silvia laughs and warns the players, “You may defeat us—but Wintersplinter is coming."        
 
 If the players free the ravens from their cages, they join the party as a **swarm of ravens**, led by the raven that Silvia was torturing.
 
-<div class="statblock">
-    <h2>Druid Naturalist</h2>
-    <em>Medium human, neutral evil</em>
-    <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
-    <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
-    <br>
-    <strong>Speed</strong> 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-                <td>13 (+1)</td>
-                <td>12 (+1)</td>
-                <td>15 (+2)</td>
-                <td>11 (+0)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
-    <ul>
-        <li>Cantrips (at will): gust, infestation, produce flame</li>
-        <li>1st level (4 slots): entangle, fog cloud, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, moonbeam</li>
-    </ul>
-    <h3>Actions</h3>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
-</div>
+Here's a stat block for the druid in the same format as the examples:
 
-<br>
+<div class="statblock"> <h2>Druid Naturalist - Creature 5</h2> <em>Medium humanoid (human)</em> <hr> <strong>Perception</strong> +13; darkvision<br> <strong>Languages</strong> Common, Grippli<br> <strong>Skills</strong> Acrobatics +11, Athletics +9, Diplomacy +10, Medicine +11, Nature +14, Religion +11, Stealth +11, Survival +11<br> <strong>Str</strong> +2, <strong>Dex</strong> +4, <strong>Con</strong> +1, <strong>Int</strong> +1, <strong>Wis</strong> +4, <strong>Cha</strong> +0 <hr> <strong>AC</strong> 21<br> <strong>HP</strong> 71<br> <strong>Fortitude</strong> +10, <strong>Reflex</strong> +13, <strong>Will</strong> +13<br> <strong>Speed</strong> 25 feet, climb 20 feet <hr> <h3>Melee Attacks</h3> <p><strong>Staff</strong> ◆ +11 (two-hand d8), <strong>Damage</strong> 1d4+4 bludgeoning</p> <h3>Ranged Attacks</h3> <p><strong>Dart</strong> ◆ +13 (agile, thrown 20 feet), <strong>Damage</strong> 1d4+4 piercing</p> <hr> <h3>Reactive Abilities</h3> <p><strong>Gift of the Gulthias</strong> ↻<br> In response to being attacked by a creature it can see, the druid casts barkskin, provided it has a 2nd-level spell slot available.</p> <hr> <h3>Spellcasting</h3> <p><strong>Primal Prepared Spells</strong> DC 23, attack +13; Focus Points 1<br> <strong>3rd (2 slots)</strong> noise blast, haste<br> <strong>2nd (3 slots)</strong> animal form, barkskin, entangle, speak with animals<br> <strong>1st (3 slots)</strong> jump, pass without trace, shillelagh<br> <strong>Cantrips (3rd)</strong> void warp, guidance, know direction, electric arc, tanglefoot</p> <hr> <h3>Inventory</h3> <ul> <li>Staff</li> <li>Darts (4)</li> </ul> </div>
 
-<div class="statblock">
-    <h2>Elder Twig Blight</h2>
-    <em>Medium Plant, Neutral Evil</em>
-    <hr>
-    <strong>Armor Class</strong> 14
-    <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
-    <br>
-    <strong>Speed</strong> 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>8 (-1)</td>
-                <td>15 (+2)</td>
-                <td>12 (+1)</td>
-                <td>4 (-3)</td>
-                <td>8 (-1)</td>
-                <td>3 (-4)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
-    <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
-</div>
-
-<br>
-
-<div class="statblock">
-    <h2>Swarm of Twig Blights</h2>
-    <em>Large Plant, Neutral Evil</em>
-    <hr>
-    <strong>Armor Class</strong> 13
-    <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
-    <br>
-    <strong>Speed</strong> 20 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>12 (+1)</td>
-                <td>13 (+1)</td>
-                <td>12 (+1)</td>
-                <td>4 (-3)</td>
-                <td>8 (-1)</td>
-                <td>3 (-4)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>False Appearance.</em></strong> While the swarm remains motionless, it is indistinguishable from a patch of dead shrubs.</p>
-    <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small plant. The swarm can't regain hit points or gain temporary hit points.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., up to two targets in the swarm's space. <em>Hit:</em> 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</p>
-</div>
+<div class="statblock"> <h2>Swarm of Mandragoras - Creature 4</h2> <em>Large plant (mindless, swarm)</em> <hr> <strong>Perception</strong> +9; darkvision<br> <strong>Skills</strong> Athletics +11, Stealth +12 (+14 amid decaying plant matter or fungus)<br> <strong>Str</strong> +3, <strong>Dex</strong> +4, <strong>Con</strong> +5, <strong>Int</strong> -5, <strong>Wis</strong> +1, <strong>Cha</strong> -3 <hr> <strong>AC</strong> 20<br> <strong>HP</strong> 65; fast healing 5<br> <strong>Immunities</strong> critical hits, fire, precision, visual<br> <strong>Resistances</strong> bludgeoning 5, electricity 5, piercing 5, slashing 3<br> <strong>Weaknesses</strong> area damage 5, splash damage 5, fire 5<br> <strong>Fortitude</strong> +13, <strong>Reflex</strong> +12, <strong>Will</strong> +7<br> <strong>Speed</strong> 30 feet, climb 30 feet <hr> <h3>Offensive Actions</h3> <p><strong>Swarming Bites</strong> ◆<br> Each enemy in the swarm's space takes 2d8 piercing damage (DC 19 basic Reflex save) and is exposed to mandragora venom. A successful save negates the poison exposure.</p> <p><strong>Piercing Shriek</strong> ◆ (auditory, mental, primal)<br> <strong>Frequency</strong> once per day<br> The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 19 Will save.<br> <strong>Critical Success</strong> The creature is unaffected<br> <strong>Success</strong> The creature is Sickened 1<br> <strong>Failure</strong> The creature is Sickened 2<br> <strong>Critical Failure</strong> The creature is Sickened 2 and Slowed 1. As long as the creature remains sickened, this slowed condition value can't be reduced below 1</p> <hr> <h3>Reactive Abilities</h3> <p><strong>Blood Drain</strong> ◇<br> <strong>Trigger</strong> An enemy takes damage from the mandragora swarm's Swarming Bites action<br> <strong>Effect</strong> The mandragora swarm drains blood from the creature, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is Drained 1 until it receives healing of any kind or amount.</p> <hr> <h3>Additional Abilities</h3> <p><strong>Blood Scent</strong><br> A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell demons, fey, and sorcerers with blood as a precise sense at a range of 30 feet.</p> <p><strong>Vulnerability to Supernatural Darkness</strong><br> Whenever the mandragora swarm begins its turn in an area of magical darkness, it is slowed 1 on that turn.</p> <p><strong>Mandragora Venom</strong> (poison)<br> <strong>Saving Throw</strong> DC 20 Fortitude<br> <strong>Maximum Duration</strong> 6 rounds<br> <strong>Stage 1</strong> 1d6 poison damage and Stupefied 1 (1 round)<br> <strong>Stage 2</strong> 1d6 poison damage, Confused, and Stupefied 1 (1 round)<br> <strong>Stage 3</strong> 2d6 poison damage, Confused, and Stupefied 1 (1 round)</p> </div>
 
 ## J3d. The First Floor
 The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
@@ -787,40 +611,36 @@ Revise the description of this area to read as follows:
 <p>At the center of the room, between the wooden walkways, stands a broken wagon with a gnarled, misshapen tree growing through a hole at its center. Blood oozes like sap from its twisted trunk, which rises through and fills a large hole in the ceiling.</p>
 </div>
 
-The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immunity to bludgeoning, piercing, and psychic damage. The druids planted it here to prevent the Martikovs from returning to the winery, and hope to nurture it until it can produce blights of its own.
+The tree is a **young Gulthias tree** and it uses statblock of [Elite Scythe Tree](https://2e.aonprd.com/Monsters.aspx?ID=797) but give it Vampiric Mist's Blood Siphon feature and Regeneration 13 (stopped by Fire or Holy). The druids planted it here to prevent the Martikovs from returning to the winery, and hope to nurture it until it can produce blights of its own. Currently, the tree is too weak to act on its own. Instead, it's controlled with Gulthias Stuff by Lorghoth from the upper floor.
 
-Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+Five **[Assassin Vines](https://2e.aonprd.com/Monsters.aspx?ID=555)** lurk atop the wooden walkway on the western side, disguised as tangles of vines. The vines attack anyone who harms the Gulthias tree.
 
 > [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bloody** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 46% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Severe** combat encounter against a party of four 6th-level players, one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * ***Three Players.*** Reduce the number of vine blights to three.
-> * ***Five Players.*** Reduce the number of vine blights to four.
-> * ***Six Players.*** Increase the number of vine blights to six. Increase the number of twig blights to six.
-
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
-
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Reflex saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Fortitude saving throw or be poisoned until the start of its next turn.
+> * ***Five Players.*** Increase the number of vine blights to six.
+> * ***Six Players.*** Make the vines Elite.
 ### Barrel Storage
 <span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
 
-The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
+The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three [Healing Potions (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943), a [Invisibility Potion](https://2e.aonprd.com/Equipment.aspx?ID=2944), and a pouch containing 75 gp.
 ## J3e. The Second Floor
 The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20, Printing Press (p. 179)</span>. 
 
-However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
+However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** (use any plant based Hazard you can find on https://2e.aonprd.com - something with Carnivorous in a name) and obstructed from the far side, requiring a successful DC 30 Athletics check to Force Open.
 
 When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
 ### Printing Press
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
 
-The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by two **[Elite Assassin Vines](https://2e.aonprd.com/Monsters.aspx?ID=555)** . The druid and blights attack the players on sight.
 
 > [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **bruising** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Moderate** combat encounter against a party of four 6th-level players, one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * ***Three Players.*** Reduce the number of vine blights to one.
-> * ***Five Players.*** Reduce the number of vine blights to two.
+> * ***Five Players.*** Increase the number of vine blights to three.
 > * ***Six Players.*** Increase the number of vine blights to four.
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
@@ -834,13 +654,15 @@ This area is largely as described in <span class="citation">W16. Loading Winch (
 <p>As you watch, the man waves the staff toward the dead tree, which groans, bark snapping and splintering, as its branches rustle and its trunk grows slightly taller.</p>
 </div>
 
-The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
+The two artificial birds are **greater strixes.** The man is Lorghoth the Decayer. 
 
-* ***Legendary Resistance (1/day).*** If Lorghoth would fail a saving throw, he can choose to succeed instead.
-* ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+<div class="statblock"> <h2>Lorghof the Decayer - Creature 8</h2> <em>Medium humanoid (human, mythic, evil)</em> <hr> <strong>Perception</strong> +18<br> <strong>Languages</strong> Common<br> <strong>Skills</strong> Deception +20, Diplomacy +18, Nature +21, Religion +18, Society +16, Ludovica Lore +16<br> <strong>Str</strong> +1, <strong>Dex</strong> +3, <strong>Con</strong> +0, <strong>Int</strong> +2, <strong>Wis</strong> +4, <strong>Cha</strong> +4 <hr> <strong>AC</strong> 25<br> <strong>HP</strong> 140 (crystal vitality link)<br> <strong>Saving Throws</strong> Fort +14, Ref +16, Will +18<br> <strong>Speed</strong> 25 feet <hr> <h3>Melee Attacks</h3> <p><strong>➔ Dagger</strong> +18 [agile, finesse, magical, versatile S], <strong>Damage</strong> 2d4+7 piercing plus 1d6 mental and 1d6 bleed</p> <p><strong>➔ Gulthias Staff</strong> +19 [magical, staff, two-hand-d8], <strong>Damage</strong> 3d4+4 bludgeoning</p> <h3>Ranged Attacks</h3> <p><strong>➔ Dagger</strong> +18 [agile, magical, thrown-10, versatile S], <strong>Damage</strong> 2d4+7 piercing plus 1d6 mental and 1d6 bleed</p> <hr> <h3>Mythic Abilities</h3> <p><strong>(Mythic) Master of Blights</strong> ◆<br> Lorghoth can use the Gulthias staff to summon and command any blights within a 1-mile radius.</p> <p><strong>(Mythic) Recharge Spell</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> A mythic caster of any level gains the Recharge mythic power action for spells.</p> <p><strong>(Mythic) Remove a Condition</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> The creature ends one condition affecting it.</p> <p><strong>(Mythic) Mythic Resilience</strong> (passive)<br> Lorghof treats his saving throws as one degree of success better than rolled. This is not cumulative with other effects that change degree of success (except natural 1 or 20).</p>  <hr> <h3>Spellcasting</h3> <p><strong>Primal Prepared Spells</strong> DC 26, attack +18</p> <p><strong>4th (3 slots)</strong> draw the lightning, freedom of movement, murderous vine</p> <p><strong>3rd (3 slots)</strong> heal, lightning bolt, mind of menace*</p> <p><strong>2nd (3 slots)</strong> entangle, glitterdust, tree shape</p> <p><strong>Cantrips (5th)</strong> electric arc, guidance, message, void warp, tanglefoot</p> <p>* Indicates the spell has been expended</p> <hr> <h3>Inventory</h3> <ul> <li>Gulthias Staff</li> <li>Dagger (striking)</li> <li>Druid Robes</li> </ul> </div>
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+<div class="itemblock"> <h3>Gulthias Staff (Rare)</h3> <p>Made from the branch of a Gulthias tree, this spongy, black length of wood makes beasts visibly uncomfortable while within 30 feet. The wielder gains a +2 circumstance bonus to Nature checks to identify plants.</p> <p><strong>Critical Hit Effect:</strong> You deal an additional 1d6 persistent bleed damage, but you also take 1d6 persistent bleed damage. You take a –2 penalty to the flat check to remove this bleed damage.</p> <p><strong>Curse:</strong> Once the curse activates after the first critical hit, the weapon fuses to you. While you can sheathe it outside of combat, it appears in your hand when a fight begins and can't be sheathed while there is an enemy you can perceive.</p> <p>When you succeed at removing the bleed damage, you are exposed to Gulthias's ruin as the injury site becomes inflamed and discolored.</p> 
+<p>If the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard out to a range of 1-mile. All blights that can hear the scream immediately wither and die.</p><p><strong>Spells:</strong> The staff can be used to cast the following spells: <ul> <li>Cantrip: puff of poison</li> <li>1st: protector tree, summon plant or fungus</li> <li>2nd: protector tree, summon plant or fungus, one with plants</li> <li>3rd: protector tree, stinking cloud, summon plant or fungus, wall of thorns</li> </ul> <p><strong>Gulthias's Ruin</strong> (disease, unholy)<br> <strong>Saving Throw</strong> DC 26 Fortitude<br> <strong>Onset</strong> 1 hour<br> <strong>Stage 1</strong> enfeebled 1 (1 day)<br> <strong>Stage 2</strong> enfeebled 2, fatigued, and 1d6 spirit damage each time you would take persistent bleed damage (1 week)<br> <strong>Stage 3</strong> as stage 2, but spirit damage increases to 2d6 (1 week)<br> <strong>Stage 4</strong> enfeebled 3, fatigued, and 4d6 spirit damage each time you would take persistent bleed damage (1 week)<br> <strong>Stage 5</strong> death</p> </div>
+
+The staff has Hardness 10, HP 40, and BT 20.
+Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
 > [!info]+ **Strix Statistics**
 > A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
@@ -859,13 +681,13 @@ If the players speak with him, Lorghoth is glad to share the following informati
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
 > [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bloody** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 61% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Extreme** combat encounter against a party of four 6th-level players, one Level 4 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
-> * ***Five Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
-> * ***Six Players.*** Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Three Players.*** Apply Weak to the two **greater strix**.
+> * ***Five Players.*** Add one more **greater strix**.
+> * ***Six Players.*** Add two more **greater strix**.
 
-On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
+On his first turn in combat, Lorghoth uses his _**master of blights**_ action to summon the horde of thirty **needle blights** from the vineyard (use [Harvest Regiment](https://2e.aonprd.com/Monsters.aspx?ID=2683) statblock but replace attacks with needle/spikes flavor). Read:
 
 <div class="description">
 <p>The man raises his staff to the thundering sky and shrieks, “Nature, heed my will, for I have the Shadowed Lord’s staff!"</p>
@@ -874,7 +696,7 @@ On his first turn in combat, Lorghoth uses his _**master of blights**_ feature t
 
 The needle blights reach the winery after two rounds, and reach Lorghoth’s chamber after an additional two rounds. (Due to the walls around the room, the blights can’t attack until they reach the chamber.)
 
-Lorghoth uses his _**guardian of the Gulthias**_ feature at the first available opportunity after having used his _**master of blights**_ feature.
+Lorghoth uses his _**Unfettered Movement**_ spell at the first available opportunity after having used his _**master of blights**_ feature. Then he **Draws the Lightning** and casts **Murderous Vine** if there's a good opportunity.
 
 On the strixes’ second turn in combat, the third **greater strix** appears in the skies overhead, one hundred and sixty feet above the winery. Before it can attack, four **swarms of ravens** rise from the grove to the north to surround and attack it, distracting the strix and obstructing its advance.
 
@@ -887,7 +709,7 @@ When the players break Lorghoth’s staff, read:
 <p>At the center of the room, the bark of the dead, gnarled tree begins to boil and melt, the trunk collapsing in upon itself until there's nothing left but a pool of thick, grayish sludge. With a final, wheezing wail, the staff disintegrates, leaving behind a stream of fine, gray ash that wisps away on the wind.</p>
 </div>
 
-The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
+The two strix fight until one have been destroyed and the other put to Bloodied or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
 
 The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
 
@@ -971,7 +793,7 @@ When she does, read:
 
 ![[Kavan.png]]
 <span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
+Muriel introduces the spirit as the **ghost** of Kavan (use [Ghost Commoner](https://2e.aonprd.com/Monsters.aspx?ID=3007) statblock scaled to Level 10), an ancestor of the Mountain Folk, and introduces the players by name.
 
 > [!lore]+ **Kavan's Legacy**
 > Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
@@ -992,7 +814,7 @@ Once the players have introduced themselves, Muriel begins by informing Kavan th
 <p>You hear a rustling from the woods behind you, and the ravens above you shuffle uneasily. The spirit’s gaze snaps to a point across your shoulders and he holds up a hand, his grip tightening around the haft of his spear. “Hold, Muriel Vinshaw," he murmurs. “We are not alone. Something watches us from the shadows."</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoid silhouette flicker in the trees before vanishing amidst the darkness. (The silhouette is Strahd, but cannot be recognized in the darkness.)
+A player who succeeds on a DC 24 Perception check sees a humanoid silhouette flicker in the trees before vanishing amidst the darkness. (The silhouette is Strahd, but cannot be recognized in the darkness.)
 
 > [!abstract]+ **Investigating the Silhouette**
 > If a player investigates the place where the silhouette appeared, read:
@@ -1050,7 +872,7 @@ As the players depart, or if they have additional questions about Kavan, the For
 > [!abstract]+ **Kavan's Shame**
 > If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
 ## J4b. The Nightmare
-After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **nightmare**, Beucephalus. Read:
+After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **[Greater Nightmare](https://2e.aonprd.com/Monsters.aspx?ID=3106)**, Beucephalus. Read:
 
 <div class="description">
 <p>"Good evening," echoes a voice from ahead of you, "or, perhaps, good morning?"</p>
@@ -1061,9 +883,10 @@ After departing Kavan’s cairn, the players can return to the path and continue
 
 Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
 
-* ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
+* ***Ethereal Stride.*** Casts Ethereal Jaunt at will for himself and his rider.
+* ***Ethereal Escape (Recharge 1d4 rounds).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
 
-The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
+The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it (cast Electric Arc - 5th Rank).
 
 ![[Strahd and Beucephalus.png]]
 <span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1141,16 +964,19 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 <p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
 </div>
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers (use [Elite Minotaur Hunter](https://2e.aonprd.com/NPCs.aspx?ID=3099) statblock but give it Reactive Strike feature and make it Medium or leave it as Large if you go Mythic).** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+
+> [!combat]- **Mythic Adjustment**
+>  I suggest making all druids Mythic, so party has enough Mythic point for Ludmilla fight.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **Severe** combat encounter against a party of four 6th-level players, one Level 4 ally (Ireena Kolyana), and one Level 5 ally (Muriel Vinshaw). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Five Players.*** Reduce the number of berserkers to one.
-> * ***Six Players.*** Increase the number of berserkers to three.
+> * ***Five Players.*** Increase the number of druid assailants to three.
+> * ***Six Players.*** Increase the number of berserkers and druid assailants to three.
 
-A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
+A player who succeeds on a DC 24 Perception check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
 ## J5b. Ludmilla's Challenge
 Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
 
@@ -1185,7 +1011,7 @@ Ludmilla then greets the players. If they have previously defeated Volenta in [[
 
 As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
-Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
+Ludmilla flees if attacked, using her ***Translocate*** spell to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
 
 Otherwise, Ludmilla can share the following information if asked:
 
@@ -1210,20 +1036,20 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > [!info]+ **Completing the Ritual**
 > To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. On each round that fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
 >
-> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Fortitude saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 22 Fortitude basic saving throw or take 10 (3d6) lightning damage and become Stunned 1 or Stunned 2 on a critical failure.
 >
-> The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
+> The second time this lightning is triggered, the damage increases to 14 (4d6) lightning damage. The th ird time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
 
 > [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> If the druids successfully complete the ritual, the **[Elite Arboreal Regent](https://2e.aonprd.com/Monsters.aspx?ID=2831) (make it Mythic or even Mythic Brute if you play with the rules)** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
 >
 > If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
 >
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
+> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 22 Stealth check to retrieve their belongings without awakening Svarog or his berserker guardians.
 >
-> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
+> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has the same characteristics as [3rd Rank Tether](https://2e.aonprd.com/Spells.aspx?ID=591) spell with Spell DC 23 but also it regenerates 13 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
 >
-> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Fortitude saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
+> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 22 Fortitude saving throw or become Drained 1 (Drained 2 on a critical failure).
 ## J5d. The Druidic Guards
 Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
 <br>
@@ -1236,9 +1062,22 @@ Immediately after the ritual begins, the two **druid assailants** and two **bers
 ## J5e. Ludmilla's Barricade
 Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
 ### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.)
+The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require sustaining.)
 
-A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Fortitude saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Reflex saving throws.)
+----
+**Complexity** Simple
+**Stealth** DC 25 (trained)
+**Description** This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist.
+
+----
+**Disable** DC 27 Occultist (master) to counteract the occult magic or DC 29 Acrobatics or Athletics (expert) to push through the magical mist
+
+**Stop Them!** ↻ (force, void, occult) **Trigger** A non-undead creature that comes into contact with the mist's boundary for the first time on a turn; **Effect** Mist tries to stop them. Creature must attempt a DC 25 Fortitude save to avoid becoming hindered or harmed by the Shroud of Mist.
+
+**Critical Success** The target is unaffected.  
+**Success** The target is slowed 1 for 1 round.  
+**Failure** The target is slowed 2 for 1 round and takes 2d10+10 void damage.  
+**Critical Failure** The target is slowed 2 for 1 round and takes 4d10+15 void damage.
 
 > [!info]+ **Laying Out the Battlefield**
 > Once the players move through the ring of mist, the structure of the battlefield is as follows:
@@ -1258,24 +1097,18 @@ The first time that a player passes through Ludmilla’s shroud of mist, read:
 
 The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
 
-If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
+If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the void damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
 
-The statistics of the wall of roots are as follows:
+The wall of roots has these the following features:
 
-* ***Wall Segments.*** The wall of roots is composed of interconnected segments of black roots. Each segment is five feet tall, five feet wide, and five feet deep, and has AC 15 and 20 hit points, as well as vulnerability to radiant damage and immunity to piercing and psychic damage. Each segment has +3 to Strength and Fortitude saving throws and automatically fails all Dexterity, Intelligence, Wisdom, and Will saving throws. A segment of roots provides full cover and can't be seen through.
-* ***Segment Regeneration.*** A wall segment regains 10 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes radiant or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
-* ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 17 Reflex saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grappled by the roots (escape DC 17) and takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 15, 10 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
-
-> [!info]+ **Spirit Guardians**
-> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
-
-> [!info]+ **Moving Through the Wall**
-> A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Reflex saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+* ***Wall Segments.*** Each 30-foot-by-5-foot section of the wall has AC 18, Hardness 5, and 13 Hit Points. It's immune to critical hits and precision damage. A destroyed section can be moved through freely. And it is Greater Difficult terrain. A segment of roots provides full cover and can't be seen through. For every move action a creature uses to enter at least one of the wall's spaces, that creature takes 3d4 piercing damage.
+* ***Segment Regeneration.*** A wall segment regains 13 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes holy or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
+* ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 22 Reflex saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grabbed until it Escapes (DC 22) and takes 8d4+12 piecing damage. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 18, 13 hit points, weakness 5 to holy and fire damage.
 
 > [!info]+ **Flying Over the Wall**
-> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Reflex saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
+> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed at a DC 22 Reflex save or be grabbed until it Escapes (DC 22) and fall prone to the ground below. (The creature takes falling damage as normal.)
 >
-> While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
+> Also, the creature takes 8d4+12 piecing damage. The roots have AC 18, 13 hit points, weakness 5 to holy and fire damage.
 ### Ludmilla's Provocations
 Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
@@ -1342,16 +1175,16 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 </div>
 
 > [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **mild** combat encounter against a party of four 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **Moderate+** combat encounter against a party of four 6th-level players and Level 4 and 5 allies (Ireena Kolyana and Muriel Vinshaw). For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> * ***Three Players.*** Decrease Ludmilla’s HP to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4).
-> * ***Five Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12).
-> * ***Six Players.*** Increase Ludmilla’s HP to 136.
+> * ***Three Players.*** Scale Ludmilla to 8th level.
+> * ***Five Players.*** Add an Elite Shadow to the battle when she casts Shroud of Shadows.
+> * ***Six Players.*** Add two Elite Shadows to the battle when she casts Shroud of Shadows.
 
-In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
+In combat, Ludmilla prefers to begin by using control spells.
 
-> [!abstract]+ **Hypnotic Pattern**
-> If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
+> [!abstract]+ **Raven's Help**
+> If any players are in trouble (like needs to be awaken or freed, or lost an item) one or more of the **swarms of ravens** descend to help them the best way they can.
 
 On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
 
@@ -1364,7 +1197,7 @@ On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts
 <p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
 </div>
 
-A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Diplomacy check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Diplomacy check to Request. Otherwise, Muriel uses her ***Change Shape*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword***. Read:
 
 <div class="description">
 <p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered, blue-tipped wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
@@ -1379,24 +1212,22 @@ Each time Muriel takes damage from Ludmilla's ***shroud of shadows*** feature, b
 
 Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes the following effects:
 
-* If the square contains a wall segment, it regains 10 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
-* If the square previously contained a wall segment but is now empty, that square gains the effects of a *spike growth* spell.
-* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
+* If the square contains a wall segment, it regains 13 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
+* If the square previously contained a wall segment but is now empty, that square gains the effects of 5e's a *spike growth* spell (The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 3d4 Piercing damage for every 5 feet it travels.).
+* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 7 hit points.
 
-A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Diplomacy check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
+A player can persuade Muriel to cease attacking Ludmilla with a DC 27 Diplomacy check to Request, with +2 Circumstance Bonus if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
 ## J5f. Stopping the Ritual
 The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle.
 
-The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue.
+The druids must use their actions each turn to chant the words of the ritual, which requires them to spend a Sustain action, as if sustaining a spell. While chanting in this way, the druids can't use reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue.
 
 When the players first enter the circle, the thirteenth druid, Svarog, ceases chanting and enters combat. Roll initiative for Svarog.
 
-Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
+Svarog has the next stat block:
 
-* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
-* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
 
-The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed.
+The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 130 hit points and Hardness 10. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and Hardness 5, 13 hit points, object immunities, immunity to poison and critical hits. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed.
 
 If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
 
@@ -1407,11 +1238,11 @@ If the ritual is permanently disrupted (see **The Ritual Begins** above) or if t
 
 In the round following the ritual's disruption, the following events occur:
 
-* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a DC 10 Reflex saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
+* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a basic DC 22 Reflex saving throw or take 2d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, makes the saving throw and takes 6d6 bludgeoning damage and is knocked prone and restrained by the fallen statue.
 * On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
-* On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Fortitude saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
+* On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a basic DC 27 Fortitude saving throw, taking 56 (16d6) lightning damage.
 
-In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
+In addition, if still present on her next turn, Ludmilla uses her action to use her ***translocate*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
 
 > [!abstract]+ **Strahd’s Wager**
 > If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward <span class="citation">Y5. Wall of Fog (p. 200)</span>, nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
@@ -1480,18 +1311,18 @@ If the players ask about the nature of the spark Strahd holds, he holds it up to
 
 When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
 
-> [!item]+ **Twilight Crest**
-> _Uncommon wondrous item_
-> 
+> [!item]+ **Twilight Crest** - 9
+> _Rare Magical Divine Invested_
+>
 > This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
 >
 > The crest has 3 charges, and regains 1 charge at dawn. 
 >
-> During the day, the crest's wielder can spend 1 charge as an action to cast *aid*.
+> During the day, the crest's wielder can spend 1 charge as an action to cast *Bless*.
 >
-> At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
+> At night, the crest's wielder can spend 1 charge as an action to cast *Bane*. When cast in this way, the emanation take the form of shadowy, ash-like moths.
 >
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+> The wielder can spend all 3 charges as an action at any time of day to cast _[Whispers of the Void](https://2e.aonprd.com/Spells.aspx?ID=2046)_ (Fortitude save DC 26). If they do, the crest doesn’t regain charges for the next three dawns.
 
 ![[Twilight_Crest.png]]
 
@@ -1509,7 +1340,7 @@ These megaliths demarcate the boundaries of the Forest Fane: the shrine to the H
 
 A large, cavernous hollow at the base of the Gulthias tree conceals a five-foot diameter stone of smooth, black onyx half-buried amidst the tree’s roots. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
 
-One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
+One minute after the players enter the grove, their presence draws the attention of **horde of needle blights** (similar to the one at the Winery), which emerge from the undergrowth around the tree. The following round, the needle blights are joined by two **Arboreal Wardens**. And on the third round two **swarms of mandragors** join them. If the players remain within the grove, all of the blights attack the following round.
 # J7. Return to the Winery
 ## J7a. Kavan’s Tale
 If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
@@ -1517,7 +1348,7 @@ If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kava
 * Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
 * The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
 
-Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
+Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 22 Deception check in order to successfully lie to Kavan.) 
 
 Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
 
@@ -1569,7 +1400,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 500 XP.
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 500 XP. So they should gain a 7th level.
 
 > [!item]+ **Keeper's Whistle**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
