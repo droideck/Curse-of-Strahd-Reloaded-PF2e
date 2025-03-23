@@ -74,7 +74,11 @@ This area is largely as described in <span class="citation">Q13. Chapel of Morni
 <p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
 </div>
 
-This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span> If the players approach, interact with, or otherwise make themselves known to him, read:
+This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span>
+
+For the stat block, use [Graveknights scaled to 10th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
+
+If the players approach, interact with, or otherwise make themselves known to him, read:
 
 <div class="description">
 <p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
@@ -912,7 +916,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
 
 > [!combat]+ **Balancing the Commander** 
-> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 7th-level players, a Level 5 ally (Ireena Kolyana), a Level 6 ally (Ezmerelda d’Avenir), and a Level 2 ally (Zorya). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this is a series of two consecutive **Extreme** combat encounters against a party of four 7th-level players, a Level 5 ally (Ireena Kolyana), a Level 6 ally (Ezmerelda d’Avenir), and a Level 2 ally (Zorya). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Apply weak template to second phase. 
 > * **Four Players**. He summons three phantom knights instead of two.
 > * **Six Players**. He summons four phantom knights instead of two. Make second phase Elite.

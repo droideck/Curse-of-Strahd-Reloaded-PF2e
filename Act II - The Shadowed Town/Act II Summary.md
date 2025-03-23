@@ -8,7 +8,7 @@ Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine
 
 Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
 # Milestones
-The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
+The players begin this act at 4th level and end it at 6th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
 * restore the bones of St. Andral (350 XP)
 * find the missing Arabelle (350 XP)

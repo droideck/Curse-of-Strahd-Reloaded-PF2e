@@ -355,9 +355,9 @@ The youth, who appears to be no more than nineteen or twenty years of age and re
 Once awoken, the youth—who asks the players to call him Ithuriel, rather than the Abbot—expresses momentary disorientation as the shard of divinity gradually integrates his memories and sense of self.
 
 > [!info]+ **Ithuriel, Restored**
-> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, creature type, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+> Ithuriel uses the statistics of a **Ithuriel, The Dawnbringer**, but with a **raise dead** spell available once per day, but no more than three times per year.
 >
-> When first restored, Ithuriel awakens with 1 hit point and four levels of exhaustion.
+> When first restored, Ithuriel awakens with 1 hit point and the effects of **raise dead** spell.
 
 Ithuriel is deeply grateful to the players, and bows deeply before them in gratitude for their kindness and mercy.
 
@@ -416,7 +416,7 @@ If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's 
 Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
 
 > [!item]+ **Water of the White Sun**
-> As an action, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *lesser restoration* spell.
+> As a two-action activity, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *[Restoration](https://2e.aonprd.com/Spells.aspx?ID=258)* spell.
 ### Cleansing of the White Sun
 Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an amber shard’s corruption, St. Markovia addresses that player personally. Read:
 
@@ -507,12 +507,12 @@ If Emil Toranescu is accompanying the players, his hand tightens into a fist at 
 ## Q5b. Kiril’s Challenge
 
 > [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
+> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd rank, or any attack or spell that doesn’t deal void damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
 >
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals void damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
 
 > [!info]+ **Moonbeam**
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
+> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, nothing can cause him to revert to his human form.
 
 When the players first approach Kiril, or vice-versa, read:
 
@@ -724,6 +724,8 @@ When the players first return to Argynvostholt after retrieving Argynvost’s sk
 * If they return to Argynvostholt before midnight, two revenants are present in the foyer.
 * Otherwise, three revenants are present in the foyer.
 
+Use [Graveknights scaled to 9th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
+
 Read the following, modifying the text as needed depending on the number of revenants present:
 
 <div class="description">
@@ -734,9 +736,10 @@ Read the following, modifying the text as needed depending on the number of reve
 </div>
 
 > [!combat]- **Balancing the Return to the Foyer**
-> This combat encounter is a **bloody** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 44% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **Severe+** combat encounter against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller sizes, modify the encounter as follows:
+> 
 > * **Three Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
-> * **Four Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
+> * **Five Players**. Increase the number of revenants in the foyer by one.
 
 The revenants then attack.
 

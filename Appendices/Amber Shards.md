@@ -17,6 +17,8 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 
 > [!info]+ **Pathfinder 2e Mythic Rules**
 > This campaign uses the Pathfinder 2e War of Immortals [alternative](https://downloads.paizo.com/PZO12006AlternateMythicRules.pdf) [Mythic Rules](https://2e.aonprd.com/Rules.aspx?ID=3320). The vestiges serve as the source of mythic power, acting as patrons who grant Callings and eventually Destinies to those who accept their gifts. While the vestiges oppose Strahd, their methods and goals are often questionable, representing the complex morality reminiscent of the gods in Pillars of Eternity.
+> 
+> The stages below are equal Mythic Tiers.
 
 # Mythic Progression Through the Shards
 
@@ -27,16 +29,17 @@ When a character possessing an amber shard reaches dying 4 (or at another dramat
 ## Stages 1-3 - Awakening Power
 
 During these stages, the character begins to manifest mythic abilities according to their Calling, but communication with their vestige patron is limited and cryptic. The shard's power grows alongside the character's mythic tier, granting access to mythic feats and abilities as per the War of Immortals rules.
+In Stage 3, the character gets an Unholy trait.
 
 ## Stages 4-5 - The Vestige Speaks
 
 The vestige becomes more active in communicating with their chosen, revealing more of their true nature and goals. They begin actively encouraging the character to seek out the Amber Temple, promising greater power through a mythic Destiny. These conversations should reveal the complex motivations of the vestiges - their opposition to Strahd is genuine, but their methods may be troubling.
-This stage presents some minor but noticeable body changes.
+This stage presents some minor but noticeable body and ability changes. Consider using [Blighted Boons](https://2e.aonprd.com/Equipment.aspx?Category=104) (but make it less powerful - remove fast healing, etc.), or [Aftermath Feats](https://2e.aonprd.com/Feats.aspx?Traits=424), or [Deviant Abilities](https://2e.aonprd.com/DeviantFeats.aspx).
 
 ## Stages 6-7 - The Price of Power
 
 These represent the maximum achievable tiers in the campaign. Characters who accept their vestige's offered Destiny gain tremendous power but face a dark fate. Players must understand and accept OOC that reaching these stages means their character will likely be lost to darkness after the campaign's conclusion. This should be roleplayed as a tragic fall in service of a greater purpose.
-The person's body changes drastically according to the patron's theme.
+The person's body changes drastically according to the patron's theme. It might include more powerful [Blighted Boons](https://2e.aonprd.com/Equipment.aspx?Category=104) but, in the Epilogue, the character will be lost and it will become something else.
 # Vestiges as Patrons
 
 Each vestige should:

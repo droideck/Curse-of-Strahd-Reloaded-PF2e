@@ -206,7 +206,8 @@ With Strahd newly awoken, however, a wave of despair has swept across the valley
 ## The Coven of Mother Night
 Though most Barovians worship the Morninglord in public, a precious few scorn his faith and instead turn their worship to Mother Night, seeking safety, power, or simple vengeance. Witches and werewolves comprise the bulk of Mother Night’s followers, though some ordinary Barovians build secret shrines to her, joining in profane fellowship with the creatures of night.
 
-> [!lore]+ **Pathfinder 2e Option**  
+
+> [!lore]+ **Mother Night - Pathfinder 2e Deity**  
 > **Edicts:** embrace the darkness, keep secrets, nurture nocturnal creatures, practice divination 
 > **Anathema:** reveal hidden truths unnecessarily, harm lycanthropes without cause, bring light to places of darkness, betray the coven 
 > **Areas of Concern:** night, witchcraft, foresight, lycanthropy
@@ -218,7 +219,7 @@ Though most Barovians worship the Morninglord in public, a precious few scorn hi
 > **Favored Weapon:** sickle 
 > **Domains:** darkness, fate, magic, secrecy 
 > **Alternate Domains:** moon, trickery 
-> **Cleric Spells:** 1st: *fear*, 3rd: *beast form*, 5th: *shadow walk*
+> **Cleric Spells:** 1st: *[Lose the Path](https://2e.aonprd.com/Spells.aspx?ID=940)*, 3rd: *[Clairaudience](https://2e.aonprd.com/Spells.aspx?ID=1465)*, 5th: *[Shadow Blast](https://2e.aonprd.com/Spells.aspx?ID=1666)*
 ## The Cult of Ezra
 Some Barovians are neither wholly satisfied with the faith of the Morninglord nor depraved enough to seek the blessings of Mother Night. In their eyes, the Morninglord is a powerless or craven deity, unable to save his own worshippers or even raise a single sunrise, while Mother Night is a cruel and savage being, too dangerous to acknowledge or worship.
 
@@ -251,6 +252,7 @@ The Mountain Folk still remember, though, that the Weaver’s holy place was the
 They remember that the Seeker was a goddess of foresight, prophecy, and storms, her sigil a raven’s eye, ever-searching. They remember that the Weaver was a goddess of resilience, craftsmanship, and care, her sigil a spider’s delicate web. They remember, too, that the Huntress was a goddess of beasts, wild places, and war, her sigil a sharpened wolf’s tooth.
 
 Together, this trinity oversaw each life that was born in the valley: the Seeker, forging the threads of fate that would bind them together; the Weaver, spinning those threads into a lush and vibrant tapestry; and the Huntress, cutting each thread at its appointed time, and ushering its soul into death.
+
 > [!lore]+ **Pathfinder 2e Option**s 
 > ## The Weaver
 > 

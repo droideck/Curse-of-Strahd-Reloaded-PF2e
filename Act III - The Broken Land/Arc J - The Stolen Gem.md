@@ -467,6 +467,9 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 <h3>Reactive Abilities</h3>
 <p><strong>Gift of the Gulthias</strong> ↻ <br>
 In response to being attacked by a creature it can see, the druid casts Oaken Resilience, provided it has a 2nd-level spell slot available.</p>
+**Trigger** A 1st- or higher-level Gulthia blight is killed within 30 feet of him
+<p><strong>Blessing of the Gulthias</strong> ↻ <br>
+In response to a blight or berserker's death in 30 ft, the druid heals 1d6 Hit Points per level of the died creature (gaining excess as temporary Hit Points). His AC increases to 22.</p>
 <hr>
 <h3>Spellcasting</h3>
 <p><strong>Primal Prepared Spells</strong> DC 23, attack +17<br>
@@ -860,14 +863,14 @@ At Muriel’s request, Kavan can share the following information about the Fores
 * The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
 * Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
 * Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
-* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
+* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that holyness burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
 * There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
 
 Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
 
 Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
 
-As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
+As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand (use any wand you want - as an option, [Wand of Hawthorn (2nd-Level Spell)](https://2e.aonprd.com/Equipment.aspx?ID=2279) would work nicely), which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
 
 > [!abstract]+ **Kavan's Shame**
 > If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
@@ -964,7 +967,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 <p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
 </div>
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers (use [Elite Minotaur Hunter](https://2e.aonprd.com/NPCs.aspx?ID=3099) statblock but give it Reactive Strike feature and make it Medium or leave it as Large if you go Mythic).** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** (allow them to use **Blessing of the Gulthias** when a berserker dies too) and two **berserkers (use [Elite Minotaur Hunter](https://2e.aonprd.com/NPCs.aspx?ID=3099) statblock but give it Reactive Strike feature and make it Medium or leave it as Large if you go Mythic).** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Mythic Adjustment**
 >  I suggest making all druids Mythic, so party has enough Mythic point for Ludmilla fight.
@@ -1095,7 +1098,7 @@ The first time that a player passes through Ludmilla’s shroud of mist, read:
 <p>Thorns—long, wicked, and sharp—erupt from the roots' edges, even as droplets of crimson blood bead upon the roots' soft, spongy surfaces. The roots themselves grow vertically, twisting and intertwining, until they form a wall of dark, impenetrable foliage thirty feet high and fifteen feet deep. Black roots pierce from its sides and rise into the air above it, where they tremble and writhe like slick, muddy tendrils.</p>
 </div>
 
-The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
+The druid is Svarog, and the wand that he wields is the one mentioned by Kavan ([Wand of Hawthorn (2nd-Level Spell)](https://2e.aonprd.com/Equipment.aspx?ID=2279)?). 
 
 If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the void damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
 
@@ -1113,66 +1116,110 @@ The wall of roots has these the following features:
 Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
 <div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
-    <hr>
-    <strong>Armor Class</strong> 15 (natural armor)
-    <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
-    <br>
-    <strong>Speed</strong> 30 ft., climb 20 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>18 (+4)</td>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> passive Perception 13<br>
-    <strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
-    <strong>Challenge Rating</strong> 8<br>
-    <strong>Proficiency Bonus</strong> +3
-    <hr>
-    <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Fortitude saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
+<h2>Ludmilla - Creature 9</h2>
+<em>Medium undead, vampire, unholy</em>
+<hr>
+<strong>Perception</strong> +20; greater darkvision<br>
+<strong>Languages</strong> Common, Necril<br>
+<strong>Skills</strong> Acrobatics +17, Arcana +21, Athletics +18, Deception +20, Diplomacy +20, Intimidation +22, Society +19, Stealth +19<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>+3</td>
+      <td>+4</td>
+      <td>+1</td>
+      <td>+6</td>
+      <td>+4</td>
+      <td>+5</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>AC</strong> 27<br>
+<strong>Saving Throws</strong> Fortitude +15, Reflex +18, Will +20<br>
+<strong>HP</strong> 115; fast healing 15, void healing<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
+<strong>Speed</strong> 25 feet, climb 25 feet<br>
+<hr>
+<h3>Melee Attacks</h3>
+<p><strong>Claw</strong> ◆ +18 [agile], <strong>Damage</strong> 2d8+9 slashing plus grab</p>
+<hr>
+<h3>Active Abilities</h3>
+<p><strong>Counterspell</strong> ↻ <br>
+<strong>Trigger</strong> A creature casts a spell Ludmilla has prepared.<br>
+<strong>Effect</strong> Ludmilla expends a prepared spell to counter the triggering creature's casting of that same spell. She loses its spell slot as if she had cast the triggering spell. She then attempts to counteract the triggering spell.</p>
+<p><strong>Mage's Reprisal</strong> ↻ <br>
+In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 29 basic Fortitude save or take 3d6 force damage.</p>
+<p><strong>Drain Blood</strong> ◆ (divine)<br>
+<strong>Requirement</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
+<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 2 and the vampire regains 10 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a Medicine DC 20 check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Drain Bonded Item</strong> ◇ (arcane, frequency: once per day)<br>
+<strong>Requirements</strong> The vampire mastermind hasn't acted yet on this turn<br>
+<strong>Effect</strong> The vampire expends the power stored in their signet ring. This gives the vampire the ability to cast one prepared spell they had already previously cast today without spending a spell slot. The vampire must still Cast the Spell and meet the spell's other requirements.</p>
+<p><strong>Misty Translocate Escape</strong> ◇<br>
+<strong>Trigger</strong> Ludmilla is reduced to 0 HP.<br>
+<strong>Effect</strong>: A contingency-like spell activates, allowing her to gain the effects of Translocate 5th Rank. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
+<p><strong>Grab</strong> ◆<br>
+As per the standard Grab action.</p>
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Fast Healing 15</strong><br>
+The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong>Form of Mist</strong> (divine, void)<br>
+When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<p><strong>Steady Spellcasting</strong><br>
+If another creature's reaction would disrupt the vampire mastermind's spellcasting action, the vampire attempts a DC 15 flat check. If the vampire succeeds, their action isn't disrupted.</p>
+<p><strong>Vampire Vulnerabilities</strong><br>
+All vampires possess the following vulnerabilities.
+<ul>
+<li><strong>Forbiddance</strong>. The vampire can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed</strong> by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+<p><strong>Void Healing</strong><br>
+Negative healing</p>
+<hr>
+<h3>Spellcasting</h3>
+<p><strong>Arcane Prepared Spells</strong> DC 29, attack +19; (focus points: 1)<br>
+<strong>Cantrips (5th):</strong> detect magic, frostbite, message, void warp, telekinetic hand<br>
+<strong>1st (4 slots):</strong> command, dizzying colors, enfeeble, grease<br>
+<strong>2nd (4 slots):</strong> blur, dispel magic, stupefy, mirror image<br>
+<strong>3rd (4 slots):</strong> dispel magic, fireball, haste, hypnotize<br>
+<strong>4th (3 slots):</strong> web, translocate, unfettered movement<br>
+<strong>5th (2 slots):</strong> translocate (used for Misty Translocate Escape), shroud of shadows*<br>
+</p>
+<p>* Shroud of Shadows described below</p>
+<h3>Inventory</h3>
+<ul>
+<li>Signet Ring</li>
+</ul>
 </div>
+#### Shroud of Shadows ◆ 
+_rare, darkness, shadow, unholy_
+
+**Shroud of Shadows** is a rare 5th-level spell with the darkness, shadow and unholy traits. When cast, Ludmilla summons a shroud of shadows around herself that lasts for 8 hours or until Dismissed as an action. While the shroud is active, she gains:
+
+- A flying speed of 50 feet with hover capability
+- 5 resistance to physical damage
+- A reflective damage effect: attackers take the same amount and type of damage that Ludmilla resists
+
+The shroud has specific vulnerabilities:
+
+1. When Ludmilla takes holy damage while the shroud is present, it weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet.
+2. A second instance of holy damage while the shroud is weakened causes it to immediately vanish.
+3. Light effects can counteract the shroud with the same effect as holy damage (using counteract rules described in Light trait).
 
 > [!combat]- **Balancing the Second Bride**
 > This combat encounter is a **Moderate+** combat encounter against a party of four 6th-level players and Level 4 and 5 allies (Ireena Kolyana and Muriel Vinshaw). For parties of smaller or larger sizes, modify the encounter as follows:
@@ -1181,10 +1228,12 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 > * ***Five Players.*** Add an Elite Shadow to the battle when she casts Shroud of Shadows.
 > * ***Six Players.*** Add two Elite Shadows to the battle when she casts Shroud of Shadows.
 
-In combat, Ludmilla prefers to begin by using control spells.
+In combat, Ludmilla prefers to begin by using defence and control spells.
 
 > [!abstract]+ **Raven's Help**
 > If any players are in trouble (like needs to be awaken or freed, or lost an item) one or more of the **swarms of ravens** descend to help them the best way they can.
+> 
+> Consider an option for the ravens to bomb players with [Healing Bombs](https://2e.aonprd.com/Feats.aspx?ID=5773) of [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=3308) or even [Elixir of Life (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=3308) to make the Extreme combat encounter a bit easier. The bombs are enchanted wine.
 
 On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
 
@@ -1226,6 +1275,7 @@ When the players first enter the circle, the thirteenth druid, Svarog, ceases ch
 
 Svarog has the next stat block:
 
+<div class="statblock"> <h2>Svarog - Creature 6</h2> <em>Medium humanoid, evil, human, mythic</em> <hr> <strong>Perception</strong> +16; darkvision<br> <strong>Languages</strong> Common, Grippli<br> <strong>Skills</strong> Acrobatics +14, Athletics +12, Intimidation +12, Nature +14, Occultism +10, Stealth +14<br> <strong>Str</strong> +2, <strong>Dex</strong> +4, <strong>Con</strong> +2, <strong>Int</strong> +0, <strong>Wis</strong> +4, <strong>Cha</strong> +0 <hr> <strong>AC</strong> 23<br> <strong>HP</strong> 95<br> <strong>Saving Throws</strong> Fortitude +12, Reflex +14, Will +16<br> <strong>Speed</strong> 25 feet, climb 20 feet <hr> <h3>Melee Attacks</h3> <p><strong>Staff</strong> ◆ +14 [two-hand-d8], <strong>Damage</strong> 1d4+6 bludgeoning plus Baneback Poison</p> <h3>Ranged Attacks</h3> <p><strong>Dart</strong> ◆ +16 [agile, thrown-20], <strong>Damage</strong> 1d4+6 piercing plus Baneback Poison</p> <hr> <h3>Primal Spontaneous Spells</h3> <p><strong>DC</strong> 24, <strong>Attack</strong> +16<br> <strong>3rd (3 slots)</strong> blindness, paralyze<br> <strong>2nd (3 slots)</strong> dispel magic, entangling flora, vomit swarm<br> <strong>1st (3 slots)</strong> bane, gust of wind, spider sting<br> <strong>Cantrips (5th)</strong> chill touch, forbidding ward, know direction, shield, telekinetic projectile</p> <hr> <h3>Active Abilities</h3> <p><strong>Baneback Poison</strong> (poison)<br> <strong>Saving Throw</strong> DC 24 Fortitude<br> <strong>Maximum Duration</strong> 6 rounds<br> <strong>Stage 1</strong> 2d4 poison damage and Stupefied 1 (1 round)<br> <strong>Stage 2</strong> 3d4 poison damage and Stupefied 2 (1 round)<br> <strong>Stage 3</strong> 4d4 poison damage, Stupefied 3, and Off-Guard (1 round)</p> <p><strong>Bind Elements</strong> ↻ (concentrate, manipulate)<br> <strong>Range</strong> 60 feet<br> When Svarog sees a creature producing a magical effect with the acid, cold, fire, or lightning trait, he can make a counteract check using his spellcasting ability and expending one of his spontaneous slots. On a success, the creature's spell fails and has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use an action on his next turn to fling the orb, making a ranged spell attack (+16 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.</p> <p><strong>Hypnotic Tattoos</strong> ◇<br> <strong>Trigger</strong> A hostile creature targets Svarog with a melee Strike<br> <strong>Effect</strong> Tattoos on Svarog's body swirl and shift in mesmerizing patterns. The creature must attempt a DC 24 Will save.<br> <strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 1 hour.<br> <strong>Success</strong> The creature is unaffected and is temporarily immune for 1 minute.<br> <strong>Failure</strong> The creature treats Svarog as Concealed until the end of its turn.<br> <strong>Critical Failure</strong> The creature treats Svarog as Hidden until the end of its turn.</p> <p><strong>Curse of Baneful Venom</strong> ◆<br> Creatures within 30 feet of Svarog that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a -2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.</p> <hr> <h3>Passive Abilities</h3> <p><strong>Svalich Stride</strong><br> Svarog ignores difficult terrain in forests.</p> <p><strong>Mythic Resilience (Will)</strong><br> Svarog treats his Will saves as one degree of success better than rolled. This is not cumulative with other effects that change degree of success, except for rolling a natural 1 or 20.</p> <hr> <h3>Equipment</h3> <p>Dart (8), Staff, Жезл Сварога (Svarog's Wand)</p> <p><strong>Svarog's Wand</strong> (wand) Carved from a hawthorn branch with a smooth handle but covered in bark and thorns, decorated with polished red stones. Once per day, can cast 2nd-rank Oaken Resilience with an added effect that causes creatures touching the target to take 1d4 piercing damage.</p> </div>
 
 The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 130 hit points and Hardness 10. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and Hardness 5, 13 hit points, object immunities, immunity to poison and critical hits. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed.
 
@@ -1390,14 +1440,14 @@ In gratitude for the players’ efforts in recovering the gem from Yester Hill, 
 
 Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
 
-Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows (Harrow alternative in **brackets**)::
 
 <div class="description">
-<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
-<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
-<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
-<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
-<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+<p>"The Darklord (The Demon's Lantern)—the master of shadows, the beast in the labyrinth that tears at his chains."</p>
+<p>"The Six of Stars, the Evoker (The Cyclone)—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."</p>
+<p>"The Artifact (The Forge)—the token you seek, the key to power. Divinity’s heart waits, but where?"</p>
+<p>"The Innocent (The Cricket). I see a maid of raven hair and twilit eyes. She is one way to the token."</p>
+<p>"But there is another—the Broken One (The Silent Hag). The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
 </div>
 
 ***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 500 XP. So they should gain a 7th level.

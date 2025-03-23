@@ -91,15 +91,15 @@ Whether Ireena is with the party or not, add:
 
 > [!lore]+ **Strahd’s Foretelling**
 >
-> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
+> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune (Harrow alternative in **brackets**):
 >
-> - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
-> - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
-> - "The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?"
-> - "The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token."
-> - "But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."
-> - "The threads of fate yet spin. The Seven of Swords, the Hooded One, is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
-> - "But the One of Stars, the Transmuter, is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
+> - "The Darklord (The Demon's Lantern)—the master of shadows, the beast in the labyrinth that tears at his chains."
+> - "The Six of Stars, the Evoker (The Cyclone)—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
+> - "The Artifact (The Forge)—the token you seek, the key to power. Divinity’s heart waits, but where?"
+> - "The Innocent (The Cricket). I see a maid of raven hair and twilit eyes. She is one way to the token."
+> - "But there is another—the Broken One (The Silent Hag). The path of sacrifice opens another door. The wall that whispers awaits your tribute."
+> - "The threads of fate yet spin. The Seven of Swords, the Hooded One (The Owl), is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
+> - "But the One of Stars, the Transmuter (The Eclipse), is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
 >
 > Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
 >
@@ -832,7 +832,9 @@ This area is largely as described in <span class="citation">Tser Falls (p. 37)</
 >The revenant also has <strong>Regeneration 15</strong> (Deactivated by Fire or Holy) feature.
 
 
-If the players call out to this nameless **[Elite Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167)** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+If the players call out to this nameless **Revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+
+For the stat block, use [Graveknights scaled to 9th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
 
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 

@@ -14,7 +14,7 @@ On the last night before the new moon, the players can dine with Strahd von Zaro
 
 This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
 # Milestones
-The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+The players begin this act at 6th level and should end it at 9th level, gaining milestone XP when they successfully do any of the following:
 
 * defeat the druids occupying the Wizard of Wines winery (500 XP)
 * retrieve the stolen gem from Yester Hill (500 XP)
@@ -30,7 +30,7 @@ The players begin this act at 5th level and should end it at 8th level, gaining 
 * raid Strahd’s hidden treasury in Castle Ravenloft
 * purify the Abbot’s soul (250 XP)
 * rescue Ilya Krezkov
-* obtain the *Holy Symbol of Ravenkind* (250 XP)
+* obtain the *Holy Symbol of Ravenkind* without Oath active (250 XP)
 * light the beacon of Argynvostholt (250 XP)
 # Timeline
 The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
