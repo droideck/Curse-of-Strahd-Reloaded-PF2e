@@ -68,7 +68,7 @@ If the players make no move to stop him, Rahadin then moves toward the door, pau
 # O2. Arrigal’s Insight
 One day before the dinner is scheduled to take place, if the players rescued Arabelle in [[Arc E - The Missing Vistana]], Arrigal of <span class="citation">N9. Vistani Camp (p. 119)</span> finds the players at or shortly after nightfall. (If the players spend the night away from Vallaki, Arrigal instead finds them as they pass through or around Vallaki when traveling to Castle Ravenloft the following day.)
 
-Upon encountering the party, Arrigal—recognizable, though wearing a heavy cloak and hood to disguise his features from onlookers—"accidentally" bumps into one of the players, preferring a target with a higher passive Wisdom (Perception) score. A player with a passive Wisdom (Perception) score of 14 or greater notices the sensation of something slipping into their pocket during the brief moment of contact.
+Upon encountering the party, Arrigal—recognizable, though wearing a heavy cloak and hood to disguise his features from onlookers—"accidentally" bumps into one of the players, preferring a target with a higher Perception score. A player a player who succeeds on DC 25 Perception check to Sense Motive notices the sensation of something slipping into their pocket during the brief moment of contact.
 
 Without acknowledging their familiarity, Arrigal then snarls at the player to “watch where they’re going" before swiftly departing. Determined to avoid Strahd’s wrath for his betrayal, Arrigal makes every effort to dismiss the players if they attempt to follow him or otherwise interact with him further.
 
@@ -196,7 +196,7 @@ As the players approach or move to pass the carriage, they notice a small parchm
 <p>It is customary for a lord to provide safe escort and a gift to guests in his home. Please accept both with my sincerest compliments.</p>
 </div>
 
-A finely carved wooden chest has been wrapped in a bright red ribbon and left upon one of the cushioned seats inside the carriage. The chest, which is locked and approximately one foot across and six inches deep, radiates an aura of conjuration magic under the scrutiny of a *detect magic* spell. The chest has the properties of a *bag of holding*, but only if opened in the correct way. (Despite its rigid appearance, if opened correctly, the box's mouth expands to fit any item placed inside of it, so long as that item fits within the box's internal volume. The box shrinks back to its original size once the item is fully within the box.)
+A finely carved wooden chest has been wrapped in a bright red ribbon and left upon one of the cushioned seats inside the carriage. The chest, which is locked and approximately one foot across and six inches deep, radiates a magic aura. The chest has the properties of a *[Spacious Pouch (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=3032)*, but only if opened in the correct way. (Despite its rigid appearance, if opened correctly, the box's mouth expands to fit any item placed inside of it, so long as that item fits within the box's internal volume. The box shrinks back to its original size once the item is fully within the box.)
 
 > [!abstract]+ **Storing the Skull**
 > Should the players use it to do so, the extradimensional space within the chest is large enough to store the skull of the silver dragon Argynvost in [[Arc P - Ravenloft Heist#Hall of Bones|Arc P - Ravenloft Heist]].
@@ -321,7 +321,7 @@ In addition, revise this area’s description as follows as Rahadin leads the pl
 <p>Twenty feet inside the castle is a second set of doors, manned by two figures. To the left stands a handsome young man with long, blond hair, his soft features sharpened by a frozen smile. To the right, a pale-skinned woman in an old wedding gown stands stiffly. Her hair, as black as a raven’s feathers, cascades over her shoulders, and her lips are pulled daintily back to reveal two, fine-pointed fangs. As you approach, both bow deeply to Rahadin—the man with a cat’s mocking grace, the woman with a jerking, guarded motion—and step aside to pull open the doors for your passage.</p>
 </div>
 
-The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
+The players recognize the man as Escher, Strahd’s **[Elite Vampire Servitor](https://2e.aonprd.com/Monsters.aspx?ID=3224)** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **[Vampire Servitor scaled to 7th Level](https://2e.aonprd.com/Monsters.aspx?ID=3224)** and Strahd’s eldest vampiric bride.
 
 ![[Escher.png]]
 <span class="credit">"Escher" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -408,7 +408,7 @@ As introductions draw to a close, Rahadin moves into <span class="citation">K9. 
 <p>A thin man dressed in fine servant’s clothes exits the torchlit staircase, his face completely obscured by a pale white mask. He holds a tray with several wine glasses and two pitchers of liquid upon it—one deep purple, one bright crimson—and steps carefully across the stone floor toward you.</p>
 </div>
 
-The man is a middle-aged Barovian villager named Anton Konstantinovich. He has no tongue and cannot speak. 
+The man is a middle-aged Barovian villager named Anton Konstantinovich. He has no tongue and cannot speak. He can use [Elite Servant](https://2e.aonprd.com/NPCs.aspx?ID=912) statblock.
 
 ![[Anton.png]]
 <span class="credit">"Anton" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -512,12 +512,12 @@ The servants’ hall is largely as described in <span class="citation">K62. Serv
 
 The open door leads to <span class="citation">K65. Kitchen (p. 78)</span>. The covered platters are carried by *unseen servants*, which are largely as described in <span class="citation">Unseen Servant (p. 51)</span>. 
 
-The platters contain food intended for the dinner with Strahd. One platter contains a basket of fresh, hot rolls beside a tub of butter, while the second contains a bowl of sliced apples and pears spiced with cinnamon. If undisturbed, the platters approach the wooden doors to the left, which slowly creak open and permit the *unseen servants* to pass through before closing and locking, requiring five successes at DC 30 Thievery check to Pick a Lock to open again. (The servants then pass through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>, ascend <span class="citation">K64. Guards' Stair (p. 78)</span> to the (cobweb-free) <span class="citation">K13. Turret Post Access Hall (p. 57)</span>, and pass through <span class="citation">K11. South Archers' Post (p. 57)</span> before exiting the (currently open) secret door in the archers’ post to deposit their goods in <span class="citation">K10. Dining Hall (p. 56)</span>.
+The platters contain food intended for the dinner with Strahd. One platter contains a basket of fresh, hot rolls beside a tub of butter, while the second contains a bowl of sliced apples and pears spiced with cinnamon. If undisturbed, the platters approach the wooden doors to the left, which slowly creak open and permit the *[phantasmal minions](https://2e.aonprd.com/Monsters.aspx?ID=2750)* to pass through before closing and locking, requiring five successes at DC 30 Thievery check to Pick a Lock to open again. (The servants then pass through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>, ascend <span class="citation">K64. Guards' Stair (p. 78)</span> to the (cobweb-free) <span class="citation">K13. Turret Post Access Hall (p. 57)</span>, and pass through <span class="citation">K11. South Archers' Post (p. 57)</span> before exiting the (currently open) secret door in the archers’ post to deposit their goods in <span class="citation">K10. Dining Hall (p. 56)</span>.
 
 > [!info]+ **Exploring the Larders**
-> If a player moves to follow the *unseen servants*, Sasha first grabs their wrist, warning them in a harsh whisper that straying deeper into the castle risks their death—and worse, breaking guestright through trespassing. “If he learns that you have trespassed, you may wish you had died to another’s hand," she hisses. (It’s obvious that she is referring to Strahd.)
+> If a player moves to follow the [phantasmal minions](https://2e.aonprd.com/Monsters.aspx?ID=2750), Sasha first grabs their wrist, warning them in a harsh whisper that straying deeper into the castle risks their death—and worse, breaking guestright through trespassing. “If he learns that you have trespassed, you may wish you had died to another’s hand," she hisses. (It’s obvious that she is referring to Strahd.)
 >
-> Players who ignore Sasha and nonetheless attempt to slip after the *unseen servants* into <span class="citation">K67. Hall of Bones (p. 78)</span> must succeed on a DC 12 Reflex saving throw to block the doors from closing. If the players enter the Hall of Bones, the door to <span class="citation">K70. Kingsmen Hall (p. 79)</span> is locked with an _arcane lock_ spell, requiring a successful DC 30 Dexterity (Thieves’ Tools) check or DC 35 Strength check to open.
+> Players who ignore Sasha and nonetheless attempt to slip after the *[phantasmal minions](https://2e.aonprd.com/Monsters.aspx?ID=2750)* into <span class="citation">K67. Hall of Bones (p. 78)</span> must succeed on a DC 23 Reflex saving throw to block the doors from closing. If the players enter the Hall of Bones, the door to <span class="citation">K70. Kingsmen Hall (p. 79)</span> is locked with an _[Lock 5th Rank](https://2e.aonprd.com/Spells.aspx?ID=1589)_ spell, requiring five successful DC 37 Thievery checks to Pick a Lock or DC 42 Athletics check to Force Open.
 
 Sasha then enters the open door leading to the <span class="citation">K65. Kitchen (p. 78)</span>. If the player follows, read:
 
@@ -527,7 +527,7 @@ Sasha then enters the open door leading to the <span class="citation">K65. Kitch
 <p>Sasha clears her throat. “We require a pair of mops, Master Belview," she says politely. “There’s been a bit of a spill."</p>
 </div>
 
-The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
+The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. As an option, you can use [Guide](https://2e.aonprd.com/NPCs.aspx?ID=903) statblock. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
 
 > [!profile]+ **Profile: Cyrus Belview**
 > **Roleplaying Information**
@@ -545,7 +545,7 @@ The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <sp
 > ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
 
 > [!abstract]+ **Talking to Cyrus**
-> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good kids. Tell them I’m well and thriving."
+> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 13 Diplomacy check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good kids. Tell them I’m well and thriving."
 >
 > If asked, Cyrus can share the following information:
 >
@@ -562,7 +562,7 @@ If the player follows Sasha to the wine cellar, this area is largely as describe
 
 Sasha then asks suspiciously why the player chose to follow her into the larders. “If you have some deeper motive, then speak it," she growls.
 
-If confronted regarding her lack of loyalty to Strahd, Sasha stiffens, glances fearfully down the hall, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 10 Diplomacy check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
+If confronted regarding her lack of loyalty to Strahd, Sasha stiffens, glances fearfully down the hall, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 18 Diplomacy check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
 
 If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and leans toward the player’s ear before whispering: “After dinner, find an excuse to linger in the dining hall. Once you are alone, press the sixth pedal from the left on the organ. I shall meet you in the chamber beyond. Do not allow *him* to know what you are doing."
 
@@ -579,7 +579,7 @@ The dining hall is largely as described in <span class="citation">K10. Dining Ha
 As the players enter, Strahd takes his place at the head of the table by the organ then invites them to be seated.
 
 > [!info]+ **Strahd’s Dinner**
-> During the meal, Strahd takes a glass of blood-red wine alongside a plate of roast pig and root vegetables. However, a player with a passive Wisdom (Insight) of 13 or more notices that Strahd never touches his food, appearing content to sip the liquid from his glass. 
+> During the meal, Strahd takes a glass of blood-red wine alongside a plate of roast pig and root vegetables. However, a player a player who succeeds on DC 23 Perception check to Sense Motive notices that Strahd never touches his food, appearing content to sip the liquid from his glass. 
 >
 > If asked whether the liquid in his glass is blood, Strahd merely smiles faintly, as if laughing at some private joke, and asks the player what *they* believe his drink to be. (He does not, however, deny that it is blood.)
 >
@@ -612,7 +612,7 @@ When the players answer his final question, Strahd notes that he has survived th
 
 He then sighs, looks briefly thoughtful, and adds, “Although I am loath to sully a night of fellowship and merriment with matters of business, I must confess I have suffered the attentions of one such assassin quite recently—a viper by the name of Rudolph van Richten." Strahd carefully surveys the players’ expressions, one eyebrow lifting as he asks, “To my regret, however, my servants were unable to apprehend him. I believe him to still be at large. Have you heard any whispering of his presence in your travels through my domain?"
 
-A player with knowledge of Van Richten’s whereabouts must succeed on a DC 19 Charisma (Deception) check to successfully deceive Strahd when replying to him. However, Strahd treats all responses as though they are truthful, though a player who fails the check notices a knowing glint in Strahd’s eye as he replies to their answer.
+A player with knowledge of Van Richten’s whereabouts must succeed on a DC 28 Deception check to successfully deceive Strahd when replying to him. However, Strahd treats all responses as though they are truthful, though a player who fails the check notices a knowing glint in Strahd’s eye as he replies to their answer.
 # O6. Touring the Castle
 As dinner concludes, Strahd thanks the players for dining with him and offers them a brief tour of the castle. “I fear it has fallen from its former glory since I first began my slumber," he notes somberly, “but I hope that those with vision can see it for the marvel it once was." If the players accept his offer, Strahd leads them from the dining hall. 
 
@@ -799,7 +799,7 @@ Strahd then bids the players goodnight, remaining within the Great Entry to spea
 
 Escher or Sasha then leads the players up <span class="citation">K21. South Tower Stair (p. 59)</span>, past the second-floor landing leading to <span class="citation">K30. King’s Accountant (p. 62)</span>, past the third-floor landing leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>, and onto the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>. 
 
-If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 12 Perception check to Sense Motive.)
+If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 23 Perception check to Sense Motive.)
 
 > [!abstract] **Wandering Players**
 > If any players disobey their guide’s instructions and split off from the remainder of the party to explore Castle Ravenloft, they encounter the following scenes as they do so.
@@ -812,7 +812,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > [!info]- **First Basement Floor (B1F). Larders of Ill Omen** 
 > > If a player instead descends one floor down <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, they emerge into <span class="citation">K61. Elevator Trap (p. 74)</span>, which remains deactivated and doesn’t trigger if a player walks through it. The remainder of this floor is as follows:
 > >
-> > * **Servants’ Hall.** This area is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>, but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to <span class="citation">K67. Hall of Bones (p. 78)</span> are locked, requiring a successful DC 20 Dexterity (Thieves’ Tools) check or DC 25 Strength check to open.
+> > * **Servants’ Hall.** This area is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>, but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to <span class="citation">K67. Hall of Bones (p. 78)</span> are locked, requiring  five successful DC 30 Thievery checks to Pick a Lock or DC 35 Athletics check to Force Open.
 > >
 > > * **Wine Cellar.** This area is as described in [[#Sasha Alone]].
 > >
@@ -838,7 +838,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > <br>
 > 
 > > [!info]- **Second Floor (2F). Court of the Count** 
-> > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring three successful DC 25 Thievery checks to Pick a Lock without alerting Rahadin.
 > >
 > > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
 > > 
@@ -863,26 +863,26 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > > 
 > > > Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 > > > 
-> > > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
+> > > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 23 Diplomacy check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
 > > > 
 > > > <hr>
 > > > 
 > >
-> > * **Audience Hall.** This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from <span class="citation">K19. Grand Landing (p. 58)</span>, surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
+> > * **Audience Hall.** This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from <span class="citation">K19. Grand Landing (p. 58)</span>, surprising any player who fails on DC 37 Perception check. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
 >
 > <br>
 > 
 > > [!info]- **Third Floor (3F). Rooms of Weeping** 
-> > If a player ascends only two floors up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>. is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > If a player ascends only two floors up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>. is locked, requiring three successful DC 25 Thievery checks to Pick a Lock alerting Rahadin.
 > > 
-> > **Guardian Vermin.** This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>, except that the door leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check or DC 20 Strength check to open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
+> > **Guardian Vermin.** This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>, except that the door leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span> is locked, requiring  five successful DC 30 Thievery checks to Pick a Lock or DC 35 Athletics check to Force Open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
 > >
 > > **Dining Hall of the Count.** This area is largely as described in <span class="citation">K36. Dining Hall of the Count (p. 65)</span>. However, this chamber is guarded by the vampire spawn **Anastrasya Karelova**, who has assumed the form of a **bat** hidden behind the curtains covering the south window. If a player approaches either of the two doors leading from this room, Anastrasya assumes her true form and amiably informs the player that they “seem to be lost," but she would be glad to escort them to their proper destination.
 >
 > <br>
 > 
 > > [!info]- **Fifth & Sixth Floor (5F & 6F). Spires of Ravenloft** 
-> > If a player attempts to ascend <span class="citation">K48. Offstair (p. 70)</span> past <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they must succeed on a DC 24 Dexterity (Stealth) check or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
+> > If a player attempts to ascend <span class="citation">K48. Offstair (p. 70)</span> past <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they must succeed on a DC 33 Stealth check to Sneak or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
 > >
 > > * **5F. Familiar Room, Element Room & Cauldron.** If a player ascends an additional floor beyond the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they emerge onto the fifth-floor landing leading to <span class="citation">K54. Familiar Room (p. 71)</span>.  The Familiar Room and the rooms beyond are largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>, <span class="citation">K55. Element Room (p. 72)</span>, and <span class="citation">K56. Cauldron (p. 72)</span>. However, the Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the Cauldron room, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
 > >
@@ -899,13 +899,13 @@ Escher, who is jealous of the players, anxious about losing Strahd's favor, and 
 
 If challenged regarding his position in Strahd's court, Escher angrily insists that he "*earned* his place at Lord Strahd's right hand," and vows that the players are "incapable of imagining the loyalty Lord Strahd has toward him." 
 
-If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 13 Perception check to Sense Motive learns that Escher appears to be attempting to convince himself as much as the players.)
+If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 23 Perception check to Sense Motive learns that Escher appears to be attempting to convince himself as much as the players.)
 
 As Escher's confrontation with the players comes to a close, Rahadin appears silently at the door and clears his throat, startling Escher. Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher’s obvious surprise and resentment.
 
 Before departing, Rahadin also produces a key from his pocket, which he uses to lock the players in the guest room—again, “for their safety.” He will return to unlock the door, he promises, at the first light of morning.
 ### Sasha's Insight
-If Sasha escorted the players to their rooms, she hesitates before departing. If confronted regarding her lack of loyalty to Strahd she stiffens, glances fearfully about her, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 10 Diplomacy check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
+If Sasha escorted the players to their rooms, she hesitates before departing. If confronted regarding her lack of loyalty to Strahd she stiffens, glances fearfully about her, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 21 Diplomacy check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
 
 If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and asks if she can step into <span class="citation">K49. Lounge (p. 70)</span> to speak with the players in private. If the players agree, she closes the door behind her and continues speaking in hushed tones.
 
@@ -949,7 +949,7 @@ Before departing, Rahadin also produces a key from his pocket, which he uses to 
 The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However:
 
 * In the Lounge, remove the reference to Escher in this area’s description;
-* In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg nearly four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
+* In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg nearly four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 30 Perception to Search or DC 28 Crafting check to Investigate finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
 * In the Closet, remove the “dusty black cloak" and revise the second sentence of this area’s description to read simply: “Iron hooks line the walls."
 
 > [!abstract]+ **Wandering Players**
@@ -973,7 +973,7 @@ Varushka's Nightmare exists across five near-identical copies of the Ravenloft g
 
 This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>.
 
-When the players first arrive in the Nightmare, they awaken in the same positions and locations as the ones in which they fell asleep or unconscious. However, any players with a passive Wisdom (Perception) score of 13 or greater notices that the castle-shaped clock on the wall of the guest room is now ticking.
+When the players first arrive in the Nightmare, they awaken in the same positions and locations as the ones in which they fell asleep or unconscious. However, any players a player who succeeds on DC 23 Perception check notices that the castle-shaped clock on the wall of the guest room is now ticking.
 
 Shortly after the players regain their bearings, read:
 
@@ -985,11 +985,9 @@ Shortly after the players regain their bearings, read:
 The players then suffer the effects of **The Chiming Clock** below.
 
 > [!info]+ **The Chiming Clock**
-> The clock chimes on each hour. Each time the clock chimes the hour, each player must immediately make a DC 16 Fortitude saving throw, taking 7 (2d6) necrotic damage on a failure or half as much on a success. A player who takes this damage has their hit point maximum reduced by an amount equal to the necrotic damage taken. The reduction lasts until the player finishes a long rest.  A character whose maximum hit points is reduced to 0 this way vanishes from the nightmare, their soul taken from their body until the players either defeat or redeem the spirit of Varushka in [[#O8g. Escaping the Nightmare]].
+> The clock chimes on each hour. Each time the clock chimes the hour, each player must immediately make a DC 23 Fortitude saving throw, increasing Drained 1 on success, Drained 2 on failure and Drained 3 on critical failure. A character whose maximum hit points is reduced to 0 this way vanishes from the nightmare, their soul taken from their body until the players either defeat or redeem the spirit of Varushka in [[#O8g. Escaping the Nightmare]].
 >
 > The clock continues to chime on the hour, even if damaged or destroyed. If cast out of a window or otherwise removed from the guest suite, it reappears in its original place on the wall in perfect condition shortly thereafter.
-> 
-> An hour passes each time the players take a short rest.
 
 If a player investigates the closet, read:
 
@@ -1060,12 +1058,12 @@ Any player who enters the Guest Room immediately notices a quiet, persistent tic
 
 A player who opens the closet door finds that the hook that opens the trapdoor has been unscrewed and removed from its socket. Although it can’t speak, Pidlwick II can use simple nods, gestures, and diagrams to communicate that it has hidden the hook somewhere in the guest suite. However, because Pidlwick II is lonely and wants to play a game, it won’t initially share where the hook is hidden. However, if asked, it tilts its head to the side and looks thoughtful, as if it’s listening for something.
 
-Pidlwick II has hidden the hook in the guest room clock. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
+Pidlwick II has hidden the hook in the guest room clock. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 30 Perception to Search or DC 28 Crafting check to Investigate finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
 
-A player who treats Pidlwick II kindly and succeeds on a DC 12 Diplomacy check can convince it to shyly point to the clock on the wall if asked for the hook’s location.
+A player who treats Pidlwick II kindly and succeeds on a DC 23 Diplomacy check can convince it to shyly point to the clock on the wall if asked for the hook’s location.
 
 > [!abstract]+ **Threatening Pidlwick II**
-> If a player threatens Pidlwick II and succeeds on a DC 10 Charisma (Intimidation) check, Pidlwick II shyly takes their hand and leads them toward <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Through crude hand gestures, it beckons for them to stand directly before the bricked-up stone wall blocking access to <span class="citation">K21. South Tower Stair (p. 59)</span>. 
+> If a player threatens Pidlwick II and succeeds on a DC 21 Intimidation check, Pidlwick II shyly takes their hand and leads them toward <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Through crude hand gestures, it beckons for them to stand directly before the bricked-up stone wall blocking access to <span class="citation">K21. South Tower Stair (p. 59)</span>. 
 >
 > If the player does so, it then attempts to push them down the stairs as described in <span class="citation">Pidlwick II (p. 73)</span>. A player who fails the Reflex saving throw falls down one hundred feet of stairs before falling through the bricked-up stone wall blocking access to <span class="citation">K48. Offstair (p. 70)</span>, taking damage as described in <span class="citation">K59. High Tower Peak (p. 73)</span>. Whether the player succeeds or fails, Pidlwick II then immediately vanishes from sight, leaving behind a faint sound of tinny, clanking metal that sounds almost like laughter. The sound soon fades into silence.
 > 
@@ -1080,6 +1078,8 @@ Instead of opening into the closet, the closet door in the guest suite opens int
 <div class="description">
 <p>The door opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below. On the far side of the rooftop, a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
 </div>
+
+**--VP Challenge or Just encounter and Balance and Dragon fight?--**
 
 A character must succeed on three cumulative DC 10 Dexterity (Acrobatics) checks to successfully traverse the rooftop and reach the closet on the other side. (Making one such check requires the character’s action.) A character who crawls, or who has a climbing speed, travels half as far but succeeds automatically as described <span class="citation">K53. Rooftop (p. 71)</span>. 
 
@@ -1173,7 +1173,7 @@ A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges
 
 A player who looks out of the window perceives nothing but an endless, blood-red void. (The door the players entered from still leads back into the guest suite closet.)
 
-The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lies discarded on the stones beneath the table not far away. A player who inspects the corpse can discern that his throat was torn open. A successful DC 14 Wisdom (Medicine) check reveals that the man’s flesh was ripped by long, fine claws.
+The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lies discarded on the stones beneath the table not far away. A player who inspects the corpse can discern that his throat was torn open. A successful DC 25 Medicine check to Investigate reveals that the man’s flesh was ripped by long, fine claws.
 
 The splintered door leads into the Servants’ Rooms (see below). The staircase descends to the Castle Cellar (see below).
 ### Servants’ Rooms
@@ -1187,7 +1187,7 @@ A player who passes through the splintered door emerges into <span class="citati
 <p>Crimson light from the windows illuminates a tidy room containing several pieces of simple furniture, including a writing desk, a dozen wooden chairs, and a pair of tables decorated with floral-pattern tablecloths. A narrow staircase with a wooden railing ascends along the north wall.</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 10 or greater notices something trembling beneath the tablecloth of the far table. A player who pulls aside the tablecloth reveals Varushka, who is wide-eyed, pale, and obviously terrified. She doesn’t recognize the players, and whispers fearfully for them to “leave her alone" and “flee for their own lives." 
+A player a player who succeeds on DC 21 Perception check notices something trembling beneath the tablecloth of the far table. A player who pulls aside the tablecloth reveals Varushka, who is wide-eyed, pale, and obviously terrified. She doesn’t recognize the players, and whispers fearfully for them to “leave her alone" and “flee for their own lives." 
 
 Varushka will not willingly leave her hiding place beneath the table. However, if questioned, Varushka tells them that if they’re searching for “Captain Dilisnya," they’re too late—he just fled down the stairs and escaped outside into the castle courtyard. (Varushka is referring to [[History of Barovia#Arrival of the Mists|Leo Dilisnya]], the captain of Strahd’s guard. She’s bewildered by how he came to be in the servants’ upper quarters—given that she last saw him descending the stairs to the servants' hall—but hasn’t spared the time to think about it too closely, given that the whole world seems to have fallen into insanity.)
 
@@ -1267,9 +1267,11 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 
 Strahd doesn’t immediately notice players who merely peer into the room instead of entering it. In addition, while in the Nightmare, Strahd is bloodlusted and crazed with rage and grief. While in this state, he has disadvantage on Wisdom and Intelligence checks, reducing his passive Wisdom (Perception) score to 17.
 
+**--Rule element effect?--**
+
 The players can attempt to lure Strahd away from the door to the chamberlain’s office through magical or other means. If the players fail to hide from him or otherwise reveal themselves, Strahd snarls, “More traitors? I’ll deal with you as I did the last—and soon enough, your ringleader will join you." 
 
-A player who then tells Strahd of Leo Dilisnya’s whereabouts and succeeds on a DC 20 Diplomacy check can convince Strahd to allow them and their companions to live. Otherwise, Strahd attacks them on sight, pursuing them wherever they go in the castle. However, if the players retreat into [[#O8e. The Fifth Level]] and close the door, Strahd can’t follow them inside.
+A player who then tells Strahd of Leo Dilisnya’s whereabouts and succeeds on a DC 28 Diplomacy check can convince Strahd to allow them and their companions to live. Otherwise, Strahd attacks them on sight, pursuing them wherever they go in the castle. However, if the players retreat into [[#O8e. The Fifth Level]] and close the door, Strahd can’t follow them inside.
 
 ***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends <span class="citation">K20a. Tower Hall Stair (p. 59)</span> from [[#North Tower]] emerges into <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
@@ -1291,7 +1293,7 @@ In addition, an ornate golden key that matches the pattern of the guest room key
 ## O8g. Escaping the Nightmare
 The first time the players exit [[#O8f. The Bloody Keep]] after obtaining the guest room key, they emerge from the closet door directly into the guest room of [[#O8a. The First Level]].  However, Varushka’s corpse and noose are no longer present in the closet.
 
-The first time a player attempts to turn the guest room key in the ornate gold lock of the door leading from <span class="citation">K49. Lounge (p. 70)</span> to <span class="citation">K47. Portrait of Strahd (p. 68)</span>, the key half-turns, then sticks in the lock. A heartbeat later, sharp spikes burst from the metal of the keyhole, forcing that player to succeed on a DC 15 Reflex saving throw or take 2d4 points of piercing damage. The guest-room clock then chimes again, causing the players to once more suffer the effects of **The Chiming Clock** (see above).
+The first time a player attempts to turn the guest room key in the ornate gold lock of the door leading from <span class="citation">K49. Lounge (p. 70)</span> to <span class="citation">K47. Portrait of Strahd (p. 68)</span>, the key half-turns, then sticks in the lock. A heartbeat later, sharp spikes burst from the metal of the keyhole, forcing that player to succeed on a DC 25 Reflex basic saving throw or take 4d4 points of piercing damage. The guest-room clock then chimes again, causing the players to once more suffer the effects of **The Chiming Clock** (see above).
 
 A moment after the clock chimes, the spirit of Varushka appears behind the players. Read:
 
@@ -1317,7 +1319,7 @@ Varushka freely shares that she has taken the players as her prisoners, as she h
 
 If the players attack Varushka, proceed to [[#Varushka’s Rage]] below. If the players attempt to negotiate with Varushka, proceed to [[#Varushka’s Grief]] instead.
 ### Varushka’s Grief
-The players can attempt to persuade Varushka to allow them to leave by making any reasonable argument and succeeding on a DC 10 Diplomacy check, made with advantage if the players comforted the memory of Varushka in [[#O8e. The Fifth Level]]. The check succeeds automatically if the players inform Varushka that they hold Katarina’s half of her necklace.
+The players can attempt to persuade Varushka to allow them to leave by making any reasonable argument and succeeding on a DC 21 Diplomacy check, made with +2 Circumstance bonus if the players comforted the memory of Varushka in [[#O8e. The Fifth Level]]. The check succeeds automatically if the players inform Varushka that they hold Katarina’s half of her necklace.
 
 Whether the check succeeds or fails, read:
 
@@ -1325,15 +1327,15 @@ Whether the check succeeds or fails, read:
 <p>The very room seems to warp and bend around the spirit, the walls bleeding shadows that reach out like fingers to embrace her. As you watch, a nimbus of cold, umbral darkness forms around her, and her eyes darken to a deep, voidlike black.</p>
 </div>
 
-Varushka then angrily counters the players’ argument. (For example, if the players showed her Katarina’s necklace, she insists that they’re lying to her, and the necklace is fake.) If the players’ first Diplomacy check was successful, Varushka is uncertain about her response, and a player with a passive Wisdom (Insight) score of 13 or greater recognizes that her defiance is half-hearted and tinged with self-doubt.
+Varushka then angrily counters the players’ argument. (For example, if the players showed her Katarina’s necklace, she insists that they’re lying to her, and the necklace is fake.) If the players’ first Diplomacy check was successful, Varushka is uncertain about her response, and a player who succeeds on DC 23 Perception check to Sense Motive recognizes that her defiance is half-hearted and tinged with self-doubt.
 
-As Varushka counters the players’ argument, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+As Varushka counters the players’ argument, if any player succeeds on DC 23 Perception check, add:
 
 <div class="description">
 <p>As you observe the halo of shadows surrounding her, you notice that it seems to be not a single shadow, but an assembly of countless overlapping amorphous, indistinct silhouettes. Though Varushka makes no move to acknowledge or recognize their presence, they whisper incessantly into her ears, their cold, hollow voices seeming to darken the room further with every word.</p>
 </div>
 
-A player who asks Varushka or succeeds in a DC 13 Perception check to Sense Motive learns that Varushka neither perceives the silhouettes nor realizes that they’re there. A player who approaches Varushka or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+A player who asks Varushka or succeeds in a DC 23 Perception check to Sense Motive learns that Varushka neither perceives the silhouettes nor realizes that they’re there. A player who approaches Varushka or who succeeds on a DC 25 Perception check can make out a few words and phrases from the cacophony of whispers:
 
 * “They’ll leave you, just like her."
 * “Why should they escape your fate?"
@@ -1342,7 +1344,7 @@ A player who asks Varushka or succeeds in a DC 13 Perception check to Sense Moti
 > [!lore]+ **Dark Whispers**
 > The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]]. Eager to remove Ireena Kolyana from the players’ influence and protection, they have reached out to embrace Varushka’s spirit to dissuade her from allowing the players to escape from her Nightmare.
 
-The players can again attempt to persuade Varushka to free them by making any reasonable argument and succeeding on a DC 15 Diplomacy check. The check is made with disadvantage if the players failed the first Diplomacy check. Otherwise, the check is made with advantage if the players’ arguments directly rebut the Dark Powers’ whispers, and succeeds automatically if the players present Varushka with Katarina’s note or its contents.
+The players can again attempt to persuade Varushka to free them by making any reasonable argument and succeeding on a DC 25 Diplomacy check. The check is made with disadvantage if the players failed the first Diplomacy check. Otherwise, the check is made with advantage if the players’ arguments directly rebut the Dark Powers’ whispers, and succeeds automatically if the players present Varushka with Katarina’s note or its contents.
 
 If the players succeed on this check, Varushka tearfully relinquishes her supernatural grasp on the key and allows the players to depart. If the players fail the check instead, Varushka attacks. (See [[#Varushka’s Rage]] below).
 ### Varushka’s Rage

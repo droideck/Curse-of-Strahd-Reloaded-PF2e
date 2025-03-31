@@ -545,64 +545,43 @@ The barracks are largely described as in <span class="citation">S19. Barracks (p
 
 This is Ezmerelda d’Avenir. Her statistics are given below.
 
-<div class="statblock">
-    <h2>Ezmerelda d'Avenir</h2>
-    <em>Medium humanoid (human), chaotic good</em>
-    <hr>
-    <strong>Armor Class</strong> 17 (+1 studded leather armor)
-    <br>
-    <strong>Hit Points</strong> 82 (11d8 + 33)
-    <br>
-    <strong>Speed</strong> 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>14 (+2)</td>
-                <td>19 (+4)</td>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>11 (+0)</td>
-                <td>17 (+3)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Saving Throws</strong> Wis +2<br>
-    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Common<br>
-    <strong>Challenge Rating</strong> 4<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
-    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
-    <ul>
-    <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
-    <li>2nd level (2 slots): darkvision, cordon of arrows</li>
-    </ul>
-    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
-    <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
-    <p><strong><em>Rapier +1.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
-    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
-    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
-    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
-    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
-</div>
+> [!info]+ **Esmeralda Joins the Squad**
+> I suggest creating a PC stat block for the character of Esmeralda. You can create your own or follow my suggestions.
+> 
+> **Ancestry** - Versatile Human - Diehard
+> **Background** - Nomad
+> **Class** - Flurry Ranger
+> STR +1; DEX +4; CON +1; INT +0; WIS +3; CHA +0
+> Acrobatics, Religion, Society, Stealth, Thievery
+>
+> **Ancestry Feat** - Natural Ambition - Twin Takedown
+> **Class Feat** - Monster Hunter
+>
+> Level 2
+> **Class Feat** - Monster Warden
+> **Skill Feat** - Trick Magic Item
+> 
+> Level 3
+> **Skill Increase** - Acrobatics
+> **General Feat** - Feather Step
+>
+> Level 3
+> **Skill Increase** - Acrobatics
+> **General Feat** - Feather Step
+> 
+> Level 4
+> **Class Feat** - Harrower Dedication - Occultism
+> **Skill Feat** - Tumbling Teamwork
+> 
+> Level 5
+> **Skill Increase** - Religion
+> **Ability Boosts** - DEX, CON, INT, WIS - Arcana
+> **Ancestry Feat** - General Training - Cat Fall
+> 
+> Level 6
+> **Class Feat** - Vengful Spirit Deck
+> **Skill Feat** - Terrain Stalker - Underbrush
+
 
 ![[Ez_trans.png]]
 <span class="credit">"Ezmerelda d'Avenir" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -697,14 +676,15 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 
 > [!info]+ **Seances with the Tarokka Deck**
 > When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> You can use Harrow Deck. I put my card suggestions bellow in (h. ). 
 > 
 > If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 23 Occultism or Arcana check to recall the meaning of a particular card.
 > 
 > **Choosing Cards**
 > When choosing cards to answer a player question, use the following guidelines:
 > 
-> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
-> * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes), the Anarchist (No), or both (Maybe).
+> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown) - (h. The Lost). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
+> * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes) - (h. The Hidden Truth), the Anarchist (No) - (h. The Vision), or both (Maybe) - (or h. The Fool).
 > * **Simple Questions, Simple Answers**: For straightforward questions that seek direct identification or yes/no answers, opt for a single card or a pair of cards that symbolize the answer most succinctly.
 > * **Complex Questions, Multiple Cards**: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
 > * **Contextual Interpretation**: Cards can have multiple meanings depending on the context of the question. Feel free to reuse cards for different queries, but ensure that their interpretation aligns with the context.
@@ -723,15 +703,15 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 
 If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
 
-* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
-* “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
-* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
-* “What happened to the Abbot?" (The spirit responds by flipping the Marionette card and the Enchanter card.)
-* “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
-* “What does this artifact do?" (The spirit responds by flipping the Healer card.)
-* “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards.)
-* “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards.)
-* “Who do we need to kill?" (The spirit responds by flipping the Broken One card.)
+* “Who are you?" (The spirit responds by flipping the Priest card (h. The Midwife), which it then flips face-down. It then flips the Missionary card (h. The Vision), which it then flips face-down. It then flips the Shepherd card - (h. The Owl).)
+* “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card - (h. The Hidden Truth).)
+* “Who is the Abbot?" (The spirit responds by flipping the Healer card - (h. The Paladin), which it then flips face-down. It then flips the Broken One card - (h. The Empty Throne).)
+* “What happened to the Abbot?" (The spirit responds by flipping the Marionette - (h. The Liar) card and the Enchanter card - (h. The Silent Hag).)
+* “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card - (h. The Demon's Lantern upsidedown).)
+* “What does this artifact do?" (The spirit responds by flipping the Healer card (h. The Unicorn).)
+* “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards - (h. The Tyrant and The Keep).)
+* “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards (h. The Paladin and The Beating).)
+* “Who do we need to kill?" (The spirit responds by flipping the Broken One card (h. The Empty Throne).)
 
 Immediately after the spirit answers the players’ tenth question, the players experience a series of visions. Read:
 
@@ -769,13 +749,10 @@ The Belviews ask the players to find and speak with Cyrus upon visiting Castle R
 If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
 
 > [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of [Soaring Wings, but make it an item](https://2e.aonprd.com/Equipment.aspx?ID=2216) with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 > 
 > * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-> * A set of wings animates for 1 minute, rather than 1 hour
-> * Once a set of wings has been used, it can't be used again until dawn.
 > * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-> * A creature can attune itself to the wings in 1 minute.
 > 
 
 ### The Abbot’s Wrath

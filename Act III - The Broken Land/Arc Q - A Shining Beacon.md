@@ -770,10 +770,10 @@ The first time the players enter the cemetery, if they’re not using stealth or
 > If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
 
 > [!combat]- **Balancing the Fallen Knight**
-> Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> * **Three Players**. Remove the phantom warriors in Vladimir’s second phase
-> * **Four Players**. Reduce the number of phantom warriors in Vladimir’s second phase to two.
-> * **Six Players**. Increase the number of phantom warriors in Vladimir’s second phase to six.
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **Severe+** combat encounters against a party of four 8th-level players, a Level 6 ally (Ireena Kolyana), and a Level 7 ally (Ezmerelda d’Avenir). For parties of smaller or larger sizes, modify the encounter as follows:
+> * **Three Players**. Reduce the number of phantom knights to one.
+> * **Five Players**. Increase the number of phantom knights to three.
+> * **Six Players**. Increase the number of phantom knights to four.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -898,7 +898,9 @@ The first time the players enter the cemetery, if they’re not using stealth or
 
 Vladimir attacks if the players attack him first, or if he deems further conversation unnecessary. If the players ask to restore Argynvost’s skull to the mausoleum, he falters briefly, then shakes his head. “You are too dangerous to be left alive," he rumbles. “Your antagonism to von Zarovich is a threat I shall not tolerate. When you lie in the ground, perhaps then I shall complete the task you have set yourselves upon—but not until the last breath has left your bodies."
 
-When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
+When Vladimir start the combat, two **[Phantom Knights scaled to 6th level](https://2e.aonprd.com/Monsters.aspx?ID=3135)** materialize to aid him. The phantom warriors fight to the death.
+
+Vladimir can switch between phases freely using a single concentrate action.
 
 In addition, the first time a player enters the mausoleum, Vladimir uses one of his reactions to summon a ring of black fire encircling the cemetery. Read:
 
@@ -1026,7 +1028,12 @@ Continue with the following, modifying the text as necessary to reflect each non
 <p>
 </div>
 
-All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
+All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection***:
+
+> [!info]+ **Beacon of Protection**
+> The target gains a +1 status bonus to Armor Class and saving throws against attacks, spells, and other effects.
+> 
+> Once per day, the target can spend a free action with the concentrate trait to strengthening the fighting resolve the resonance, increasing the bonus to +2 for 10 minutes.
 
 ***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 250 XP.
 # Q7. Return to the Werewolf Den

@@ -1090,24 +1090,26 @@ Ireena gladly returns to the mansion with the players, or returns on her own sho
 
 When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
 
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 240 XP. If Doru successfully passed his test of will, award each player an additional 80 XP.
+**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 500 XP.
 
 > [!info]+ **Ireena Joins the Party**
->
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.** She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
->
-> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Reflex saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
->
-> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
->
-> By default, Ireena chooses the following sidekick options as she gains levels:
->
-> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
-> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
-> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
-> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
->
+> 
+> I suggest creating a PC stat block for the character Irina. You can create your own or follow my suggestions.
+> 
+> **Ancestry** - Versatile Human - Assurance in Medicine
+> **Background** - Noble (Genealogy)
+> **Class** - Scoundrel Rogue  
+> STR +0; DEX +3; CON +0; INT +1; WIS +1; CHA +4
+> Acrobatics, Crafting, Medicine, Nature, Performance, Religion
+> 
+> **Ancestry Feat** - General Training - Ride
+> **Class Feat** - Overextending Feint
+> **Skill Feat** - Battle Medicine
+> 
+> I recommend keeping her 2 levels below the group and choosing more defensive and healing abilities.
+> 
 > None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
+
 ## B5k. Mad Mary’s Townhouse
 <span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
 
