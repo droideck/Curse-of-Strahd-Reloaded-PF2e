@@ -1,6 +1,7 @@
 _An adventure for four 9th-level characters._
 
 ??? [Amalgamite](https://2e.aonprd.com/Monsters.aspx?ID=1059)
+??? More inspiration in the latest Mythic Campaign
 
 In this arc, after learning that the dusk elf Kasimir Velikov knows the location of the Amber Temple after lighting Argynvost's beacon in [[Arc Q - A Shining Beacon]], the players must recruit Kasimir to their cause and traverse the treacherous Tsolenka Pass as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful Strahd—now determined to turn the players into vampire spawn—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.
 

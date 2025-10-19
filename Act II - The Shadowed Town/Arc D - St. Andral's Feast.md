@@ -102,7 +102,7 @@ The young man is Milivoj, who is as described in <span class="citation">N1. St. 
 
 When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
 
-He uses [Weak Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=896) statblock, his Divine skill is Diplomacy, he has only one Searing Light prepared instead of two, and instead of [death's call](https://2e.aonprd.com/Spells.aspx?ID=413)_he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
+He uses [Weak Priest of Sarenrae](https://2e.aonprd.com/NPCs.aspx?ID=3445) statblock with a mace instead of his scimitar, and instead of _[dazzling flash](https://2e.aonprd.com/Spells.aspx?ID=412)_ he casts [Protector's Sacrifice](https://2e.aonprd.com/Spells.aspx?ID=1832) domain spell.
 
 > [!lore]+ **The Morninglord's Pathfinder 2e Option**
 > **Edicts:** bring hope to the hopeless, protect the innocent from darkness, greet each day with renewed purpose, spread light in dark places
@@ -366,149 +366,92 @@ Volenta uses the three vampire spawn with her as cover, placing them between her
 > - **Sunlight Hypersensitivity** The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.
 
 <div class="statblock">
-<h2>Volenta, First Form - Creature 6</h2>
-<em>Medium undead, vampire</em>
+<h2>Volenta, the Alchemist<span>Creature 6</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
+<span class="trait">Vampire</span>
 <hr>
-<strong>Perception</strong> +15; darkvision<br>
-<strong>Languages</strong> Common plus one regional language<br>
-<strong>Skills</strong> Acrobatics +14, Athletics +12, Crafting +15, Intimidation +11, Society +7, Stealth +15<br>
-<strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Common (plus one regional language)</p>
+<p><strong>Skills</strong> Acrobatics +17, Athletics +15, Crafting +18, Intimidation +14, Society +10, Stealth +18</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> work coat, whip, alchemist's tools, bandolier, acid flask (moderate, infused) (2), alchemist's fire (moderate, infused) (2), frost vial (moderate, infused) (2), blood flask (moderate) (2), elixir of life (lesser, infused) (3), bomber's eye elixir (lesser, infused), smoke ball (greater), clown monarch (2), sloughing toxin, scarlet mist, warpwobble poison, infused reagents (7)</p>
 <hr>
-<strong>AC</strong> 25<br>
-<strong>HP</strong> 70; fast healing 10, void healing<br>
-<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
-<strong>Resistances</strong> physical 5 (except silver)<br>
-<strong>Fortitude</strong> +12, <strong>Reflex</strong> +16, <strong>Will</strong> +14
-<hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
-<p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
-<p><strong>Ranged</strong> ◆ dagger +16 (agile, thrown 10), <strong>Damage</strong> 2d4+6 piercing</p>
-<p><strong>Ranged</strong> ◆ acid flask +16 (bomb, consumable, splash), <strong>Damage</strong> 1 acid plus 2d6 persistent acid and 2 acid splash</p>
-<p><strong>Ranged</strong> ◆ alchemist's fire +16 (bomb, consumable, splash), <strong>Damage</strong> 2d8+6 fire plus 2 persistent fire and 2 fire splash</p>
-<p><strong>Ranged</strong> ◆ frost vial +16 (bomb, consumable, splash), <strong>Damage</strong> 2d6+6 cold plus 2 cold splash</p>
-<hr>
-<p><strong>Drink Blood</strong> ◆ (divine)<br>
-<strong>Requirements</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
-<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a Medicine DC 23 check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
-<p><strong>Exhume</strong> ◆ (manipulate)<br>
-<strong>Requirements</strong> Volenta is adjacent to a dead creature that hasn't already been affected by Exhume<br>
-<strong>Effect</strong> Volenta harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.</p>
-<p><strong>Force Feed</strong> ◆<br>
-<strong>Requirements</strong> Volenta has a creature Grabbed or Restrained and is holding weird brew, an alchemical elixir, or an alchemical poison<br>
-<strong>Effect</strong> Volenta forces the target to consume the alchemical item.</p>
-<p><strong>Grab</strong> ◆<br>
-As per the standard Grab action.</p>
-<p><strong>Quick Draw</strong> ◆<br>
-The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
-<p><strong>Weird Brew</strong> ◆ (manipulate)<br>
-<strong>Cost</strong> 1 batch of infused reagents<br>
-<strong>Effect</strong> Volenta creates a vial of weird brew, an alchemical liquid that has the infused trait and becomes inert after 24 hours. Weird Brew has the effects of Snake Oil, and maybe more depending on the results of Volenta's Crafting DC 20 check.<br>
-<strong>Critical Success</strong> Volenta chooses one of the following items and adds its effects to the Weird Brew: Antidote (Moderate), Antiplague (Moderate), Elixir of Life (Lesser), Giant Scorpion Venom, or Juggernaut Mutagen (Moderate). Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits.<br>
-<strong>Success</strong> As critical success, but Volenta chooses from Antidote (Lesser), Antiplague (Lesser), Elixir of Life (Minor), Graveroot, or Juggernaut Mutagen (Lesser).</p>
-<p><strong>Smokestick</strong> ◇<br>
-When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Awakened Bloodlust</strong><br>
-When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<p><strong>Sneak Attack</strong><br>
-The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
-<p><strong>Vampire Fast Healing 15</strong><br>
-The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong>Void Healing</strong><br>
-Negative healing</p>
-<strong>Vampire Vulnerabilities</strong><br>
-All vampires possess the following vulnerabilities:
+<p><strong>AC</strong> 25; <strong>Fort</strong> +12, <strong>Ref</strong> +16, <strong>Will</strong> +14</p>
+<p><strong>HP</strong> 70, coffin restoration, fast healing 15, void healing; <strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep; <strong>Resistances</strong> physical 6 (except silver)</p>
+<p><strong>Void Healing</strong> Volenta heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Vampire Fast Healing 15</strong> Volenta regains 15 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes holy damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities.</p>
 <ul>
-<li><strong>Forbiddance</strong> The vampire can't enter a residence without an invitation from one of the occupants.</li>
-<li><strong>Harmed by Running Water</strong> The vampire takes 20 acid damage if it ends its turn in running water.</li>
-<li><strong>Stake to the Heart</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
-<li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+<li><strong>Forbiddance.</strong> Volenta can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water.</strong> Volenta takes 20 acid damage if she ends her turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into Volenta's heart while she is in her resting place, she is destroyed. Staking a vampire requires 3 actions and works only if the vampire is unconscious and in her resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> Volenta takes 20 holy spirit damage when she starts her turn in sunlight. While in sunlight, she is dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
 </ul>
-<h3>Inventory</h3>
-<ul>
-<li>Acid Flask (Moderate) (Infused) (2)</li>
-<li>Alchemist's Fire (Moderate) (Infused) (2)</li>
-<li>Alchemist's Tools</li>
-<li>Bandolier</li>
-<li>Bomber's Eye Elixir (Lesser) (Infused)</li>
-<li>Dagger (10)</li>
-<li>Elixir of Life (Lesser) (Infused) (3)</li>
-<li>Frost Vial (Moderate) (Infused) (2)</li>
-<li>Infused Reagents (7)</li>
-<li>Snake Oil (6)</li>
-<li>Spider Venom (3)</li>
-<li>A Nice Dress</li>
-</ul>
+<p><strong>Awakened Bloodlust</strong> When Volenta drops to 0 hit points, her nostrils flare like a bat's, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<hr>
+<p><strong>Speed</strong> 25 feet, climb 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> whip +16 (disarm, finesse, nonlethal, reach 10 feet, trip), <strong>Damage</strong> 2d4+6 slashing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> acid flask (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2 acid plus 2 acid splash plus 2d6 persistent acid</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> alchemist's fire (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2d4+6 fire plus 2 fire splash plus 2 persistent fire</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> frost vial (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2d4+6 cold plus 2 cold splash (target takes -10-foot status penalty to Speed until end of next turn)</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> blood flask (moderate) +17 (bomb, consumable, splash), <strong>Damage</strong> 3 void plus 2 void splash plus 2d8 persistent bleed</p>
+<hr>
+<p><strong>Tripping Whip</strong> <span class="action">↻</span> <strong>Requirements</strong> Volenta must have a whip in her hands; <strong>Trigger</strong> A creature moves out of a threatened square; <strong>Effect</strong> Volenta makes a Trip attempt against the triggering creature with her whip.</p>
+<p><strong>Drink Blood</strong> <span class="action">▶</span> <strong>Requirement</strong> A grabbed, paralyzed, restrained, unconscious, or willing creature is within Volenta's reach; <strong>Effect</strong> Volenta sinks her fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim takes 4d6+7 piercing damage and is drained 1 and Volenta regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained increases the victim's drained value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but gains no HP from doing so. A victim's drained condition decreases by 1 per day. A blood transfusion, which requires a DC 19 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Exhume</strong> <span class="action">▶</span> (manipulate) <strong>Requirements</strong> Volenta is adjacent to a dead creature that hasn't already been affected by Exhume; <strong>Effect</strong> Volenta harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.</p>
+<p><strong>Force Feed</strong> <span class="action">▶</span> <strong>Requirements</strong> Volenta has a creature grabbed or restrained and is holding weird brew, an alchemical elixir, or an alchemical poison; <strong>Effect</strong> Volenta forces the target to consume the alchemical item.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Quick Draw</strong> <span class="action">▶</span> Volenta Interacts to draw a weapon, then Strikes with that weapon.</p>
+<p><strong>Reckless Alchemy</strong> <span class="action">▶▶</span> (concentrate, manipulate) Volenta attempts to combine two alchemical grenades or two elixirs of life into one item. She can Interact to draw the items if necessary. She attempts a DC 20 Crafting check, destroying both component items to create one new item.<br><strong>Success</strong> The new item has the full effect of both component items, and Volenta can Activate it. If she doesn't Activate it before the end of her turn, the item explodes (as critical failure).<br><strong>Failure</strong> The new item is inert.<br><strong>Critical Failure</strong> The unstable item explodes, dealing 3d6 piercing damage to Volenta.</p>
 </div>
 <div class="statblock">
-<h2>Volenta, Second Form (Mythic Striker?) - Creature 6</h2>
-<em>Medium undead, vampire</em>
+<h2>Volenta, the Frenzied<span>Creature 6</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
+<span class="trait">Vampire</span>
+<span class="trait">Mythic</span>
 <hr>
-<strong>Perception</strong> +15; darkvision<br>
-<strong>Languages</strong> Common<br>
-<strong>Skills</strong> Acrobatics +14, Athletics +12, Crafting +15, Intimidation +11, Society +7, Stealth +15<br>
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Common (plus one regional language)</p>
+<p><strong>Skills</strong> Acrobatics +21, Athletics +15, Crafting +18, Intimidation +14, Society +10, Stealth +18</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> work coat, dagger (10), bandolier</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>20 (+5)</td>
-      <td>12 (+1)</td>
-      <td>8 (-1)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>AC</strong> 25<br>
-<strong>Saving Throws</strong> Fort +12, Ref +16, Will +14<br>
-<strong>HP</strong> 70; fast healing 10, void healing<br>
-<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
-<strong>Resistances</strong> physical 5 (except silver)<br>
-<strong>Speed</strong> 25 feet, climb 25 feet<br>
-<hr>
-<h3>Melee Attacks</h3>
-<p><strong>Melee</strong> ◆ claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
-<p><strong>Melee</strong> ◆ dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
-<h3>Ranged Attacks</h3>
-<p><strong>Ranged</strong> ◆ dagger +16 (agile, thrown 10, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
-<h3>Active Abilities</h3>
-<p><strong>Blood Frenzy</strong> ◇ <br>
-<strong>Requirements</strong> Volenta is not Fatigued or already in a frenzy<br>
-<strong>Trigger</strong> Volenta deals bleed damage to a living creature.<br>
-<strong>Effect</strong> Volenta flies into a frenzy that lasts 1 minute. While frenzied, Volenta gains a +1 status bonus to attack rolls with its claws, gains a +4 status bonus to damage rolls with its claws, gains 15 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. Volenta can't voluntarily stop its frenzy. After its frenzy, Volenta is Fatigued.</p>
-<p><strong>Drink Blood</strong> ◆<br>
-<strong>Requirement</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
-<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 1 and the vampire regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.</p>
-<p><strong>Grab</strong> ◆<br>
-<em>As per standard rules</em></p>
-<p><strong>Hateful Floury</strong> ◆◆<br>
-<strong>Requirements</strong> Volenta is in a blood frenzy.<br>
-<strong>Effect</strong> Volenta unleashes a whirlwind of attacks against its foes, making a single melee Strike with its claws against each opponent within reach.</p>
-<h3>Passive Abilities</h3>
-<p><strong>Bloodletting</strong> When Volenta deals piercing or slashing damage, it also deals 1d4 bleed damage if the target was Off-Guard or if the attack was a critical hit.</p>
-<p><strong>Sneak Attack</strong> The servitor deals 1d6 extra precision damage to Off-Guard creatures.</p>
-<p><strong>Vampire Fast Healing 15</strong> The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities:
+<p><strong>AC</strong> 25; <strong>Fort</strong> +12, <strong>Ref</strong> +16, <strong>Will</strong> +14</p>
+<p><strong>HP</strong> 70, coffin restoration, fast healing 15, void healing; <strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep; <strong>Resistances</strong> physical 6 (except silver)</p>
+<p><strong>Void Healing</strong> Volenta heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Vampire Fast Healing 15</strong> Volenta regains 15 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes holy damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities.</p>
 <ul>
-<li><strong>Forbiddance</strong> The vampire can't enter a residence without an invitation from one of the occupants.</li>
-<li><strong>Harmed by Running Water</strong> The vampire takes 20 acid damage if it ends its turn in running water.</li>
-<li><strong>Stake to the Heart</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
-<li><strong>Sunlight Hypersensitivity</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+<li><strong>Forbiddance.</strong> Volenta can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water.</strong> Volenta takes 20 acid damage if she ends her turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into Volenta's heart while she is in her resting place, she is destroyed. Staking a vampire requires 3 actions and works only if the vampire is unconscious and in her resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> Volenta takes 20 holy spirit damage when she starts her turn in sunlight. While in sunlight, she is dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
 </ul>
+<p><strong>(Mythic) Mythic Resilience</strong> Volenta treats her Reflex saving throws as one degree of success better than she rolled. This is not cumulative with other effects that change the degree of success, like the incapacitation trait (except for rolling a natural 1 or 20).</p>
+<p><strong>Bloodletting</strong> When Volenta deals piercing or slashing damage, she also deals 1d4 bleed damage if the target was off-guard or if the attack was a critical hit.</p>
+<p><strong>(Mythic) Deadly Striker</strong> Volenta deals an additional 1d6 precision damage on her next Strike whenever she uses an action to Stride 10 or more feet (or to Burrow, Climb, or Fly 10 or more feet).</p>
+<p><strong>(Mythic) Mythic Mobility</strong> Volenta benefits from high mobility and is difficult to pin down. She always uses the extreme skill value for a creature of her level as her Acrobatics modifier.</p>
+<p><strong>Sneak Attack</strong> Volenta deals 1d6 extra precision damage to off-guard creatures.</p>
+<hr>
+<p><strong>Speed</strong> 25 feet, climb 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dagger +16 (agile, thrown 10 feet, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+<hr>
+<p><strong>Blood Frenzy</strong> <span class="action">▷</span> (rage) <strong>Requirements</strong> Volenta is not fatigued or already in a frenzy; <strong>Trigger</strong> Volenta deals bleed damage to a living creature; <strong>Effect</strong> Volenta flies into a frenzy that lasts 1 minute. While frenzied, Volenta gains a +1 status bonus to attack rolls with her claws, gains a +4 status bonus to damage rolls with her claws, gains 15 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. Volenta can't voluntarily stop her frenzy. After her frenzy, Volenta is fatigued.</p>
+<p><strong>Drink Blood</strong> <span class="action">▶</span> <strong>Requirement</strong> A grabbed, paralyzed, restrained, unconscious, or willing creature is within Volenta's reach; <strong>Effect</strong> Volenta sinks her fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim takes 4d6+7 piercing damage and is drained 1 and Volenta regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained increases the victim's drained value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but gains no HP from doing so. A victim's drained condition decreases by 1 per day. A blood transfusion, which requires a DC 19 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Hateful Flurry</strong> <span class="action">▶▶</span> (rage) <strong>Requirements</strong> Volenta is in a blood frenzy; <strong>Effect</strong> Volenta unleashes a whirlwind of attacks against her foes, making a single melee Strike with her claws against each opponent within reach.</p>
+<p><strong>Swift Leap</strong> <span class="action">▶</span> (move) Volenta jumps up to half her Speed. This movement doesn't trigger reactions.</p>
+<p><strong>(Mythic) Mythic Acrobatics</strong> <span class="action">▷</span> (3/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Volenta attempts her next Athletics check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
+<p><strong>(Mythic) Unimpeded</strong> <span class="action">▶</span> (3/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Volenta automatically ends one effect that would give her a circumstance penalty to Speed. When she attempts to Escape an effect that has her immobilized, grabbed, or restrained, she automatically succeeds.</p>
 </div>
 
 ### 1. Volenta
@@ -627,111 +570,46 @@ If the players actually attempt to obstruct Rahadin's efforts to carry out that 
 
 Once Rahadin is satisfied justice has been done, he uses his _Marvelous Mount_ and departs Vallaki for Castle Ravenloft.
 
-<div class="statblock">
-<h2>Rahadin, Castle Chamberlain - Creature 12</h2>
-<em>Rare Medium Humanoid (Elf)</em>
-<hr>
-<strong>Perception</strong> +25; darkvision<br>
-<strong>Languages</strong> Common, Elven<br>
-<strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16<br>
-<strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +2, <strong>Wis</strong> +0, <strong>Cha</strong> +1
-<hr>
-<strong>AC</strong> 33<br>
-<strong>HP</strong> 225<br>
-<strong>Saves</strong> Fort +19, Ref +25, Will +22<br>
-<strong>Speed</strong> 30 feet
-<hr>
-<h3>Active Actions</h3>
-<p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
-<strong>Frequency</strong> once per turn<br>
-<strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).</p>
-<p><strong>Elf Step</strong> ◆<br>
-Rahadin Steps twice</p>
-<p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
-<p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
-<strong>Requirements</strong> The assassin is wielding a piercing or slashing weapon and has a free hand.<br>
-<strong>Effect</strong> The assassin applied a poison to the weapon.</p>
-<p><strong>Quick Draw</strong> ◆<br>
-The assassin Interacts to draw a weapon, then Strikes with that weapon.</p>
-<p><strong>Ranged</strong> ◆ dart +25 (agile, thrown-20), <strong>Damage</strong> 4d4+6 piercing</p>
-<p><strong>Opportune Backstab</strong> ↻<br>
-<strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
-<strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This move does not trigger reactions from the triggering enemy.</p>
-<p><strong>Nimble Dodge</strong> ↻<br>
-<strong>Trigger</strong> The assassin is targeted with a melee or ranged attack by an attacker they can see.<br>
-<strong>Effect</strong> The assassin gains a +2 circumstance bonus to AC against the triggering attack.</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet. DC 29 Will<br>
-Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
-<p><strong>Darkvision</strong></p>
-<p><strong>Deny Advantage</strong><br>
-The assassin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking or using Surprise Attack.</p>
-<p><strong>Sneak Attack</strong><br>
-The kobold warrior deals an extra 3d6 precision damage to off-guard creatures.</p>
-<p><strong>Surprise Attack</strong><br>
-On the first round of combat, creatures that haven't acted yet are off-guard to the assassin.</p>
-<p><strong>Swift Sneak</strong><br>
-The assassin can move their full speed when Sneaking.</p>
-</div>
-<br>
+
+<div class="statblock"> <h2>Rahadin, Castle Chamberlain <span>Creature 11</span></h2> <span class="trait traitunique">Unique</span> <span class="trait traitsize">Medium</span> <span class="trait">Humanoid</span> <span class="trait">Elf</span> <hr> <p><strong>Perception</strong> +24; darkvision</p> <p><strong>Languages</strong> Common, Elven</p> <p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p> <p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p> <p><strong>Items</strong> saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), wyvern poison (3)</p> <hr> <p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p> <p><strong>HP</strong> 205</p> <p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p> <p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 11th level or lower that are hidden, undetected, flanking, or using surprise attack.</p> <p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p> <p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p> <p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p> <p><strong>Murderous Instinct</strong> <span class="action">▷</span> <strong>Trigger</strong> Rahadin drops to 0 hit points and has a reaction available; <strong>Effect</strong> Rahadin uses Deathly Choir to release a terrible scream. He then stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn't retain any conditions he had in his previous form.</p> <hr> <p><strong>Speed</strong> 40 feet</p> <p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p> <p><strong>Ranged</strong> <span class="action">▶</span> dart +23 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p> <p><strong>Arcane Innate Spells</strong> DC 27, attack +19 <strong>4th</strong> marvelous mount (3/day) <strong>3rd</strong> veil of privacy <strong>1st</strong> sure strike</p> <hr> <p><strong>Shadow Step</strong> <span class="action">↻</span> (darkness, occult, teleportation) <strong>Trigger</strong> An enemy misses Rahadin with an attack or deals damage to him; <strong>Effect</strong> Rahadin vanishes into shadow, appearing in a square within 30 feet. Rahadin doesn't need to see his destination when using Shadow Step. He can then Hide or Strike.</p> <p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p> <p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p> <p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature they can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p> <p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p> <p><strong>Whirling Blades</strong> <span class="action">▶▶</span> (move) Each creature within 10 feet of Rahadin must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). If a creature critically fails the save, Rahadin can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from him. Rahadin can't use Whirling Blades again for 1d4 rounds.</p> <p><strong>Wind Strike</strong> <span class="action">▶▶</span> (move) Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking reactions. Each creature within 5 feet of a space he passes through must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). Rahadin can't use Wind Strike again for 1d4 rounds.</p> </div>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Kinslayer<span>Creature 11</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Elf</span>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
+<p><strong>Perception</strong> +24; darkvision</p>
+<p><strong>Languages</strong> Common, Elven</p>
+<p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p>
+<p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p>
+<p><strong>Items</strong> Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), wyvern poison (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 205</p>
+<p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
+<p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using surprise attack.</p>
+<p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p>
+<p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p>
+<p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<p><strong>Speed</strong> 40 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Thorn +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing plus 1d6 bleed</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Chain +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dart +24 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p>
+<p><strong>Arcane Innate Spells</strong> DC 27, attack +19; <strong>4th</strong> marvelous mount (3/day); <strong>3rd</strong> veil of privacy; <strong>1st</strong> sure strike</p>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Fortitude saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Will saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Will saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong>Amulet of Ravenloft</strong> <span class="action">▷</span> (1/day) <strong>Trigger</strong> Rahadin is reduced to 60 hit points or fewer; <strong>Effect</strong> Rahadin ends all effects currently affecting him and speaks the words: "I call upon the guardians of Ravenloft to enact their master's will." If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury. He can then move up to his speed without triggering opportunity attacks. <strong>Internal Injury</strong> At the beginning of Rahadin's turn, he must succeed on a DC 27 Fortitude save or become stunned 1. This injury can be healed either by resting for ten consecutive days with no other activities, or by receiving magical healing of 7th rank or higher (such as <em>regenerate</em>).</p>
+<p><strong>Riposte</strong> <span class="action">↻</span> <strong>Trigger</strong> An enemy misses Rahadin with a melee attack; <strong>Effect</strong> Rahadin uses Elf Step. He can then immediately Strike with Thorn or Chain against that enemy with a +2 circumstance bonus.</p>
+<p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p>
+<p><strong>Double Slice</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, each in a different hand; <strong>Effect</strong> Rahadin lashes out with both weapons. He makes two Strikes, one with each of his two melee weapons, each using his current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a -2 penalty. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. He adds any precision damage only once, to the attack of his choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty.</p>
+<p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p>
+<p><strong>Kinslayer Attack</strong> <span class="action">▶</span> (concentrate) <strong>Requirements</strong> Rahadin must be wielding a scimitar in each hand; <strong>Effect</strong> Rahadin attempts to Feint against an enemy within 30 feet. On a successful Feint, Rahadin's next successful scimitar Strike during the same turn inflicts 2d6 persistent bleed damage. Furthermore, as long as Rahadin remains visible to the target and the target stays within 30 feet, all subsequent Kinslayer attacks against that target automatically render them off-guard against Rahadin's attacks until the end of the target's turn.</p>
+<p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature he can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p>
+<p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p>
+<p><strong>Twin Parry</strong> <span class="action">▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, one in each hand; <strong>Effect</strong> Rahadin uses his two weapons to parry attacks. He gains a +1 circumstance bonus to AC until the start of his next turn, or a +2 circumstance bonus if either weapon has the parry trait. He loses this circumstance bonus if he no longer meets this requirement.</p>
 </div>
 
 # Design Notes: St. Andral's Feast

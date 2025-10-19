@@ -807,7 +807,7 @@ A player that approaches the orb can hear many voices whispering the following p
 
 Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them.
 
-If the orb is removed from its position, the four ashen **[Shadows scaled down to 2nd level](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir. Each round, one shadow “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+If the orb is removed from its position, the four ashen **[Shadows scaled down to 2nd level](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir (additionally, I suggest decreasing their attack’s damage to 1d4+1 void). Each round, one shadow “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
 
 * “Begone from this place!”
 * “Look not upon us.”
@@ -934,7 +934,8 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 >
 > For the first phase, I chose the [Shanrigol Heap](https://2e.aonprd.com/Monsters.aspx?ID=1050) and left it at 4th level so it's only a **Moderate+** threat for a 2nd-level party. I've also added some reactions, actions, and weaknesses that complement the stat block without making it overpowered.
 >
-> For the second phase, I used an [Ugothol](https://2e.aonprd.com/Monsters.aspx?ID=2812) upscaled to Level 5 (the Elite template makes it too powerful, in my opinion). The monster already has awesome "deformed art" and it nicely represents a child who was "trapped" in the flesh mound.>
+> For the second phase, I used an [Ugothol](https://2e.aonprd.com/Monsters.aspx?ID=2812) upscaled to Level 5 (the Elite template makes it too powerful, in my opinion). The monster already has awesome "deformed art" and it nicely represents a child who was "trapped" in the flesh mound.
+>
 > I made it undead with all of the appropriate immunities and weaknesses. And, of course, I also added more actions and reactions. Because of this, it's essentially **Severe+** now, which is very scary for a 2nd-level party. They'd better use its weaknesses smartly!
 
 > [!item]+ **Elisabeth's Amber Shard**
@@ -950,84 +951,72 @@ A creature grabbed by the mound’s first form can hear the faint sound of a bab
 > Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, reactions, and targets will provide the most interest and excitement for the current round.
 
 <div class="statblock">
-<h2>The Flesh Mound - Creature 4</h2>
-<em>Large aberration undead, chaotic evil</em>
+<h2>The Flesh Mound<span>Creature 4</span></h2>
+<span class="trait traituncommon">Uncommon</span>
+<span class="trait traitsize">Large</span>
+<span class="trait">Aberration</span>
+<span class="trait">Undead</span>
+<span class="trait">Chaotic</span>
+<span class="trait">Evil</span>
 <hr>
-<strong>Perception</strong> +9; darkvision, tremorsense (imprecise) 30 feet, all-around vision
-<br>
-<strong>Languages</strong> Common but can't speak
-<br>
-<strong>Skills</strong> Athletics +12, Stealth +10
-<br>
-<strong>Str</strong> +5, <strong>Dex</strong> +2, <strong>Con</strong> +3, <strong>Int</strong> -4, <strong>Wis</strong> +1, <strong>Cha</strong> -5
+<p><strong>Perception</strong> +9; darkvision, tremorsense (imprecise) 30 feet</p>
+<p><strong>Languages</strong> Common (can't speak)</p>
+<p><strong>Skills</strong> Athletics +12, Stealth +10</p>
+<p><strong>Str</strong> +5, <strong>Dex</strong> +2, <strong>Con</strong> +3, <strong>Int</strong> -4, <strong>Wis</strong> +1, <strong>Cha</strong> -5</p>
+<p><strong>All-Around Vision</strong> This creature can't be flanked.</p>
 <hr>
-<strong>AC</strong> 20; all-around vision
-<br>
-<strong>HP</strong> 55; void healing
-<br>
-<strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious
-<br>
-<strong>Resistances</strong> piercing 5, slashing 5
-<br>
-<strong>Weaknesses</strong> vitality 5
-<br>
-<strong>Speed</strong> 20 feet, climb 20 feet, swim 20 feet
-<hr>
-<p><strong>Melee</strong> ◆ fleshy slap +14 (forceful), <strong>Damage</strong> 2d6+8 bludgeoning plus Grab</p>
-<p><strong>Melee</strong> ◆ bone shard +11 (agile, range increment 20 feet, versatile P), <strong>Damage</strong> 1d8+8 bludgeoning</p>
-<h3>Actions</h3>
-<p><strong>Sapping Squeeze</strong> ◆ <strong>Requirements</strong> Walter has a creature grabbed <strong>Effect</strong> Walter squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 basic Fortitude save). Walter regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute.</p>
-<p><strong>Undulating Step</strong> ◆◆ Walter separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form.</p>
-<p><strong>Quake</strong> ◆ The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 18 Fortitude saving throw or fall prone.</p>
-<p><strong>Squelch</strong> ↻ In response to taking damage from a melee attack, the flesh mound attempts to Grapple the attacker.</p>
-<p><strong>Grab</strong> ◆</p>
-<hr>
-<p><strong>All-Around Vision</strong> The creature can't be flanked.</p>
-<p><strong>Void Healing</strong> The creature heals from negative damage and is damaged by positive effects.</p>
-<p><strong>Shred Flesh</strong> Walter rips flesh away from targets in great chunks. Creatures critically hit by Walter's fleshy slap Strike take an additional 1d6 bleed damage and are enfeebled 1 for as long as they are bleeding.</p>
-<p><strong>Heavy Sleeper</strong> If either of the mound's forms has been unconscious within the past minute, it is slowed 1.</p>
+<p><strong>AC</strong> 20; <strong>Fort</strong> +11, <strong>Ref</strong> +8, <strong>Will</strong> +7</p>
+<p><strong>HP</strong> 55, void healing; <strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious; <strong>Resistances</strong> piercing 5, slashing 5; <strong>Weaknesses</strong> vitality 5</p>
+<p><strong>Void Healing</strong> The creature heals from void damage and is damaged by vitality effects.</p>
 <p><strong>Instinctual Defense</strong> When the mound drops to 0 hit points, it frees each creature currently grabbed by it. The mound's statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn't change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong>Heavy Sleeper</strong> If either of the mound's forms has been unconscious within the past minute, it is slowed 1.</p>
+<p><strong>Shred Flesh</strong> Creatures critically hit by the flesh mound's fleshy slap Strike take an additional 1d6 bleed damage and are enfeebled 1 for as long as they are bleeding.</p>
+<hr>
+<p><strong>Speed</strong> 20 feet, climb 20 feet, swim 20 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fleshy slap +14 (forceful), <strong>Damage</strong> 2d6+8 bludgeoning plus Grab</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> bone shard +11 (agile, range increment 20 feet, versatile P), <strong>Damage</strong> 1d8+8 bludgeoning</p>
+<hr>
+<p><strong>Squelch</strong> <span class="action">↻</span> <strong>Trigger</strong> The flesh mound takes damage from a melee attack; <strong>Effect</strong> The flesh mound attempts to Grapple the attacker.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Quake</strong> <span class="action">▶</span> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 18 Fortitude save or fall prone.</p>
+<p><strong>Sapping Squeeze</strong> <span class="action">▶</span> <strong>Requirements</strong> The flesh mound has a creature grabbed; <strong>Effect</strong> The flesh mound squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 basic Fortitude save). The flesh mound regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute.</p>
+<p><strong>Undulating Step</strong> <span class="action">▶▶</span> The flesh mound separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form.</p>
 </div>
 
-
 <div class="statblock">
-<h2>Walter, the Graveborn - Creature 5</h2>
-<em>Medium aberration undead, common</em>
+<h2>Walter, the Graveborn<span>Creature 5</span></h2>
+<span class="trait">Uncommon</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Aberration</span>
+<span class="trait">Undead</span>
 <hr>
-<strong>Perception</strong> +11; darkvision
-<br>
-<strong>Languages</strong> Common but can't speak
-<br>
-<strong>Skills</strong> Acrobatics +13, Athletics +13
-<br>
-<strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +0
+<p><strong>Perception</strong> +11; darkvision</p>
+<p><strong>Languages</strong> Common (can't speak)</p>
+<p><strong>Skills</strong> Acrobatics +13, Athletics +13</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +0</p>
 <hr>
-<strong>AC</strong> 22; <strong>Fort</strong> +10, <strong>Ref</strong> +10, <strong>Will</strong> +13
-<br>
-<strong>HP</strong> 75; <strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious; <strong>Resistances</strong> bludgeoning 5; <strong>Weaknesses</strong> vitality 5
-<br>
-<strong>Speed</strong> 20 feet
-<hr>
-<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+8 slashing plus Grab</p>
-<hr>
-<p><strong>Gore Spray</strong> ◆◆ Walter spews blood and gore from his chest that deals 2d6 void damage to creatures within a 15-foot cone (DC 19 basic Reflex save). Also, the creature is blinded on failure and dazzled on success. The Walter can't use its Gore Spray again for 1d4 rounds or until it takes a critical hit (whichever comes first). Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
-<p><strong>Wail</strong> ◆ Walter shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 19 Will save. On a failure, a creature becomes frightened 1 (or frightened 2 on a critical failure). On a success, a creature is temporarily immune to this Walter's Wail for 1 minute. Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
-<p><strong>Blood Nourishment</strong> ◆ Walter uses its three-pronged tongue to drink the blood of an adjacent restrained or unconscious creature. The creature gains drained 1.</p>
-<p><strong>Lash Out</strong> ↻ In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. It attempts to Shove the creature. On critical failure, the creature also falls prone.</p>
-<hr>
+<p><strong>AC</strong> 22; <strong>Fort</strong> +10, <strong>Ref</strong> +10, <strong>Will</strong> +13</p>
+<p><strong>HP</strong> 75; <strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious; <strong>Resistances</strong> bludgeoning 5; <strong>Weaknesses</strong> vitality 5</p>
 <p><strong>Compression</strong> When Walter successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not difficult terrain for Walter.</p>
-<p><strong>Sneak Attack</strong> Walter deals 1d6 extra precision damage to off-guard creatures.</p>
-<p><strong>Grab</strong> Walter can attempt to grab a creature it hits with its claw attack.</p>
 <p><strong>Heavy Sleeper</strong> If either of the mound's forms has been unconscious within the past minute, it is slowed 1.</p>
 <p><strong>Innocent Heart</strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 20 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
-<p><strong>Mother's Lullaby</strong> If a player uses their action to hum or play Waltz for Klara and succeeds on a DC 17 Performance check, the mound exposes its heart and can't use its withdraw reaction until the start of the player's next turn.</p>
+<p><strong>Mother's Lullaby</strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 17 Performance check, the mound exposes its heart and can't use its Lash Out reaction until the start of the player's next turn.</p>
+<hr>
+<p><strong>Speed</strong> 20 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +13 (agile), <strong>Damage</strong> 2d8+8 slashing plus Grab</p>
+<hr>
+<p><strong>Lash Out</strong> <span class="action">↻</span> <strong>Trigger</strong> Walter takes damage from a melee attack; <strong>Effect</strong> Walter lashes out at the attacker with a tentacle and attempts to Shove the creature. On a critical failure, the creature also falls prone.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Blood Nourishment</strong> <span class="action">▶</span> Walter uses its three-pronged tongue to drink the blood of an adjacent restrained or unconscious creature. The creature becomes drained 1.</p>
+<p><strong>Gore Spray</strong> <span class="action">▶▶</span> Walter spews blood and gore from his chest that deals 2d6 void damage to creatures within a 15-foot cone (DC 19 basic Reflex save). The creature is also blinded on a failure and dazzled on a success. Walter can't use its Gore Spray again for 1d4 rounds or until it takes a critical hit (whichever comes first). Using this ability exposes Walter's heart, allowing it to be attacked.</p>
+<p><strong>Wail</strong> <span class="action">▶</span> Walter shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 19 Will save. On a failure, a creature becomes frightened 1 (or frightened 2 on a critical failure). On a success, a creature is temporarily immune to this Walter's Wail for 1 minute. Using this ability exposes Walter's heart, allowing it to be attacked.</p>
 </div>
 
 
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **Moderate+** and **Severe+** combat encounters against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> * ***Three Players.*** I wouldn't change it but I'd play the fight in a much less tactical way. It can smash things around, dash for the farthest character, etc.
+> * ***Three Players.*** I wouldn't change it but I'd play the fight in a much less tactical way. It can smash things around, dash for the farthest character, etc. Alternatively, you can scale down both phases by one level.
 > * ***Five Players.*** I'd scale Flesh Mound to level 5. And Walter should be Level 4 made Elite (so making it Level 5).
 > * ***Six Players.*** Apply Elite template to both monsters and play it in a much less tactical way as it will crit a lot.
 
@@ -1053,14 +1042,14 @@ Instead, as the players escape the crumbling Death House, they face two addition
 <p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
 </div>
 
-The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 14 Perception check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
+The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 14 Perception check to Sense Motive reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
 
 If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
 
 > [!combat]- **Balancing the Ghost Mage**
 > This combat encounter is a **Low** encounter against a party of four 2nd-level players:
 >
-> * ***Three Players.*** Leave as it is.
+> * ***Three Players.*** Apply Weak template.
 > * ***Five Players.*** Apply Elite template.
 > * ***Six Players.*** Scale it to level 5.
 

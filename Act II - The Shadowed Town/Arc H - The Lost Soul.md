@@ -655,65 +655,38 @@ Morgantha declines to explain her statement further, noting only that "darker po
 ### Battle with the Hags
 The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
 
-> [!info]+ **Lair Actions**
->
-> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
->
-> It is a complex Level 5 Hazard.
->
-> #### Defense
-> - **AC**: 20
-> - **HP**: 50
-> - **Hardness**: 13
->
-> #### Saves
-> - **Fort** +15
-> - **Ref** +9
-> - **Will** +0
->
-> #### Stealth
-> - **+13**
->   - *“This ancient windmill channels and amplifies the hags’ magic, creating various supernatural effects.”*
->
-> #### Disable
-> - **Thievery** DC 25 (expert) to jam the windmill's mechanisms
-> - **Religion** DC 23 (expert) to perform a ritual blocking the magical resonance
-> - **Occultism** DC 23 (expert) to disrupt the supernatural energies
->
-> #### Routine
-> **Routine (1 action)**:
->
-> ##### **Warding Winds** (1 action)
-> The windmill generates protective winds. All creatures within a 20-foot emanation of the windmill:
->
-> - Take a –2 circumstance penalty to ranged attacks.
-> - Treat the area as **difficult terrain** if they are **Flying**.
->
-> ##### **Pushing Gale** (1 action)
->
-> The windmill releases a powerful directional wind in a 60-foot line (10 feet wide).
-> - **Fortitude** DC 23
-> - **On Failure**: Pushed 20 feet away and take \(\mathbf{2d6}\) bludgeoning damage if smashing into something.
-> - **On Success**: Pushed 10 feet, no damage.
-> - **Critical Success**: Unaffected.
-> - **Critical Failure**: Pushed 40 feet, double damage if smashing into something.
->
-> ##### **Amphibious Chorus** (1 action)
-> **Traits**: Auditory, Mental
->
-> Frogs around the windmill emit an entrancing chorus. All creatures within 120 feet that can hear it must attempt a **Will** DC 23 save:
->
-> - **Critical Success**: Unaffected; temporarily immune for 1 hour.
-> - **Success**: Unaffected.
-> - **Failure**: Must spend its **first action** on the next turn moving toward the windmill.
-> - **Critical Failure**: Must spend **all actions** on its next turn moving toward the windmill.
->
-> ##### **Dispel Magic** (1 action)
->
-> The windmill pulses with anti-magical energy. The coven casts **Dispel Magic** (4th level) on any magical effect within 100 feet of the windmill:
->
-> - Standard **counteract** rules apply.
-> - **Counteract modifier**: +13.
+<div class="statblock">
+<h2>Haunted Windmill<span>Hazard 5</span></h2>
+<p><em>Complex, Environmental, Magical, Occult</em></p>
+<hr>
+<p>This ancient windmill channels and amplifies the hags' magic, creating various supernatural effects.</p>
+<p><strong>Complexity</strong> Complex</p>
+<p><strong>Stealth</strong> DC 13 (trained)</p>
+<p><strong>Description</strong> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.</p>
+<p><strong>Disable</strong> DC 25 Thievery (expert) to jam the windmill's mechanisms, DC 23 Religion (expert) to perform a ritual blocking the magical resonance, or DC 23 Occultism (expert) to disrupt the supernatural energies</p>
+<hr>
+<p><strong>AC</strong> 20; <strong>Fort</strong> +15, <strong>Ref</strong> +9, <strong>Will</strong> +0</p>
+<p><strong>HP</strong> 50; <strong>Hardness</strong> 13</p>
+<hr>
+<p><strong>Routine</strong> (1 action) The windmill uses one of the following abilities:</p>
+<p><strong>Warding Winds</strong> <span class="action">▶</span> <em>(air, aura)</em> The windmill generates protective winds in a 20-foot emanation. All creatures within the area take a –2 circumstance penalty to ranged attacks and treat the area as difficult terrain if they are Flying.</p>
+<p><strong>Pushing Gale</strong> <span class="action">▶</span> <em>(air)</em> The windmill releases a powerful directional wind in a 60-foot line, 10 feet wide. Each creature in the area must attempt a DC 23 Fortitude save.</p>
+<ul>
+<li><strong>Critical Success</strong> The creature is unaffected.</li>
+<li><strong>Success</strong> The creature is pushed 10 feet.</li>
+<li><strong>Failure</strong> The creature is pushed 20 feet and takes 2d6 bludgeoning damage if it collides with a solid object.</li>
+<li><strong>Critical Failure</strong> The creature is pushed 40 feet and takes 4d6 bludgeoning damage if it collides with a solid object.</li>
+</ul>
+<p><strong>Amphibious Chorus</strong> <span class="action">▶</span> <em>(auditory, mental)</em> Frogs around the windmill emit an entrancing chorus. All creatures within 120 feet that can hear it must attempt a DC 23 Will save.</p>
+<ul>
+<li><strong>Critical Success</strong> The creature is unaffected and is temporarily immune to Amphibious Chorus for 1 hour.</li>
+<li><strong>Success</strong> The creature is unaffected.</li>
+<li><strong>Failure</strong> The creature must spend its first action on its next turn moving toward the windmill.</li>
+<li><strong>Critical Failure</strong> The creature must spend all its actions on its next turn moving toward the windmill.</li>
+</ul>
+<p><strong>Dispel Magic</strong> <span class="action">▶</span> <em>(abjuration, occult)</em> The windmill pulses with anti-magical energy. The coven casts <em>dispel magic</em> (4th level; counteract modifier +13) on any magical effect within 100 feet of the windmill.</p>
+<p><strong>Reset</strong> The hazard continues to function as long as the coven remains within 100 feet of the windmill and is not incapacitated.</p>
+</div>
 
 For each hag in **The Bonegrinder Coven** use [Night Hag](https://2e.aonprd.com/Monsters.aspx?ID=257) stat block scaled down to 6th level (apply **Elite** if there's no Binding Circle). Additionally, the coven shares 210 HP.
 But modify the spell lists as followed:
@@ -766,156 +739,98 @@ But modify the spell lists as followed:
 
 
 <div class="statblock">
-<h2>Morgantha - Creature 6</h2>
-<em>Large evil fiend, hag, humanoid, unholy</em>
+<h2>Morganta, Queen of Shadows<span>Creature 6</span></h2>
+<span class="trait traitsize">Large</span>
+<span class="trait">Evil</span>
+<span class="trait">Fiend</span>
+<span class="trait">Hag</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +15; darkvision<br>
-<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
-<strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
-<strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +2
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean</p>
+<p><strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> heartstone</p>
 <hr>
-<strong>AC</strong> 25<br>
-<strong>HP</strong> 210<br>
-<strong>Immunities</strong> sleep<br>
-<strong>Resistances</strong> mental 7<br>
-<strong>Weaknesses</strong> cold iron 7<br>
-<strong>Saves</strong> Fort +16, Ref +14, Will +15; +2 status to all saves vs. magic, -2 to all saves (if heartstone is lost)<br>
-<strong>Speed</strong> 25 feet
+<p><strong>AC</strong> 25; <strong>Fort</strong> +16, <strong>Ref</strong> +14, <strong>Will</strong> +15; +2 status to all saves vs. magic, -2 to all saves (if heartstone is lost)</p>
+<p><strong>HP</strong> 210; <strong>Immunities</strong> sleep; <strong>Resistances</strong> mental 7; <strong>Weaknesses</strong> cold iron 7</p>
+<p><strong>Abyssal Plague</strong> (disease) A creature can't recover from drained until abyssal plague is cured; <strong>Saving Throw</strong> DC 23 Fortitude; <strong>Stage 1</strong> drained 1 (1 day); <strong>Stage 2</strong> drained increases by 2 (1 day)</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Shadow Step</strong> ↻ <br>
-<strong>Trigger</strong> Morgantha would take damage<br>
-<strong>Effect</strong> Morgantha takes half damage and teleports up to 30 feet.</p>
-<p><strong>Shadow Claws</strong> ◆◆<br>
-Shadows extend the claws as they make a Claw Strike, increasing their reach to 60 feet for that Strike as tendrils spring forth. If this hits, the target must succeed at a DC 23 Will save or be teleported to an empty space within the Morgantha's normal reach.</p>
-<p><strong>Enervating Ring</strong> ◆<br>
-15-foot emanation, creatures must succeed at a DC 23 Fortitude save or take 2d8 void damage and become slowed 1 for 1 round.</p>
-<p><strong>Inflict Nightmares</strong> ◆◆<br>
-<strong>Range</strong> 30 feet; Target must succeed at a DC 23 Will save or fall unconscious and take 2d8 persistent mental damage. While it takes the persistent damage, the target remains unconscious. It can be woken up with appropriate 2-action help (which will give an additional flat check).</p>
-<p><strong>Melee</strong> ◆ jaws +15 (magical, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit damage and abyssal plague</p>
-<p><strong>Melee</strong> ◆ claw +15 (agile, magical, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit damage</p>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> jaws +15 (magical, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit and abyssal plague</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +15 (agile, magical, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit</p>
 <hr>
-<h3>Passive Abilities</h3>
-<p><strong>Abyssal Plague</strong> (disease)<br>
-A creature can't recover from drained until abyssal plague is cured.<br>
-<strong>Saving Throw</strong> DC 23 Fortitude<br>
-<strong>Stage 1</strong> Drained 1 (1 day)<br>
-<strong>Stage 2</strong> Drained increases by 2 (1 day)</p>
+<p><strong>Shadow Step</strong> <span class="action">↻</span> (teleportation) <strong>Trigger</strong> Morgantha would take damage; <strong>Effect</strong> Morgantha takes half damage and teleports up to 30 feet.</p>
+<p><strong>Enervating Ring</strong> <span class="action">▶</span> (void) 15-foot emanation; creatures must succeed at a DC 23 Fortitude save or take 2d8 void damage and become slowed 1 for 1 round.</p>
+<p><strong>Inflict Nightmares</strong> <span class="action">▶▶</span> (mental, sleep) <strong>Range</strong> 30 feet; target must succeed at a DC 23 Will save or fall unconscious and take 2d8 persistent mental damage. While it takes the persistent damage, the target remains unconscious. It can be woken up with appropriate 2-action help (which will give an additional flat check).</p>
+<p><strong>Shadow Claws</strong> <span class="action">▶▶</span> (divine, shadow, teleportation) Shadows extend the claws as they make a Claw Strike, increasing their reach to 60 feet for that Strike as tendrils spring forth. If this hits, the target must succeed at a DC 23 Will save or be teleported to an empty space within the shadow giant's normal reach.</p>
 </div>
+
 <div class="statblock">
-<h1>Bella - Creature 6</h2>
-<em>Huge Evil Fiend Hag Humanoid Unholy, Common</em>
+<h2>Bella<span>Creature 6</span></h2>
+<span class="trait traitsize">Huge</span>
+<span class="trait">Evil</span>
+<span class="trait">Fiend</span>
+<span class="trait">Hag</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +14; darkvision<br>
-<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
-<strong>Skills</strong> Arcana +12, Athletics +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean</p>
+<p><strong>Skills</strong> Arcana +13, Athletics +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> heartstone</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>17 (+4)</td>
-      <td>17 (+4)</td>
-      <td>17 (+4)</td>
-      <td>17 (+4)</td>
-      <td>17 (+4)</td>
-      <td>13 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 25; <strong>Fort</strong> +16, <strong>Ref</strong> +14, <strong>Will</strong> +15; +2 status to all saves vs. magic, -2 to all saves (if heartstone is lost)</p>
+<p><strong>HP</strong> 210; <strong>Immunities</strong> sleep; <strong>Resistances</strong> mental 7; <strong>Weaknesses</strong> cold iron 7</p>
+<p><strong>Abyssal Plague</strong> (disease) A creature can't recover from drained until abyssal plague is cured; <strong>Saving Throw</strong> DC 23 Fortitude; <strong>Stage 1</strong> drained 1 (1 day); <strong>Stage 2</strong> drained increases by 2 (1 day)</p>
 <hr>
-<strong>AC</strong> 24<br>
-<strong>Saving Throws</strong> Fortitude +15, Reflex +14, Will +15<br>
-<strong>HP</strong> 209<br>
-<strong>Immunities</strong> sleep<br>
-<strong>Resistances</strong> mental 6<br>
-<strong>Weaknesses</strong> cold iron 6<br>
-<strong>Speed</strong> 24 feet<br>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> jaws +15 (magical, reach 15 feet, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit, abyssal plague, and Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> tail +15 (agile, magical, reach 15 feet, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit</p>
 <hr>
-<h2>Melee Attacks</h3>
-<p><strong>Melee</strong> ◆ jaws +16 (magical, reach 15, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit plus abyssal plague and Grab</p>
-<p><strong>Melee</strong> ◆ tail +14 (agile, magical, reach 15, unholy), <strong>Damage</strong> 2d4+8 slashing plus 1d6 spirit</p>
-<h2>Active Actions</h3>
-<p><strong>Hallucinatory Mist</strong> ◆◆ (mental)<br>
-29-foot cone, creatures must succeed at a DC 23 Will save or become stunned 1 until the end of their next turn.</p>
-<p><strong>Tail Lash</strong> ↻<br>
-<strong>Trigger</strong> A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check<br>
-<strong>Effect</strong> Bella Strikes with its tail at the triggering creature at a -3 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.</p>
-<h2>Passive Abilities</h3>
-<p><strong>Abyssal Plague</strong> (disease)<br>
-A creature can't recover from drained until abyssal plague is cured.<br>
-<strong>Saving Throw</strong> DC 23 Fortitude<br>
-<strong>Stage 0</strong> Drained 1 (1 day)<br>
-<strong>Stage 1</strong> Drained increases by 2 (1 day)</p>
+<p><strong>Tail Lash</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check; <strong>Effect</strong> The dragon Strikes with its tail at the triggering creature at a -2 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Hallucinatory Mist</strong> <span class="action">▶▶</span> (mental) 30-foot cone; creatures must succeed at a DC 23 Will save or become stunned 1 until the end of their next turn.</p>
+<p><strong>Swallow Whole</strong> <span class="action">▶</span> (attack) Large, 1d8+4 bludgeoning, Rupture 12</p>
 </div>
 
 
 <div class="statblock">
-<h2>Offalia - Creature 6</h2>
-<em>Huge Evil Fiend Hag Humanoid Unholy</em>
+<h2>Ofalia Topotalia<span>Creature 6</span></h2>
+<span class="trait traitsize">Huge</span>
+<span class="trait">Evil</span>
+<span class="trait">Fiend</span>
+<span class="trait">Hag</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +15; darkvision<br>
-<strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean<br>
-<strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15<br>
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Aklo, Chthonian, Common, Diabolic, Empyrean</p>
+<p><strong>Skills</strong> Arcana +13, Deception +13, Diplomacy +13, Intimidation +10, Occultism +15, Religion +15</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> heartstone</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 25; <strong>Fort</strong> +16, <strong>Ref</strong> +14, <strong>Will</strong> +15; +2 status to all saves vs. magic, -2 to all saves (if heartstone is lost)</p>
+<p><strong>HP</strong> 210; <strong>Immunities</strong> sleep; <strong>Resistances</strong> mental 7; <strong>Weaknesses</strong> cold iron 7</p>
+<p><strong>Abyssal Plague</strong> (disease) A creature can't recover from drained until abyssal plague is cured; <strong>Saving Throw</strong> DC 23 Fortitude; <strong>Stage 1</strong> drained 1 (1 day); <strong>Stage 2</strong> drained increases by 2 (1 day)</p>
+<p><strong>Grabbing Trunk</strong> A Medium or smaller creature hit by the mammoth's trunk is grabbed. If the mammoth moves, it can bring the grabbed creature along with it.</p>
 <hr>
-<strong>AC</strong> 25<br>
-<strong>Saving Throws</strong> Fortitude +16, Reflex +14, Will +15<br>
-<strong>HP</strong> 210<br>
-<strong>Immunities</strong> sleep<br>
-<strong>Resistances</strong> mental 7<br>
-<strong>Weaknesses</strong> cold iron 7<br>
-<strong>Speed</strong> 25 feet<br>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> tusk +15 (magical, range 15 feet, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit and abyssal plague</p>
+<p><strong>Melee</strong> <span class="action">▶</span> foot +15 (magical, reach 10 feet, unholy), <strong>Damage</strong> 2d4+8 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> trunk +15, <strong>Damage</strong> grabbing trunk</p>
+<p><strong>Occult Innate Spells</strong> DC 23; <strong>Constant (3rd)</strong> detect magic</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ tusk +17 (magical, range-15, unholy), <strong>Damage</strong> 2d6+8 piercing plus 1d6 spirit damage plus abyssal plague</p>
-<p><strong>Melee</strong> ◆ foot +17 (magical, reach-10, unholy), <strong>Damage</strong> 2d4+8 slashing</p>
-<p><strong>Melee</strong> ◆ trunk +17, <strong>Damage</strong> plus grabbing trunk</p>
-<p><strong>Dual Tusks</strong> ◆ Offalia makes two tusk Strikes, each against a different creature. This counts as one attack for the Offalia's multiple attack penalty, and the penalty doesn't increase until after both attacks.</p>
-<p><strong>Fiendish Trumpet</strong> ◆◆ (mental, sonic) 60-foot emanation, creatures must succeed at a DC 23 Will save or become frightened 1 (success), frightened 2 (failure), or frightened 3 and fleeing for 1 rounds (critical failure).</p>
-<p><strong>Reactive Strike</strong> ↻ A creature hits Offalia with a melee Strike;</p>
-<h2>Passive Abilities</h3>
-<p><strong>Abyssal Plague</strong> (disease)<br>
-A creature can't recover from drained until abyssal plague is cured.<br>
-<strong>Saving Throw</strong> DC 23 Fortitude<br>
-<strong>Stage 0</strong> Drained 1 (1 day)<br>
-<strong>Stage 1</strong> Drained increases by 2 (1 day)</p>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature hits Ofalia with a melee Strike; <strong>Effect</strong> Ofalia makes a melee Strike against the triggering creature.</p>
+<p><strong>Dual Tusks</strong> <span class="action">▶</span> The mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks.</p>
+<p><strong>Fiendish Trumpet</strong> <span class="action">▶▶</span> (mental, sonic) 60-foot emanation; creatures must succeed at a DC 23 Will save or become frightened 1 on success, frightened 2 on failure, and frightened 3 and fleeing for 1 round on critical failure.</p>
+<p><strong>Trample</strong> <span class="action">▶▶▶</span> Large or smaller, foot, DC 28 basic Reflex</p>
 </div>
-
 
 > [!combat]- **Balancing the Hags**
-> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 5th-level players, a Weak level 9 ally (Victor Vallakovich), and level 4 ally (Majesto). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **Severe** combat encounters against a party of four 5th-level players, a level 7 ally (Victor Vallakovich), and level 4 ally (Majesto). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * ***Three Players.*** Apply Weak to both Offalia and Bella but don't use Victor actively.
 > * ***Five Players.*** Apply Elite to Morgantha.
@@ -1282,130 +1197,71 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 
 
 <div class="statblock">
-<h2>Speaker of the Gallows - Creature 8</h2>
-<em>Medium ghost spirit undead, chaotic evil</em>
+<h2>Gallows Speaker<span>Creature 7</span></h2>
+<span class="trait traitsize">Large</span>
+<span class="trait">Ghost</span>
+<span class="trait">Incorporeal</span>
+<span class="trait">Spirit</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +17; darkvision, divination senses (60 feet into Ethereal Plane)<br>
-<strong>Languages</strong> Common, Necril<br>
-<strong>Skills</strong> Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16, Stealth +19<br>
+<p><strong>Perception</strong> +16; darkvision</p>
+<p><strong>Languages</strong> Common, Necril</p>
+<p><strong>Skills</strong> Acrobatics +17, Diplomacy +14, Intimidation +16, Stealth +18, Sailing Lore +15</p>
+<p><strong>Str</strong> -5, <strong>Dex</strong> +6, <strong>Con</strong> -1, <strong>Int</strong> +1, <strong>Wis</strong> +2, <strong>Cha</strong> +5</p>
+<p><strong>Divination Senses</strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>-5</td>
-      <td>+6</td>
-      <td>+0</td>
-      <td>+2</td>
-      <td>+3</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 24; <strong>Fort</strong> +13, <strong>Ref</strong> +17, <strong>Will</strong> +14</p>
+<p><strong>HP</strong> 100, void healing, rejuvenation; <strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void; <strong>Resistances</strong> all damage 9 (except force, ghost touch, or vitality; double resistance vs. non-magical) - only on Material Plane</p>
+<p><strong>Void Healing</strong> The creature heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Wrath of the Traitor</strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the Ba'al Verzi Avenger. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <hr>
-<strong>AC</strong> 26<br>
-<strong>Saves</strong> Fort +14, Ref +18, Will +15<br>
-<strong>HP</strong> 120; void healing<br>
-<strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void<br>
-<strong>Resistances</strong> all damage 10 (double vs non-magical; except force, ghost-touch, vitality)<br>
-<strong>Speed</strong> fly 25 feet<br>
+<p><strong>Speed</strong> fly 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> foretelling touch +19 (magical), <strong>Damage</strong> 2d8+10 mental</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> ghostly jolt +19 (magical, range increment 30 feet), <strong>Damage</strong> 2d6+6 void</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ foretelling touch +20 (magical), <strong>Damage</strong> 2d6+11 mental</p>
-<p><strong>Ranged</strong> ◆ ghostly jolt +20 (magical, range increment 30 feet), <strong>Damage</strong> 2d6+8 void</p>
-<p><strong>Foretelling Touch</strong> ◆◆<br>
-The gallows speaker makes the foretelling touch strike. If he hits and deals damage, the target is Frightened 1, or Frightened 2 on a critical hit.</p>
-<p><strong>Deathly Visions</strong> ◆<br>
-You force the target to see a vision of its own death. It takes 6d6 mental damage with a DC 25 Will save. If the target is reduced to 0 HP by this spell, its vision becomes reality and kills it instantly.<br>
-<strong>Critical Success</strong> The target is unaffected.<br>
-<strong>Success</strong> The target takes half damage and is Frightened 1.<br>
-<strong>Failure</strong> The target takes full damage and is frightened 2.<br>
-<strong>Critical Failure</strong> The target takes double damage, is frightened 4, and is Paralyzed for one round.</p>
-<p><strong>Absorb Phantom</strong> ◆◆<br>
-The gallows speaker extends its hand toward phantom creature within 100 feet. The target phantom dissolves and streaks toward the gallows speaker in a straight line, dealing 3d10 void damage to each creature along the line (DC 25 basic Fortitude save). The gallows speaker absorbs the essence of the target phantom, becoming Quickened and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike. An unwilling target can attempt a DC 25 Will save to resist being absorbed.</p>
-<p><strong>Join the Gallows</strong> ↻<br>
-<strong>Trigger</strong> The gallows speaker reduces a living creature to 0 Hit Points with a melee Strike<br>
-<strong>Effect</strong> The creature attempts a DC 25 Fortitude save. If the creature fails its save, it remains conscious but is controlled by the gallows speaker until it loses its dying condition. It continues to attempt recovery checks as normal for the dying condition. The effect ends if the creature loses the dying condition. If the creature dies while under this effect, it joins the gallows in 1d4 days. If the gallows speaker is destroyed before the creature dies, the creature is spared this terrible fate.</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Void Healing</strong><br>
-The creature is healed by void damage and harmed by vitality effects.</p>
-<p><strong>Divination Senses</strong><br>
-The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong>Wrath of the Traitor</strong><br>
-If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the Ba'al Verzi Avenger. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong>Join the Gallows</strong> <span class="action">↻</span> (divine) <strong>Trigger</strong> The gallows speaker reduces a living creature to 0 Hit Points with a melee Strike; <strong>Effect</strong> The creature attempts a DC 24 Fortitude save. If the creature fails its save, it remains conscious but is controlled by the gallows speaker until it loses its dying condition. It continues to attempt recovery checks as normal for the dying condition. The effect ends if the creature loses the dying condition. If the creature dies while under this effect, it joins the gallows in 1d4 days. If the gallows speaker is destroyed before the creature dies, the creature is spared this terrible fate.</p>
+<p><strong>Absorb Phantom</strong> <span class="action">▶</span> (void) The gallows speaker extends its hand toward phantom creature within 100 feet. The target phantom dissolves and streaks toward the gallows speaker in a straight line, dealing 4d6 void damage to each creature along the line (DC 24 basic Fortitude save). The gallows speaker absorbs the essence of the target phantom, becoming quickened and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike. An unwilling target can attempt a DC 24 Will save to resist being absorbed.</p>
+<p><strong>Deathly Visions</strong> <span class="action">▶</span> (concentrate, emotion, fear, mental) You force the target to see a vision of its own death. It takes 4d6 mental damage with a DC 24 basic Will save. If the target is reduced to 0 HP by this spell, its vision becomes reality and kills it instantly.</p>
+<p><strong>Foretelling Touch</strong> <span class="action">▶▶</span> (emotion, mental) The gallows speaker makes the foretelling touch Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Ba'al Verzi Avenger - Creature 8 - Mythic Ambusher?</h2>
-<p><em>Medium chaotic evil ghost spirit undead</em></p>
+<h2>Ba'al Verzi Avenger<span>Creature 8</span></h2>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Ghost</span>
+<span class="trait">Incorporeal</span>
+<span class="trait">Mythic</span>
+<span class="trait">Spirit</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
 <hr>
 <p><strong>Perception</strong> +17; darkvision</p>
 <p><strong>Languages</strong> Common, Necril</p>
-<p><strong>Skills</strong> Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16, Stealth +21</p>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>-5</td>
-      <td>+6</td>
-      <td>+0</td>
-      <td>+2</td>
-      <td>+3</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>Skills</strong> Acrobatics +18, Diplomacy +15, Intimidation +17, Stealth +21, Sailing Lore +16</p>
+<p><strong>Str</strong> -5, <strong>Dex</strong> +6, <strong>Con</strong> +0, <strong>Int</strong> +2, <strong>Wis</strong> +3, <strong>Cha</strong> +5</p>
+<p><strong>Items</strong> dagger</p>
+<p><strong>Divination Senses</strong> The Ba'al Verzi Avenger can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
+<p><strong>Two Reactions</strong></p>
 <hr>
-<p><strong>AC</strong> 26</p>
-<p><strong>HP</strong> 120; void healing</p>
-<p><strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void</p>
-<p><strong>Resistances</strong> all damage 10 (except force, ghost-touch, and vitality; double vs non-magical)</p>
-<p><strong>Saves</strong> Fort +14, Ref +18, Will +15</p>
+<p><strong>AC</strong> 26; <strong>Fort</strong> +14, <strong>Ref</strong> +18, <strong>Will</strong> +15</p>
+<p><strong>HP</strong> 115, void healing, rejuvenation; <strong>Immunities</strong> death effects, disease, paralyzed, poison, precision, unconscious, void; <strong>Resistances</strong> all damage 10 (except force, ghost touch, or vitality; double resistance vs. non-magical)</p>
+<p><strong>Void Healing</strong> The creature heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Mythic Resilience</strong> The creature treats its Reflex saving throws as one degree of success better than it rolled. This is not cumulative with other effects that change its degree of success, like the incapacitation trait (except for rolling a natural 1 or 20).</p>
+<p><strong>Sneak Attack</strong> The creature's Strikes deal an additional 2d6 precision damage to off-guard creatures.</p>
+<p><strong>Sellsword's Folly</strong> (curse, emotion, magical, mental) Even the most experienced combat veteran becomes as reckless as a rookie when suffering from sellsword's folly. <strong>Saving Throw</strong> DC 25 Will; <strong>Effect</strong> The chaos of combat overwhelms you. Each time you roll initiative for a combat encounter, you must attempt a new saving throw against the curse; on a failure, you become confused for 1 round. This is an incapacitation effect.</p>
+<hr>
 <p><strong>Speed</strong> fly 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> ghostly hand +20 (agile, finesse, magical, nonlethal), <strong>Damage</strong> 2d8+8 void plus Improved Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> dagger +20 (agile, finesse, versatile S), <strong>Damage</strong> 2d6+6 piercing plus sellsword's folly</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dagger +20 (agile, thrown 10 feet, versatile S), <strong>Damage</strong> 2d6+6 piercing plus sellsword's folly</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ ghostly hand +20 (agile, finesse, magical, nonlethal), <strong>Damage</strong> 2d10+9 void plus improved grab</p>
-<p><strong>Melee</strong> ◆ dagger +20 (agile, finesse, versatile S), <strong>Damage</strong> 3d4+6 piercing plus sellsword's folly</p>
-<p><strong>Ranged</strong> ◆ dagger +20 (agile, thrown 10, versatile S), <strong>Damage</strong> 3d4+6 piercing plus sellsword's folly</p>
-<p><strong>◆◆ Grasp of the Grave</strong> <em>(divine, teleportation)</em></p>
-<p><strong>Requirements</strong> The Ba'al Verzi Avenger has a creature Grabbed or Restrained</p>
-<p><strong>Effect</strong> The Ba'al Verzi Avenger pushes the creature 15 feet in a straight line. The Avenger immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked Prone, and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground.</p>
-<p><strong>◆ Wail of the Forsaken</strong> <em>(auditory, concentrate, fear, incapacitation, mental, primal)</em></p>
-<p><strong>Frequency</strong> three times per day</p>
-<p><strong>Effect</strong> The Ba'al Verzi unleashes a forlorn howl that can be heard up to 1 mile away. Any creature that hears the wail must succeed at a DC 25 Will save or be Frightened 1. Any creature that critically fails and is within 60 feet of the Ba'al Verzi is instead Frightened 3, and is also Paralyzed for 1d4 rounds (or until it's no longer frightened, whichever comes first). Whether it succeeds or fails its save, a creature is then temporarily immune to that Ba'al Verzi's wail for 24 hours.</p>
-<p><strong>↻ Nimble Dash</strong></p>
-<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>
-<p><strong>Requirements</strong> You are not encumbered</p>
-<p><strong>Effect</strong> You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack. When you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Divination Senses</strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong>Sellsword's Folly</strong> <em>(curse, emotion, magical, mental)</em></p>
-<p>Even the most experienced combat veteran becomes as reckless as a rookie when suffering from sellsword's folly.</p>
-<p><strong>Saving Throw</strong> DC 25 Will</p>
-<p><strong>Effect</strong> The chaos of combat overwhelms you. Each time you roll initiative for a combat encounter, you must attempt a new saving throw against the curse; on a failure, you become Confused for 1 round. This is an incapacitation effect.</p>
-<p><strong>Sneak Attack</strong> The creature's Strikes deal an additional 2d6 precision damage to Off-Guard creatures.</p>
-<p><strong>Void Healing</strong> The creature heals from negative damage and is damaged by positive effects.</p>
+<p><strong>Nimble Dash</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature targets you with an attack and you can see the attacker; <strong>Requirements</strong> You are not encumbered; <strong>Effect</strong> You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack. When you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.</p>
+<p><strong>Improved Grab</strong> <span class="action">▷</span></p>
+<p><strong>Remove a Condition</strong> <span class="action">▶</span> (concentrate) <strong>Frequency</strong> three times per day; <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> The creature ends one condition affecting it.</p>
+<p><strong>Grasp of the Grave</strong> <span class="action">▶▶</span> (divine, teleportation) <strong>Requirements</strong> The Ba'al Verzi Avenger has a creature grabbed or restrained; <strong>Effect</strong> The Avenger pushes the creature 15 feet in a straight line. The Avenger immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked prone, and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground.</p>
+<p><strong>Wail of the Forsaken</strong> <span class="action">▶▶▶</span> (auditory, concentrate, fear, incapacitation, mental, primal) <strong>Frequency</strong> three times per day; <strong>Effect</strong> The Ba'al Verzi unleashes a forlorn howl that can be heard up to 1 mile away. Any creature that hears the wail must succeed at a DC 25 Will save or be frightened 1. Any creature that critically fails and is within 60 feet of the Ba'al Verzi is instead frightened 3, and is also paralyzed for 1d4 rounds (or until it's no longer frightened, whichever comes first). Whether it succeeds or fails its save, a creature is then temporarily immune to that Ba'al Verzi's wail for 24 hours.</p>
 </div>
 
 

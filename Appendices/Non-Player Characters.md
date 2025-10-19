@@ -9,7 +9,7 @@
 
 ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
 
-***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
+***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*).
 
 **Character Information**
 ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
@@ -152,120 +152,92 @@
 #### First Encounter
 
 <div class="statblock">
-<h2>Volenta, First Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, the Alchemist<span>Creature 6</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
+<span class="trait">Vampire</span>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Common (plus one regional language)</p>
+<p><strong>Skills</strong> Acrobatics +17, Athletics +15, Crafting +18, Intimidation +14, Society +10, Stealth +18</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> work coat, whip, alchemist's tools, bandolier, acid flask (moderate, infused) (2), alchemist's fire (moderate, infused) (2), frost vial (moderate, infused) (2), blood flask (moderate) (2), elixir of life (lesser, infused) (3), bomber's eye elixir (lesser, infused), smoke ball (greater), clown monarch (2), sloughing toxin, scarlet mist, warpwobble poison, infused reagents (7)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 25; <strong>Fort</strong> +12, <strong>Ref</strong> +16, <strong>Will</strong> +14</p>
+<p><strong>HP</strong> 70, coffin restoration, fast healing 15, void healing; <strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep; <strong>Resistances</strong> physical 6 (except silver)</p>
+<p><strong>Void Healing</strong> Volenta heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Vampire Fast Healing 15</strong> Volenta regains 15 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes holy damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities.</p>
+<ul>
+<li><strong>Forbiddance.</strong> Volenta can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water.</strong> Volenta takes 20 acid damage if she ends her turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into Volenta's heart while she is in her resting place, she is destroyed. Staking a vampire requires 3 actions and works only if the vampire is unconscious and in her resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> Volenta takes 20 holy spirit damage when she starts her turn in sunlight. While in sunlight, she is dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+<p><strong>Awakened Bloodlust</strong> When Volenta drops to 0 hit points, her nostrils flare like a bat's, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<p><strong>Speed</strong> 25 feet, climb 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> whip +16 (disarm, finesse, nonlethal, reach 10 feet, trip), <strong>Damage</strong> 2d4+6 slashing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> acid flask (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2 acid plus 2 acid splash plus 2d6 persistent acid</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> alchemist's fire (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2d4+6 fire plus 2 fire splash plus 2 persistent fire</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> frost vial (moderate, infused) +16 (bomb, consumable, infused, splash), <strong>Damage</strong> 2d4+6 cold plus 2 cold splash (target takes -10-foot status penalty to Speed until end of next turn)</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> blood flask (moderate) +17 (bomb, consumable, splash), <strong>Damage</strong> 3 void plus 2 void splash plus 2d8 persistent bleed</p>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<div class="break"></div>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+<p><strong>Tripping Whip</strong> <span class="action">↻</span> <strong>Requirements</strong> Volenta must have a whip in her hands; <strong>Trigger</strong> A creature moves out of a threatened square; <strong>Effect</strong> Volenta makes a Trip attempt against the triggering creature with her whip.</p>
+<p><strong>Drink Blood</strong> <span class="action">▶</span> <strong>Requirement</strong> A grabbed, paralyzed, restrained, unconscious, or willing creature is within Volenta's reach; <strong>Effect</strong> Volenta sinks her fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim takes 4d6+7 piercing damage and is drained 1 and Volenta regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained increases the victim's drained value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but gains no HP from doing so. A victim's drained condition decreases by 1 per day. A blood transfusion, which requires a DC 19 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Exhume</strong> <span class="action">▶</span> (manipulate) <strong>Requirements</strong> Volenta is adjacent to a dead creature that hasn't already been affected by Exhume; <strong>Effect</strong> Volenta harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.</p>
+<p><strong>Force Feed</strong> <span class="action">▶</span> <strong>Requirements</strong> Volenta has a creature grabbed or restrained and is holding weird brew, an alchemical elixir, or an alchemical poison; <strong>Effect</strong> Volenta forces the target to consume the alchemical item.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Quick Draw</strong> <span class="action">▶</span> Volenta Interacts to draw a weapon, then Strikes with that weapon.</p>
+<p><strong>Reckless Alchemy</strong> <span class="action">▶▶</span> (concentrate, manipulate) Volenta attempts to combine two alchemical grenades or two elixirs of life into one item. She can Interact to draw the items if necessary. She attempts a DC 20 Crafting check, destroying both component items to create one new item.<br><strong>Success</strong> The new item has the full effect of both component items, and Volenta can Activate it. If she doesn't Activate it before the end of her turn, the item explodes (as critical failure).<br><strong>Failure</strong> The new item is inert.<br><strong>Critical Failure</strong> The unstable item explodes, dealing 3d6 piercing damage to Volenta.</p>
 </div>
-<br>
 <div class="statblock">
-<h2>Volenta, Second Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, the Frenzied<span>Creature 6</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Undead</span>
+<span class="trait">Unholy</span>
+<span class="trait">Vampire</span>
+<span class="trait">Mythic</span>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<p><strong>Perception</strong> +15; darkvision</p>
+<p><strong>Languages</strong> Common (plus one regional language)</p>
+<p><strong>Skills</strong> Acrobatics +21, Athletics +15, Crafting +18, Intimidation +14, Society +10, Stealth +18</p>
+<p><strong>Str</strong> +4, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +2, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> work coat, dagger (10), bandolier</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 25; <strong>Fort</strong> +12, <strong>Ref</strong> +16, <strong>Will</strong> +14</p>
+<p><strong>HP</strong> 70, coffin restoration, fast healing 15, void healing; <strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep; <strong>Resistances</strong> physical 6 (except silver)</p>
+<p><strong>Void Healing</strong> Volenta heals from void damage and is damaged by vitality effects.</p>
+<p><strong>Vampire Fast Healing 15</strong> Volenta regains 15 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes holy damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong>Vampire Vulnerabilities</strong> All vampires possess the following vulnerabilities.</p>
+<ul>
+<li><strong>Forbiddance.</strong> Volenta can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed by Running Water.</strong> Volenta takes 20 acid damage if she ends her turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into Volenta's heart while she is in her resting place, she is destroyed. Staking a vampire requires 3 actions and works only if the vampire is unconscious and in her resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> Volenta takes 20 holy spirit damage when she starts her turn in sunlight. While in sunlight, she is dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+<p><strong>(Mythic) Mythic Resilience</strong> Volenta treats her Reflex saving throws as one degree of success better than she rolled. This is not cumulative with other effects that change the degree of success, like the incapacitation trait (except for rolling a natural 1 or 20).</p>
+<p><strong>Bloodletting</strong> When Volenta deals piercing or slashing damage, she also deals 1d4 bleed damage if the target was off-guard or if the attack was a critical hit.</p>
+<p><strong>(Mythic) Deadly Striker</strong> Volenta deals an additional 1d6 precision damage on her next Strike whenever she uses an action to Stride 10 or more feet (or to Burrow, Climb, or Fly 10 or more feet).</p>
+<p><strong>(Mythic) Mythic Mobility</strong> Volenta benefits from high mobility and is difficult to pin down. She always uses the extreme skill value for a creature of her level as her Acrobatics modifier.</p>
+<p><strong>Sneak Attack</strong> Volenta deals 1d6 extra precision damage to off-guard creatures.</p>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
+<p><strong>Speed</strong> 25 feet, climb 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +17 (agile), <strong>Damage</strong> 2d6+9 slashing plus Grab</p>
+<p><strong>Melee</strong> <span class="action">▶</span> dagger +16 (agile, finesse, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dagger +16 (agile, thrown 10 feet, versatile S), <strong>Damage</strong> 2d4+6 piercing</p>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
+<p><strong>Blood Frenzy</strong> <span class="action">▷</span> (rage) <strong>Requirements</strong> Volenta is not fatigued or already in a frenzy; <strong>Trigger</strong> Volenta deals bleed damage to a living creature; <strong>Effect</strong> Volenta flies into a frenzy that lasts 1 minute. While frenzied, Volenta gains a +1 status bonus to attack rolls with her claws, gains a +4 status bonus to damage rolls with her claws, gains 15 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. Volenta can't voluntarily stop her frenzy. After her frenzy, Volenta is fatigued.</p>
+<p><strong>Drink Blood</strong> <span class="action">▶</span> <strong>Requirement</strong> A grabbed, paralyzed, restrained, unconscious, or willing creature is within Volenta's reach; <strong>Effect</strong> Volenta sinks her fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim takes 4d6+7 piercing damage and is drained 1 and Volenta regains 5 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained increases the victim's drained value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but gains no HP from doing so. A victim's drained condition decreases by 1 per day. A blood transfusion, which requires a DC 19 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+<p><strong>Hateful Flurry</strong> <span class="action">▶▶</span> (rage) <strong>Requirements</strong> Volenta is in a blood frenzy; <strong>Effect</strong> Volenta unleashes a whirlwind of attacks against her foes, making a single melee Strike with her claws against each opponent within reach.</p>
+<p><strong>Swift Leap</strong> <span class="action">▶</span> (move) Volenta jumps up to half her Speed. This movement doesn't trigger reactions.</p>
+<p><strong>(Mythic) Mythic Acrobatics</strong> <span class="action">▷</span> (3/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Volenta attempts her next Athletics check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
+<p><strong>(Mythic) Unimpeded</strong> <span class="action">▶</span> (3/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Volenta automatically ends one effect that would give her a circumstance penalty to Speed. When she attempts to Escape an effect that has her immobilized, grabbed, or restrained, she automatically succeeds.</p>
 </div>
 
 #### Second Encounter
@@ -770,7 +742,7 @@
 **Roleplaying Information**
 ***Resonance.*** Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
 
-***Emotions.*** Rahadin most often feels calm, disdainful, satisfied, bored, or irritated. 
+***Emotions.*** Rahadin most often feels calm, disdainful, satisfied, bored, or irritated.
 
 ***Motivations.*** Rahadin wants to serve Strahd’s will as his faithful, ever-loyal servant—no matter the cost to himself or others.
 
@@ -783,130 +755,45 @@
 
 ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikov, who was killed by her brother Kasimir).
 
-### Pre-Corruption
+<div class="statblock"> <h2>Rahadin, Castle Chamberlain <span>Creature 11</span></h2> <span class="trait traitunique">Unique</span> <span class="trait traitsize">Medium</span> <span class="trait">Humanoid</span> <span class="trait">Elf</span> <hr> <p><strong>Perception</strong> +24; darkvision</p> <p><strong>Languages</strong> Common, Elven</p> <p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p> <p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p> <p><strong>Items</strong> saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), wyvern poison (3)</p> <hr> <p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p> <p><strong>HP</strong> 205</p> <p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p> <p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 11th level or lower that are hidden, undetected, flanking, or using surprise attack.</p> <p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p> <p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p> <p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p> <p><strong>Murderous Instinct</strong> <span class="action">▷</span> <strong>Trigger</strong> Rahadin drops to 0 hit points and has a reaction available; <strong>Effect</strong> Rahadin uses Deathly Choir to release a terrible scream. He then stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn't retain any conditions he had in his previous form.</p> <hr> <p><strong>Speed</strong> 40 feet</p> <p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p> <p><strong>Ranged</strong> <span class="action">▶</span> dart +23 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p> <p><strong>Arcane Innate Spells</strong> DC 27, attack +19 <strong>4th</strong> marvelous mount (3/day) <strong>3rd</strong> veil of privacy <strong>1st</strong> sure strike</p> <hr> <p><strong>Shadow Step</strong> <span class="action">↻</span> (darkness, occult, teleportation) <strong>Trigger</strong> An enemy misses Rahadin with an attack or deals damage to him; <strong>Effect</strong> Rahadin vanishes into shadow, appearing in a square within 30 feet. Rahadin doesn't need to see his destination when using Shadow Step. He can then Hide or Strike.</p> <p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p> <p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p> <p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature they can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p> <p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p> <p><strong>Whirling Blades</strong> <span class="action">▶▶</span> (move) Each creature within 10 feet of Rahadin must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). If a creature critically fails the save, Rahadin can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from him. Rahadin can't use Whirling Blades again for 1d4 rounds.</p> <p><strong>Wind Strike</strong> <span class="action">▶▶</span> (move) Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking reactions. Each creature within 5 feet of a space he passes through must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). Rahadin can't use Wind Strike again for 1d4 rounds.</p> </div>
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Kinslayer<span>Creature 11</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Elf</span>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (34d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
+<p><strong>Perception</strong> +24; darkvision</p>
+<p><strong>Languages</strong> Common, Elven</p>
+<p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p>
+<p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p>
+<p><strong>Items</strong> Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), wyvern poison (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 205</p>
+<p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
+<p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using surprise attack.</p>
+<p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p>
+<p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p>
+<p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<p><strong>Speed</strong> 40 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Thorn +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing plus 1d6 bleed</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Chain +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dart +24 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p>
+<p><strong>Arcane Innate Spells</strong> DC 27, attack +19; <strong>4th</strong> marvelous mount (3/day); <strong>3rd</strong> veil of privacy; <strong>1st</strong> sure strike</p>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Fortitude saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Reflex saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Reflex saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Will saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
-</div>
-<br>
-
-<div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
-<hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Fortitude saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Will saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Will saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Amulet of Ravenloft (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+<p><strong>Amulet of Ravenloft</strong> <span class="action">▷</span> (1/day) <strong>Trigger</strong> Rahadin is reduced to 60 hit points or fewer; <strong>Effect</strong> Rahadin ends all effects currently affecting him and speaks the words: "I call upon the guardians of Ravenloft to enact their master's will." If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury. He can then move up to his speed without triggering opportunity attacks. <strong>Internal Injury</strong> At the beginning of Rahadin's turn, he must succeed on a DC 27 Fortitude save or become stunned 1. This injury can be healed either by resting for ten consecutive days with no other activities, or by receiving magical healing of 7th rank or higher (such as <em>regenerate</em>).</p>
+<p><strong>Riposte</strong> <span class="action">↻</span> <strong>Trigger</strong> An enemy misses Rahadin with a melee attack; <strong>Effect</strong> Rahadin uses Elf Step. He can then immediately Strike with Thorn or Chain against that enemy with a +2 circumstance bonus.</p>
+<p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p>
+<p><strong>Double Slice</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, each in a different hand; <strong>Effect</strong> Rahadin lashes out with both weapons. He makes two Strikes, one with each of his two melee weapons, each using his current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a -2 penalty. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. He adds any precision damage only once, to the attack of his choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty.</p>
+<p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p>
+<p><strong>Kinslayer Attack</strong> <span class="action">▶</span> (concentrate) <strong>Requirements</strong> Rahadin must be wielding a scimitar in each hand; <strong>Effect</strong> Rahadin attempts to Feint against an enemy within 30 feet. On a successful Feint, Rahadin's next successful scimitar Strike during the same turn inflicts 2d6 persistent bleed damage. Furthermore, as long as Rahadin remains visible to the target and the target stays within 30 feet, all subsequent Kinslayer attacks against that target automatically render them off-guard against Rahadin's attacks until the end of the target's turn.</p>
+<p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature he can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p>
+<p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p>
+<p><strong>Twin Parry</strong> <span class="action">▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, one in each hand; <strong>Effect</strong> Rahadin uses his two weapons to parry attacks. He gains a +1 circumstance bonus to AC until the start of his next turn, or a +2 circumstance bonus if either weapon has the parry trait. He loses this circumstance bonus if he no longer meets this requirement.</p>
 </div>
 
 ### Post-Corruption
@@ -1195,14 +1082,14 @@
  ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
 
  ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
- 
+
  **Character Information**
  ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
 
  ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
 
  ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
- 
+
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
 <em>Trio of three medium fiends, neutral evil</em>
@@ -1460,62 +1347,39 @@
 ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
 
 <div class="statblock">
-<h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<h2>Rudolph Van Richten<span>Creature 10</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Human</span>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor)
-<br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
-<br>
-<strong>Speed</strong> 30 ft.
+<p><strong>Perception</strong> +21; (expert against undead and fiends)</p>
+<p><strong>Languages</strong> Abyssal, Common, Elven, Infernal</p>
+<p><strong>Skills</strong> Arcana +22, Deception +19, Insight +21, Intimidation +17, Medicine +21, Occultism +20, Religion +21, Society +20, Stealth +20, Thievery +18</p>
+<p><strong>Str</strong> +0, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +3</p>
+<p><strong>Monster Hunter</strong> Van Richten has spent decades hunting the undead and other creatures of darkness. He gains a +2 circumstance bonus to Recall Knowledge checks about undead, fiends, and aberrations, and can use Arcana, Medicine, Occultism, or Religion interchangeably for such checks. When facing undead or fiends, he gains a +2 circumstance bonus to Perception checks, saving throws, and skill checks.</p>
+<p><strong>Items</strong> <em>+1 striking silver rapier</em> (sword cane), <em>+1 striking silver hand crossbow</em> (20 bolts), <em>hat of disguise</em>, <em>ring of mind shielding</em>, leather armor, <em>charm bracelet</em> (functions as a <em>staff of divination</em>), <em>lucid lens</em> (functions as <em>goggles of night</em> with <em>detect magic</em> at will), healer's toolkit (expanded), silver stakes (6), holy water (4), wyvern poison (2), alchemist's fire (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9 (–1)</td>
-      <td>14 (+2)</td>
-      <td>13 (+1)</td>
-      <td>19 (+4)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 28; <strong>Fort</strong> +17, <strong>Ref</strong> +20, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 140</p>
+<p><strong>Tactical Insight</strong> (aura, mental) 20 feet. Van Richten's extensive experience allows him to guide allies in combat. Any ally in the aura gains a +1 circumstance bonus to attack rolls against undead and fiends, and can use Van Richten's monster lore as if it were their own.</p>
+<p><strong>Ring of Mind Shielding</strong> Van Richten is immune to detect magic, mind reading, scrying, and similar divination effects targeting his thoughts or emotions.</p>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> silver rapier +21 (deadly d8, disarm, finesse, magical), <strong>Damage</strong> 2d6+8 piercing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fist +20 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 1d4+8 bludgeoning</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> silver hand crossbow +21 (magical, range increment 60 feet, reload 1), <strong>Damage</strong> 2d6+5 piercing</p>
+<p><strong>Occult Innate Spells</strong> DC 27; <strong>4th</strong> <em>freedom of movement</em> (1/day); <strong>3rd</strong> <em>blindness</em> (1/day); <strong>2nd</strong> <em>see invisibility</em>, <em>status</em>; <strong>1st</strong> <em>detect alignment</em> (at will, evil only)</p>
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong>Hunter's Instinct</strong> <span class="action">↻</span> <strong>Trigger</strong> Van Richten rolls initiative; <strong>Effect</strong> Van Richten attempts to Recall Knowledge about one creature he can see, then Strides or Hides.</p>
+<p><strong>Uncanny Dodge</strong> <span class="action">↻</span> <strong>Trigger</strong> An attacker hits Van Richten with an attack and Van Richten can see the attacker; <strong>Effect</strong> Van Richten gains resistance 10 to all damage against the triggering attack.</p>
+<p><strong>Cunning Action</strong> <span class="action">▶</span> Van Richten takes the Stride, Hide, or Feint action.</p>
+<p><strong>Insightful Fighting</strong> <span class="action">▶</span> (concentrate) Van Richten studies a creature he can see within 30 feet, attempting a Perception check against that creature's Deception DC. On a success, Van Richten gains a +2 circumstance bonus to attack rolls against that creature and the creature becomes off-guard to Van Richten's attacks. On a critical success, the creature is also off-guard to Van Richten's allies. This effect lasts for 1 minute or until Van Richten uses Insightful Fighting again.</p>
+<p><strong>Master of Tactics</strong> <span class="action">▶</span> Van Richten coordinates an ally's attack. He designates one creature he can see and one ally who can see or hear him within 30 feet. Until the start of Van Richten's next turn, that ally gains a +2 circumstance bonus to attack rolls against the designated creature and deals an additional 2d6 precision damage on their first hit.</p>
+<p><strong>Monster Slayer Strike</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Van Richten has successfully identified a creature using Recall Knowledge this encounter; <strong>Effect</strong> Van Richten Strikes a creature he has identified. The Strike deals an additional 3d6 precision damage, and if the target is undead or a fiend, it also deals an additional 2d6 vitality damage. Van Richten can use this ability once per round.</p>
+<p><strong>Quick Application</strong> <span class="action">▶</span> Van Richten Interacts to draw an alchemical item or poison, then Strikes with a weapon, applying the item to the weapon as part of the attack.</p>
+<p><strong>Sneak Attack</strong> Van Richten deals an additional 3d6 precision damage to off-guard creatures. Against undead, Van Richten doesn't need the target to be off-guard to deal this damage.</p>
+<p><strong>Strategic Assessment</strong> <span class="action">▶▶</span> Van Richten observes the battlefield and shares his insights. He attempts to Recall Knowledge about up to three creatures he can see. For each successful check, he can either share the information with an ally within 30 feet who can hear him (granting them the benefits of the Recall Knowledge) or identify a weak point (the creature becomes off-guard to the next attack made by Van Richten or an ally within 1 minute).</p>
 </div>
 
 ### Muriel Vinshaw
@@ -1537,56 +1401,30 @@
 
 
 <div class="statblock">
-    <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
-    <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
-    <br>
-    <strong>Hit Points</strong> 63 (14d8)
-    <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>16 (+3)</td>
-                <td>11 (+0)</td>
-                <td>13 (+1)</td>
-                <td>15 (+2)</td>
-                <td>14 (+2)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Perception check to Sense Motive.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Fortitude saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<h2>Muriel Vinshaw<span>Creature 4</span></h2>
+<span class="trait">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Werecreature</span>
+<hr>
+<p><strong>Perception</strong> +10; darkvision</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12</p>
+<p><strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +3, <strong>Int</strong> +2, <strong>Wis</strong> +3, <strong>Cha</strong> +1</p>
+<p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
+<hr>
+<p><strong>AC</strong> 21; <strong>Fort</strong> +12, <strong>Ref</strong> +13, <strong>Will</strong> +10</p>
+<p><strong>HP</strong> 71, regeneration 15 (deactivated by silver or void); <strong>Weaknesses</strong> silver 5</p>
+<hr>
+<p><strong>Speed</strong> 25 feet, fly 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> <span class="action">▶</span> wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> hand crossbow +13 (range increment 60 feet, reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+<hr>
+<p><strong>Interpose</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature Muriel can see hits another target within 5 feet of Muriel with an attack; <strong>Effect</strong> Muriel takes the damage instead.</p>
+<p><strong>Wing Thrash</strong> <span class="action">↻</span> <strong>Trigger</strong> An adjacent enemy damages the wereraven; <strong>Effect</strong> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+<p><strong>Change Shape</strong> <span class="action">▶</span> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+<p><strong>Mimic</strong> <span class="action">▶</span> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
+<p><strong>Curse of the Werecreature</strong> This curse affects only humanoids; <strong>Saving Throw</strong> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
 </div>
 
 ## St. Andral's Church
@@ -1657,120 +1495,79 @@
 
 ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
 
+
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni<span>Creature 8</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Lawful</span>
+<span class="trait">Mythic</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
-<br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
-<br>
-<strong>Speed</strong> 30 ft.
+<p><strong>Perception</strong> +14</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Athletics +20, Intimidation +18, Medicine +15</p>
+<p><strong>Str</strong> +6, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +3</p>
+<p><strong>Items</strong> greataxe (silver, low-grade), leather armor, Amber Shard</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>20 (+5)</td>
-      <td>15 (+2)</td>
-      <td>18 (+4)</td>
-      <td>10 (+0)</td>
-      <td>9 (-1)</td>
-      <td>15 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 26; <strong>Fort</strong> +17, <strong>Ref</strong> +14, <strong>Will</strong> +11</p>
+<p><strong>HP</strong> 145</p>
+<p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong>Second Phase</strong> When Izek is reduced to 0 hit points, he spends 1 mythic point and uses Mythic Ferocity, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Resistances</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<p><strong>Speed</strong> 30 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> greataxe +20 (magical, sweep), <strong>Damage</strong> 2d12+11 slashing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> flame hurl +15 (range increment 30 feet), <strong>Damage</strong> 2d6+8 fire</p>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Izek doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Reflex saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
-<p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Reflex saving throw or take 7 (2d6) fire damage.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<p><strong>(Mythic) Mythic Ferocity</strong> <span class="action">▷</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Trigger</strong> Izek is reduced to 0 HP; <strong>Effect</strong> Izek avoids being knocked out and remains at half his maximum HP, but his wounded value increases by 1. When he is wounded 3, he can no longer use this ability.</p>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span></p>
+<p><strong>Vengeful Strike</strong> <span class="action">↻</span> <strong>Trigger</strong> Izek takes damage from an attack or spell; <strong>Effect</strong> Izek moves up to 15 feet toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<p><strong>Intimidating Strike</strong> <span class="action">▶▶</span> (emotion, fear, fighter, mental) Izek makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit.</p>
+<p><strong>Slicing Whirl</strong> <span class="action">▶▶</span> (flourish) Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to Trip against each enemy within melee reach. Each attempt counts toward Izek's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts. Additionally, enemies take 1d12+4 slashing damage if they fall prone.</p>
+<p><strong>I Am the Law!</strong> <span class="action">▶▶</span> (auditory, linguistic) Izek vows to bring down all the fury of Vallaki down upon their foes. Up to three lower-level allies within 60 feet of Izek can use their reaction to Grapple, Strike, or Trip with a +2 status bonus.</p>
+<p><strong>Condemn</strong> <span class="action">▶</span> (incapacitation, linguistic) Izek Demoralizes. On a success, the target is stunned with a value equal to its frightened condition.</p>
 </div>
 
-<br>
-
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, Enraged<span>Creature 8</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Lawful</span>
+<span class="trait">Mythic</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
-<br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
-<br>
-<strong>Speed</strong> 30 ft.
+<p><strong>Perception</strong> +14</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Athletics +21 (extreme), Intimidation +18, Medicine +15</p>
+<p><strong>Str</strong> +6, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +3</p>
+<p><strong>Items</strong> leather armor, Amber Shard</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>20 (+5)</td>
-      <td>15 (+2)</td>
-      <td>18 (+4)</td>
-      <td>10 (+0)</td>
-      <td>9 (-1)</td>
-      <td>15 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 26; <strong>Fort</strong> +17, <strong>Ref</strong> +14, <strong>Will</strong> +11</p>
+<p><strong>HP</strong> 145; <strong>Resistances</strong> all damage 8 (except mythic)</p>
+<p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong>(Mythic) Brutish Athleticism</strong> Izek excels at rough-and-tumble activities. He always uses the extreme skill value for a creature of his level as his Athletics modifier.</p>
+<p><strong>(Mythic) Titanic Might</strong> Izek ignores size limitations when performing actions like Grapple or Trip.</p>
+<p><strong>(Mythic) Mythic Resistance</strong> Izek gains resistance to all Strikes made by non-mythic creatures equal to his level. Mythic weapons bypass this resistance even if the creature wielding them is not mythic.</p>
+<p><strong>(Mythic) Mythic Resilience (Fortitude)</strong> Izek treats his Fortitude saving throws as one degree of success better than he rolled. This is not cumulative with other effects that change his degree of success, like the incapacitation trait (except for rolling a natural 1 or 20).</p>
+<p><strong>(Mythic) Mythic Weakness (Weak-Willed)</strong> Izek is physically potent but not as mentally tough. He can't gain mythic resilience to Will saves.</p>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span></p>
+<p><strong>Retaliatory Burn</strong> <span class="action">↻</span> (1/round) <strong>Trigger</strong> Izek takes damage from a melee attack made with a metal weapon; <strong>Effect</strong> Izek causes the object to glow red-hot until the start of his next turn, casting heat metal on it.</p>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Immunities</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<p><strong>Speed</strong> 30 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> greataxe +20 (magical, sweep), <strong>Damage</strong> 2d12+11 slashing plus 1d6 fire</p>
+<p><strong>Melee</strong> <span class="action">▶</span> burning punch +20 (invested, magical, unarmed), <strong>Damage</strong> 2d4+6 bludgeoning plus 2d4 fire plus Push</p>
+<p><strong>Divine Innate Spells</strong> DC 24; <strong>2nd</strong> heat metal (at will)</p>
 <hr>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
-<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Fortitude saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Reflex saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Reflex saving throw or take 7 (2d6) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Reflex saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Fortitude saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Fortitude saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<p><strong>(Mythic) Mythic Ferocity</strong> <span class="action">↻</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Trigger</strong> Izek is reduced to 0 HP; <strong>Effect</strong> Izek avoids being knocked out and remains at half his maximum HP, but his wounded value increases by 1. When he is wounded 3, he can no longer use this ability.</p>
+<p><strong>(Mythic) Mythic Athletics</strong> <span class="action">▷</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Izek attempts his next skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
+<p><strong>Push</strong> <span class="action">▶</span></p>
+<p><strong>Burning Punch Critical</strong> On a critical hit, the target must also succeed on a DC 26 Fortitude save or be stunned 1 until the start of Izek's next turn.</p>
+<p><strong>Explosive Blast</strong> <span class="action">▶</span> (fire, unholy) A bright streak flashes from Izek's clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot burst centered on that point must make a DC 26 basic Reflex save and take 3d6 fire damage. A target that fails the save is also knocked prone. The fire spreads around corners and ignites flammable objects in the area that aren't being worn or carried. Izek can't use Explosive Blast again for 1d4 rounds.</p>
+<p><strong>Flaming Wave</strong> <span class="action">▶▶</span> (arcane, electricity) A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. Izek can't use Flaming Wave again for 1d4 rounds.</p>
 </div>
 
 ### Victor Vallakovich
@@ -1791,6 +1588,40 @@ Victor’s spellbook contains the _sending_ and _fear_ spells and does not c
 ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family.
 
 ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+
+<div class="statblock">
+<h2>Viktor Vallakovich<span>Creature 7</span></h2>
+<span class="trait">Common</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<hr>
+<p><strong>Perception</strong> +15</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Arcana +17, Academia Lore +15, Library Lore +17</p>
+<p><strong>Str</strong> +1, <strong>Dex</strong> +2, <strong>Con</strong> +2, <strong>Int</strong> +5, <strong>Wis</strong> -2, <strong>Cha</strong> +5</p>
+<p><strong>Items</strong> Khazan's spellbook, writing set, textbooks</p>
+<hr>
+<p><strong>AC</strong> 24; <strong>Fort</strong> +14, <strong>Ref</strong> +14, <strong>Will</strong> +12</p>
+<p><strong>HP</strong> 122</p>
+<hr>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> textbook +16, <strong>Damage</strong> 2d6+7 bludgeoning</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fist +17 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 2d6+7 bludgeoning</p>
+<p><strong>Arcane Prepared Spells</strong> DC 25, attack +17; <strong>5th</strong> sending; <strong>4th</strong> fly, suggestion; <strong>3rd</strong> dispel magic, fireball, force barrage; <strong>2nd</strong> acid grip, darkvision, invisibility; <strong>1st</strong> fear, force barrage, grease, gust of wind, phantasmal minion; <strong>Cantrips (5th)</strong> detect magic, frostbite, prestidigitation, read aura, telekinetic hand</p>
+<hr>
+<p><strong>Overambitious Spell</strong> <span class="action">▶▶</span> (arcane) <strong>Frequency</strong> once per day; <strong>Effect</strong> Viktor attempts to cast any spell that is 5th rank but must first attempt a @Check[flat|dc:15]. <strong>Critical Success</strong> The spell is cast flawlessly and heightened to 6th rank. Viktor is stunned 2 from sheer shock. <strong>Success</strong> Nothing goes wrong, and the spell is cast normally. <strong>Failure</strong> The spell fizzles and creates only a harmless puff of smoke. <strong>Critical Failure</strong> The magic backfires and Viktor takes 10d6 fire or force damage.</p>
+<hr>
+<h3>Rituals</h3>
+<p><strong>Create Undead</strong> (uncommon)<br>
+<strong>Cast</strong> 1 day; <strong>Cost</strong> black onyx, see Creature Creation Rituals table; <strong>Secondary Casters</strong> 1<br>
+<strong>Primary Check</strong> Arcana (expert), Occultism (expert), or Religion (expert); <strong>Secondary Check</strong> Religion<br>
+You transform the target into an undead creature with a level up to that allowed in the Creature Creation Rituals table...</p>
+<p><strong>Faulty Teleportation Circle</strong> (uncommon)<br>
+<strong>Cast</strong> 1 day; <strong>Cost</strong> rare incense, precious metals, and purified chalk worth 500 gp; <strong>Secondary Casters</strong> 2<br>
+<strong>Primary Check</strong> Arcana or Occultism (master); <strong>Secondary Check</strong> Crafting, Survival<br>
+You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual...</p>
+</div>
 
 ## Blinsky Toys
 ### Gadof Blinsky
@@ -2182,7 +2013,7 @@ At will: detect evil and good<br>
 <h3>Reactions</h3>
 <p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punish.</em></strong> In response to an enemy hitting or missing him with a melee attack, Ithuriel makes a <strong><em>palm</em></strong> attack against it. 
+<p><strong><em>Punish.</em></strong> In response to an enemy hitting or missing him with a melee attack, Ithuriel makes a <strong><em>palm</em></strong> attack against it.
 <p><strong><em>Descend.</em></strong> In response to hitting an enemy with a Palm attack or Punish reaction, if Ithuriel has grappled that enemy and is at least 40 feet in the air, he can then move up to his speed toward the ground without provoking opportunity attacks and force the target to make a DC 17 Strength saving throw. On a failure, the target falls prone, it takes 3 (1d6) bludgeoning damage per 10 feet fallen, and Ithuriel can use up to his remaining movement, if any, to push it in a straight line in any direction while grinding it against the earth, dealing an additional 2 (1d4) bludgeoning damage per 10 feet moved along the ground. (This movement doesn't provoke opportunity attacks.)</p>
 <p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
 <p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
@@ -2645,11 +2476,11 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <h2>Vilnius, First Prisoner</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 12  
+<strong>Armor Class</strong> 12
 <br>
-<strong>Hit Points</strong> 105 (14d8 + 42)  
+<strong>Hit Points</strong> 105 (14d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.  
+<strong>Speed</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
@@ -2674,21 +2505,21 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Arcana +8, Stealth +8  
+<strong>Skills</strong> Arcana +8, Stealth +8
 <br>
-<strong>Damage Vulnerabilities</strong> radiant  
+<strong>Damage Vulnerabilities</strong> radiant
 <br>
-<strong>Damage Resistances</strong> acid, cold, fire, lightning, thunder  
+<strong>Damage Resistances</strong> acid, cold, fire, lightning, thunder
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Damage Immunities</strong> necrotic, poison
 <br>
-<strong>Condition Immunities</strong> exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<strong>Condition Immunities</strong> exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<strong>Senses</strong> darkvision 60 ft., passive Perception 12
 <br>
-<strong>Languages</strong> Common, Abyssal  
+<strong>Languages</strong> Common, Abyssal
 <br>
-<strong>Challenge</strong> 9 (5,000 XP)  
+<strong>Challenge</strong> 9 (5,000 XP)
 <strong>Proficiency Bonus</strong> +4  <br>
 <hr>
 <p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
@@ -2714,11 +2545,11 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <h2>Patrina, Vengeful Wraith</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 13  
+<strong>Armor Class</strong> 13
 <br>
-<strong>Hit Points</strong> 285 (38d8 + 48)  
+<strong>Hit Points</strong> 285 (38d8 + 48)
 <br>
-<strong>Speed</strong> 5 ft., fly 60 ft. (hover)  
+<strong>Speed</strong> 5 ft., fly 60 ft. (hover)
 <hr>
 <table class="ability-table">
   <thead>
@@ -2743,22 +2574,22 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
+<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9
 <br>
-<strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
+<strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8
 <br>
-<strong>Damage Resistances</strong> acid; cold; fire; bludgeoning, piercing, and slashing from nonmagical weapons  
+<strong>Damage Resistances</strong> acid; cold; fire; bludgeoning, piercing, and slashing from nonmagical weapons
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Damage Immunities</strong> necrotic, poison
 <br>
-<strong>Condition Immunities</strong> charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<strong>Condition Immunities</strong> charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18  
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18
 <br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
+<strong>Challenge</strong> 18 (20,000 XP)
+<strong>Proficiency Bonus</strong> +6
 <hr>
 <p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
 <p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, Patrina has <span class="highlight">disadvantage</span> on ability checks and attack rolls.</p>
@@ -2784,11 +2615,11 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <h2>Patrina, Half-Lich</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 20  
+<strong>Armor Class</strong> 20
 <br>
-<strong>Hit Points</strong> 262 (35d8 + 105)  
+<strong>Hit Points</strong> 262 (35d8 + 105)
 <br>
-<strong>Speed</strong> 30 ft.  
+<strong>Speed</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
@@ -2813,22 +2644,22 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +10, Con +10, Int +12, Wis +9  
+<strong>Saving Throws</strong> Dex +10, Con +10, Int +12, Wis +9
 <br>
-<strong>Skills</strong> Arcana +19, History +12, Insight +9  
+<strong>Skills</strong> Arcana +19, History +12, Insight +9
 <br>
-<strong>Damage Resistances</strong> cold, lightning  
+<strong>Damage Resistances</strong> cold, lightning
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Damage Immunities</strong> necrotic, poison
 <br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned  
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<strong>Senses</strong> darkvision 60 ft., passive Perception 12
 <br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
+<strong>Challenge</strong> 18 (20,000 XP)
+<strong>Proficiency Bonus</strong> +6
 <hr>
 <p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
 <h3>Actions</h3>

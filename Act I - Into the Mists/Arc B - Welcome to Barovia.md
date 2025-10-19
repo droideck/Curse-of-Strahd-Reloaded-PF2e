@@ -98,8 +98,8 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. For Pathfinder 2e, I suggest using [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=936) statblock but replace weapons to longsword and short sword. Keep the shield as a back up option.
-The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add Regeneration 15 stopped by silver and void damage) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=901)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. For Pathfinder 2e, I suggest using [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=3556) statblock but replace weapons to longsword and short sword. Keep the shield as a back up option.
+The raven is Muriel, a disguised **wereraven** (use [Elite Werebat](https://2e.aonprd.com/Monsters.aspx?ID=1366) statblock but change it to raven-like abilities. And add Regeneration 15 stopped by silver and void damage) and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **[Elite Torchbearers](https://2e.aonprd.com/NPCs.aspx?ID=3466)** bearing crossbows (+7 to hit, range increment 120 feet, reload 1, *Hit:* 1d8 piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **[Commoners](https://2e.aonprd.com/NPCs.aspx?ID=898)** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -434,7 +434,7 @@ If Bildrath orders Parriwimple to remove the players from the store, Parriwimple
 
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage) and he is an [Elite Merchant](https://2e.aonprd.com/NPCs.aspx?ID=956).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a crossbow +4 (range increment 120 feet, reload 1, Damage 1d8 piercing and he is an [Elite Merchant](https://2e.aonprd.com/NPCs.aspx?ID=956).
 
 When the players first encounter Parriwimple - [Elite Bodyguard](https://2e.aonprd.com/NPCs.aspx?ID=921), read:
 
@@ -551,9 +551,9 @@ If the players follow her, Muriel guides them west toward the town square, then 
 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the [Weak Zombie Brute with virulent miasma](https://2e.aonprd.com/Monsters.aspx?ID=3251) but add a [Ferocity](https://2e.aonprd.com/MonsterAbilities.aspx?ID=63) reaction to its statblock. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while switching to shield and using Raise Shield action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the [Zombie Brute with virulent miasma scaled to Level 4](https://2e.aonprd.com/Monsters.aspx?ID=3251) but add a [Ferocity](https://2e.aonprd.com/MonsterAbilities.aspx?ID=63) reaction to its statblock. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while switching to shield and using Raise Shield action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
-The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
+The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses all its actions to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
 
 > [!combat]- **Balancing the Town Square**
 > This combat encounter is a **Severe** combat encounter. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -606,128 +606,45 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 >
 >As of now, I provide a basic statblock which is enough for this encounter. But in the future I plan to improve it for both phases in detail.
 
-<div class="statblock">
-  <h2>Rahadin, Castle Chamberlain - Creature 12</h2>
-  <em>Rare Medium Humanoid (Elf)</em>
-  <hr>
-  <strong>Perception</strong> +25; darkvision
-  <br>
-  <strong>Languages</strong> Common, Elven
-  <br>
-  <strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16
-  <br>
-  <strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +2, <strong>Wis</strong> +0, <strong>Cha</strong> +1
-  <hr>
-  <strong>AC</strong> 33
-  <br>
-  <strong>HP</strong> 225
-  <br>
-  <strong>Saves</strong> Fort +19, Ref +25, Will +22
-  <br>
-  <strong>Speed</strong> 30 feet
-  <hr>
-  <p><strong>Melee</strong> ◆ scimitar +25 (forceful, sweep), <strong>Damage</strong> 4d6+6 slashing</p>
-  <p><strong>Ranged</strong> ◆ dart +25 (agile, thrown 20), <strong>Damage</strong> 4d4+6 piercing</p>
-  <h3>Actions</h3>
-  <p><strong>Deathly Choir</strong> ◇ (emotion, mental, occult)<br>
-    <strong>Frequency</strong> once per turn<br>
-    <strong>Effect</strong> Every creature in Rahadin's Aura of Screams takes 5d6 mental damage (DC 29 basic Will save).
-  </p>
-  <p><strong>Elf Step</strong> ◆<br>
-    Rahadin Steps twice.
-  </p>
-  <p><strong>Poison Weapon</strong> ◆ (manipulate)<br>
-    <strong>Requirements</strong> Rahadin is wielding a piercing or slashing weapon and has a free hand.<br>
-    <strong>Effect</strong> Rahadin applies a poison to the weapon.
-  </p>
-  <p><strong>Quick Draw</strong> ◆<br>
-    Rahadin Interacts to draw a weapon, then Strikes with that weapon.
-  </p>
-  <p><strong>Opportune Backstab</strong> ↻<br>
-    <strong>Trigger</strong> An adjacent foe moves away from Rahadin, and he can reach at least one space adjacent to the foe with a Stride action<br>
-    <strong>Effect</strong> Rahadin keeps pace with the retreating foe. He Strides, but must end his movement adjacent to the triggering enemy. This movement does not trigger reactions from the triggering enemy.
-  </p>
-  <p><strong>Nimble Dodge</strong> ↻<br>
-    <strong>Trigger</strong> Rahadin is targeted with a melee or ranged attack by an attacker he can see.<br>
-    <strong>Effect</strong> Rahadin gains a +2 circumstance bonus to AC against the triggering attack.
-  </p>
-  <hr>
-  <p><strong>Aura of Screams</strong> (aura, emotion, mental, occult) 10 feet (DC 29 Will)<br>
-    Each living creature that enters or starts their turn in the aura must succeed at a DC 29 Will save or become stupefied 1 for as long as it remains within the aura.
-  </p>
-  <p><strong>Darkvision</strong></p>
-  <p><strong>Deny Advantage</strong><br>
-    Rahadin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using Surprise Attack.
-  </p>
-  <p><strong>Sneak Attack</strong><br>
-    Rahadin deals an extra 3d6 precision damage to off-guard creatures.
-  </p>
-  <p><strong>Surprise Attack</strong><br>
-    On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.
-  </p>
-  <p><strong>Swift Sneak</strong><br>
-    Rahadin can move his full speed when Sneaking.
-  </p>
-</div>
-
-<br>
+<div class="statblock"> <h2>Rahadin, Castle Chamberlain <span>Creature 11</span></h2> <span class="trait traitunique">Unique</span> <span class="trait traitsize">Medium</span> <span class="trait">Humanoid</span> <span class="trait">Elf</span> <hr> <p><strong>Perception</strong> +24; darkvision</p> <p><strong>Languages</strong> Common, Elven</p> <p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p> <p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p> <p><strong>Items</strong> saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), wyvern poison (3)</p> <hr> <p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p> <p><strong>HP</strong> 205</p> <p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p> <p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 11th level or lower that are hidden, undetected, flanking, or using surprise attack.</p> <p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p> <p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p> <p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p> <p><strong>Murderous Instinct</strong> <span class="action">▷</span> <strong>Trigger</strong> Rahadin drops to 0 hit points and has a reaction available; <strong>Effect</strong> Rahadin uses Deathly Choir to release a terrible scream. He then stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn't retain any conditions he had in his previous form.</p> <hr> <p><strong>Speed</strong> 40 feet</p> <p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p> <p><strong>Ranged</strong> <span class="action">▶</span> dart +23 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p> <p><strong>Arcane Innate Spells</strong> DC 27, attack +19 <strong>4th</strong> marvelous mount (3/day) <strong>3rd</strong> veil of privacy <strong>1st</strong> sure strike</p> <hr> <p><strong>Shadow Step</strong> <span class="action">↻</span> (darkness, occult, teleportation) <strong>Trigger</strong> An enemy misses Rahadin with an attack or deals damage to him; <strong>Effect</strong> Rahadin vanishes into shadow, appearing in a square within 30 feet. Rahadin doesn't need to see his destination when using Shadow Step. He can then Hide or Strike.</p> <p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p> <p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p> <p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature they can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p> <p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p> <p><strong>Whirling Blades</strong> <span class="action">▶▶</span> (move) Each creature within 10 feet of Rahadin must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). If a creature critically fails the save, Rahadin can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from him. Rahadin can't use Whirling Blades again for 1d4 rounds.</p> <p><strong>Wind Strike</strong> <span class="action">▶▶</span> (move) Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking reactions. Each creature within 5 feet of a space he passes through must take 2d8 slashing plus 1d6 force damage (DC 27 basic Reflex save). Rahadin can't use Wind Strike again for 1d4 rounds.</p> </div>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer - 5e</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Kinslayer<span>Creature 11</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Elf</span>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
+<p><strong>Perception</strong> +24; darkvision</p>
+<p><strong>Languages</strong> Common, Elven</p>
+<p><strong>Skills</strong> Acrobatics +22, Athletics +19, Deception +22, Intimidation +19, Stealth +22, Thievery +22, Underworld Lore +16</p>
+<p><strong>Str</strong> +1, <strong>Dex</strong> +5, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> -1, <strong>Cha</strong> +0</p>
+<p><strong>Items</strong> Thorn (sawtooth saber, cold iron, wounding rune), Chain (sawtooth saber, dawnsilver, greater rooting rune), saber (dawnsilver, impactful rune), leather armor (dragonhide), dart (10), clandestine cloak (greater), wyvern poison (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 31; <strong>Fort</strong> +18, <strong>Ref</strong> +24, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 205</p>
+<p><strong>Screams of the Dead</strong> (aura, emotion, mental, occult) 10 feet. Each living creature that enters or starts their turn in the aura must succeed at a DC 27 Will save or the unnerving screams render them distraught and they become stupefied 1 for as long as they remain within the aura.</p>
+<p><strong>Deny Advantage</strong> Rahadin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using surprise attack.</p>
+<p><strong>Sneak Attack</strong> Rahadin deals an extra 3d6 precision damage to off-guard creatures.</p>
+<p><strong>Surprise Attack</strong> On the first round of combat, creatures that haven't acted yet are off-guard to Rahadin.</p>
+<p><strong>Swift Sneak</strong> Rahadin can move his full speed when Sneaking.</p>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<p><strong>Speed</strong> 40 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Thorn +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing plus 1d6 bleed</p>
+<p><strong>Melee</strong> <span class="action">▶</span> Chain +24 (agile, finesse, magical, twin), <strong>Damage</strong> 3d6+4 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> saber +24 (forceful, magical, sweep), <strong>Damage</strong> 3d6+4 slashing plus 1d6 force</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> dart +24 (agile, thrown 20 feet), <strong>Damage</strong> 2d8+6 piercing plus wyvern poison</p>
+<p><strong>Arcane Innate Spells</strong> DC 27, attack +19; <strong>4th</strong> marvelous mount (3/day); <strong>3rd</strong> veil of privacy; <strong>1st</strong> sure strike</p>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Fortitude saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Fortitude saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Will saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Will saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong>Amulet of Ravenloft</strong> <span class="action">▷</span> (1/day) <strong>Trigger</strong> Rahadin is reduced to 60 hit points or fewer; <strong>Effect</strong> Rahadin ends all effects currently affecting him and speaks the words: "I call upon the guardians of Ravenloft to enact their master's will." If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury. He can then move up to his speed without triggering opportunity attacks. <strong>Internal Injury</strong> At the beginning of Rahadin's turn, he must succeed on a DC 27 Fortitude save or become stunned 1. This injury can be healed either by resting for ten consecutive days with no other activities, or by receiving magical healing of 7th rank or higher (such as <em>regenerate</em>).</p>
+<p><strong>Riposte</strong> <span class="action">↻</span> <strong>Trigger</strong> An enemy misses Rahadin with a melee attack; <strong>Effect</strong> Rahadin uses Elf Step. He can then immediately Strike with Thorn or Chain against that enemy with a +2 circumstance bonus.</p>
+<p><strong>Deathly Choir</strong> <span class="action">▶</span> (emotion, fear, mental, occult) <strong>Frequency</strong> once per turn; <strong>Effect</strong> Every creature in Rahadin's Screams of the Dead aura takes 3d6 mental damage (DC 27 basic Will save). If a creature critically fails the saving throw, it is also frightened 1 and can't reduce the frightened condition while in the Screams of the Dead aura.</p>
+<p><strong>Double Slice</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, each in a different hand; <strong>Effect</strong> Rahadin lashes out with both weapons. He makes two Strikes, one with each of his two melee weapons, each using his current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a -2 penalty. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. He adds any precision damage only once, to the attack of his choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty.</p>
+<p><strong>Elf Step</strong> <span class="action">▶</span> Rahadin Steps twice.</p>
+<p><strong>Kinslayer Attack</strong> <span class="action">▶</span> (concentrate) <strong>Requirements</strong> Rahadin must be wielding a scimitar in each hand; <strong>Effect</strong> Rahadin attempts to Feint against an enemy within 30 feet. On a successful Feint, Rahadin's next successful scimitar Strike during the same turn inflicts 2d6 persistent bleed damage. Furthermore, as long as Rahadin remains visible to the target and the target stays within 30 feet, all subsequent Kinslayer attacks against that target automatically render them off-guard against Rahadin's attacks until the end of the target's turn.</p>
+<p><strong>Mark for Death</strong> <span class="action">▶</span> (concentrate) Rahadin marks a single creature he can see for death. The first time each round Rahadin Strikes that creature, the Strike deals an extra 1d12 precision damage. The creature remains marked for death until Rahadin is knocked out, marks a different creature for death, or the encounter ends.</p>
+<p><strong>Quick Draw</strong> <span class="action">▶</span> Rahadin Interacts to draw a weapon, then Strikes with that weapon.</p>
+<p><strong>Twin Parry</strong> <span class="action">▶</span> <strong>Requirements</strong> Rahadin is wielding two melee weapons, one in each hand; <strong>Effect</strong> Rahadin uses his two weapons to parry attacks. He gains a +1 circumstance bonus to AC until the start of his next turn, or a +2 circumstance bonus if either weapon has the parry trait. He loses this circumstance bonus if he no longer meets this requirement.</p>
 </div>
 
 ## B5h. Return to the Mansion

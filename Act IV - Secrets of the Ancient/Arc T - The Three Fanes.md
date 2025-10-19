@@ -11,10 +11,10 @@ For the reconsecrations to work, however, the players must first help Urwin and 
 > * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
 > * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
 > * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
-> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
+> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him.
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
 > * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
-> * When the players first return to the Luna River Crossroads after completing [[Arc S - A Sword of Sunlight]], they are met by Alexei, who pleads with them to accompany him to the Vistani camp. 
+> * When the players first return to the Luna River Crossroads after completing [[Arc S - A Sword of Sunlight]], they are met by Alexei, who pleads with them to accompany him to the Vistani camp.
 > * At the Vistani camp, the players encounter Escher, who is searching for Rudolph van Richten, and can help the Vistani drive Escher off.
 > * After dealing with Escher, the players learn that Arabelle was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
 > * Players who attempt to heal Arabelle hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents Arabelle from healing and worsens her wounds. Van Richten can also share that his curse is responsible for Arabelle’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
@@ -63,7 +63,7 @@ If the players enter the tunnel to the Cavern of Lights, read:
 </div>
 
 > [!lore]+ **The Butterfly**
-> The butterfly carving represents the Dreamer, the fourth and youngest sister of the Rozana. However, no living soul in Soldav knows this—not even Burebis. (Some, including Oroles, speculate that it represents the Tauta, who were “reborn" upon their arrival in the valley, as a butterfly is reborn from its chrysalis.) 
+> The butterfly carving represents the Dreamer, the fourth and youngest sister of the Rozana. However, no living soul in Soldav knows this—not even Burebis. (Some, including Oroles, speculate that it represents the Tauta, who were “reborn" upon their arrival in the valley, as a butterfly is reborn from its chrysalis.)
 >
 > If the players later return to the Shrine of the Rozana and ask about the butterfly, Burebis shares only that he once asked his mentor, the Seeker, who the butterfly belonged to. However, the Seeker declined to tell him, noting only that it belonged to a story that had found its end. (“I had never known her to dwell in sorrow," Burebis rumbles thoughtfully, “but I’ve always thought I heard an echo of grief in her voice.")
 
@@ -95,7 +95,7 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 * **Where is the Seeker?** A woman kneels before a raven, which becomes mist and flows into her chest; raven’s wings then sprout from the woman’s shoulders. (The image is joined by a sense of loneliness and longing.)
 * **What does the butterfly represent?** A grave marked by falling snow, joined by a sense of grief and loss. (The Ladies refuse to elaborate.)
 * **What are the Fanes?** A powerful, fast-flowing river that meets another, casting great sprays of water where they join. (*The rivers represent leylines. Their intersection represents an intersection of leylines, and the power they channel.*)
-* **What do the Fanes look like? / Where are the Fanes?** Three circles of standing stones: one amidst a bog (the Swamp Fane, overlaid on the spider carving); one atop a flat, terraced hill surrounded by trees (the Forest Fane, overlaid on the wolf carving); and one along a mountain spur, just beneath a grassy promontory (the Mountain Fane, overlaid on the raven carving). 
+* **What do the Fanes look like? / Where are the Fanes?** Three circles of standing stones: one amidst a bog (the Swamp Fane, overlaid on the spider carving); one atop a flat, terraced hill surrounded by trees (the Forest Fane, overlaid on the wolf carving); and one along a mountain spur, just beneath a grassy promontory (the Mountain Fane, overlaid on the raven carving).
 * **What happened to the Fanes / How did the Fanes become corrupted?** A tall, gaunt shadow standing amidst a circle of standing stones, one hand clutching a dagger and the other bleeding onto the ground, with the blood rising to swallow the stones whole. (*The shadow is Strahd. The blood represents the ritual he used to desecrate the Fanes and “become the Land."*)
 * **How can we reconsecrate the Fanes?** Three pinecone-shaped gems: one that glows with viridian light (the Weaver’s gem, overlaid on the spider carving); one that glows with emerald light (the Huntress’s gem, overlaid on the wolf carving); one that glows with sage-green light (the Seeker’s gem, overlaid on the raven carving).
 * **What do we do with the gems?** Two dueling ravens cease their feud and bury the viridian gem at the center of a circle of standing stones amidst a bog (overlaid on the spider carving); an old, silver-furred fox drives away a horde of rats chasing a weary sparrow as a fire burns behind them, then becomes a sparrow itself, the two sparrows burying the emerald gem at the center of a circle of standing stones atop a flat, terraced hill (overlaid on the wolf carving); an old, proud she-cat with three kittens sleeping at her paws casts off the bat whose wings cover its eyes and turns her gaze into the sunrise, then buries the sage-green gem at the center of a circle of standing stones along a low mountain spur (overlaid on the raven carving).
@@ -111,7 +111,7 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 > ---
 >
 > The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
-> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
+> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn.
 > * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 > * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
 
@@ -165,7 +165,7 @@ The roc attacks if the players attempt to steal the gem, or otherwise act dishon
 
 > [!info]+ **Fighting the Roc**
 > The roc has the statistics of an ordinary **roc**, but with the following changes:
-> 
+>
 > * It can use a bonus action to shape-shift into a Tiny raven or return to its true form. Other than its size and actions, its game statistics are the same in each form.
 > * It regains 40 hit points at the start of each of its turns if it’s physically touching the stone of Mt. Ghakis. The roc dies only if it starts its turn with 0 hit points and doesn’t regenerate.
 > * It can take up to three reactions per round, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead..
@@ -187,7 +187,7 @@ Once the players prove themselves, the roc is glad to confirm the following info
 * It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s behest—to keep it safe from Strahd, and to await the day when the saviors the Seeker foretold would come to find it.
 * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.) However, it can transport them down from the mountain to a destination of their choice.
 
-If the players don’t ask the roc for a ride, it bows its head and lowers a wing to the ground toward them, then tilts its head inquisitively, as if inviting them to climb it. 
+If the players don’t ask the roc for a ride, it bows its head and lowers a wing to the ground toward them, then tilts its head inquisitively, as if inviting them to climb it.
 
 The roc is willing to fly the players to any single location in Barovia except Castle Ravenloft. Due to its great size and speed, no journey takes more than twenty minutes. Upon delivering the players, it lingers for no more than one minute, then returns to Mt. Ghakis.
 # T2. Descending the Mount
@@ -200,9 +200,9 @@ The roc is willing to fly the players to any single location in Barovia except C
 
 > [!abstract]+ **Kasimir’s Departure**
 > When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
-> 
+>
 > Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But Patrina could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
-> 
+>
 > Kasimir is grateful for any thoughts and insights the players might share.
 
 > [!abstract]+ **Urwin’s Plea**
@@ -215,7 +215,7 @@ The roc is willing to fly the players to any single location in Barovia except C
 > ---
 >
 > Once the players have received its message, a raven flies away to alert the other ravens, as well as Urwin, that its message has been delivered.
-> 
+>
 > If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the Blue Water Inn, respectively.)
 
 > [!info]+ **Victor’s Plea**
@@ -241,9 +241,9 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
-> [!combat]+ **Balancing the Wizard of Wines** 
+> [!combat]+ **Balancing the Wizard of Wines**
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **scarecrows** to five.
 > - _**Four Players.**_ Reduce the number of **scarecrows** to six.
 > - _**Six Players.**_ Increase the number of **scarecrows** to eight.
@@ -253,7 +253,7 @@ If the players enter the winery, they find it empty. If they ascend to the secon
 ### Town Gates
 If the players return to Vallaki, they find each gate guarded by two **guards**, two **cultists** loyal to Lady Wachter, and one **cult fanatic**. Players who previously met the cult fanatics Andrej, Boris, and Miruna in [[Arc H - The Lost Soul]] recognize them at the western Sunset Gate, the Northern Zarovich Gate, and the Eastern Morning Gate, respectively.
 
-If the players attempt to enter through the gates, the guards solemnly inform them that they are under strict orders to forbid the players from entering Vallaki. The cult fanatics can further share that these orders have been issued by Burgomistress Lady Fiona Wachter, for unknown reasons. A player who succeeds on a DC 15 Charisma (Intimidation) check can convince the guards to allow them to pass. Otherwise, the guards and cultists attack if the players defy their command and attempt to enter Vallaki anyway. 
+If the players attempt to enter through the gates, the guards solemnly inform them that they are under strict orders to forbid the players from entering Vallaki. The cult fanatics can further share that these orders have been issued by Burgomistress Lady Fiona Wachter, for unknown reasons. A player who succeeds on a DC 15 Charisma (Intimidation) check can convince the guards to allow them to pass. Otherwise, the guards and cultists attack if the players defy their command and attempt to enter Vallaki anyway.
 
 If the players kill any guards or cultists, the guards and cultists fight to the death, attempting to kill the players in return. Otherwise, the guards and cultists use nonlethal tactics, surrendering if three or more guards and/or cultists are knocked unconscious.
 
@@ -263,11 +263,11 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > [!lore]+ **The Long Arm of Castle Ravenloft**
 > Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
 >
-> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
+> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>.
 >
 > That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
-> The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
+> The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since.
 >
 > Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
 >
@@ -282,7 +282,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > [!item]+ **Beacon of Private Sanctum**
 > *Wondrous item, rare*
 >
-> When its command word is spoken, this six-inch iron cage gains the effects of a *private sanctum* spell. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it. 
+> When its command word is spoken, this six-inch iron cage gains the effects of a *private sanctum* spell. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it.
 >
 > Once activated, the beacon can’t be activated again until the next dawn.
 ### St. Andral’s Church
@@ -311,7 +311,7 @@ If the players make themselves known to him, Milivoj greets them with anxious gr
 * With Father Lucian imprisoned, the church has closed down, though Milivoj has done his best to maintain the grounds and interior. He’s also invited Yeska to live with his family.
 * Since the church’s closure, a small group of Vallakians have begun using the church’s front steps to preach the religion of Ezra, the Goddess of the Mists. (Milivoj’s mouth twists in distaste at the name. “Father Lucian’s sermons always encouraged us to dream of a brighter future," he spits. “But this ‘Ezra’ seems to just want everyone to sit down and shut up.")
 * Lady Wachter has also issued other edicts. She’s shut down the Blue Water Inn, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Gadof Blinsky) thrown the local toymaker into the stocks. (Milivoj, who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
-* Rumor has it that a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts, and that all of them were either killed or sent to Castle Ravenloft. 
+* Rumor has it that a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts, and that all of them were either killed or sent to Castle Ravenloft.
 * Every night, bats fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. Nobody knows where they sleep during the day.
 
 Milivoj asks the players to convince Lady Wachter to free Father Lucian from imprisonment—and, he adds darkly, to free him themselves if she refuses. He is grateful for any aid the players are able to promise or offer.
@@ -327,7 +327,7 @@ A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika sayi
 
 ***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the kitchen. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
 
-* Urwin is currently away from the inn, gathering information from a flock of ravens passing through the eastern woods. He should return within the hour. 
+* Urwin is currently away from the inn, gathering information from a flock of ravens passing through the eastern woods. He should return within the hour.
 * The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft." In addition to closing the inn, she’s imprisoned the priest of St. Andral’s Church, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Blinsky) thrown the local toymaker, Gadof Blinsky into the stocks.
 * Two nights ago, a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts. None returned.
@@ -429,13 +429,13 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
 
 > [!abstract]+ **Vargas’s Death**
-> If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
+> If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it.
 >
 > Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
 
 Victor can share the following information with the players:
 
-* He hasn’t seen Stella in several days. 
+* He hasn’t seen Stella in several days.
 * When he tried to visit Wachterhaus to see her, Lady Wachter’s manservant turned him away.
 * He’s deeply concerned for Stella’s safety, and fears Lady Wachter may have sold her children to Strahd—or worse. (“My father always said she was in league with the Devil," he says darkly. “It looks like he was right.")
 
@@ -464,7 +464,7 @@ Each proclamation reads “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO 
 
 The two **guards** watching the stocks have no personal enmity toward Blinsky and Bluto, and no great loyalty to Lady Wachter. However, both are reluctant to be disciplined or removed from the guard. More significantly, both fear the rumors they’ve heard of Lady Wachter’s newest guest, who is said amongst the town guard to be an emissary sent from Castle Ravenloft itself.
 
-If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEORUS." 
+If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEORUS."
 
 Otherwise, if the players disregard their orders to stand down, the guards attack any character who attempts to free either man from the stocks, seeking to knock them unconscious and bring them to Wachterhaus for questioning. If one guard is knocked unconscious or killed, the surviving guard surrenders or flees, respectively.
 ### Wachterhaus
@@ -473,7 +473,7 @@ If the players visit Wachterhaus, proceed to [[#T5. A Light in the Dark]].
 > [!warning]+ **Modified Scene**
 > This scene has been modified since its original publication. It now occurs only if the players have not yet ignited the *Sunsword* by their first night away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]]. (Strahd won't willingly leave Castle Ravenloft while the players have an ignited *Sunsword*.)
 
-The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. 
+The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]].
 
 Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
 
@@ -494,7 +494,7 @@ If the players reduce Strahd's second form to 155 hit points or fewer, he snarls
 <p>"You may think your misguided courage will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose.".</p>
 </div>
 
-On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
+On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft.
 ## T2d. Exethanter’s Warning
 Forty-eight hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
 
@@ -547,11 +547,11 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 ![[Berez_Dungeon.png]]
 
 > [!info]+ **The Hedge Maze**
-> The hedge maze has ten “rooms," as shown on the map above: 
+> The hedge maze has ten “rooms," as shown on the map above:
 >
 > * [[#T3d. Town Green]], comprising the town green between <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) and <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages))
-> * [[#T3b. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) 
-> * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
+> * [[#T3b. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages)
+> * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages)
 > * [[#T3e. Churchyard]], comprising <span class="citation">U4. Churchyard (p. 164)</span>
 > * [[#T3f. Marina’s Monument]], comprising <span class="citation">U5. Marina’s Monument (p. 164)</span>
 > * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (goat pen only)
@@ -569,9 +569,9 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 ## T3b. Northern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
-> [!combat]+ **Balancing the Northern Cottages** 
+> [!combat]+ **Balancing the Northern Cottages**
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **greater strix** to one.
 
 Three ten-foot-wide passages lead from this chamber:
@@ -582,9 +582,9 @@ Three ten-foot-wide passages lead from this chamber:
 ## T3c. Southern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
-> [!combat]+ **Balancing the Southern Cottages** 
+> [!combat]+ **Balancing the Southern Cottages**
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Remove the **hexwitches**.
 > - _**Four Players.**_ Reduce the number of **hexwitches** to one.
 > - _**Six Players.**_ Increase the number of **bogwitches** to three.
@@ -624,9 +624,9 @@ A walking corpse rises from the mire and attacks if touched, or if the players a
 
 The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
 
-> [!combat]+ **Balancing the Town Green** 
+> [!combat]+ **Balancing the Town Green**
 > Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **walking corpses** to five.
 > - _**Four Players.**_ Reduce the number of **walking corpses** to six.
 > - _**Six Players.**_ Increase the number of **walking corpses** to eight.
@@ -646,9 +646,9 @@ The three lights are **will-o’-wisps**. A player who scrutinizes the lights fr
 
 If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
 
-> [!combat]+ **Balancing the Churchyard** 
+> [!combat]+ **Balancing the Churchyard**
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.
 > - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
 
@@ -665,7 +665,7 @@ This area is largely as described in <span class="citation">U5. Marina’s Monum
 <p>An ethereal, golden figure kneels before the monument.</p>
 </div>
 
-The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**). 
+The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**).
 
 > [!lore]+ **Sergei’s Spirit**
 > When Strahd killed him at his wedding nearly four centuries ago, Sergei’s ghost awoke to find itself entrapped within the Mists, unable to pass on to the afterlife. As the Mists’ first ghost, Sergei has learned how to avoid the cycles of reincarnation that return Barovia’s souls to their next lives. Although Strahd has long searched for his soul, Sergei has also learned how to hide himself away from his brother’s eyes, too fearful—and ashamed—to allow Strahd to find him.
@@ -722,8 +722,8 @@ If the players successfully convince Sergei to return to the Material Plane, rea
 Upon returning to the Material Plane, Sergei is willing to share the following information with the players:
 
 * He is Sergei von Zarovich, the younger brother of Strahd von Zarovich.
-* The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood. 
-* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster. 
+* The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood.
+* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster.
 * Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
 
 The players can convince Sergei to elaborate on his role in Marina’s death by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players point out that he clearly feels guilty for her death. The check succeeds automatically if Ireena assists the players in doing so. On a success, a miserable Sergei can share the following additional information:
@@ -843,9 +843,9 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
-> [!combat]+ **Balancing the Manor's Cellar** 
+> [!combat]+ **Balancing the Manor's Cellar**
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **carrionettes** to two.
 > - _**Four Players.**_ Reduce the number of **carrionettes** to two.
 
@@ -858,19 +858,19 @@ The dolls attack if the players approach them or otherwise pass the midpoint of 
 >
 > While your body is possessed, you should roleplay the carrionette’s soul as follows:
 >
-> * You want to deceive your companions into believing that your soul hasn’t been swapped. 
+> * You want to deceive your companions into believing that your soul hasn’t been swapped.
 > * You want to protect the dolls from harm.
 > * You can’t easily control your childlike behavior, such as giggles at inopportune moments, a deep fascination with interesting objects, and a simple, black-and-white “morality."
-> * If your deception fails, you attempt to flee. 
+> * If your deception fails, you attempt to flee.
 > * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionette’s physical body—and, if present, its silver needle.
 
 A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
-> [!combat]+ **Balancing the Goatpen** 
+> [!combat]+ **Balancing the Goatpen**
 > This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of mutated **goats** to six.
 > - _**Four Players.**_ Reduce the number of mutated **goats** to seven.
 > - _**Six Players.**_ Increase the number of mutated **goats** to ten.
@@ -882,9 +882,9 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 ## T3i. Garden
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
-> [!combat]+ **Balancing the Garden** 
+> [!combat]+ **Balancing the Garden**
 > This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **scarecrows** to four. Reduce the number of **giant poisonous snakes** to three.
 > - _**Four Players.**_ Reduce the number of **scarecrows** to five. Reduce the number of **giant poisonous snakes** to three.
 > - _**Six Players.**_ Increase the number of **scarecrows** to seven.
@@ -914,16 +914,16 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 </div>
 
 > [!lore]+ **Lazlo’s Fall**
-> When Burgomaster Lazlo Ulrich saw the marks on Marina’s neck and confirmed what his dreams had told him—that Strahd had visited his daughter, Marina, in the night—Lazlo felt fear strike deep in his heart. For an instant, he considered fleeing with Marina from the village—to Vallaki’s high walls, or to Krezk to the west—or even confronting the Devil himself, suicide that he knew it to be. 
+> When Burgomaster Lazlo Ulrich saw the marks on Marina’s neck and confirmed what his dreams had told him—that Strahd had visited his daughter, Marina, in the night—Lazlo felt fear strike deep in his heart. For an instant, he considered fleeing with Marina from the village—to Vallaki’s high walls, or to Krezk to the west—or even confronting the Devil himself, suicide that he knew it to be.
 >
 > Yet the Dark Powers’ voices came to him, whispering sweetly that further struggle would be pointless. Marina was already dead, they told him, for there was nowhere in Barovia that Strahd could not pursue her. If he did, they murmured, she would be lost forever, for she would become a vampire, and her soul would surely be damned. Although Lazlo did not recognize the voices for what they were, he knew in his heart that there was only one way to save her: to carry out the deed himself, so that she could flee where Strahd could not follow.
 >
 > To kill Marina, Lazlo first recruited Brother Grigor’s aid to drug her, using the poison _essence of ether_. Lazlo then slit Marina’s throat, draining the blood from her neck so that Strahd could no longer feed upon her. He disposed of her blood in the Luna River—the very river that drowned his village mere hours later.
 >
-> When Lazlo died as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good. 
+> When Lazlo died as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good.
 
 > [!info]+ **What Lazlo Wants**
-> Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within Ireena Kolyana—and that only through Ireena’s death can Marina be reunited with him. 
+> Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within Ireena Kolyana—and that only through Ireena’s death can Marina be reunited with him.
 >
 > Blinded by his own desperation, Lazlo believes that Ireena is either a hollow shell for Marina’s soul or Marina herself bereft of her memories, and that Ireena’s death will return his beloved daughter to him once again.
 
@@ -934,7 +934,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 > *The ghost’s eyes widen, and shimmering tears gather at the corners of his eyes.*
 >
 > *“Marina—my little girl," he chokes out. He holds his arms out, as if expecting an embrace. “Your Papa has waited so long for you to come home."*
-> 
+>
 > ---
 >
 > If the players intervene first, Lazlo angrily commands them to be silent, then swiftly turns his attention to Ireena again, whom he pleadingly asks: “Don’t you recognize me?"
@@ -955,7 +955,7 @@ Lazlo can share the following information with the players if asked:
 * He believes that Ireena contains the soul of his daughter, Marina, who died long ago. He wishes to reunite with Marina’s spirit, so that her soul may finally “come home"—and so be at rest. (A player who succeeds on a DC 12 Wisdom (Insight) check identifies a cringing light in Lazlo’s eyes, and discerns that Lazlo has ulterior motives in wanting to return Marina’s spirit “home.")
 
 > [!abstract]+ **Lazlo’s Confession**
-> Lazlo won’t admit how Marina died if asked, insisting only that “the Count of Castle Ravenloft" visited her in the night and drank her blood. 
+> Lazlo won’t admit how Marina died if asked, insisting only that “the Count of Castle Ravenloft" visited her in the night and drank her blood.
 >
 > If the players suggest Lazlo’s role in Marina’s death (such as by deducing that Strahd could *not* have killed her, or else she would have become a vampire spawn), Lazlo angrily retorts that he did not kill her, but *saved* her. “I saw it in the mists," he rasps. “She was already dead in the Devil’s hands. If not for my actions, her soul would have followed."
 >
@@ -1031,9 +1031,9 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 </div>
 <br>
 
-> [!combat]+ **Balancing Ulrich Manor** 
+> [!combat]+ **Balancing Ulrich Manor**
 > This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce the number of **animated minor objects** to one.
 > - _**Four Players.**_ Reduce the number of **animated minor objects** to two.
 > - _**Six Players.**_ Increase the number of **animated minor objects** to four.
@@ -1058,12 +1058,12 @@ If the players enter the false hut, read:
 <p>As you enter, the raven flutters to its feet and coos excitedly, flapping its wings against the cage’s iron bars.</p>
 </div>
 
-An iron padlock locks the cage. 
+An iron padlock locks the cage.
 
 > [!info]+ **The Green Light**
 The green light and raven are the products of a _programmed illusion_ cast by Baba Lysaga. The illusion activates each time a creature enters the hut. Once activated, it lasts for 5 minutes, then vanishes.
 
-Due to its illusory nature, the raven doesn’t respond to the players’ attempts to interact with it, instead continuing its “performance." Similarly, the cavity beneath the floorboards is empty, and doesn’t contain a magic gem. 
+Due to its illusory nature, the raven doesn’t respond to the players’ attempts to interact with it, instead continuing its “performance." Similarly, the cavity beneath the floorboards is empty, and doesn’t contain a magic gem.
 
 If the players, after investigating the hut, learn that the raven is an illusion, learn that the cavity beneath the floorboards is empty, or otherwise decide that the hut is a trap, Baba Lysaga reveals herself. Read:
 
@@ -1098,9 +1098,9 @@ Baba Lysaga then attacks.
 >
 > A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
-> [!combat]+ **Balancing the Witch** 
+> [!combat]+ **Balancing the Witch**
 > Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2.
 > - _**Four Players.**_ Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round.
 > - _**Six Players.**_ Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round.
@@ -1226,7 +1226,7 @@ Baba Lysaga then attacks.
 > Baba Lysaga’s *grasping vine* spell uses the base statistics provided in the 2024 Player’s Handbook, rather than those provided in the 2014 *Player’s Handbook*.
 
 <div class="statblock">
-<h2>Creeping Hut</h2>
+<h2>Creeping Hut - Ravenous Crypt???</h2>
 <em>Gargantuan construct, unaligned</em>
 <hr>
 <strong>Armor Class</strong> 16 (natural armor)<br>
@@ -1312,7 +1312,7 @@ As the players approach <span class="citation">U6. Standing Stones (p. 165)</spa
 
 The area within the stones is obscured by the cover provided by the webs, which are described in <span class="citation">Webs (Dungeon Master's Guide, p. 105)</span>.
 
-If the players begin cutting or moving through the webs, their presence draws the attention of one **phase spider**, which uses its ***ethereal jaunt*** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round. 
+If the players begin cutting or moving through the webs, their presence draws the attention of one **phase spider**, which uses its ***ethereal jaunt*** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round.
 
 > [!info]+ **Fear of Sunlight**
 > The **phase spiders** that haunt the Swamp Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
@@ -1369,7 +1369,7 @@ Alexei, who refuses to lower his hood and constantly glances at his surroundings
 
 If the players ask Alexei the reason for his fear, he laughs nervously, then mumbles that he’s heard the “Lord of Castle Ravenloft" is hunting them, and that any who provide them shelter will suffer alongside them. (Alexei can confirm that this is why Luvash ordered him to deliver this message covertly.)
 
-If the players express an interest in meeting Luvash’s “guest," Alexei directs the players to speak with Luvash in <span class="citation">N9c. Vistani Tent (p. 121)</span>. 
+If the players express an interest in meeting Luvash’s “guest," Alexei directs the players to speak with Luvash in <span class="citation">N9c. Vistani Tent (p. 121)</span>.
 
 Before departing, Alexei warns the players not to approach the Vistani camp openly, and to conceal their presence from any watchful spies. “I cannot return with you," he says, his voice trembling. “If our people are seen with you, it could mean calamity for us—or worse." Alexei then turns and vanishes into the Svalich Wood, making his way back to the Vistani camp by another way.
 ## T4b. The Vistani Encampment
@@ -1402,9 +1402,9 @@ If the players don’t intervene or call attention to themselves, the conversati
 
 * Escher continues, speaking to Luvash: “As I’m sure you are aware, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
 * Luvash considers Escher’s words, then nods. “We are grateful for Count von Zarovich’s trust in our people. I assure you that I will look into this matter."
-* Escher smiles thinly. “You may be able to look into it sooner than you might think?" (Luvash raises an eyebrow, and Escher continues.) “We have a report," Escher says softly, “that a cloaked individual was recently seen entering one of your wagons." He pauses. “It is, unfortunately, all too common for our friends to undertake dangerous activities under our noses. Should you cooperate fully in this investigation, I assure you that you will be rewarded, and no harm will come to you or your community." 
+* Escher smiles thinly. “You may be able to look into it sooner than you might think?" (Luvash raises an eyebrow, and Escher continues.) “We have a report," Escher says softly, “that a cloaked individual was recently seen entering one of your wagons." He pauses. “It is, unfortunately, all too common for our friends to undertake dangerous activities under our noses. Should you cooperate fully in this investigation, I assure you that you will be rewarded, and no harm will come to you or your community."
 
-If the players reveal their identities and confront him, Escher stumbles from them in fear. “You can’t touch me," he stammers. “I’m here on official business from the Count himself. I-if you hurt me, he’ll crush you, and everyone here." 
+If the players reveal their identities and confront him, Escher stumbles from them in fear. “You can’t touch me," he stammers. “I’m here on official business from the Count himself. I-if you hurt me, he’ll crush you, and everyone here."
 
 Escher fears Strahd more than he fears the players. If the players attempt to intimidate or attack him, Escher commands his two **vampire spawn** to attack, then retreats out of the players’ reach. If the players defeat his two vampire spawn, reduce him to 41 hit points or fewer, or ignite the *Sunsword*, Escher uses his ***shapechange*** to assume the form of a bat, then flees for Castle Ravenloft to the east. (If unable to do so because he’s in the sunlight created by the *Sunsword*, Escher flees first on foot instead, sobbing in terror and pain.)
 
@@ -1418,11 +1418,11 @@ Escher fears Strahd more than he fears the players. If the players attempt to in
 > *This wagon contains a pair of chests, an onyx jewelry box, a rolled-up rug, and a wooden throne with gold inlay and decorative stones. Upon the throne sits a man, his head bowed. His hair is dark, with small streaks of gray beginning to touch his temples. His right torso is wrapped heavily with blood-stained bandages, and more bandages wrap around the top of his head.*
 >
 > ---
-> 
+>
 > If the players make themselves known, add:
 >
 > ---
-> 
+>
 > *Arturi Radanavich looks up at you, his olive-green eyes cutting through the wagon’s dim interior. “You came," he croaks. “Thank you."*
 >
 > ---
@@ -1480,7 +1480,7 @@ Arturi asks the players to take him to Van Richten, believing that they, followi
 > If the players send such a message to Van Richten, Arturi asks them not to mention his identity. Arturi fears that Strahd or his minions may intercept the message, and, more significantly, that Van Richten may not come if he knows Arturi’s identity. (Arturi is reluctant to disclose the latter reason, but does so if pressed.)
 
 > [!abstract]+ **Ezmerelda’s Response**
-> If Ezmerelda hears Arturi’s accusations against Van Richten, a player with a passive Wisdom (Insight) score of 13 or greater notices her stiffen at Arturi’s words, her hands curling into fists. While Ezmerelda won’t discuss the matter further in Arturi’s presence, a player who later approaches her can convince her to share her disbelief that Dr. Rudolph van Richten—"a man of science, her mentor, and the man who spared her parents"—could commit such a terrible crime. 
+> If Ezmerelda hears Arturi’s accusations against Van Richten, a player with a passive Wisdom (Insight) score of 13 or greater notices her stiffen at Arturi’s words, her hands curling into fists. While Ezmerelda won’t discuss the matter further in Arturi’s presence, a player who later approaches her can convince her to share her disbelief that Dr. Rudolph van Richten—"a man of science, her mentor, and the man who spared her parents"—could commit such a terrible crime.
 >
 > “I know that Dr. Van Richten has suffered great tragedies in his life," Ezmerelda says soberly, "but there must be some explanation for what became of the Radanaviches. Perhaps Van Richten suffered some curse or enchantment, or was controlled by a demon. Perhaps his presence was simply an illusion, and he was never there at all. Or perhaps—" (Ezmerelda abruptly falls silent, but, if pushed, reluctantly suggests that Arturi may be lying.)
 >
@@ -1507,7 +1507,7 @@ Regardless of the players’ response, the conversation continues as follows, un
 * Van Richten winces, as though struck. "By . . . *me*?"
 * "Do you not recall?" Arturi says softly. "No sooner did Nana lay her curse upon you than you returned a deadly curse of your own. I will never forget the sound of your voice as you cried: '*Undead take you as you have taken my son!*'"
 * Arturi continues: "Yes, I have been pursued these eighteen years by the walking dead. They follow me wherever I go, like a golem tracking its creator, and they make me an outcast. No tribe will grant me asylum. No Vistana or *giorgio* will take pity upon me. Nothing removes the taint you have put upon the name of Radanavich."
-* Van Richten's lip curls into a sudden snarl. "Can you blame me?" he says, incensed. "You stole my child, and sold him to a vampire!" 
+* Van Richten's lip curls into a sudden snarl. "Can you blame me?" he says, incensed. "You stole my child, and sold him to a vampire!"
 * Arturi nods, his face grave. "Yes. We are linked, in this way, by the sins of our pasts. And that is why I have come—to lift the curse you placed upon me, as the seer Madam Eva bade me."
 * Van Richten's eyes widen. "Madam Eva?"
 * Arturi nods. "Indeed. She spake thus: *The past must burn. Find the man who forged your fetters. His final breath shall set you free.*"
@@ -1536,7 +1536,7 @@ If she hears Van Richten confirm his murder of the Radanaviches, a player with a
 
 If approached, Ezmerelda can share or recount the following information:
 
-* Years ago, when she was a young girl, she saw her parents, joined by members of the Radanavich clan, bring a struggling teenage boy to their camp. Not long after, the caravan visited a tall, foreboding castle, where her parents helped the same Radanaviches force the boy inside. Ezmerelda never saw the boy again. Ezmerelda’s parents split from the caravan soon afterward. 
+* Years ago, when she was a young girl, she saw her parents, joined by members of the Radanavich clan, bring a struggling teenage boy to their camp. Not long after, the caravan visited a tall, foreboding castle, where her parents helped the same Radanaviches force the boy inside. Ezmerelda never saw the boy again. Ezmerelda’s parents split from the caravan soon afterward.
 * Days later, Dr. Rudolph van Richten found Ezmerelda’s parents and trapped them in a snare. He demanded to know what they had done to his son, Erasmus, and Ezmerelda was horrified to overhear that her parents had helped the Radanaviches sell him to the vampire lord Baron Metus. Although Ezmerelda feared Van Richten would kill her parents in vengeance, he spared them and allowed them to go free upon seeing their daughter.
 * "That sign of mercy stayed with me," Ezmerelda says quietly. "My parents . . . well, they struggled to stay on the right path. But I held onto that spark of goodness he had showed me, and as soon as I was old enough, I left to go find him and see if he needed my help. When I found him, he told me that his son had been killed by the vampire lord—but offered to accept me as his student."
 * Ezmerelda’s hands curl into fists. "When I crept up to his camp that night, he put a blade to my throat and demanded to know if I had come to kill him. I thought he was paranoid of monsters, or perhaps fearful of the vampire's servants—but I suppose he thought I was an ally of the Radanaviches, come to avenge them." She clenches her jaw. "He *knew* what he had done. He *knew* that they were all dead—not just the ones who had harmed him, but innocents and children. And he never told me. He just let me go on believing that they were still alive, somewhere in the world — and I never bothered. I all but _worshipped_ him. And he—he never _told_ me what he had done?"
@@ -1552,9 +1552,9 @@ Ezmerelda is grateful for any counsel the players might provide.
 
 > [!abstract]+ **Van Richten’s Curse**
 > If the players ask Van Richten about his curse and family, he can share the following information:
-> 
+>
 > * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
-> * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
+> * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him.
 > * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
 > * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See Ezmerelda d'Avenir (p. 231) and Rictavio (p. 238).) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
 > * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
@@ -1627,7 +1627,7 @@ If a player subsequently attempts to speak with Van Richten, he can share the fo
 
 The players can convince Van Richten to forgive himself by succeeding on a DC 25 Charisma (Persuasion) check, made with advantage if they remind him that Erasmus’s spirit still loves him. The check succeeds automatically if the players help Ezmerelda reconcile with and forgive Van Richten, or if they otherwise provide helpful words of guidance and comfort to help Van Richten come to terms with his past.
 
-If the players successfully help Van Richten forgive himself for his past failures and crimes, he asks how he can complete the blood rite with Arturi, whose family he murdered. “Surely he cannot have forgiven me, either," he murmurs—"I, who brought such evil upon him and his family." 
+If the players successfully help Van Richten forgive himself for his past failures and crimes, he asks how he can complete the blood rite with Arturi, whose family he murdered. “Surely he cannot have forgiven me, either," he murmurs—"I, who brought such evil upon him and his family."
 #### The Final Rite
 If the players convince Van Richten to forgive himself, and Arturi to forgive Van Richten, the two men are willing to attempt the blood rite again. If they do, read:
 
@@ -1685,62 +1685,39 @@ A new wave of undead appears at the beginning of the third round of combat, and 
 The undead focus their attacks on Arturi and Van Richten, attacking the players only if they have no other targets.
 
 <div class="statblock">
-<h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<h2>Rudolph Van Richten<span>Creature 10</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Human</span>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor) (14 with <strong><em>Beacon of Protection</strong></em>))
-<br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
-<br>
-<strong>Speed</strong> 30 ft.
+<p><strong>Perception</strong> +21; (expert against undead and fiends)</p>
+<p><strong>Languages</strong> Abyssal, Common, Elven, Infernal</p>
+<p><strong>Skills</strong> Arcana +22, Deception +19, Insight +21, Intimidation +17, Medicine +21, Occultism +20, Religion +21, Society +20, Stealth +20, Thievery +18</p>
+<p><strong>Str</strong> +0, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +3</p>
+<p><strong>Monster Hunter</strong> Van Richten has spent decades hunting the undead and other creatures of darkness. He gains a +2 circumstance bonus to Recall Knowledge checks about undead, fiends, and aberrations, and can use Arcana, Medicine, Occultism, or Religion interchangeably for such checks. When facing undead or fiends, he gains a +2 circumstance bonus to Perception checks, saving throws, and skill checks.</p>
+<p><strong>Items</strong> <em>+1 striking silver rapier</em> (sword cane), <em>+1 striking silver hand crossbow</em> (20 bolts), <em>hat of disguise</em>, <em>ring of mind shielding</em>, leather armor, <em>charm bracelet</em> (functions as a <em>staff of divination</em>), <em>lucid lens</em> (functions as <em>goggles of night</em> with <em>detect magic</em> at will), healer's toolkit (expanded), silver stakes (6), holy water (4), wyvern poison (2), alchemist's fire (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9 (–1)</td>
-      <td>14 (+2)</td>
-      <td>13 (+1)</td>
-      <td>19 (+4)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 28; <strong>Fort</strong> +17, <strong>Ref</strong> +20, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 140</p>
+<p><strong>Tactical Insight</strong> (aura, mental) 20 feet. Van Richten's extensive experience allows him to guide allies in combat. Any ally in the aura gains a +1 circumstance bonus to attack rolls against undead and fiends, and can use Van Richten's monster lore as if it were their own.</p>
+<p><strong>Ring of Mind Shielding</strong> Van Richten is immune to detect magic, mind reading, scrying, and similar divination effects targeting his thoughts or emotions.</p>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> silver rapier +21 (deadly d8, disarm, finesse, magical), <strong>Damage</strong> 2d6+8 piercing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fist +20 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 1d4+8 bludgeoning</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> silver hand crossbow +21 (magical, range increment 60 feet, reload 1), <strong>Damage</strong> 2d6+5 piercing</p>
+<p><strong>Occult Innate Spells</strong> DC 27; <strong>4th</strong> <em>freedom of movement</em> (1/day); <strong>3rd</strong> <em>blindness</em> (1/day); <strong>2nd</strong> <em>see invisibility</em>, <em>status</em>; <strong>1st</strong> <em>detect alignment</em> (at will, evil only)</p>
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong>Hunter's Instinct</strong> <span class="action">↻</span> <strong>Trigger</strong> Van Richten rolls initiative; <strong>Effect</strong> Van Richten attempts to Recall Knowledge about one creature he can see, then Strides or Hides.</p>
+<p><strong>Uncanny Dodge</strong> <span class="action">↻</span> <strong>Trigger</strong> An attacker hits Van Richten with an attack and Van Richten can see the attacker; <strong>Effect</strong> Van Richten gains resistance 10 to all damage against the triggering attack.</p>
+<p><strong>Cunning Action</strong> <span class="action">▶</span> Van Richten takes the Stride, Hide, or Feint action.</p>
+<p><strong>Insightful Fighting</strong> <span class="action">▶</span> (concentrate) Van Richten studies a creature he can see within 30 feet, attempting a Perception check against that creature's Deception DC. On a success, Van Richten gains a +2 circumstance bonus to attack rolls against that creature and the creature becomes off-guard to Van Richten's attacks. On a critical success, the creature is also off-guard to Van Richten's allies. This effect lasts for 1 minute or until Van Richten uses Insightful Fighting again.</p>
+<p><strong>Master of Tactics</strong> <span class="action">▶</span> Van Richten coordinates an ally's attack. He designates one creature he can see and one ally who can see or hear him within 30 feet. Until the start of Van Richten's next turn, that ally gains a +2 circumstance bonus to attack rolls against the designated creature and deals an additional 2d6 precision damage on their first hit.</p>
+<p><strong>Monster Slayer Strike</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Van Richten has successfully identified a creature using Recall Knowledge this encounter; <strong>Effect</strong> Van Richten Strikes a creature he has identified. The Strike deals an additional 3d6 precision damage, and if the target is undead or a fiend, it also deals an additional 2d6 vitality damage. Van Richten can use this ability once per round.</p>
+<p><strong>Quick Application</strong> <span class="action">▶</span> Van Richten Interacts to draw an alchemical item or poison, then Strikes with a weapon, applying the item to the weapon as part of the attack.</p>
+<p><strong>Sneak Attack</strong> Van Richten deals an additional 3d6 precision damage to off-guard creatures. Against undead, Van Richten doesn't need the target to be off-guard to deal this damage.</p>
+<p><strong>Strategic Assessment</strong> <span class="action">▶▶</span> Van Richten observes the battlefield and shares his insights. He attempts to Recall Knowledge about up to three creatures he can see. For each successful check, he can either share the information with an ally within 30 feet who can hear him (granting them the benefits of the Recall Knowledge) or identify a weak point (the creature becomes off-guard to the next attack made by Van Richten or an ally within 1 minute).</p>
 </div>
 
 > [!item]+ **Lucid Lens**
@@ -1822,7 +1799,7 @@ With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able
 
 Unless the players intervene, the conversation continues as follows:
 
-* Van Richten turns—then freezes, his eyes widening. As if spellbound, he takes a slow step toward the ghost—then another, and another, until they stand barely a foot away. 
+* Van Richten turns—then freezes, his eyes widening. As if spellbound, he takes a slow step toward the ghost—then another, and another, until they stand barely a foot away.
 * “Is it you?" Van Richten whispers, reaching out a hesitant hand. “Can it really be you?"
 * Erasmus looks up at him, and nods shyly. Van Richten drops to his knees, sobbing as tears run down his cheeks.
 * "Erasmus," Van Richten chokes out. “My son, my *boy*. I am so sorry for what I let them do to you—for what *I* did. I failed you, and your mother. I beg your forgiveness."
@@ -1887,7 +1864,7 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 > ---
 >
 > The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
-> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
+> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn.
 > * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 > * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
 
@@ -1911,7 +1888,7 @@ The players can convince Haliq to allow them entry or share what he knows by suc
 
 * Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Haliq can share the emissary’s name if asked.)
 * Shortly after the emissary’s arrival, Lady Wachter began issuing strange, severe edicts—including a prohibition on the players’ entry into Vallaki or Wachterhaus. Haliq doesn’t know why she’s done so, and Lady Wachter won’t tell him.
-* The night of the emissary’s arrival, Karl, Nikolai, and Stella disappeared from Wachterhaus. Lady Wachter won’t tell him where they’ve gone. 
+* The night of the emissary’s arrival, Karl, Nikolai, and Stella disappeared from Wachterhaus. Lady Wachter won’t tell him where they’ve gone.
 * Haliq has served Lady Wachter for the past seventeen years. “In that time," Haliq says mournfully, “I have come to know my lady well. Right now, I know that she is greatly distressed—yet she will not even confide in me."
 
 Once persuaded or intimidated, Haliq can lead the players to Lady Wachter in <span class="citation">N4k. Den (p. 112)</span>.
@@ -1944,13 +1921,13 @@ The players can calm Lady Wachter by succeeding on a DC 20 Charisma (Persuasion)
 
 * She was communing with Ezra, the Goddess of the Mists.
 * Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Lady Wachter can share the emissary’s name if asked.)
-* That night, Lady Wachter’s children vanished from Wachterhaus. When Lady Wachter confronted the emissary the following morning, the emissary informed her that her children were “in a safe place"—and would remain so during her “good behavior." 
-* Lady Wachter doesn’t know where her children have gone. Although she sent Ernst Larnak to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs." 
+* That night, Lady Wachter’s children vanished from Wachterhaus. When Lady Wachter confronted the emissary the following morning, the emissary informed her that her children were “in a safe place"—and would remain so during her “good behavior."
+* Lady Wachter doesn’t know where her children have gone. Although she sent Ernst Larnak to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs."
 * Lady Wachter knows that her children are now hostages. Accordingly, each time the emissary has provided her a new edict to issue, Lady Wachter has done so obediently, fearful that disobedience will lead to her children’s deaths—or worse. (“He has my sons," Lady Wachter says, her voice cracking as she puts her head in her hands. “He has my *daughter*.")
 
 Lady Wachter believes that no person can defeat Strahd’s forces, and believes that any attempt to defy the emissary will lead to her children’s deaths. As such, if the players suggest that she or they defy or attack the emissary, she pleads with them not to do so—threatening to obstruct them by force if need be. (“I would do *anything* for my children," she says, swallowing. “Do you think I would fear death if mine prevented theirs?")
 
-The players can convince Lady Wachter to defy Strahd and his emissary—such as by driving the emissary from Wachterhaus or burying the Seeker’s sage-green gem at the Mountain Fane—by succeeding on a DC 25 Charisma (Persuasion) check, succeeding automatically if they ignite the *Sunsword*. 
+The players can convince Lady Wachter to defy Strahd and his emissary—such as by driving the emissary from Wachterhaus or burying the Seeker’s sage-green gem at the Mountain Fane—by succeeding on a DC 25 Charisma (Persuasion) check, succeeding automatically if they ignite the *Sunsword*.
 
 The first time Lady Wachter sees the *Sunsword*, read:
 
@@ -1967,7 +1944,7 @@ The first time Lady Wachter sees the *Sunsword*, read:
 > The mists writhe beneath the radiant light—then, with barely a whisper, burn and dissipate away.
 
 > [!abstract]+ **Lady Wachter’s Faith**
-> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
+> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more.
 >
 > If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
 >
@@ -2045,9 +2022,9 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
-> [!combat]+ **Balancing Rahadin's Vengeance** 
+> [!combat]+ **Balancing Rahadin's Vengeance**
 > Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> 
+>
 > - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
 > - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
 > - _**Six Players.**_ Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.

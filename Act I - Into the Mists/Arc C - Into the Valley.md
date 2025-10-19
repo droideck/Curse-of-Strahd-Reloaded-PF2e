@@ -44,7 +44,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **[Wolf scaled to Level 3](https://2e.aonprd.com/Monsters.aspx?ID=3241).** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
@@ -53,16 +53,11 @@ If the players received the location of Van Richten’s hidden weapons cache fro
 <p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. </p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
+The five figures are **[Plague Zombie](https://2e.aonprd.com/Monsters.aspx?ID=3250)**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
 
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** ***undead fortitude*** feature to read as follows:
->
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining.
-
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
+If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 [silvered](https://2e.aonprd.com/Equipment.aspx?ID=2920) crossbow bolts, a [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425), [Healer's Toolkit (Expanded)](https://2e.aonprd.com/Equipment.aspx?ID=2727), two vials of [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001), and one [Healing Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=2943).*
 # C2. River Ivlis Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
 
@@ -156,7 +151,7 @@ Whether Ireena is with the party or not, add:
 >
 > <hr>
 >
-> The wolves are **[Dire Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
+> The wolves are **[Dire Wolfs scaled to Level 5](https://2e.aonprd.com/Monsters.aspx?ID=3242)**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
 >
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
@@ -233,12 +228,12 @@ Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, t
 
 The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers.
 
-The **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+The **greater strix** uses the statistics of a **[Weak Manticore](https://2e.aonprd.com/Monsters.aspx?ID=3093)**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the Weakness 5 fire, strix’s **_spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
 ![[Greater Strix.png]]
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
+The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **[Weak Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=782)**, but with Weakness 5 fire). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
 > This combat encounter is a **bruising** encounter against a party of four 3rd-level players and a Level 1 ally (Ireena Kolyana). For parties of smaller or larger sizes, modify the encounter as follows:
@@ -252,65 +247,33 @@ These abominations were built by the witch Baba Lysaga to hunt down wereravens. 
 > [!warning]+ **Don't Hurt Ireena**
 > Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
 
-If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
+If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 20 Medicine check, reducing her to 0 hit points and causing her to fall unconscious on a failure, she starts Dying 1. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
 <div class="statblock">
-<h2>Muriel Vinshaw - Creature 4</h2>
-<em>Medium humanoid, werecreature</em>
+<h2>Muriel Vinshaw<span>Creature 4</span></h2>
+<span class="trait">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Werecreature</span>
 <hr>
-<strong>Armor Class</strong> 21 (studded leather armor)
-<br>
-<strong>Hit Points</strong> 71
-<br>
-<strong>Speed</strong> 25 ft., fly 25 ft.
-<hr>
-<table class="ability-table">
-<thead>
-<tr>
-<th>STR</th>
-<th>DEX</th>
-<th>CON</th>
-<th>INT</th>
-<th>WIS</th>
-<th>CHA</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>14 (+2)</td>
-<td>20 (+5)</td>
-<td>16 (+3)</td>
-<td>14 (+2)</td>
-<td>16 (+3)</td>
-<td>12 (+1)</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12
-<br>
-<strong>Saving Throws</strong> Fort +12, Ref +13, Will +10
-<br>
-<strong>Senses</strong> darkvision
-<br>
-<strong>Languages</strong> Common
-<br>
-<strong>Weaknesses</strong> silver 5
-<hr>
-<h3>Active Abilities</h3>
-<p><strong>◆ Change Shape</strong> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
-<p><strong>◆ Mimic</strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
-<p><strong>↻ Interpose</strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-<p><strong>↻ Wing Thrash</strong> <em>Trigger</em> An adjacent enemy damages the wereraven. <em>Effect</em> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
-<h3>Attacks</h3>
-<p><strong>Melee</strong> ◆ beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
-<p><strong>Melee</strong> ◆ wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
-<p><strong>Ranged</strong> ◆ hand crossbow +13 (range increment 60 ft., reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Regeneration 15</strong> (Deactivated by Silver or Void)</p>
+<p><strong>Perception</strong> +10; darkvision</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Acrobatics +12, Athletics +9, Deception +7, Society +8, Stealth +12</p>
+<p><strong>Str</strong> +2, <strong>Dex</strong> +5, <strong>Con</strong> +3, <strong>Int</strong> +2, <strong>Wis</strong> +3, <strong>Cha</strong> +1</p>
 <p><strong>Raven Empathy</strong> A wereraven can communicate with ravens.</p>
-<p><strong>Curse of the Wereraven</strong> This curse affects only humanoids. <em>Saving Throw</em> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<hr>
+<p><strong>AC</strong> 21; <strong>Fort</strong> +12, <strong>Ref</strong> +13, <strong>Will</strong> +10</p>
+<p><strong>HP</strong> 71, regeneration 15 (deactivated by silver or void); <strong>Weaknesses</strong> silver 5</p>
+<p><strong>Curse of the Werecreature</strong> This curse affects only humanoids; <strong>Saving Throw</strong> DC 18 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<hr>
+<p><strong>Speed</strong> 25 feet, fly 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> beak +13 (agile, finesse), <strong>Damage</strong> 2d6+5 slashing plus curse of the werecreature</p>
+<p><strong>Melee</strong> <span class="action">▶</span> wing +13 (agile, finesse), <strong>Damage</strong> 2d6+5 bludgeoning</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> hand crossbow +13 (range increment 60 feet, reload 1), <strong>Damage</strong> 2d6+7 piercing</p>
+<hr>
+<p><strong>Interpose</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature Muriel can see hits another target within 5 feet of Muriel with an attack; <strong>Effect</strong> Muriel takes the damage instead.</p>
+<p><strong>Wing Thrash</strong> <span class="action">↻</span> <strong>Trigger</strong> An adjacent enemy damages the wereraven; <strong>Effect</strong> The wereraven makes one or two wing Strikes, each against a different adjacent creature.</p>
+<p><strong>Change Shape</strong> <span class="action">▶</span> The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
+<p><strong>Mimic</strong> <span class="action">▶</span> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Perception check to Sense Motive.</p>
 </div>
 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
@@ -429,7 +392,7 @@ If the players make their way to the Vistani fire, Eliza—and Arturi, if he is 
 ## C4d. The Dancing Fire
 As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
 
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
+If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 18 Perception check to Sense Motive discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
 
 > [!info]+ **Insight Checks**
 > Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
@@ -522,7 +485,7 @@ If challenged on his vote, Stanimir merely says, with a mysterious smile, that m
 ### Arturi Departs
 When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow."
 
-A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
+A player who succeeds on a DC 15 Persuasion check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
 
 Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
 
@@ -533,7 +496,7 @@ Arturi refuses any offers to defend him, and slips away into the night, eventual
 
 The undead vanish into the woods shortly before dawn.
 ## C4e. Return to the River Ivlis Crossroads
-The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 11 Dexterity (Stealth) check or take other covert action to do so.
+The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 20 Stealth check or take other covert action to do so.
 ### Traveling to the Crossroads
 As the players make the journey to the crossroads, read:
 
@@ -542,34 +505,30 @@ As the players make the journey to the crossroads, read:
 <p>As the witching hour approaches, an eerie stillness descends. Even the leaves cease their rustling, leaving the squelch of your boots through mud the only lingering sound.</p>
 </div>
 
-If the players failed to conceal their departure, any players with a passive Wisdom (Perception) score of 11 or greater realize they're being followed. Read:
+If the players failed to conceal their departure, any players who passes DC 19 Perception check realize they're being followed. Read:
 
 <div class="description">
 <p>The sound of a snapping twig cuts through the silence like shattering glass. A bush behind you rustles—then abruptly falls still.</p>
 </div>
 
-The rustling bush hides the Vistani **[Elite Charlatan](https://2e.aonprd.com/NPCs.aspx?ID=889)** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
+The rustling bush hides the Vistani **[Mastermind](https://2e.aonprd.com/NPCs.aspx?ID=3612)** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
 
 **If the players call out to Eliza**, she remains hidden and doesn't respond.
 
 **If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were *up to* something—and a storyteller can always use more tales."
 
-Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 15 Charisma (Intimidation) check, however, Eliza returns to Tser Pool and remains there for the night.
+Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 23 Intimidation check, however, Eliza returns to Tser Pool and remains there for the night.
 
-**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
+**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 23 Intimidation check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
 
 > [!lore]+ **Eliza's Fanaticism**
 > Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
 
-**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
-
-* Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-* Use a stampede of spooked **elk** for the stampede of spooked animals
-* Use a **giant spider** for the creature indigenous to the area
+**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in Eliza's Flight.
 
 While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
 
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
+**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 20 Stealth check, followed by a DC 15 Survival check. Players who depart from the road in this way encounter a **[Weak Will-O'-Wisp](https://2e.aonprd.com/Monsters.aspx?ID=3240)** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
 ### The March of the Dead
 When the players arrive at the River Ivlis Crossroads, read:
 
@@ -588,7 +547,7 @@ The silhouette is Madam Eva. She does not answer if called out to, and waits for
 >
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
 >
-> Players must catch up to Eliza before she accumulates 10 Chase Points. If they do, a combat encounter occurs in the current obstacle's area. Eliza escapes if she reaches 12 Chase Points, successfully returning to Castle Ravenloft.
+> Players must catch up to Eliza before she accumulates 12 Chase Points. If they do, a combat encounter occurs in the current obstacle's area. Eliza escapes if she reaches 12 Chase Points, successfully returning to Castle Ravenloft.
 >
 > ### Additional Details
 > * Eliza starts at obstacle 2 with 2 Chase Points
@@ -768,7 +727,7 @@ If one of the players passes DC 21 Perception check, add:
 
 <div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
 
-The movement belongs to a **[Wolf scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)**, which swiftly retreats into the woods. Its five **[Wolfs scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
+The movement belongs to a **[Elite Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3241)**, which swiftly retreats into the woods. Its five **[Elite Wolfs](https://2e.aonprd.com/Monsters.aspx?ID=3241)** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
 
 If the players continue, read:
 
@@ -778,13 +737,13 @@ If the players continue, read:
 If one of the players successfully Searches and passes DC 21 Perception check, add:
 
 <div class="description">
-<p>You see three gray-furred shadows dart through the underbrush ahead. Three more flicker at the edge of your vision, just behind you.</p>
+<p>You see three gray-furred shadows dart through the underbrush ahead. Two more flicker at the edge of your vision, just behind you.</p>
 </div>
 
 If one of the players passes DC 26 Perception check, add:
 
 <div class="description">
-<p>Two more lurk in the ravine nearly fifty feet below, keeping pace with your movements as they cling to the shadows of the crags.</p>
+<p>One more lurk in the ravine nearly fifty feet below, keeping pace with your movements as they cling to the shadows of the crags.</p>
 </div>
 
 If the players pause, proceed, or attack, the six wolves in the woods strike. Read:
@@ -797,13 +756,13 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 
 > [!combat]- **Balancing the Wolves**
 > This combat encounter is a **Severe** encounter against a party of four 4th-level players, a 2nd level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form). For parties of smaller or larger sizes, modify the encounter as follows:
-> * **Three Players**. Reduce the number of wolves to 5.
+> * **Three Players**. Make it 8 normal Level 1 wolfs.
 > * **Five Players**. Increase the number of wolves to 7.
 > * **Six Players**. Increase the number of wolves to 8.
 
 Replace the wolves' ***bite*** attack with the following action options:
 
-- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
+- ▶ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
   Wolf makes a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of wolf's current turn, and wolf can move it 5 feet toward it. When wolf moves the creature, it can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
 
   This Strike has the following failure effect.
@@ -816,7 +775,7 @@ A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludge
 Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if six of the eight wolves are killed.
 
 > [!info]+ **Descending Into the Ravine**
-> A player attempting to ascend or descend the edge of the ravine must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
+> A player attempting to ascend or descend the edge of the ravine must make a DC 15 Athletics check to Climb.
 
 As the players depart this area, a player who passes DC 19 Perception check notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 26 Perception check to Sense Motive discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
 
@@ -845,7 +804,7 @@ This area is largely as described in <span class="citation">Tser Falls (p. 37)</
 
 If the players call out to this nameless **Revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
 
-For the stat block, use [Graveknights scaled to 9th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
+For the stat block, use [Graveknights scaled to 9th level](https://2e.aonprd.com/Monsters.aspx?ID=3030) but remove **Sacrilegious Aura** and **Phantom Mount**, and give them **Self-Loathing** and **Baleful Shriek** abilities from [Revenant](https://2e.aonprd.com/Monsters.aspx?ID=3167) stat block.
 
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 
@@ -909,7 +868,7 @@ If the players remain silent or continue ahead, read:
 
 The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill.
 
-As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 7](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
+As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -1003,130 +962,38 @@ Have the players, **wolves**, **werewolves** (in wolf form), and (if they are wi
 
 Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
 
-<div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
-      <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
-<hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-</div>
 
 <div class="statblock">
-<h2>Werewolf - Creature 5</h2>
-<em>Medium Beast, Human, Humanoid, Werecreature</em>
+<h2>Werewolf<span>Creature 5</span></h2>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Beast</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Werecreature</span>
 <hr>
-<strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet<br>
-<strong>Languages</strong> Common, Wolf Empathy<br>
-<strong>Skills</strong> Acrobatics +7, Athletics +9<br>
+<p><strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet</p>
+<p><strong>Languages</strong> Common; wolf empathy</p>
+<p><strong>Skills</strong> Acrobatics +7, Athletics +9</p>
+<p><strong>Str</strong> +5, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> battle axe, composite shortbow (20 arrows), studded leather armor</p>
+<p><strong>Wolf Empathy</strong> The werewolf can communicate with canine creatures.</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>20 (+5)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 20; <strong>Fort</strong> +14, <strong>Ref</strong> +12, <strong>Will</strong> +10</p>
+<p><strong>HP</strong> 101, regeneration 15 (deactivated by silver or void); <strong>Weaknesses</strong> silver 7</p>
+<p><strong>Regeneration 15</strong> (deactivated by silver or void) The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
+<p><strong>Curse of the Werewolf</strong> (curse, primal) This curse affects only humanoids; <strong>Saving Throw</strong> DC 19 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<p><strong>Moon Frenzy</strong> (polymorph, primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
+<p><strong>Pack Attack</strong> The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
 <hr>
-<strong>AC</strong> 20<br>
-<strong>HP</strong> 101<br>
-<strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10<br>
-<strong>Weaknesses</strong> silver 7<br>
-<strong>Speed</strong> 25 feet<br>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
-<p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
-<p><strong>Change Shape</strong> ◆<br>
-The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
-<p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
-<p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
-<p><strong>Maul</strong> ◆<br>
-You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
-<p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
-<p><strong>Reactive Strike</strong> ↻<br>
-<strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
-<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
-<h3>Passive Abilities</h3>
-<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
-This curse affects only humanoids.<br>
-<strong>Saving Throw</strong> DC 19 Fortitude<br>
-On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
-<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
-When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
-<p><strong>Pack Attack</strong><br>
-The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
-<p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
-The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
-<p><strong>Wolf Empathy</strong><br>
-The werewolf can communicate with canine creatures.</p>
-<h3>Inventory</h3>
-<ul>
-<li>Battle Axe</li>
-<li>Composite Shortbow</li>
-<li>Studded Leather Armor</li>
-<li>Arrows (20)</li>
-</ul>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using; <strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
+<p><strong>Change Shape</strong> <span class="action">▶</span> (concentrate, polymorph, primal) The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape. In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw. In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
+<p><strong>Maul</strong> <span class="action">▶</span> The werewolf aims its weapon to snag a foe's armor, clothing, or flesh to pull them closer. The werewolf makes a melee Strike. If it hits a target that is its size or smaller, that creature is off-guard until the end of the werewolf's current turn, and the werewolf can move it 5 feet toward itself. When the werewolf moves the creature, it can move the same distance in the same direction as the target, even if adjacent to the target. This movement doesn't trigger reactions. On a failure, the target becomes off-guard until the end of the werewolf's current turn.</p>
 </div>
 
 In combat, the **wolves** work together, knocking prone and dragging creatures away. Once the wolves have dragged a character away from the party, the **werewolves** shift their attention to target them with its ***jaw*** strike. The first character targeted in this way notices that the werewolves are slightly larger than the other three and have intelligent, disturbingly human eyes.

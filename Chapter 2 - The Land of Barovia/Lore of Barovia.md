@@ -195,7 +195,7 @@ With Strahd newly awoken, however, a wave of despair has swept across the valley
 > **Favored Weapon:** mace  
 > **Domains:** confidence, healing, protection, sun  
 > **Alternate Domains:** family, vigil  
-> **Cleric Spells:** 1st: *bless*, 3rd: *searing light*, 5th: *dawn*
+> **Cleric Spells:** 1st: *[Endure](https://2e.aonprd.com/Spells.aspx?ID=2348)*, 3rd: *[Wall of Radiance](https://2e.aonprd.com/Spells.aspx?ID=2372)*, 4th: *[Tomorrow's Dawn](https://2e.aonprd.com/Spells.aspx?ID=1926)*
 
 
 > [!lore]+ **The Names of the Gods**
@@ -244,7 +244,7 @@ Few, however, suspect the horrible truth: that “Ezra” does not, and has neve
 > **Favored Weapon:** dagger 
 > **Domains:** air, confidence, delirium, secrecy 
 > **Alternate Domains:** fate, sorrow 
-> **Cleric Spells:** 1st: *illusory disguise*, 3rd: *wall of wind*, 5th: *hallucination*
+> **Cleric Spells:** 1st: *[Illusory Disguise](https://2e.aonprd.com/Spells.aspx?ID=1568)*, 3rd: *[Wall of Wind](https://2e.aonprd.com/Spells.aspx?ID=1753)*, 5th: *[Hallucination](https://2e.aonprd.com/Spells.aspx?ID=1551)*
 ## The Faith of the Ladies Three
 In Soldav, the hidden bastion of the Mountain Folk, the people still keep to the old faith of the Ladies of the Fanes: the Weaver, the Seeker, and the Huntress. They do their best to honor their goddesses with offerings of food, flowers, and song, but mourn the loss of knowledge and tradition that came when the druids betrayed their faith for Strahd’s protection. They no longer remember the sacred rites that once bound their ancestors to the Ladies’ fellowship, nor do they remember the secrets of the Ladies’ blessings.
 
@@ -268,7 +268,7 @@ Together, this trinity oversaw each life that was born in the valley: the Seeker
 > **Favored Weapon:** Staff 
 > **Domains:** Creation, Duty, Family, Protection 
 > **Alternate Domains:** Toil, Vigil 
-> **Cleric Spells:** 1st: *mending*, 3rd: *wall of thorns*, 5th: *wall of stone*
+> **Cleric Spells:** 1st: *tether*, 3rd: *wall of thorns*, 5th: *wall of stone*
 > 
 > ## The Huntress
 > **Edicts:** protect wild places, honor the natural cycle of life and death, hone your hunting and combat skills, respect the spirits of slain prey 

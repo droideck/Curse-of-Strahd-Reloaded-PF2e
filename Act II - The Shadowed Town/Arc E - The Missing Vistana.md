@@ -80,7 +80,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
-Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. He is a [Toymaker](https://2e.aonprd.com/NPCs.aspx?ID=3460). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
 If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
@@ -331,63 +331,28 @@ Shortly after the players discover these records, however, they are interrupted 
 > ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his [Create Undead](https://2e.aonprd.com/Rituals.aspx?ID=117) ritual.)
 
 <div class="statblock">
-<h2>Victor Vallakovich - Creature 9 - Apply Weak</h2>
-<em>Medium humanoid (human)</em>
+<h2>Viktor Vallakovich<span>Creature 7</span></h2>
+<span class="trait">Common</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
 <hr>
-<strong>Perception</strong> +12<br>
-<strong>Languages</strong> Common, Elven, Necril, Aklo<br>
-<strong>Skills</strong> Arcana +18, Crafting +18, Occultism +18<br>
+<p><strong>Perception</strong> +15</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Arcana +17, Academia Lore +15, Library Lore +17</p>
+<p><strong>Str</strong> +1, <strong>Dex</strong> +2, <strong>Con</strong> +2, <strong>Int</strong> +5, <strong>Wis</strong> -2, <strong>Cha</strong> +5</p>
+<p><strong>Items</strong> Khazan's spellbook, writing set, textbooks</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>-1</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+4</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 24; <strong>Fort</strong> +14, <strong>Ref</strong> +14, <strong>Will</strong> +12</p>
+<p><strong>HP</strong> 122</p>
 <hr>
-<strong>AC</strong> 25<br>
-<strong>Saving Throws</strong> Fort +15, Ref +15, Will +18<br>
-<strong>HP</strong> 92 (max 112)<br>
-<strong>Speed</strong> 25 feet<br>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> textbook +16, <strong>Damage</strong> 2d6+7 bludgeoning</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fist +17 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 2d6+7 bludgeoning</p>
+<p><strong>Arcane Prepared Spells</strong> DC 25, attack +17; <strong>5th</strong> sending; <strong>4th</strong> fly, suggestion; <strong>3rd</strong> dispel magic, fireball, force barrage; <strong>2nd</strong> acid grip, darkvision, invisibility; <strong>1st</strong> fear, force barrage, grease, gust of wind, phantasmal minion; <strong>Cantrips (5th)</strong> detect magic, frostbite, prestidigitation, read aura, telekinetic hand</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ dagger +19 (agile, finesse, magical, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
-<p><strong>Ranged</strong> ◆ dagger +19 (agile, magical, thrown 10, versatile S), <strong>Damage</strong> 3d4+2 piercing</p>
-<p><strong>Drain Bonded Item</strong> ◇ (frequency: once per day)<br>
-Victor expends the magical power stored in his ring. During the current turn, he can cast one spell he prepared today, without spending a spell slot. Victor must still Cast the Spell and meet the spell's other requirements.</p>
-<p><strong>Counterspell</strong> ↻<br>
-<strong>Trigger</strong> A creature casts a spell Victor has prepared<br>
-<strong>Effect</strong> Victor expends a prepared spell to counter the triggering creature's casting of that same spell. He loses its spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell.</p>
+<p><strong>Overambitious Spell</strong> <span class="action">▶▶</span> (arcane) <strong>Frequency</strong> once per day; <strong>Effect</strong> Viktor attempts to cast any spell that is 5th rank but must first attempt a @Check[flat|dc:15]. <strong>Critical Success</strong> The spell is cast flawlessly and heightened to 6th rank. Viktor is stunned 2 from sheer shock. <strong>Success</strong> Nothing goes wrong, and the spell is cast normally. <strong>Failure</strong> The spell fizzles and creates only a harmless puff of smoke. <strong>Critical Failure</strong> The magic backfires and Viktor takes 10d6 fire or force damage.</p>
 <hr>
-<h3>Passive Abilities</h3>
-<p><strong>Steady Spellcasting</strong><br>
-If a reaction would disrupt Victor's spellcasting action, the Victor attempts a DC 15 flat check. On a success, the action isn't disrupted.</p>
-<hr>
-<h3>Spellcasting</h3>
-<p><strong>Arcane Flexible Prepared Spells</strong> DC 25, attack +17<br>
-<strong>Cantrips (5th):</strong> detect magic, ignition, light, prestidigitation, shield, telekinetic hand<br>
-<strong>1st (2/2):</strong> fear*, force barrage*, mystic armor*<br>
-<strong>2nd (2/2):</strong> dispel magic*, invisibility*<br>
-<strong>3rd (2/2):</strong> fireball<br>
-<strong>4th (2/2):</strong> fly, suggestion*<br>
-<strong>5th (2/2):</strong> cone of cold*, sending*<br>
-(*) denotes spell that are in the flexible collection</p>
 <h3>Rituals</h3>
 <p><strong>Create Undead</strong> (uncommon)<br>
 <strong>Cast</strong> 1 day; <strong>Cost</strong> black onyx, see Creature Creation Rituals table; <strong>Secondary Casters</strong> 1<br>
@@ -397,14 +362,6 @@ You transform the target into an undead creature with a level up to that allowed
 <strong>Cast</strong> 1 day; <strong>Cost</strong> rare incense, precious metals, and purified chalk worth 500 gp; <strong>Secondary Casters</strong> 2<br>
 <strong>Primary Check</strong> Arcana or Occultism (master); <strong>Secondary Check</strong> Crafting, Survival<br>
 You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual...</p>
-<h3>Inventory</h3>
-<ul>
-<li>Dagger (magical)</li>
-<li>Clothing (Fine)</li>
-<li>Explorer's Clothing</li>
-<li>Spellbook</li>
-<li>Bonded item - Simple Silver Ring</li>
-</ul>
 </div>
 
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
@@ -651,22 +608,25 @@ Each time a button is pressed, its symbol glows with the color of its correspond
 A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 32 Athletic check to Force Open.
 
 ---
-#### Electrified Hall  - Hazard 9
-_Electricity, Evocation, Magical, Trap_
-**Complexity** Simple
-**Stealth** DC 33 (expert)
-
-**Disable**
-DC 30 Thievery (master) to disable the runes, or **dispel magic** (5th level; counteract DC 30) to counteract the trap.
-
-**Lightning Blast - ↻** _(arcane, electricity, evocation)_ **Trigger** A creature damages the door, fails to Force Open the door, or fails a check to activate the symbols.
-**Effect** A stroke of lightning blasts out from the door in a 30 feet cone, everyone in the way should make a DC 28 Reflex save.
-- **Critical Success** No effect.
-- **Success** The trap deals 1d10+6 electricity damage.
-- **Failure** The trap deals 2d10+13 electricity damage, and the creature becomes **clumsy 1** and **stupefied 1** for 1 hour.
-- **Critical Failure** The trap deals 4d10+26 electricity damage, and the creature becomes **clumsy 2** and **stupefied 2** for 1 hour.
-
-**Reset** Automatic
+<div class="statblock">
+<h2>Electrified Hall<span>Hazard 5</span></h2>
+<p><em>Electricity, Magical, Trap</em></p>
+<hr>
+<p>Runes hidden in the door's carvings blast lightning down the hall.</p>
+<p><strong>Complexity</strong> Simple</p>
+<p><strong>Stealth</strong> DC 16 (expert)</p>
+<p><strong>Disable</strong> DC 30 Thievery (master) to scratch out the runes, or <strong>dispel magic</strong> (5th level; counteract DC 28) to counteract the runes.</p>
+<hr>
+<p><strong>Synaptic Jolt</strong> <span class="action">↻</span> <em>(arcane, electricity, nonlethal)</em> <strong>Trigger</strong> A creature damages the door, fails to Force Open the door, or fails a check to realign the stonework keys</p>
+<p><strong>Effect</strong> Electricity fills the hallway and affects all creatures inside it, who must attempt a DC 22 Reflex save.</p>
+<ul>
+<li><strong>Critical Success</strong> No effect.</li>
+<li><strong>Success</strong> The trap deals 1d12+5 electricity damage.</li>
+<li><strong>Failure</strong> The trap deals 2d12+10 electricity damage, and the creature becomes clumsy 1 and stupefied 1 for 1 hour.</li>
+<li><strong>Critical Failure</strong> The trap deals 4d12+20 electricity damage, and the creature becomes clumsy 2 and stupefied 2 for 1 hour.</li>
+</ul>
+<p><strong>Reset</strong> automatic</p>
+</div>
 
 ---
 
@@ -681,20 +641,35 @@ If eight different symbols are pressed in an incorrect sequence, trap is trigger
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
-The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. A character can do an Athletics  DC 15 check to Climb. If a creature climbs the scaffolding to the second floor, the four **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Modify the statblock for the **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** by adding [Grab ◆](https://2e.aonprd.com/MonsterAbilities.aspx?ID=45) to the Claw attack and add these passive abilities:
+The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. A character can do an Athletics  DC 15 check to Climb. If a creature climbs the scaffolding to the second floor, the four **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Modify the statblock for the **[Gargoyles](https://2e.aonprd.com/Monsters.aspx?ID=3001)** by adding [Grab ▶](https://2e.aonprd.com/MonsterAbilities.aspx?ID=45) to the Claw attack and add a few passive abilities shown bellow:
 
----
-**_Carry_**. A gargoyle can Fly at half Speed while it has a creature Grabbed or Restrained in both of its claws, carrying that creature along with it.
+<div class="statblock">
+<h2>Gargoyle<span>Creature 4</span></h2>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Beast</span>
+<span class="trait">Earth</span>
+<hr>
+<p><strong>Perception</strong> +10; darkvision</p>
+<p><strong>Languages</strong> Common, Petran</p>
+<p><strong>Skills</strong> Acrobatics +10, Athletics +9, Stealth +12</p>
+<p><strong>Str</strong> +3, <strong>Dex</strong> +2, <strong>Con</strong> +3, <strong>Int</strong> -2, <strong>Wis</strong> +2, <strong>Cha</strong> -2</p>
+<hr>
+<p><strong>AC</strong> 21; <strong>Fort</strong> +13, <strong>Ref</strong> +10, <strong>Will</strong> +10</p>
+<p><strong>HP</strong> 40; <strong>Immunities</strong> bleed; <strong>Resistances</strong> physical 5 (except adamantine)</p>
+<p><strong>Hot Shift</strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its claws deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains weakness 10 to cold damage and immediately stops glowing if dealt cold damage.</p>
+<p><strong>Cold Shift</strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its claws deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains weakness 10 to fire damage and its ice vanishes if dealt fire damage.</p>
+<p><strong>Stone Body</strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the shatter spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
+<hr>
+<p><strong>Speed</strong> 25 feet, fly 40 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> jaws +13, <strong>Damage</strong> 2d8+3 piercing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +13 (agile), <strong>Damage</strong> 2d6+3 slashing plus Grab</p>
+<hr>
+<p><strong>Clawed Feet</strong> <span class="action">↻</span> (attack) <strong>Trigger</strong> The gargoyle is Flying, and a creature moves into an adjacent square below it; <strong>Effect</strong> The gargoyle makes a claw Strike against the triggering creature.</p>
+<p><strong>Statue</strong> <span class="action">▶</span> (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue.</p>
+<p><strong>Carry</strong> A gargoyle can Fly at half Speed while it has a creature grabbed or restrained in both of its talons, carrying that creature along with it.</p>
+<p><strong>Grab</strong> <span class="action">▶</span></p>
+</div>
 
-**_Hot Shift._** If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its **_claws_** deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains weakness 10 to cold damage and immediately stops glowing if dealt cold damage.
-
-**_Cold Shift._** If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its **_claws_** deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains weakness 10 to fire damage and its ice vanishes if dealt fire damage.
-
-**_Stone Body._** If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the _shatter_ spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.
-
-If able, a gargoyle that has grappled a player flies 20 feet up on its turn and uses its action to ***bite*** the grappled player.
-
----
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
 
@@ -766,79 +741,37 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
-
 <div class="statblock">
-<h2>Werewolf - Creature 5</h2>
-<em>Medium Beast, Human, Humanoid, Werecreature</em>
+<h2>Werewolf<span>Creature 5</span></h2>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Beast</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Werecreature</span>
 <hr>
-<strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet<br>
-<strong>Languages</strong> Common, Wolf Empathy<br>
-<strong>Skills</strong> Acrobatics +7, Athletics +9<br>
+<p><strong>Perception</strong> +12; darkvision, scent (imprecise) 30 feet</p>
+<p><strong>Languages</strong> Common; wolf empathy</p>
+<p><strong>Skills</strong> Acrobatics +7, Athletics +9</p>
+<p><strong>Str</strong> +5, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +2</p>
+<p><strong>Items</strong> battle axe, composite shortbow (20 arrows), studded leather armor</p>
+<p><strong>Wolf Empathy</strong> The werewolf can communicate with canine creatures.</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>20 (+5)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 20; <strong>Fort</strong> +14, <strong>Ref</strong> +12, <strong>Will</strong> +10</p>
+<p><strong>HP</strong> 101, regeneration 15 (deactivated by silver or void); <strong>Weaknesses</strong> silver 7</p>
+<p><strong>Regeneration 15</strong> (deactivated by silver or void) The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
+<p><strong>Curse of the Werewolf</strong> (curse, primal) This curse affects only humanoids; <strong>Saving Throw</strong> DC 19 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
+<p><strong>Moon Frenzy</strong> (polymorph, primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
+<p><strong>Pack Attack</strong> The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
 <hr>
-<strong>AC</strong> 20<br>
-<strong>HP</strong> 101<br>
-<strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10<br>
-<strong>Weaknesses</strong> silver 7<br>
-<strong>Speed</strong> 25 feet<br>
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
 <hr>
-<h3>Active Actions</h3>
-<p><strong>Melee</strong> ◆ battle axe +13 (sweep), <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Melee</strong> ◆ jaws +13, <strong>Damage</strong> 2d8+9 piercing plus curse of the werewolf</p>
-<p><strong>Ranged</strong> ◆ composite shortbow +11 (deadly d10, range increment 60 feet, reload 0), <strong>Damage</strong> 2d4+5 piercing</p>
-<p><strong>Change Shape</strong> ◆<br>
-The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.</p>
-<p>In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.</p>
-<p>In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
-<p><strong>Maul</strong> ◆<br>
-You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer. Make a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.</p>
-<p><strong>Failure</strong> The target becomes off-guard until the end of your current turn.</p>
-<p><strong>Reactive Strike</strong> ↻<br>
-<strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>
-<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
-<h3>Passive Abilities</h3>
-<p><strong>Curse of the Werewolf</strong> (curse, primal)<br>
-This curse affects only humanoids.<br>
-<strong>Saving Throw</strong> DC 19 Fortitude<br>
-On each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.</p>
-<p><strong>Moon Frenzy</strong> (polymorph, primal)<br>
-When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours.</p>
-<p><strong>Pack Attack</strong><br>
-The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies.</p>
-<p><strong>Regeneration 15</strong> (deactivated by silver or void)<br>
-The werewolf regains 15 HP at the start of its turn. If it takes silver or void damage, its regeneration deactivates until the start of its next turn.</p>
-<p><strong>Wolf Empathy</strong><br>
-The werewolf can communicate with canine creatures.</p>
-<h3>Inventory</h3>
-<ul>
-<li>Battle Axe</li>
-<li>Composite Shortbow</li>
-<li>Studded Leather Armor</li>
-<li>Arrows (20)</li>
-</ul>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span> <strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using; <strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>
+<p><strong>Change Shape</strong> <span class="action">▶</span> (concentrate, polymorph, primal) The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape. In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw. In animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.</p>
+<p><strong>Maul</strong> <span class="action">▶</span> The werewolf aims its weapon to snag a foe's armor, clothing, or flesh to pull them closer. The werewolf makes a melee Strike. If it hits a target that is its size or smaller, that creature is off-guard until the end of the werewolf's current turn, and the werewolf can move it 5 feet toward itself. When the werewolf moves the creature, it can move the same distance in the same direction as the target, even if adjacent to the target. This movement doesn't trigger reactions. On a failure, the target becomes off-guard until the end of the werewolf's current turn.</p>
 </div>
 
 In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.
@@ -886,62 +819,39 @@ Once he and the players are alone in his guest suite, Rictavio draws his sword-c
 <span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<h2>Rudolph Van Richten<span>Creature 10</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Human</span>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor)
-<br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
-<br>
-<strong>Speed</strong> 30 ft.
+<p><strong>Perception</strong> +21; (expert against undead and fiends)</p>
+<p><strong>Languages</strong> Abyssal, Common, Elven, Infernal</p>
+<p><strong>Skills</strong> Arcana +22, Deception +19, Insight +21, Intimidation +17, Medicine +21, Occultism +20, Religion +21, Society +20, Stealth +20, Thievery +18</p>
+<p><strong>Str</strong> +0, <strong>Dex</strong> +5, <strong>Con</strong> +1, <strong>Int</strong> +4, <strong>Wis</strong> +4, <strong>Cha</strong> +3</p>
+<p><strong>Monster Hunter</strong> Van Richten has spent decades hunting the undead and other creatures of darkness. He gains a +2 circumstance bonus to Recall Knowledge checks about undead, fiends, and aberrations, and can use Arcana, Medicine, Occultism, or Religion interchangeably for such checks. When facing undead or fiends, he gains a +2 circumstance bonus to Perception checks, saving throws, and skill checks.</p>
+<p><strong>Items</strong> <em>+1 striking silver rapier</em> (sword cane), <em>+1 striking silver hand crossbow</em> (20 bolts), <em>hat of disguise</em>, <em>ring of mind shielding</em>, leather armor, <em>charm bracelet</em> (functions as a <em>staff of divination</em>), <em>lucid lens</em> (functions as <em>goggles of night</em> with <em>detect magic</em> at will), healer's toolkit (expanded), silver stakes (6), holy water (4), wyvern poison (2), alchemist's fire (3)</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9 (–1)</td>
-      <td>14 (+2)</td>
-      <td>13 (+1)</td>
-      <td>19 (+4)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 28; <strong>Fort</strong> +17, <strong>Ref</strong> +20, <strong>Will</strong> +21</p>
+<p><strong>HP</strong> 140</p>
+<p><strong>Tactical Insight</strong> (aura, mental) 20 feet. Van Richten's extensive experience allows him to guide allies in combat. Any ally in the aura gains a +1 circumstance bonus to attack rolls against undead and fiends, and can use Van Richten's monster lore as if it were their own.</p>
+<p><strong>Ring of Mind Shielding</strong> Van Richten is immune to detect magic, mind reading, scrying, and similar divination effects targeting his thoughts or emotions.</p>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<p><strong>Speed</strong> 25 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> silver rapier +21 (deadly d8, disarm, finesse, magical), <strong>Damage</strong> 2d6+8 piercing</p>
+<p><strong>Melee</strong> <span class="action">▶</span> fist +20 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 1d4+8 bludgeoning</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> silver hand crossbow +21 (magical, range increment 60 feet, reload 1), <strong>Damage</strong> 2d6+5 piercing</p>
+<p><strong>Occult Innate Spells</strong> DC 27; <strong>4th</strong> <em>freedom of movement</em> (1/day); <strong>3rd</strong> <em>blindness</em> (1/day); <strong>2nd</strong> <em>see invisibility</em>, <em>status</em>; <strong>1st</strong> <em>detect alignment</em> (at will, evil only)</p>
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong>Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong>Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong>Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong>Hunter's Instinct</strong> <span class="action">↻</span> <strong>Trigger</strong> Van Richten rolls initiative; <strong>Effect</strong> Van Richten attempts to Recall Knowledge about one creature he can see, then Strides or Hides.</p>
+<p><strong>Uncanny Dodge</strong> <span class="action">↻</span> <strong>Trigger</strong> An attacker hits Van Richten with an attack and Van Richten can see the attacker; <strong>Effect</strong> Van Richten gains resistance 10 to all damage against the triggering attack.</p>
+<p><strong>Cunning Action</strong> <span class="action">▶</span> Van Richten takes the Stride, Hide, or Feint action.</p>
+<p><strong>Insightful Fighting</strong> <span class="action">▶</span> (concentrate) Van Richten studies a creature he can see within 30 feet, attempting a Perception check against that creature's Deception DC. On a success, Van Richten gains a +2 circumstance bonus to attack rolls against that creature and the creature becomes off-guard to Van Richten's attacks. On a critical success, the creature is also off-guard to Van Richten's allies. This effect lasts for 1 minute or until Van Richten uses Insightful Fighting again.</p>
+<p><strong>Master of Tactics</strong> <span class="action">▶</span> Van Richten coordinates an ally's attack. He designates one creature he can see and one ally who can see or hear him within 30 feet. Until the start of Van Richten's next turn, that ally gains a +2 circumstance bonus to attack rolls against the designated creature and deals an additional 2d6 precision damage on their first hit.</p>
+<p><strong>Monster Slayer Strike</strong> <span class="action">▶▶</span> <strong>Requirements</strong> Van Richten has successfully identified a creature using Recall Knowledge this encounter; <strong>Effect</strong> Van Richten Strikes a creature he has identified. The Strike deals an additional 3d6 precision damage, and if the target is undead or a fiend, it also deals an additional 2d6 vitality damage. Van Richten can use this ability once per round.</p>
+<p><strong>Quick Application</strong> <span class="action">▶</span> Van Richten Interacts to draw an alchemical item or poison, then Strikes with a weapon, applying the item to the weapon as part of the attack.</p>
+<p><strong>Sneak Attack</strong> Van Richten deals an additional 3d6 precision damage to off-guard creatures. Against undead, Van Richten doesn't need the target to be off-guard to deal this damage.</p>
+<p><strong>Strategic Assessment</strong> <span class="action">▶▶</span> Van Richten observes the battlefield and shares his insights. He attempts to Recall Knowledge about up to three creatures he can see. For each successful check, he can either share the information with an ally within 30 feet who can hear him (granting them the benefits of the Recall Knowledge) or identify a weak point (the creature becomes off-guard to the next attack made by Van Richten or an ally within 1 minute).</p>
 </div>
 
 Van Richten can share the following information:
@@ -1016,7 +926,7 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 >
 > This silver medallion bears intricate spiraling patterns that seem to catch echoes of whispered voices. The talisman has 4 charges, which replenish each day at dawn, gaining 1d4 charges.
 >
-> **Activate** [◆◆] command, Interact; **Frequency** 1 charge; **Effect** You cast [Peaceful Rest](https://2e.aonprd.com/Spells.aspx?ID=1625) at 2nd level.
+> **Activate** [▶▶] command, Interact; **Frequency** 1 charge; **Effect** You cast [Peaceful Rest](https://2e.aonprd.com/Spells.aspx?ID=1625) at 2nd level.
 >
 > **Activate** [10 minutes] command, Interact; **Frequency** 2 charges; **Effect** You cast [Talking Corpse](https://2e.aonprd.com/Spells.aspx?ID=1712) at 4th level. Unlike the normal spell, this effect can target a corpse If anyone has previously cast this spell on the corpse in the last week.
 >

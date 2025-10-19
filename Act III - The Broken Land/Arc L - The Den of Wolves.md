@@ -262,7 +262,7 @@ The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolve
 
  **[Wolves scaled to 3rd level](https://2e.aonprd.com/Monsters.aspx?ID=3241)** get the following attack:
 
-- ◆ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
+- ▶ **Maul** Wolfs tries to snag a foe's armor, clothing, or flesh to pull them closer.
   Wolf makes a melee Strike. If you hit a target that is your size or smaller, that creature is Off-Guard until the end of wolf's current turn, and wolf can move it 5 feet toward it. When wolf moves the creature, it can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
 
   This Strike has the following failure effect.
@@ -342,20 +342,20 @@ To sneak through this area without disturbing the wolves, the players must succe
 <strong>Fortitude</strong> +14, <strong>Reflex</strong> +12, <strong>Will</strong> +10
 <hr>
 <h3>Melee Attacks</h3>
-<p><strong>Battle Axe</strong> ◆ +13 [sweep], <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Claw</strong> ◆ +13 [agile], <strong>Damage</strong> 2d8+9 slashing</p>
-<p><strong>Jaws</strong> ◆ +13, <strong>Damage</strong> 2d8+9 piercing plus Curse of the Werewolf</p>
+<p><strong>Battle Axe</strong> ▶ +13 [sweep], <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Claw</strong> ▶ +13 [agile], <strong>Damage</strong> 2d8+9 slashing</p>
+<p><strong>Jaws</strong> ▶ +13, <strong>Damage</strong> 2d8+9 piercing plus Curse of the Werewolf</p>
 <h3>Ranged Attacks</h3>
-<p><strong>Composite Shortbow</strong> ◆ +11 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d4+5 piercing</p>
+<p><strong>Composite Shortbow</strong> ▶ +11 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d4+5 piercing</p>
 <hr>
 <h3>Active Abilities</h3>
-<p><strong>Change Shape</strong> ◆ (concentrate, polymorph, primal)<br>
+<p><strong>Change Shape</strong> ▶ (concentrate, polymorph, primal)<br>
 The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.<br>
 In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.<br>
 In animal shape, its Speed increases to 40 feet, it gains the knockdown effect on its jaws Strike, and it loses its weapon Strikes.</p>
 <p><strong>Reactive Strike</strong> ↻ <br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, the werewolf can make a melee Strike against that creature.</p>
-<p><strong>Maul</strong> ◆ (press)<br>
+<p><strong>Maul</strong> ▶ (press)<br>
 The werewolf aims to snag a foe's armor, clothing, or flesh to pull them closer. He makes a melee Strike, and if he hits a target that is his size or smaller, that creature is Off-Guard until the end of his current turn, and he can move it 5 feet toward him. When he moves the creature, he can move the same distance in the same direction as it, even if he's adjacent to the target. This movement doesn't trigger reactions.<br>
 <strong>Failure</strong> The target becomes off-guard until the end of the werewolf's current turn.</p>
 <hr>
@@ -398,29 +398,29 @@ When the moon sets or the sun rises, the werecreature returns to humanoid form a
 <strong>Fortitude</strong> +17, <strong>Reflex</strong> +15, <strong>Will</strong> +13
 <hr>
 <h3>Melee Attacks</h3>
-<p><strong>Battle Axe</strong> ◆ +14 [sweep], <strong>Damage</strong> 2d10+11 slashing</p>
-<p><strong>Claw</strong> ◆ +14 [agile], <strong>Damage</strong> 2d10+11 slashing</p>
-<p><strong>Jaws</strong> ◆ +14, <strong>Damage</strong> 2d10+11 piercing plus Curse of the Werewolf</p>
+<p><strong>Battle Axe</strong> ▶ +14 [sweep], <strong>Damage</strong> 2d10+11 slashing</p>
+<p><strong>Claw</strong> ▶ +14 [agile], <strong>Damage</strong> 2d10+11 slashing</p>
+<p><strong>Jaws</strong> ▶ +14, <strong>Damage</strong> 2d10+11 piercing plus Curse of the Werewolf</p>
 <h3>Ranged Attacks</h3>
-<p><strong>Composite Shortbow</strong> ◆ +12 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d6+6 piercing</p>
+<p><strong>Composite Shortbow</strong> ▶ +12 [deadly d10, range-increment-60, reload-0], <strong>Damage</strong> 2d6+6 piercing</p>
 <hr>
 <h3>Active Abilities</h3>
-<p><strong>Change Shape</strong> ◆ (concentrate, polymorph, primal)<br>
+<p><strong>Change Shape</strong> ▶ (concentrate, polymorph, primal)<br>
 The werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.<br>
 In humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.<br>
 In animal shape, its Speed increases to 40 feet, it gains the knockdown effect on its jaws Strike, and it loses its weapon Strikes.</p>
 <p><strong>Reactive Strike</strong> ↻ <br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, the werewolf can make a melee Strike against that creature.</p>
-<p><strong>Crushing Grip</strong> ◆ <br>
+<p><strong>Crushing Grip</strong> ▶ <br>
 The werewolf forces a creature it's grappling to succeed on a DC 25 Fortitude save. The creature takes 2d10+9 bludgeoning damage on a failure, and half as much damage on a success. A creature that critically fails the saving throw is also Stunned 1 until the end of its next turn.</p>
-<p><strong>Lob</strong> ◆◆ (frequency: once per round)<br>
+<p><strong>Lob</strong> ▶▶ (frequency: once per round)<br>
 <strong>Requirements</strong> The werewolf has a creature Grabbed<br>
 <strong>Effect</strong> The werewolf attempts to throw the creature he's holding. The werewolf attempts an Athletics check against the grabbed creature's Fortitude DC.<br>
 <strong>Critical Success</strong> The werewolf tosses his foe. The grab ends. The grabbed creature is thrown into a space within 10 feet, takes 2d8 bludgeoning damage, and falls Prone.<br>
 <strong>Success</strong> As critical success, except the grabbed creatures is thrown 5 feet, and creatures take 1d8 bludgeoning damage.<br>
 <strong>Failure</strong> The werewolf drops his foe prone. The grab ends.<br>
 <strong>Critical Failure</strong> The werewolf loses hold of his foe. The grab ends.</p>
-<p><strong>(Mythic) Mythic Athletics</strong> ◇<br>
+<p><strong>(Mythic) Mythic Athletics</strong> ▷<br>
 <strong>Cost</strong> 1 Mythic Point<br>
 <strong>Effect</strong> The creature attempts its next skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
 <hr>

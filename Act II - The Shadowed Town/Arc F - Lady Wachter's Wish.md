@@ -370,131 +370,77 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 > Unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
 
 <div class="statblock">
-<h2>Izek, 1st Form - Creature 8</h2>
-<em>Medium humanoid, lawful unholy</em>
+<h2>Izek Strazni<span>Creature 8</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Lawful</span>
+<span class="trait">Mythic</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +14<br>
-<strong>Languages</strong> Common<br>
-<strong>Skills</strong> Athletics +20, Intimidation +18, Medicine +15<br>
+<p><strong>Perception</strong> +14</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Athletics +20, Intimidation +18, Medicine +15</p>
+<p><strong>Str</strong> +6, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +3</p>
+<p><strong>Items</strong> greataxe (silver, low-grade), leather armor, Amber Shard</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>22 (+6)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>AC</strong> 26; <strong>Fort</strong> +17, <strong>Ref</strong> +14, <strong>Will</strong> +11</p>
+<p><strong>HP</strong> 145</p>
+<p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong>Second Phase</strong> When Izek is reduced to 0 hit points, he spends 1 mythic point and uses Mythic Ferocity, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <hr>
-<strong>AC</strong> 26<br>
-<strong>Saving Throws</strong> Fortitude +17, Reflex +14, Will +16<br>
-<strong>HP</strong> 145<br>
-<strong>Speed</strong> 25 feet<br>
+<p><strong>Speed</strong> 30 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> greataxe +20 (magical, sweep), <strong>Damage</strong> 2d12+11 slashing</p>
+<p><strong>Ranged</strong> <span class="action">▶</span> flame hurl +15 (range increment 30 feet), <strong>Damage</strong> 2d6+8 fire</p>
 <hr>
-<h3>Melee Attacks</h3>
-<p><strong>Greataxe (holds in one hand)</strong> ◆ +20 [magical, sweep], <strong>Damage</strong> 2d12+11 slashing</p>
-<h3>Range Attacks</h3>
-<p><strong>Flame Hurl</strong> ◆ +15 [magical, range-increment-30], <strong>Damage</strong> 2d6+8 fire</p>
-<h3>Active Abilities</h3>
-<p><strong>Intimidating Strike</strong> ◆◆ (emotion, fear, fighter, mental)<br>
-The executioner makes a melee Strike. If it hits and deals damage, the target is Frightened 1, or Frightened 2 on a critical hit.</p>
-<p><strong>Slicing Whirl</strong> ◆◆ (flourish)<br>
-Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to Trip against each enemy within melee reach. Each attempt counts toward Izek's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts. Additionally, enemies take 1d12+4 slashing damage if they fall prone.</p>
-<p><strong>Flame Volley</strong> ◆ (fire, unholy)<br>
-Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. that explodes in a 10-foot burst. Creatures in the burst take 2d6 fire damage (DC 26 basic Reflex save). The flame drake can't use Flame Volley again for 1d4 rounds.</p>
-<h3>Reactions and Free Actions</h3>
-<p><strong>Reactive Strike</strong> ↻<br>
-When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, Izek can make a melee Strike against that creature.</p>
-<p><strong>Forceful Retreat</strong> ↻<br>
-In response to taking damage from a melee attack, Izek makes a Shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong>Vengeful Strike</strong> ↻<br>
-In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
-<hr>
-<h3>Passive Abilities</h3>
-<p><strong>Multiple Reactions</strong><br>
-Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong>Second Phase</strong><br>
-When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-<hr>
-<h3>Inventory</h3>
-<ul>
-<li>Greataxe (silver, low-grade)</li>
-<li>Leather Armor</li>
-<li>Amber Shard</li>
-<li>A pouch with 66 gp</li>
-</ul>
+<p><strong>(Mythic) Mythic Ferocity</strong> <span class="action">▷</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Trigger</strong> Izek is reduced to 0 HP; <strong>Effect</strong> Izek avoids being knocked out and remains at half his maximum HP, but his wounded value increases by 1. When he is wounded 3, he can no longer use this ability.</p>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span></p>
+<p><strong>Vengeful Strike</strong> <span class="action">↻</span> <strong>Trigger</strong> Izek takes damage from an attack or spell; <strong>Effect</strong> Izek moves up to 15 feet toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<p><strong>Intimidating Strike</strong> <span class="action">▶▶</span> (emotion, fear, fighter, mental) Izek makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit.</p>
+<p><strong>Slicing Whirl</strong> <span class="action">▶▶</span> (flourish) Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to Trip against each enemy within melee reach. Each attempt counts toward Izek's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts. Additionally, enemies take 1d12+4 slashing damage if they fall prone.</p>
+<p><strong>I Am the Law!</strong> <span class="action">▶▶</span> (auditory, linguistic) Izek vows to bring down all the fury of Vallaki down upon their foes. Up to three lower-level allies within 60 feet of Izek can use their reaction to Grapple, Strike, or Trip with a +2 status bonus.</p>
+<p><strong>Condemn</strong> <span class="action">▶</span> (incapacitation, linguistic) Izek Demoralizes. On a success, the target is stunned with a value equal to its frightened condition.</p>
 </div>
 
 <div class="statblock">
-<h2>Izek, 2nd Form - Creature 8 - Mythic Brute?</h2>
-<em>Medium humanoid, lawful unholy</em>
+<h2>Izek Strazni, Enraged<span>Creature 8</span></h2>
+<span class="trait traitunique">Unique</span>
+<span class="trait traitsize">Medium</span>
+<span class="trait">Human</span>
+<span class="trait">Humanoid</span>
+<span class="trait">Lawful</span>
+<span class="trait">Mythic</span>
+<span class="trait">Unholy</span>
 <hr>
-<strong>Perception</strong> +14<br>
-<strong>Languages</strong> Common<br>
-<strong>Skills</strong> Athletics +20, Intimidation +18, Medicine +15<br>
+<p><strong>Perception</strong> +14</p>
+<p><strong>Languages</strong> Common</p>
+<p><strong>Skills</strong> Athletics +21 (extreme), Intimidation +18, Medicine +15</p>
+<p><strong>Str</strong> +6, <strong>Dex</strong> +3, <strong>Con</strong> +3, <strong>Int</strong> +0, <strong>Wis</strong> +3, <strong>Cha</strong> +3</p>
+<p><strong>Items</strong> leather armor, Amber Shard</p>
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>22 (+6)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>AC</strong> 26<br>
-<strong>Saving Throws</strong> Fort +17, Ref +14, Will +16<br>
-<strong>HP</strong> 145<br>
-<strong>Speed</strong> 25 feet<br>
-<hr>
-<h3>Melee Attacks</h3>
-<p><strong>Greataxe (holds in one hand)</strong> ◆ +20 [magical, sweep], <strong>Damage</strong> 2d12+11 slashing plus 1d6 fire</p>
-<p><strong>Burning Punch</strong> ◆ +20 [invested, magical, unarmed], <strong>Damage</strong> 2d4+6 bludgeoning plus 2d4 fire plus push</p>
-<h3>Active Abilities</h3>
-<p><strong>Explosive Blast</strong> ◆ A bright streak flashes from Izek's clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot burst centered on that point must make DC 26 basic Reflex save and take 3d6 fire damage. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. The flame drake can't use Flame Volley again for 1d4 rounds.</p>
-<p><strong>Flame Burst</strong> ◆◆ [flourish] Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make DC 26 basic Reflex save or take 2d6 fire damage.</p>
-<p><strong>Flaming Wave</strong> ◆◆ [arcane, electricity] A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. It can't use Flaming Wave again for 1d4 rounds.</p>
-<h3>Reactions and Free Actions</h3>
-<p><strong>Hot Pursuit</strong> ↻ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
-<p><strong>Reactive Strike</strong> ↻ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
-<p><strong>Retaliatory Burn</strong> ↻ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
-<h3>Passive Abilities</h3>
+<p><strong>AC</strong> 26; <strong>Fort</strong> +17, <strong>Ref</strong> +14, <strong>Will</strong> +11</p>
+<p><strong>HP</strong> 145; <strong>Resistances</strong> all damage 8 (except mythic)</p>
 <p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<h3>Inventory</h3>
-<ul>
-<li>Greataxe (silver, low-grade)</li>
-<li>Leather Armor</li>
-<li>Amber Shard</li>
-<li>A pouch with 66 gp</li>
-</ul>
+<p><strong>(Mythic) Brutish Athleticism</strong> Izek excels at rough-and-tumble activities. He always uses the extreme skill value for a creature of his level as his Athletics modifier.</p>
+<p><strong>(Mythic) Titanic Might</strong> Izek ignores size limitations when performing actions like Grapple or Trip.</p>
+<p><strong>(Mythic) Mythic Resistance</strong> Izek gains resistance to all Strikes made by non-mythic creatures equal to his level. Mythic weapons bypass this resistance even if the creature wielding them is not mythic.</p>
+<p><strong>(Mythic) Mythic Resilience (Fortitude)</strong> Izek treats his Fortitude saving throws as one degree of success better than he rolled. This is not cumulative with other effects that change his degree of success, like the incapacitation trait (except for rolling a natural 1 or 20).</p>
+<p><strong>(Mythic) Mythic Weakness (Weak-Willed)</strong> Izek is physically potent but not as mentally tough. He can't gain mythic resilience to Will saves.</p>
+<p><strong>Reactive Strike</strong> <span class="action">↻</span></p>
+<p><strong>Retaliatory Burn</strong> <span class="action">↻</span> (1/round) <strong>Trigger</strong> Izek takes damage from a melee attack made with a metal weapon; <strong>Effect</strong> Izek causes the object to glow red-hot until the start of his next turn, casting heat metal on it.</p>
+<hr>
+<p><strong>Speed</strong> 30 feet</p>
+<p><strong>Melee</strong> <span class="action">▶</span> greataxe +20 (magical, sweep), <strong>Damage</strong> 2d12+11 slashing plus 1d6 fire</p>
+<p><strong>Melee</strong> <span class="action">▶</span> burning punch +20 (invested, magical, unarmed), <strong>Damage</strong> 2d4+6 bludgeoning plus 2d4 fire plus Push</p>
+<p><strong>Divine Innate Spells</strong> DC 24; <strong>2nd</strong> heat metal (at will)</p>
+<hr>
+<p><strong>(Mythic) Mythic Ferocity</strong> <span class="action">↻</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Trigger</strong> Izek is reduced to 0 HP; <strong>Effect</strong> Izek avoids being knocked out and remains at half his maximum HP, but his wounded value increases by 1. When he is wounded 3, he can no longer use this ability.</p>
+<p><strong>(Mythic) Mythic Athletics</strong> <span class="action">▷</span> (1/day) <strong>Cost</strong> 1 Mythic Point; <strong>Effect</strong> Izek attempts his next skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>
+<p><strong>Push</strong> <span class="action">▶</span></p>
+<p><strong>Burning Punch Critical</strong> On a critical hit, the target must also succeed on a DC 26 Fortitude save or be stunned 1 until the start of Izek's next turn.</p>
+<p><strong>Explosive Blast</strong> <span class="action">▶</span> (fire, unholy) A bright streak flashes from Izek's clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot burst centered on that point must make a DC 26 basic Reflex save and take 3d6 fire damage. A target that fails the save is also knocked prone. The fire spreads around corners and ignites flammable objects in the area that aren't being worn or carried. Izek can't use Explosive Blast again for 1d4 rounds.</p>
+<p><strong>Flaming Wave</strong> <span class="action">▶▶</span> (arcane, electricity) A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. Izek can't use Flaming Wave again for 1d4 rounds.</p>
 </div>
 
 
@@ -509,6 +455,8 @@ If the players loot Izek’s body following his death, they can recover his silv
 
 # F5. Aftermath of the Mission
 If the players successfully deliver Izek’s severed head to [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
+
+<div class="statblock"> <h2>Cult Fanatic<span>Creature 2</span></h2> <span class="trait traitsize">Medium</span> <span class="trait">Humanoid</span> <span class="trait">Human</span> <hr> <p><strong>Perception</strong> +10</p> <p><strong>Languages</strong> Common</p> <p><strong>Skills</strong> Deception +10, Diplomacy +8, Occultism +7, Performance +8, Religion +10, Stealth +7</p> <p><strong>Str</strong> +2, <strong>Dex</strong> +1, <strong>Con</strong> +0, <strong>Int</strong> +1, <strong>Wis</strong> +3, <strong>Cha</strong> +4</p> <p><strong>Items</strong> religious text (Teachings of Ezra), dagger, gray robes, censer of incense, pouch of silver coins</p> <hr> <p><strong>AC</strong> 17; <strong>Fort</strong> +8, <strong>Ref</strong> +7, <strong>Will</strong> +11</p> <p><strong>HP</strong> 25</p> <p><strong>Voice of the Mists</strong> When the cult fanatic succeeds at a Deception check to Lie or Create a Diversion, creatures who fail against the check also become off-guard against the cult fanatic until the start of the cult fanatic's next turn, as swirling mists seem to obscure their vision.</p> <hr> <p><strong>Speed</strong> 25 feet</p> <p><strong>Melee</strong> <span class="action">▶</span> dagger +8 (agile, finesse, versatile S), <strong>Damage</strong> 1d4+2 piercing</p> <p><strong>Melee</strong> <span class="action">▶</span> fist +8 (agile, finesse, nonlethal, unarmed), <strong>Damage</strong> 1d4+2 bludgeoning</p> <p><strong>Ranged</strong> <span class="action">▶</span> dagger +7 (agile, thrown 10 feet, versatile S), <strong>Damage</strong> 1d4+2 piercing</p> <p><strong>Divine Prepared Spells</strong> DC 18, attack +10; <strong>1st</strong> illusory disguise, harm, sanctuary, command; <strong>Cantrips (1st)</strong> daze, detect magic, forbidding ward, guidance, read aura</p> <p><strong>Cleric Domain Spells</strong> DC 18, 1 Focus Point; <strong>1st</strong> veil of confidence</p> <hr> <p><strong>Preach Despair</strong> <span class="action">▶▶</span> (auditory, emotion, linguistic, mental) The cult fanatic speaks of the futility of resistance and the eternal nature of suffering. Each creature of the cult fanatic's choice within 30 feet who can hear and understand them must attempt a DC 18 Will save. The cult fanatic can choose to exclude any number of creatures from this effect.</p> <ul> <li><strong>Critical Success</strong> The creature is unaffected and becomes temporarily immune to Preach Despair for 1 hour.</li> <li><strong>Success</strong> The creature takes 2d6 mental damage.</li> <li><strong>Failure</strong> The creature takes 4d6 mental damage and becomes frightened 1.</li> <li><strong>Critical Failure</strong> The creature takes 4d6 mental damage, becomes frightened 2, and is slowed 1 for 1 round as crushing hopelessness overwhelms them.</li> </ul> </div>
 
 > [!abstract]+ **The Transfer of Power**
 >
