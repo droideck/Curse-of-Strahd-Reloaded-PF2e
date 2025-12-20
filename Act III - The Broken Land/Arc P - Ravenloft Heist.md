@@ -1149,7 +1149,7 @@ This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</s
 > - **Five Players**. Apply Elite template to two spiders.
 > - **Six Players**. Apply Elite template to all spiders.
 
-This area is largely as described in <span class="citation">K40. Belfry (p. 67)</span>. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
+This area is largely as described in <span class="citation">K40. Belfry (p. 67)</span>. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player who succeeds on  DC 24 Perception check notices that the dust and webbing around the secret door have recently been disturbed.
 ## P7d. Treasury
 <span class="citation"><em>This scene takes place in Chapter 4, Area K41.</em></span>
 ### Entering the Tower

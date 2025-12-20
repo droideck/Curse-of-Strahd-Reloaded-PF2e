@@ -24,6 +24,17 @@ The church's occupants follow the following schedule unless interrupted:
 * In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
 * In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
 
+> [!info]+ **Investigation Subsystem**
+> This arc uses **Investigation Points (IP)** to track the players' progress in uncovering the truth behind the stolen bones. As the players gather clues and interview witnesses, they accumulate IP that represents how much evidence they've collected.
+>
+> **How It Works:**
+> - Players earn IP by successfully investigating scenes and talking to witnesses
+> - The more IP accumulated, the easier it becomes to confront suspects
+> - Critical successes on investigation checks can yield bonus IP
+> - Critical failures may reveal misleading information that costs IP
+>
+> The players don't need to track the exact number—the GM will inform them when they've gathered enough evidence to confront a suspect with confidence.
+
 > [!profile]+ **Profile: Father Lucian Petrovich**
 >
 > **Roleplaying Information**
@@ -168,21 +179,43 @@ The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)<
 
 The slab held the bones until Milivoj stole them.
 
-The players can find the following information by investigating the area around the crypt:
+> [!info]+ **Investigating the Crime Scene**
+> The players can search for clues at the crime scene for 1 hour. Each player may attempt one DC 19 Perception check to Search the area. Track the party's total **Investigation Points (IP)** based on the results:
+>
+> | Result | IP Gained | Outcome |
+> |--------|-----------|---------|
+> | Critical Success | +2 IP | Player finds two clues |
+> | Success | +1 IP | Player finds a clue |
+> | Failure | +0 IP | Player finds nothing of note |
+> | Critical Failure | -1 IP | Player finds a misleading clue |
+>
+> The party can accumulate a maximum of **3 IP** from the crime scene investigation (plus 1 IP from interviewing Yeska, for a maximum total of 4 IP).
 
-* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 19 Perception check to Search, and a line of rust-stained dirt smeared across a floorboard on a critical success.
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 14 Perception check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals.
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 19 Perception check.
+**On a Success or Critical Success**, the player discovers the following clues:
 
-The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
+* **Floorboards:** A torn piece of gray wool fabric snagged on a nail, and a line of rust-stained dirt smeared across a floorboard. (The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.)
+* **Crypt Interior:** Several clumps of earth in the shape of large bootprints, containing several blades of pale green grass and white flower petals. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
+* **Altar Area:** A few strands of dark black hair caught on a splinter. (The hair is Milivoj's.)
 
-The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
+**On a Critical Failure**, the player finds one of the following misleading clues (choose one that hasn't been found yet):
 
-The hair is Milivoj's.
+* A small brass button that appears foreign in design. (This is actually an old button lost by a congregant months ago, unrelated to the theft.)
+* Faint scratches on the stone that could be interpreted as claw marks. (These are actually old damage from when the crypt was first constructed.)
+* A smudge of what appears to be face paint or makeup. (This is actually candle wax that dripped from the altar during a service.)
+
+If a player finds a misleading clue, Father Lucian expresses doubt about such conclusions so the players know it's a false lead.
+
+> [!abstract]+ **Tracking Investigation Points**
+> Keep a running tally of the party's IP. After the crime scene investigation:
+> - **0-2 IP:** The players have gathered little concrete evidence
+> - **3 IP:** The players have gathered sufficient evidence to confront Milivoj
 ## D1d. Interviewing Yeska
 If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
 
 If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
+
+> [!info]+ **Yeska's Information**
+> If the players successfully learn from Yeska that Milivoj was present when Father Lucian discussed the bones' location, they automatically gain **+2 Investigation Points**. This represents a crucial piece of testimony that establishes Milivoj's opportunity and potential motive.
 
 ![[Yeska.png]]
 <span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -238,7 +271,20 @@ If the players inform Milivoj that they want to speak with him about St. Andral�
 
 Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 12 Perception check to Sense Motive reveals that he is speaking slightly too quickly.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 21 Intimidation check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+> [!info]+ **Confronting Milivoj**
+> The DC to get Milivoj to admit to stealing the bones depends on how much evidence the players have gathered:
+>
+> | Investigation Points | DC to Confront |
+> |---------------------|----------------|
+> | 0-2 IP | DC 21 (Intimidation, Diplomacy, or Deception) |
+> | 3 IP | DC 19 (Intimidation, Diplomacy, or Deception) |
+> | 4+ IP | Automatic success—the evidence is overwhelming |
+>
+> If the players confront Milivoj with specific physical evidence from the crypt (the torn fabric matching his shirt, the black hair, or the boot prints with ramson petals from the graveyard), they gain a +2 circumstance bonus to their check.
+>
+> On a success, Milivoj admits to stealing the bones, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+
+Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
 If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 

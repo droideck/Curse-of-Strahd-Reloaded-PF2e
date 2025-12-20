@@ -302,7 +302,7 @@ The players can attempt to plant the poisoned bottle of wine in Izek’s case of
 ***Sneaking Into the Kitchen.*** If the players choose to swap the bottles in the burgomaster’s mansion, Tereska’s schedule unfolds as follows:
 
 * **12:00 P.M.** Tereska retrieves two bottles of Purple Grapemash No. 3 wine from the pantry and places them on the counter in the kitchen beside an empty leather wine case.
-* **12:15 P.M.** Tereska places the two bottles of wine into the wine case, beginning with the bottle closest to the case. (If the players have replaced one of the bottles with the poisoned bottle, which is labeled Red Dragon Crush, Tereska regards it with surprise and makes a cursory Wisdom (Perception) check to discern whether anyone else is in or around the kitchen. If she sees no one, she chides herself for forgetfulness and assumes that the bottle was labeled Red Dragon Crush all along.)
+* **12:15 P.M.** Tereska places the two bottles of wine into the wine case, beginning with the bottle closest to the case. (If the players have replaced one of the bottles with the poisoned bottle, which is labeled Red Dragon Crush, Tereska regards it with surprise and makes a cursory Perception check to discern whether anyone else is in or around the kitchen. If she sees no one, she chides herself for forgetfulness and assumes that the bottle was labeled Red Dragon Crush all along.)
 * **12:45 P.M.** After preparing and packing Izek’s midday meal, Tereska takes the leather wine case and walks it to the Vallaki town square, where she delivers it to Izek.
 
 Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (She is too suspicious of strangers and too fearful of Izek to risk disappointing him.)

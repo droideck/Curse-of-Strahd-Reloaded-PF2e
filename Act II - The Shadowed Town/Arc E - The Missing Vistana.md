@@ -82,7 +82,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. He is a [Toymaker](https://2e.aonprd.com/NPCs.aspx?ID=3460). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 18 Diplomacy or Intimidation check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
@@ -739,7 +739,7 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > * ***Five Players.*** Apply the Elite template to Zsolt.
 > * ***Six Players.*** Apply the Elite template to both of them.
 
-Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
+Use the statblock below for the **werewolves**, rather than the one in the *Monster Core.*
 
 <div class="statblock">
 <h2>Werewolf<span>Creature 5</span></h2>

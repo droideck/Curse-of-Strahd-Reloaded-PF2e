@@ -30,7 +30,7 @@ As the players travel, read:
 <div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
 <p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+If any players succeed on a DC 19 Perception, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
 The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
@@ -868,7 +868,7 @@ If the players remain silent or continue ahead, read:
 
 The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill.
 
-As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply Elite template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
+As the windmill comes into view, the players also notice **Morgantha** ([Night Hag scaled down to Level 6](https://2e.aonprd.com/Monsters.aspx?ID=257) - but apply **Elite** template as of now. Bore detailed on her and the coven are in [[Arc H - The Lost Soul#I3b. Franz’s Tent]]) approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -958,9 +958,9 @@ The werewolves don't attack immediately, preferring to wait for the perfect time
 <div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
 <p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative.
 
-Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
+Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Core*:
 
 
 <div class="statblock">
@@ -1003,6 +1003,8 @@ A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t
 If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction.
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
+
+Instead of making **raven swarms** fight, let them lift players out of danger (for example, when they're in Reactive Strike range). This would make initiative faster while giving the ravens more utility in difficult fights. Two **raven swarms** can lift and carry one Medium creature with a half speed if they act together.
 
 > [!combat]- **Balancing the Werewolves**
 > This combat encounter is a **Extreme** encounter against a party of four 4th-level players, a 2nd-level ally (Ireena Kolyana), and a 4th level ally (Muriel in raven form) and two 1st level allies (raven swarms). For parties of smaller or larger sizes, modify the encounter as follows:
