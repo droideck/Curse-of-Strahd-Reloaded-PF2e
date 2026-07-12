@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "workflow_version": 2,
+  "project": "Curse of Strahd: Reloaded",
+  "source_language": "en",
+  "target_language": "ru",
+  "source_ref_at_init": "990da1308c1e5ac9f8627048b7f8606c960f3841",
+  "source_commit": "990da1308c1e5ac9f8627048b7f8606c960f3841",
+  "edition": {
+    "system": "D&D 5e",
+    "baseline": "2014 rules",
+    "exceptions": "explicitly cited 2024 elements and Reloaded homebrew only",
+    "forbid_implicit_conversion": true
+  },
+  "protected_branches": [
+    "main",
+    "master",
+    "pf2e-changes",
+    "translate-rus-5e"
+  ],
+  "sealed_support_hashes": {
+    ".agents": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills/translate-cos-reloaded-ru": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills/translate-cos-reloaded-ru/SKILL.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "96700170ca37a047fb8b0ba8169604e3d217dd65aecaea02bf201dd036771552"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/agents": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills/translate-cos-reloaded-ru/agents/openai.yaml": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "4453edcfef37ca8fa61568b1618b0977c5f48597ce69664d92067da21ef4bed9"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references/agent-workflow.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "b7761b5ddb7617d7e7d789a0b639cb9fac57dc7701a4122e31bbccb2a52fa807"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references/review-rubric.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "f8309d7c1c6a561bbf9aec650771fd642df8978715ac883ddedfe0218e26cbe9"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references/russian-prose-quality.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "374240989d0ae4f070c283452b65dcfc473386b013d07af7a52f01b98942718d"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references/style-and-translation-standard.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "9572adcbee49cc7fddf13cf49083e345446d13269a1d3e1e2ef29deb06418185"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/references/technical-contract.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "d94661966cf27e02c4a51ddcaacee91ff160d41074813ce69e016a0df8375a73"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/scripts": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".agents/skills/translate-cos-reloaded-ru/scripts/test_translation_workflow.py": {
+      "type": "regular",
+      "mode": "0755",
+      "sha256": "f656d90dd0b12f6930cd2c36f201cb486ea5f52c8d3bda6d6d85af44851d1583"
+    },
+    ".agents/skills/translate-cos-reloaded-ru/scripts/translation_workflow.py": {
+      "type": "regular",
+      "mode": "0755",
+      "sha256": "fbde52659593d902a56f42ed2d1ea0423f5afd1ab50cea6d8d731fc556e2a2d3"
+    },
+    ".gitignore": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "047842c9c45e5640d538fae0e1b990b6070f651296ec659275dbf147d2bfa4fa"
+    },
+    ".translation": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".translation/ru": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    ".translation/ru/visual-assets.json": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "7b94dd420ea611af19d16d4ea7e324f91198218e72f3b33df76574cb8ebf36b0"
+    },
+    "cos-translation-skill-stuff": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    "cos-translation-skill-stuff/references": {
+      "type": "directory",
+      "mode": "0755",
+      "sha256": ""
+    },
+    "cos-translation-skill-stuff/references/common-kalkas.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "c8c4e26bb94d48e5b7a84e27a8d9d64dfa9b4eefaa75ef78e8f1b749e2dd30fd"
+    },
+    "cos-translation-skill-stuff/references/cos-glossary.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "56d80802c2ebea0f96b1172e0e84cc45197e44d5834deec4d5c4711f2941c6e1"
+    },
+    "cos-translation-skill-stuff/references/gothic-vocabulary.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "db77a93de63fb35ab30b90600e27c6c08c645b53b5965c625d29427dc954849a"
+    },
+    "cos-translation-skill-stuff/references/style-guide.md": {
+      "type": "regular",
+      "mode": "0644",
+      "sha256": "f94fd8cc537fc1237eb3f9f48d36845e6960ff0e5f7c4bba40c6720ad849a3c7"
+    }
+  },
+  "workflow_seal_history": [
+    {
+      "sealed_at": "2026-07-12T03:44:32+00:00",
+      "reason": "initial workflow initialization",
+      "branch": "codex/russian-translation-workflow"
+    },
+    {
+      "sealed_at": "2026-07-12T16:19:17+00:00",
+      "reason": "reviewed Russian prose quality, legacy-reference salvage, and hardened style-review lifecycle",
+      "branch": "translate-5e"
+    }
+  ],
+  "required_review_roles": [
+    "fidelity",
+    "russian-style"
+  ],
+  "minimum_review_score": 90,
+  "maximum_segment_words": 2200,
+  "minimum_cyrillic_letter_ratio": 0.35,
+  "yaml_translatable_keys": [
+    "description",
+    "keywords",
+    "title",
+    "aliases"
+  ],
+  "content_roots": [
+    "Introduction/",
+    "Chapter 1 - Beginning the Campaign/",
+    "Chapter 2 - The Land of Barovia/",
+    "Chapter 3 - Running the Game/",
+    "Act I - Into the Mists/",
+    "Act II - The Shadowed Town/",
+    "Act III - The Broken Land/",
+    "Act IV - Secrets of the Ancient/",
+    "Appendices/",
+    "_other/templates/"
+  ],
+  "created_at": "2026-07-12T03:44:32+00:00"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Translate CoS Reloaded to Russian"
+  short_description: "Professional arc-by-arc Russian localization"
+  default_prompt: "Use $translate-cos-reloaded-ru to translate the next adventure unit into Russian and pass every review gate."
